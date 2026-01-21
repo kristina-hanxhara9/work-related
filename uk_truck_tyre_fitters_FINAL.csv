@@ -1,0 +1,77 @@
+name,website,website_verified,phone,email,services,size_category,estimated_employees,revenue_estimate,revenue_low,revenue_high,confidence_score,company_number,address,date_created,source
+Tyrenet,https://tyrenet.net/,True,0798961579,service@tyrenet.net,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Tructyre ATS,https://www.tructyre.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Bandvulc,https://www.bandvulc.co.uk/,True,03921568627,,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Bush Tyres,https://www.bushtyres.co.uk/,True,08001383455,attleborough@bushtyres.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Kirkby Tyres,https://www.kirkbytyres.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Stapleton's Tyre Services,https://www.stapleton-tyres.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Michelin Truck UK,https://business.michelin.co.uk/,True,05523534366,,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Bridgestone Commercial UK,https://www.bridgestone.co.uk/,True,026465167521,,"24 Hour Service, Mobile Fitting, Fleet Services, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Continental Truck UK,https://www.continental-tyres.co.uk/,True,05577696917,,"24 Hour Service, Mobile Fitting, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Goodyear Truck UK,https://www.goodyear.eu/en_gb/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Pirelli Commercial UK,https://www.pirelli.com/tyres/en-gb/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Hankook Truck UK,https://www.hankooktire.com/uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+247 Mobile Truck Tyres,https://www.247mobiletrucktyres.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Fleet Tyre Group,https://www.fleet-tyres.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Kingsway Tyres,https://www.kingswaytyres.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Lodge Tyre,https://www.lodgetyre.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Northern Commercials,https://www.northerncommercials.co.uk/,True,08003523077,office@northerncommercials.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+McConechy Tyres,https://www.mcconechys.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Truck Tyre Specialists (TTS),https://www.trucktyrespecialists.co.uk/,True,01934 622626,,"24 Hour Service, Mobile Fitting, Fleet Services, Retreading",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Big Tyres,https://www.bigtyres.co.uk/,True,0115 994 0900,,"24 Hour Service, Mobile Fitting",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Vacu-Lug Traction Tyres,https://www.vaculug.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Bond International,https://www.bondinternational.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Tyre Assist 365,https://www.tyreassist365.com/,True,03332 407592,,"24 Hour Service, Mobile Fitting, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Roadstar Tyres,https://www.roadstartyres.com/,True,03921568627,,"24 Hour Service, Mobile Fitting, Fleet Services",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,,,,Verified Manual Entry
+Tyres247,https://www.tyres247.uk/,True,07463 664769,sales@tyres247.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,,,,Verified Manual Entry
+TRUCK TYRE SOLUTIONS LTD,https://www.trucktyresolutions.co.uk,True,0121 716 8569,itsupport@trucktyresolutions.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Medium,15-50,£1.0M - £5.0M,1000000,5000000,75,05733614,"Station Road, Rowley Regis, W Midlands, United Kingdom, B65 0LJ",2006-03-07,Companies House
+TRUCK TYRES 2 U LTD,https://www.trucktyres2u.co.uk,True,097560975609,,"24 Hour Service, Fleet Services",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,12781618,"C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, United Kingdom, CW11 4NE",2020-07-30,Companies House
+TRUCK TYRES UK LIMITED,https://www.trucktyresuk.com,True,07831289222,ts2000ltd@aol.com,"24 Hour Service, Mobile Fitting, Fleet Services",Medium,15-50,£1.0M - £5.0M,1000000,5000000,65,SC644925,"Blue Square Offices Ltd, Bath Street, Glasgow, Scotland, G2 4JR",2019-10-21,Companies House
+COMMERCIAL TYRE SOLUTIONS LTD,https://www.commercial-tyre-solutions.co.uk,True,03872045548,info@commercial-tyre-solutions.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,15143167,"71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",2023-09-17,Companies House
+Colway Tyres,https://www.colway.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Mobile Tyre Fitting UK,https://www.mobiletyrefittinguk.co.uk/,True,0808 281 5669,,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Essex Tyre Fitters,https://www.essextyrefitters.co.uk/,True,07858 724 854,info@mobiletyresessex.co.uk,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
+Mid Beds Tyres,https://www.midbedstyres.co.uk/,True,07860 409600,,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
+CTS Bristol,https://www.ctsbristolltd.com/,True,0800 156 0059,info@ctsbristolltd.com,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Manchester Truck Tyres,https://www.manchestertrucktyres.co.uk/,True,0161 205 1362,,"24 Hour Service, Mobile Fitting, Fleet Services",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+A2 Tyres,https://www.a2tyres.co.uk/,True,01795 475200,,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
+South West Tyre Services,https://www.southwesttyreservices.co.uk/,True,,,"24 Hour Service, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,25,,,,Verified Manual Entry
+Truck Tyre Wholesalers,https://www.trucktyrewholesaler.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+TRUCK TYRES DIRECT LIMITED,https://www.trucktyresdirect.co.uk,True,01933 623955,,"24 Hour Service, Mobile Fitting, Retreading",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,15105571,"24 Dalkeith Place, Kettering, England, NN16 0BS",2023-08-30,Companies House
+TRUCK TYRES NATIONAL LTD,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,25,16707059,"Unit 389 275 New North Road, Islington, London, United Kingdom, N1 7AA",2025-09-10,Companies House
+ANGLIA TRUCK TYRE MANAGEMENT LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,04183442,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",2001-03-20,Companies House
+T.T.S. TRUCK TYRE SPECIALISTS LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,01379569,"Truck Tyre Specialists Warne Road, Winterstoke Commercial Centre, Weston-Super-Mare, England, BS23 3UU",1978-07-20,Companies House
+BARTON COMMERCIAL TYRES LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,02039874,"Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",1986-07-23,Companies House
+P.A. RISK COMMERCIAL TYRE SERVICES LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,04486928,"12 Station Court, Station Approach, Wickford, Essex, SS11 7AT",2002-07-16,Companies House
+FLEET TYRE NETWORK LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,45,07888473,"Micheldever Station, Winchester, Hampshire, SO21 3AP",2011-12-21,Companies House
+2U Tyres,https://www.2utyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+TRUCK TYRE FLEET SERVICES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16262244,"1 Thorncliffe View, Leek, England, ST13 6QB",2025-02-19,Companies House
+TRUCK TYRES 4 U LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,15543670,"121 Lark Lane, Liverpool, England, L17 8UR",2024-03-06,Companies House
+TRUCK TYRES (LONDON) LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,05853394,"167 Turners Hill, Cheshunt, Hertfordshire, EN8 9BH",2006-06-21,Companies House
+TRUCK TYRES ONLINE LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16049229,"Booth Street Chambers, 32 Booth Street, Ashton-Under-Lyne, Lancashire, England, OL6 7LQ",2024-10-29,Companies House
+TRUCK TYRE SUPPLIES UK LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,10,11032022,"St Thomas House, 83 Wolverhampton Road, Cannock, Staffordshire, United Kingdom, WS11 1AR",2017-10-25,Companies House
+ANGLIAN TRUCK TYRE MANAGEMENT CAMBS LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16141864,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",2024-12-18,Companies House
+ANGLIAN TRUCK TYRE MANAGEMENT NORWICH LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16141882,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",2024-12-18,Companies House
+ANGLIAN TRUCK TYRE MANAGEMENT SOUTH LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,10,13046940,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",2020-11-27,Companies House
+A2 TRUCK TYRE LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,10,11261015,"Thames House, Roman Square, Sittingbourne, Kent, United Kingdom, ME10 4BJ",2018-03-19,Companies House
+BARON TRUCK TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,06833810,"Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, United Kingdom, YO30 4XF",2009-03-02,Companies House
+BIRMINGHAM TRUCK TYRE LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,08481309,"Kent Space, Suite 2026 6-8 Revenge Road, Chatham, England, ME5 8UD",2013-04-09,Companies House
+CAR VAN TRUCK TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,08035616,"29 Whitegate Drive Whitegate Drive, Blackpool, England, FY3 9AA",2012-04-18,Companies House
+DRS MOBILE TRUCK TYRES SERVICE LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16139729,"62 Walbrook Road, Derby, England, DE23 8RY",2024-12-17,Companies House
+HARRY'S TRUCK TYRES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16009864,"200 Knolton Way, Slough, Berkshire, United Kingdom, SL2 5RS",2024-10-10,Companies House
+SYLLA TRUCK TYRES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,13847848,"Flat 69 Kelvedon House, Guildford Road, London, England, SW8 2DW",2022-01-13,Companies House
+TA9 TRUCK TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16043526,"Goodwood House, Blackbrook Park Avenue, Taunton, Somerset, United Kingdom, TA1 2PX",2024-10-28,Companies House
+247 TRUCK TYRES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16948484,"599 London Road, Reading, United Kingdom, RG6 1AT",2026-01-07,Companies House
+COMMERCIAL TYRES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,10,10615294,"Vantage Quay, 5 Brewer Street, Manchester, England, M1 2ER",2017-02-13,Companies House
+COMMERCIAL TYRE SERVICES (BRISTOL) LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,10,11334504,"Unit 5 Willment Way, Bristol, England, BS11 8DJ",2018-04-28,Companies House
+COMMERCIAL TYRES OFF HIGHWAY LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,08555956,"Tructyre House Princesway North, Team Valley, Gateshead, England, NE11 0NF",2013-06-04,Companies House
+COMMERCIAL TYRE SUPPLIES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,07754686,"6a Cissplatt Lane,, Keelby,, DN41 8HU",2011-08-26,Companies House
+AM COMMERCIAL TYRE’S LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,SC846604,"5 Cables Wynd House, Edinburgh, Scotland, EH6 6DF",2025-04-28,Companies House
+ASHFORD COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,07322542,"57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",2010-07-22,Companies House
+FAST FIT COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,15947304,"6 St. Georges Square, Portsmouth, England, PO1 3EY",2024-09-10,Companies House
+J.S COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16100479,"23 Turnberry Court Bentley, Doncaster, South Yorkshire, England, DN5 0UL",2024-11-25,Companies House
+WESSEX COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,06686704,"139 Engineer Road, West Wilts Trading Estate, Westbury, Wiltshire, England, BA13 4JW",2008-09-02,Companies House
+C & G MOBILE TRUCK AND TRAILER REPAIRS LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,10,11626516,"35 Kenilworth Drive, Padgate, Warrington, England, WA1 3JT",2018-10-16,Companies House
+MOBILE TRUCK & COACH REPAIRS LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,15843978,"1st Floor, The Smithyside, 7 Bell Villas, Ponteland, Newcastle Upon Tyne, United Kingdom, NE20 9BD",2024-07-17,Companies House
+MOBILE TRUCK & TRAILER LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,05743475,"C/O Stem Accountants Limited, Office 1, The Hive St. James Square, Grimsby, North East Lincolnshire, United Kingdom, DN31 1EP",2006-03-15,Companies House
+FLEET TYRES DIRECT LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,09289284,"Unit 55 Brunel Road, Bedford, MK41 9TJ",2014-10-31,Companies House
