@@ -1,0 +1,63 @@
+name,website,website_verified,phone,email,size,employees,revenue_estimate,revenue_low,revenue_high,revenue_indicators,type,services,address,company_number,source
+Kwik Fit,https://www.kwik-fit.com/,True,01342314111,customercare@kwik-fit.com,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",National Network,"24hr, Mobile, Fleet, Emergency",,,Verified Website
+Halfords Autocentres,https://www.halfords.com/,True,,,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",National Network,"24hr, Mobile, Fleet, Emergency",,,Verified Website
+Bandvulc,https://www.bandvulc.co.uk/,True,01960784314,,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",National Retreader,"24hr, Mobile, Fleet, Emergency",,,Verified Website
+Bush Tyres,https://www.bushtyres.co.uk/,True,08001383455,attleborough@bushtyres.co.uk,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",Regional Network,"24hr, Mobile, Fleet",,,Verified Website
+Watling Tyres,https://watlingtyres.co.uk/,True,01233359050,contact@watlingtyres.co.uk,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",Regional Network,"24hr, Mobile, Fleet, Emergency",,,Verified Website
+Hometyre,https://www.hometyre.co.uk/,True,0333 444 5454,,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",National Mobile,"24hr, Mobile, Fleet",,,Verified Website
+Micheldever Tyres,https://www.micheldever.co.uk/,True,01962388258,,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",Wholesaler,"24hr, Mobile, Fleet",,,Verified Website
+Michelin UK,https://www.michelin.co.uk/,True,08000318802,,Large,50-200+,£5M - £50M+,5000000,50000000,"National, 24hr, Fleet",Manufacturer,"24hr, Mobile, Fleet, Emergency",,,Verified Website
+Bridgestone UK,https://www.bridgestone.co.uk/,True,02646516752,,Large,50-200+,£5M - £50M+,5000000,50000000,"National, Fleet",Manufacturer,Fleet,,,Verified Website
+Pirelli UK,https://www.pirelli.com/tyres/en-gb/car/homepage,True,01839374-833,,Large,50-200+,£5M - £50M+,5000000,50000000,"National, 24hr, Fleet",Manufacturer,"24hr, Fleet",,,Verified Website
+Hankook UK,https://www.hankooktire.com/uk/en/home.html,True,02843339810,,Large,50-200+,£5M - £50M+,5000000,50000000,"National, 24hr",Manufacturer,24hr,,,Verified Website
+Falken UK,https://www.falkentyre.com/en,True,,cs.@article.teaser.image,Large,50-200+,£5M - £50M+,5000000,50000000,"National, 24hr",Manufacturer,24hr,,,Verified Website
+Tyrenet,https://tyrenet.net/,True,0330 912 1903,service@tyrenet.net,Large,50-200+,£5M - £50M+,5000000,50000000,"24hr, Fleet",Mobile Network,"24hr, Mobile, Fleet, Emergency",,,Verified Website
+ATS Euromaster,https://www.atseuromaster.co.uk/,True,0370 066 3621,customer.relationship@euromaster.com,Medium,15-50,£1M - £5M,1000000,5000000,24hr,National Network,"24hr, Mobile",,,Verified Website
+National Tyres,https://www.national.co.uk/,True,,,Medium,15-50,£1M - £5M,1000000,5000000,National,National Network,Mobile,,,Verified Website
+Tructyre,https://www.tructyre.co.uk/,True,012455062012,,Medium,15-50,£1M - £5M,1000000,5000000,Fleet,National Truck,"Fleet, Emergency",,,Verified Website
+Protyre,https://www.protyre.co.uk/,True,0333 060 2406,,Medium,15-50,£1M - £5M,1000000,5000000,24hr,National Network,"24hr, Mobile",,,Verified Website
+Merityre,https://www.merityre.co.uk/,True,0150110912,,Medium,15-50,£1M - £5M,1000000,5000000,"24hr, Fleet",Regional Network,"24hr, Fleet",,,Verified Website
+Point S,https://www.point-s.co.uk/,True,,,Medium,15-50,£1M - £5M,1000000,5000000,24hr,Network,"24hr, Mobile",,,Verified Website
+Bond International,https://www.bondint.com/,True,,,Medium,15-50,£1M - £5M,1000000,5000000,National,Wholesaler,,,,Verified Website
+Vacu-Lug,https://www.vaculug.com/,True,01476593095,info@vaculug.com,Medium,15-50,£1M - £5M,1000000,5000000,"24hr, Fleet",Retreader,"24hr, Fleet",,,Verified Website
+Continental UK,https://www.continental-tyres.co.uk/,True,,,Medium,15-50,£1M - £5M,1000000,5000000,National,Manufacturer,,,,Verified Website
+Toyo UK,https://www.toyo.co.uk/,True,,,Medium,15-50,£1M - £5M,1000000,5000000,National,Manufacturer,,,,Verified Website
+Stapleton's Tyres,https://www.stapleton-tyres.co.uk/,True,,,Small-Medium,5-15,£300K - £1M,300000,1000000,Local,Wholesaler,,,,Verified Website
+TRUCK TYRES NATIONAL LTD,,False,,,Small-Medium,5-15,£300K - £1M,300000,1000000,National,Companies House,,"Unit 389 275 New North Road, Islington, London, United Kingdom, N1 7AA",16707059,Companies House
+TRUCK TYRES UK LIMITED,,False,,,Small-Medium,5-15,£300K - £1M,300000,1000000,National,Companies House,,"Blue Square Offices Ltd, Bath Street, Glasgow, Scotland, G2 4JR",SC644925,Companies House
+TRUCK TYRE SUPPLIES UK LIMITED,,False,,,Small-Medium,5-15,£300K - £1M,300000,1000000,National,Companies House,,"St Thomas House, 83 Wolverhampton Road, Cannock, Staffordshire, United Kingdom, WS11 1AR",11032022,Companies House
+TRUCK TYRE WHOLESALERS LIMITED,,False,,,Small-Medium,5-15,£300K - £1M,300000,1000000,Wholesale,Companies House,,"12 Old Slade Lane, Iver, England, SL0 9DR",13417279,Companies House
+TRUCK TYRE FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"1 Thorncliffe View, Leek, England, ST13 6QB",16262244,Companies House
+TRUCK TYRE LEASING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, England, HP14 4TJ",03158142,Companies House
+TRUCK TYRES DIRECT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"24 Dalkeith Place, Kettering, England, NN16 0BS",15105571,Companies House
+TRUCK TYRES 4 U LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"121 Lark Lane, Liverpool, England, L17 8UR",15543670,Companies House
+TRUCK TYRES (LONDON) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"167 Turners Hill, Cheshunt, Hertfordshire, EN8 9BH",05853394,Companies House
+TRUCK TYRE SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Station Road, Rowley Regis, W Midlands, United Kingdom, B65 0LJ",05733614,Companies House
+TRUCK TYRES ONLINE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Booth Street Chambers, 32 Booth Street, Ashton-Under-Lyne, Lancashire, England, OL6 7LQ",16049229,Companies House
+TRUCK TYRES 2 U LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, United Kingdom, CW11 4NE",12781618,Companies House
+ANGLIAN TRUCK TYRE MANAGEMENT CAMBS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",16141864,Companies House
+ANGLIAN TRUCK TYRE MANAGEMENT NORWICH LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",16141882,Companies House
+ANGLIAN TRUCK TYRE MANAGEMENT SOUTH LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",13046940,Companies House
+ANGLIA TRUCK TYRE MANAGEMENT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",04183442,Companies House
+A2 TRUCK TYRE LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Thames House, Roman Square, Sittingbourne, Kent, United Kingdom, ME10 4BJ",11261015,Companies House
+BARON TRUCK TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, United Kingdom, YO30 4XF",06833810,Companies House
+BIRMINGHAM TRUCK TYRE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Kent Space, Suite 2026 6-8 Revenge Road, Chatham, England, ME5 8UD",08481309,Companies House
+CAR VAN TRUCK TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"29 Whitegate Drive Whitegate Drive, Blackpool, England, FY3 9AA",08035616,Companies House
+DRS MOBILE TRUCK TYRES SERVICE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"62 Walbrook Road, Derby, England, DE23 8RY",16139729,Companies House
+HARRY'S TRUCK TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"200 Knolton Way, Slough, Berkshire, United Kingdom, SL2 5RS",16009864,Companies House
+SYLLA TRUCK TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Flat 69 Kelvedon House, Guildford Road, London, England, SW8 2DW",13847848,Companies House
+TA9 TRUCK TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Goodwood House, Blackbrook Park Avenue, Taunton, Somerset, United Kingdom, TA1 2PX",16043526,Companies House
+T.T.S. TRUCK TYRE SPECIALISTS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Truck Tyre Specialists Warne Road, Winterstoke Commercial Centre, Weston-Super-Mare, England, BS23 3UU",01379569,Companies House
+247 TRUCK TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"599 London Road, Reading, United Kingdom, RG6 1AT",16948484,Companies House
+COMMERCIAL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Vantage Quay, 5 Brewer Street, Manchester, England, M1 2ER",10615294,Companies House
+COMMERCIAL TYRE SERVICES (BRISTOL) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Unit 5 Willment Way, Bristol, England, BS11 8DJ",11334504,Companies House
+COMMERCIAL TYRES OFF HIGHWAY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Tructyre House Princesway North, Team Valley, Gateshead, England, NE11 0NF",08555956,Companies House
+COMMERCIAL TYRE SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",15143167,Companies House
+COMMERCIAL TYRE SUPPLIES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"6a Cissplatt Lane,, Keelby,, DN41 8HU",07754686,Companies House
+AM COMMERCIAL TYRE’S LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"5 Cables Wynd House, Edinburgh, Scotland, EH6 6DF",SC846604,Companies House
+ASHFORD COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",07322542,Companies House
+BARTON COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",02039874,Companies House
+FAST FIT COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"6 St. Georges Square, Portsmouth, England, PO1 3EY",15947304,Companies House
+J.S COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"23 Turnberry Court Bentley, Doncaster, South Yorkshire, England, DN5 0UL",16100479,Companies House
+P.A. RISK COMMERCIAL TYRE SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"12 Station Court, Station Approach, Wickford, Essex, SS11 7AT",04486928,Companies House
+WESSEX COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small local,Companies House,,"139 Engineer Road, West Wilts Trading Estate, Westbury, Wiltshire, England, BA13 4JW",06686704,Companies House
