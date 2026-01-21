@@ -1,35 +1,27 @@
-# UK Truck Tyre Companies Scraper
+# UK Truck Tyre Companies Scraper (Python)
 
 Scrapes UK truck tyre wholesalers and fitters from Companies House API.
 
 ## Setup
 
 ```bash
-npm install
+pip install requests openpyxl
 ```
 
 ## Run the Scraper
 
 ```bash
-# Step 1: Scrape Companies House API
-node companies-house-scraper.js
-
-# Step 2: Combine all data
-node combine-all.js
-
-# Step 3: Convert to Excel
-node convert-to-excel.js
+python scraper.py
 ```
 
 ## Output Files
 
-- `UK_TRUCK_TYRE_COMPANIES.xlsx` - Excel file with all data (4 sheets)
-- `MASTER_UK_TRUCK_TYRE_COMPANIES.csv` - Combined CSV
-- `MASTER_UK_TRUCK_TYRE_COMPANIES.json` - Combined JSON
+- `UK_TRUCK_TYRE_COMPANIES.xlsx` - Excel file with 3 sheets
+- `UK_TRUCK_TYRE_COMPANIES.csv` - CSV format
+- `UK_TRUCK_TYRE_COMPANIES.json` - JSON format
 
 ## Data Included
 
-- 846 UK truck tyre companies
-- 57 B2B wholesalers
-- 65 Companies House verified
-- Company name, website, phone, address, business type, service points, region
+- UK truck tyre companies from Companies House
+- Company name, number, address, business type
+- B2B wholesalers, fitters, specialists, retreaders
