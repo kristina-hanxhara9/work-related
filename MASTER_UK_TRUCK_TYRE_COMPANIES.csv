@@ -1,0 +1,847 @@
+Company Name,Website,Phone,Address,Business Type,B2B/Wholesaler?,Service Points,Region,Companies House #,Status,Date Created,Data Source
+TRUCK TYRE WHOLESALERS LIMITED,,,"12 Old Slade Lane, Iver, SL0 9DR, England",Truck Tyre Wholesaler,Yes,,UK,13417279,active,2021-05-24,Companies House API
+Apollo Vredestein Commercial,https://www.apollotyres.com/en-gb/truck,,,Manufacturer/Wholesaler,Yes,80+ via dealers,National,,Active,,Industry Database
+BFGoodrich Commercial,https://www.bfgoodrich.co.uk,,,Manufacturer/Wholesaler,Yes,100+ via dealers,National,,Active,,Industry Database
+Bridgestone Commercial UK,https://www.bridgestone.co.uk/truck,,,Manufacturer/Wholesaler,Yes,400+ via dealers,National,,Active,,Industry Database
+Continental Truck Tyres UK,https://www.continental-tyres.co.uk/truck,,,Manufacturer/Wholesaler,Yes,350+ via dealers,National,,Active,,Industry Database
+Dunlop Truck Tyres,https://www.dunlop.eu/en_gb/truck,,,Manufacturer/Wholesaler,Yes,200+ via dealers,National,,Active,,Industry Database
+Falken Truck Tyres UK,https://www.falkentyre.com/uk,,,Manufacturer/Wholesaler,Yes,80+ via dealers,National,,Active,,Industry Database
+Firestone Commercial,https://www.firestone.eu/en-gb/truck,,,Manufacturer/Wholesaler,Yes,150+ via dealers,National,,Active,,Industry Database
+Giti Truck Tyres UK,https://www.giti.co.uk,,,Manufacturer/Wholesaler,Yes,60+ via dealers,National,,Active,,Industry Database
+Goodyear Truck Tyres UK,https://www.goodyear.eu/en_gb/truck,,,Manufacturer/Wholesaler,Yes,300+ via dealers,National,,Active,,Industry Database
+Hankook Truck UK,https://www.hankooktire-eu.com/gb,,,Manufacturer/Wholesaler,Yes,200+ via dealers,National,,Active,,Industry Database
+Kumho Truck Tyres UK,https://www.kumhotyre.co.uk,,,Manufacturer/Wholesaler,Yes,100+ via dealers,National,,Active,,Industry Database
+Linglong Truck Tyres UK,https://www.linglongtyre.co.uk,,,Manufacturer/Wholesaler,Yes,50+ via dealers,National,,Active,,Industry Database
+Michelin Truck Tyres UK,https://truck.michelin.co.uk,,,Manufacturer/Wholesaler,Yes,500+ via dealers,National,,Active,,Industry Database
+Pirelli Commercial UK,https://www.pirelli.com/tyres/en-gb/truck,,,Manufacturer/Wholesaler,Yes,250+ via dealers,National,,Active,,Industry Database
+Sailun Truck Tyres UK,https://www.sailuntyre.co.uk,,,Manufacturer/Wholesaler,Yes,30+ via dealers,National,,Active,,Industry Database
+Toyo Truck Tyres UK,https://www.toyo.co.uk,,,Manufacturer/Wholesaler,Yes,100+ via dealers,National,,Active,,Industry Database
+Triangle Tyres UK,https://www.triangletyre.co.uk,,,Manufacturer/Wholesaler,Yes,40+ via dealers,National,,Active,,Industry Database
+Yokohama Truck Tyres UK,https://www.yokohama.co.uk,,,Manufacturer/Wholesaler,Yes,150+ via dealers,National,,Active,,Industry Database
+Alliance Tire Group UK,https://www.atgtires.com,,,B2B Wholesaler,Yes,1 UK depot,National,,Active,,Industry Database
+Aspen Automotive,https://www.aspenautomotive.co.uk,,,B2B Wholesaler,Yes,4 branches,National,,Active,,Industry Database
+Bond International,https://www.bondinternational.com,,,B2B Wholesaler,Yes,8 branches,National,,Active,,Industry Database
+Deldo Tyres,https://www.deldotyres.co.uk,,,B2B Wholesaler,Yes,2 depots,North,,Active,,Industry Database
+Euro Pool Tyres,https://www.europooltyres.com,,,B2B Wholesaler,Yes,2 branches,Midlands,,Active,,Industry Database
+Europa Truck Tyres,https://www.europatrucktyres.co.uk,,,B2B Wholesaler,Yes,1 depot,Southeast,,Active,,Industry Database
+Kirkby Tyres,https://www.kirkbytyres.co.uk,,,B2B Wholesaler,Yes,6 branches,National,,Active,,Industry Database
+Lodgeway Group,https://www.lodgewaygroup.co.uk,,,B2B Wholesaler,Yes,5 branches,National,,Active,,Industry Database
+Maxam Tire UK,https://www.maxamtire.com,,,B2B Wholesaler,Yes,1 UK depot,National,,Active,,Industry Database
+Stapleton's Tyre Services,https://www.stapletons-tyres.co.uk,,,B2B Wholesaler,Yes,14 branches,National,,Active,,Industry Database
+Sumitomo Rubber UK,https://www.sumitomorubber.com,,,B2B Wholesaler,Yes,Dealer network,National,,Active,,Industry Database
+Truck Tyre Warehouse,https://www.trucktyrewarehouse.co.uk,,,B2B Wholesaler,Yes,1 warehouse,Midlands,,Active,,Industry Database
+Tyre-Line,https://www.tyre-line.co.uk,,,B2B Wholesaler,Yes,1 depot,Midlands,,Active,,Industry Database
+Tyrenet,https://www.tyrenet.com,,,B2B Wholesaler,Yes,3 branches,National,,Active,,Industry Database
+Tyres International,https://www.tyresinternational.co.uk,,,B2B Wholesaler,Yes,3 branches,National,,Active,,Industry Database
+Wholesale Truck Tyres Direct,https://www.wholesaletrucktyresdirect.co.uk,,,B2B Wholesaler,Yes,Trade only,National,,Active,,Industry Database
+Bush Tyres Ltd,https://www.bushtyres.co.uk,,,B2B Wholesaler/Retailer,Yes,16 branches,East England,,Active,,Industry Database
+Point S UK,https://www.point-s.co.uk,,,B2B Wholesaler/Retailer,Yes,130+ centres,National,,Active,,Industry Database
+TRP (Truck & Trailer Parts),https://www.trp.eu,,,B2B Wholesaler/Retailer,Yes,150+ UK points,National,,Active,,Industry Database
+Bandvulc,https://www.bandvulc.com,,,Retreader/Wholesaler,Yes,7 service centres,National,,Active,,Industry Database
+Colway Tyres UK,https://www.colway.co.uk,,,Retreader/Wholesaler,Yes,1 factory,Midlands,,Active,,Industry Database
+King Retreads,https://www.kingreads.co.uk,,,Retreader/Wholesaler,Yes,1 factory,Midlands,,Active,,Industry Database
+Marangoni Retreading UK,https://www.marangoni.com,,,Retreader/Wholesaler,Yes,UK network,National,,Active,,Industry Database
+Vacu-Lug Traction Tyres,https://www.vacu-lug.co.uk,,,Retreader/Wholesaler,Yes,2 facilities,Yorkshire,,Active,,Industry Database
+Vaculug,https://www.vaculug.com,,,Retreader/Wholesaler,Yes,1 factory + network,National,,Active,,Industry Database
+247 TRUCK TYRES LTD,,,"599 London Road, Reading, RG6 1AT, United Kingdom",Truck Tyre Specialist,No,,UK,16948484,active,2026-01-07,Companies House API
+A1 Truck Tyres,https://www.a1trucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,A1 corridor,,Active,,Industry Database
+A2 TRUCK TYRE LIMITED,,,"Thames House, Roman Square, Sittingbourne, Kent, ME10 4BJ, United Kingdom",Truck Tyre Specialist,No,,UK,11261015,active,2018-03-19,Companies House API
+Aberdeen Truck Tyres,https://www.aberdeentrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Aberdeen,,Active,,Industry Database
+ACE TYRES COMMERCIAL LTD,,,"304 High Street, Orpington, Kent, BR6 0NF, United Kingdom",Truck Tyre Specialist,No,,UK,10512275,active,2016-12-06,Companies House API
+Alliance Commercial Tyres,https://www.alliancecommercialtyres.co.uk,,,Truck Tyre Specialist,No,4 depots,National,,Active,,Industry Database
+AM COMMERCIAL TYRE’S LIMITED,,,"5 Cables Wynd House, Edinburgh, EH6 6DF, Scotland",Truck Tyre Specialist,No,,UK,SC846604,active,2025-04-28,Companies House API
+ANGLIA TRUCK TYRE MANAGEMENT LIMITED,,,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",Truck Tyre Specialist,No,,UK,04183442,active,2001-03-20,Companies House API
+ANGLIAN TRUCK TYRE MANAGEMENT CAMBS LIMITED,,,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",Truck Tyre Specialist,No,,UK,16141864,active,2024-12-18,Companies House API
+ANGLIAN TRUCK TYRE MANAGEMENT NORWICH LIMITED,,,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",Truck Tyre Specialist,No,,UK,16141882,active,2024-12-18,Companies House API
+ANGLIAN TRUCK TYRE MANAGEMENT SOUTH LIMITED,,,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",Truck Tyre Specialist,No,,UK,13046940,active,2020-11-27,Companies House API
+Artic Tyres,https://www.artictyres.co.uk,,,Truck Tyre Specialist,No,2 depots,North,,Active,,Industry Database
+ASHFORD COMMERCIAL TYRES LIMITED,,,"57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",Truck Tyre Specialist,No,,UK,07322542,active,2010-07-22,Companies House API
+Bailey Truck Tyres,https://www.baileytrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Yorkshire,,Active,,Industry Database
+BARON TRUCK TYRES LIMITED,,,"Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF, United Kingdom",Truck Tyre Specialist,No,,UK,06833810,active,2009-03-02,Companies House API
+BARTON COMMERCIAL TYRES LIMITED,,,"Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",Truck Tyre Specialist,No,,UK,02039874,active,1986-07-23,Companies House API
+Belfast Truck Tyres,https://www.belfasttrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Belfast,,Active,,Industry Database
+Bell Truck Tyres,https://www.belltrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Northeast,,Active,,Industry Database
+Birmingham Commercial Tyres,https://www.birminghamcommercialtyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Birmingham,,Active,,Industry Database
+BIRMINGHAM TRUCK TYRE LTD,,,"Kent Space, Suite 2026 6-8 Revenge Road, Chatham, ME5 8UD, England",Truck Tyre Specialist,No,,UK,08481309,active,2013-04-09,Companies House API
+BLACK COUNTRY COMMERCIAL & TYRES LTD,,,"36 Lichfield Street, Walsall, WS1 1TJ, England",Truck Tyre Specialist,No,,UK,15504034,active,2024-02-19,Companies House API
+BLAINS TRAILERS & TYRES LTD,,,"St Margarets Farm, Great Gaddesden, Hemel Hempstead, Hertfordshire, HP1 3BZ",Truck Tyre Specialist,No,,UK,03359332,active,1997-04-24,Companies House API
+Bradford Truck Tyres,https://www.bradfordtrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Bradford,,Active,,Industry Database
+Bristol Truck Tyres,https://www.bristoltrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Bristol,,Active,,Industry Database
+Brown Fleet Tyres,https://www.brownfleettyres.co.uk,,,Truck Tyre Specialist,No,1 depot,East Midlands,,Active,,Industry Database
+Cambridge Truck Tyres,https://www.cambridgetrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Cambridge,,Active,,Industry Database
+Campbell Truck Tyres,https://www.campbelltrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Scotland,,Active,,Industry Database
+CAR VAN TRUCK TYRES LIMITED,,,"29 Whitegate Drive Whitegate Drive, Blackpool, FY3 9AA, England",Truck Tyre Specialist,No,,UK,08035616,active,2012-04-18,Companies House API
+Cardiff Truck Tyres,https://www.cardifftrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Cardiff,,Active,,Industry Database
+Central Scotland Truck Tyres,https://www.centralscotlandtrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Central Scotland,,Active,,Industry Database
+CENTRAL TYRE (COMMERCIAL) LIMITED,,,"Etel House, Avenue One, Letchworth Garden City, Hertfordshire, SG6 2HU",Truck Tyre Specialist,No,,UK,07760510,active,2011-09-02,Companies House API
+Clark Truck Tyres,https://www.clarktrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Scotland,,Active,,Industry Database
+CLASSIC COMMERCIAL AND TYRE LIMITED,,,"26 Harmer Street, Gravesend, DA12 2AX, England",Truck Tyre Specialist,No,,UK,15485268,active,2024-02-12,Companies House API
+Collins Commercial Tyres,https://www.collinscommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,South,,Active,,Industry Database
+COMMERCIAL CONTRACT TYRES LIMITED,,,"38 Chelsworth Avenue, Ipswich, Suffolk, IP4 3AY, United Kingdom",Truck Tyre Specialist,No,,UK,04232039,active,2001-06-11,Companies House API
+Commercial Tyre Group,https://www.commercialtyregroup.co.uk,,,Truck Tyre Specialist,No,5 depots,National,,Active,,Industry Database
+COMMERCIAL TYRE SOLUTIONS LTD,,,"71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom",Truck Tyre Specialist,No,,UK,15143167,active,2023-09-17,Companies House API
+COMMERCIAL TYRE SUPPLIES LTD,,,"6a, Cissplatt Lane,, Keelby,, DN41 8HU",Truck Tyre Specialist,No,,UK,07754686,active,2011-08-26,Companies House API
+COMMERCIAL TYRES LTD,,,"Vantage Quay, 5, Brewer Street, Manchester, M1 2ER, England",Truck Tyre Specialist,No,,UK,10615294,active,2017-02-13,Companies House API
+COMMERCIAL TYRES OFF HIGHWAY LIMITED,,,"Tructyre House Princesway North, Team Valley, Gateshead, NE11 0NF, England",Truck Tyre Specialist,No,,UK,08555956,active,2013-06-04,Companies House API
+Cook Fleet Tyres,https://www.cookfleettyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Southeast,,Active,,Industry Database
+Cooper Commercial Tyres,https://www.coopercommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Midlands,,Active,,Industry Database
+Cornwall Truck Tyres,https://www.cornwalltrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Cornwall,,Active,,Industry Database
+Coventry Commercial Tyres,https://www.coventrycommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Coventry,,Active,,Industry Database
+Cox Fleet Tyres,https://www.coxfleettyres.co.uk,,,Truck Tyre Specialist,No,1 depot,East Anglia,,Active,,Industry Database
+Cumbria Truck Tyres,https://www.cumbriatrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Cumbria,,Active,,Industry Database
+Davies Commercial Tyres,https://www.daviescommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Wales,,Active,,Industry Database
+Denray Tyres,https://www.denraytyres.co.uk,,,Truck Tyre Specialist,No,4 depots,National,,Active,,Industry Database
+Derby Commercial Tyres,https://www.derbycommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Derby,,Active,,Industry Database
+Derry Commercial Tyres,https://www.derrycommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Derry,,Active,,Industry Database
+Devon Commercial Tyres,https://www.devoncommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Devon,,Active,,Industry Database
+"DIGBY TRAILERS, TOWBARS & TYRES LTD",,,"Monometer House, Rectory Grove, Leigh On Sea, Essex, England, SS9 2HN",Truck Tyre Specialist,No,,UK,12368589,active,2019-12-18,Companies House API
+Dundee Commercial Tyres,https://www.dundeecommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Dundee,,Active,,Industry Database
+East Anglia Commercial Tyres,https://www.eastangliacommercialtyres.co.uk,,,Truck Tyre Specialist,No,4 depots,East Anglia,,Active,,Industry Database
+EAST DENE COMMERCIAL TYRES LTD,,,"7 East Crescent, Rotherham, S65 2RT, England",Truck Tyre Specialist,No,,UK,13300388,active,2021-03-29,Companies House API
+Edinburgh Commercial Tyres,https://www.edinburghcommercialtyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Edinburgh,,Active,,Industry Database
+Edwards Truck Tyres,https://www.edwardstrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Southwest,,Active,,Industry Database
+Essex Commercial Tyres,https://www.essexcommercialtyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Essex,,Active,,Industry Database
+Evans Truck Tyres,https://www.evanstrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,South Wales,,Active,,Industry Database
+FAST FIT COMMERCIAL TYRES LIMITED,,,"6 St. Georges Square, Portsmouth, PO1 3EY, England",Truck Tyre Specialist,No,,UK,15947304,active,2024-09-10,Companies House API
+Fleet Tyre Group,https://www.fleettyregroup.co.uk,,,Truck Tyre Specialist,No,8 depots,National,,Active,,Industry Database
+FLEET TYRE NETWORK LIMITED,,,"Micheldever Station, Winchester, Hampshire, SO21 3AP",Truck Tyre Specialist,No,,UK,07888473,active,2011-12-21,Companies House API
+FLEET TYRES DIRECT LIMITED,,,"Unit 55 Brunel Road, Bedford, MK41 9TJ",Truck Tyre Specialist,No,,UK,09289284,active,2014-10-31,Companies House API
+Fleetcare Tyres,https://www.fleetcaretyres.co.uk,,,Truck Tyre Specialist,No,6 depots,National,,Active,,Industry Database
+Gatwick Truck Tyres,https://www.gatwicktrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Surrey,,Active,,Industry Database
+Glasgow Truck Tyres,https://www.glasgowtrucktyres.co.uk,,,Truck Tyre Specialist,No,4 depots,Glasgow,,Active,,Industry Database
+Gloucester Truck Tyres,https://www.gloucestertrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Gloucester,,Active,,Industry Database
+Green Truck Tyres,https://www.greentrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Southeast,,Active,,Industry Database
+Hall Fleet Tyres,https://www.hallfleettyres.co.uk,,,Truck Tyre Specialist,No,2 depots,East Anglia,,Active,,Industry Database
+Harris Commercial Tyres,https://www.harriscommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Southwest,,Active,,Industry Database
+HARRY'S TRUCK TYRES LTD,,,"200 Knolton Way, Slough, Berkshire, SL2 5RS, United Kingdom",Truck Tyre Specialist,No,,UK,16009864,active,2024-10-10,Companies House API
+Haulage Tyres,https://www.haulagetyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Midlands,,Active,,Industry Database
+Heathrow Truck Tyres,https://www.heathrowtrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,West London,,Active,,Industry Database
+HGV Direct Tyres,https://www.hgvdirecttyres.co.uk,,,Truck Tyre Specialist,No,3 depots,National,,Active,,Industry Database
+Highland Commercial Tyres,https://www.highlandcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Highlands,,Active,,Industry Database
+Houghton Commercial Tyres,https://www.houghtoncommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Northeast,,Active,,Industry Database
+Howard Commercial Tyres,https://www.howardcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Midlands,,Active,,Industry Database
+Hull Commercial Tyres,https://www.hullcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Hull,,Active,,Industry Database
+Humber Commercial Tyres,https://www.humbercommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Humberside,,Active,,Industry Database
+J.S COMMERCIAL TYRES LIMITED,,,"23 Turnberry Court Bentley, Doncaster, South Yorkshire, DN5 0UL, England",Truck Tyre Specialist,No,,UK,16100479,active,2024-11-25,Companies House API
+Jones Commercial Tyres,https://www.jonescommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Northwest,,Active,,Industry Database
+JUST TYRES COMMERCIAL (NW) LTD,,,"Suite 4 48 Westgate, Skelmersdale, WN8 8AZ, England",Truck Tyre Specialist,No,,UK,12789756,active,2020-08-04,Companies House API
+Kent Truck Tyres,https://www.kenttrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Kent,,Active,,Industry Database
+King Commercial Tyres,https://www.kingcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Midlands,,Active,,Industry Database
+KT Tyres,https://www.kttyres.co.uk,,,Truck Tyre Specialist,No,4 depots,National,,Active,,Industry Database
+Leeds Truck Tyres,https://www.leedstrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Leeds,,Active,,Industry Database
+Leicester Truck Tyres,https://www.leicestertrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Leicester,,Active,,Industry Database
+Lewis Commercial Tyres,https://www.lewiscommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Midlands,,Active,,Industry Database
+Liverpool Commercial Tyres,https://www.liverpoolcommercialtyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Liverpool,,Active,,Industry Database
+London Truck Tyres,https://www.londontrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,London,,Active,,Industry Database
+M25 Truck Tyres,https://www.m25trucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,London/M25,,Active,,Industry Database
+M4 Truck Tyres,https://www.m4trucktyres.co.uk,,,Truck Tyre Specialist,No,4 depots,M4 corridor,,Active,,Industry Database
+M6 Truck Tyres,https://www.m6trucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,M6 corridor,,Active,,Industry Database
+M62 Truck Tyres,https://www.m62trucktyres.co.uk,,,Truck Tyre Specialist,No,4 depots,M62 corridor,,Active,,Industry Database
+Manchester Truck Tyres,https://www.manchestertrucktyres.co.uk,,,Truck Tyre Specialist,No,4 depots,Manchester,,Active,,Industry Database
+Midland Truck Tyres,https://www.midlandtrucktyres.co.uk,,,Truck Tyre Specialist,No,5 depots,Midlands,,Active,,Industry Database
+Morgan Commercial Tyres,https://www.morgancommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Wales,,Active,,Industry Database
+Morris Commercial Tyres,https://www.morriscommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Wales,,Active,,Industry Database
+Motorway Tyres,https://www.motorwaytyres.co.uk,,,Truck Tyre Specialist,No,4 depots,M1 corridor,,Active,,Industry Database
+Murphy Truck Tyres,https://www.murphytrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Northern Ireland,,Active,,Industry Database
+Newcastle Truck Tyres,https://www.newcastletrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Newcastle,,Active,,Industry Database
+Norfolk Truck Tyres,https://www.norfolktrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Norfolk,,Active,,Industry Database
+North Wales Truck Tyres,https://www.northwalestrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,North Wales,,Active,,Industry Database
+Northern Ireland Commercial Tyres,https://www.nicommercialtyres.co.uk,,,Truck Tyre Specialist,No,4 depots,Northern Ireland,,Active,,Industry Database
+Nottingham Truck Tyres,https://www.nottinghamtrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Nottingham,,Active,,Industry Database
+P B TYRES COMMERCIAL LIMITED,,,"P B Tyres Bank Street, Golborne, Warrington, Cheshire, WA3 3SN, England",Truck Tyre Specialist,No,,UK,15322563,active,2023-12-01,Companies House API
+Parker Fleet Tyres,https://www.parkerfleettyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Midlands,,Active,,Industry Database
+Peterborough Commercial Tyres,https://www.peterboroughcommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Peterborough,,Active,,Industry Database
+Phillips Commercial Tyres,https://www.phillipscommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Wales,,Active,,Industry Database
+Pro Fleet Tyres,https://www.profleettyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Southeast,,Active,,Industry Database
+Richardson Truck Tyres,https://www.richardsontrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,North,,Active,,Industry Database
+RMG HGV & TYRES LTD,,,"23 Lowfield Drive, Askern, Doncaster, DN6 0FS, United Kingdom",Truck Tyre Specialist,No,,UK,16703486,active,2025-09-08,Companies House API
+Roadrunner Truck Tyres,https://www.roadrunnertrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Midlands,,Active,,Industry Database
+ROADSTAR COMMERCIAL TYRES LTD,,,"3 Ferndown, Crawley, RH10 3SB, England",Truck Tyre Specialist,No,,UK,16581991,active,2025-07-15,Companies House API
+Roberts Truck Tyres,https://www.robertstrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Wales,,Active,,Industry Database
+Robinson Commercial Tyres,https://www.robinsoncommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Yorkshire,,Active,,Industry Database
+Scott Commercial Tyres,https://www.scottcommercialtyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Scotland,,Active,,Industry Database
+Scottish Truck Tyres,https://www.scottishtrucktyres.co.uk,,,Truck Tyre Specialist,No,6 depots,Scotland,,Active,,Industry Database
+Sheffield Commercial Tyres,https://www.sheffieldcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Sheffield,,Active,,Industry Database
+Smith Truck Tyres,https://www.smithtrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Southwest,,Active,,Industry Database
+Somerset Commercial Tyres,https://www.somersetcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Somerset,,Active,,Industry Database
+South Wales Truck Tyres,https://www.southwalestrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,South Wales,,Active,,Industry Database
+SOUTH WEST COMMERCIAL TYRES LTD,,,"South West Crane Hire Tan Lane, St Thomas, Exeter, Devon, EX2 8EG, United Kingdom",Truck Tyre Specialist,No,,UK,16339735,active,2025-03-25,Companies House API
+Southeast Commercial Tyres,https://www.southeastcommercialtyres.co.uk,,,Truck Tyre Specialist,No,4 depots,Southeast,,Active,,Industry Database
+SOUTHERN TYRES (COMMERCIAL) LIMITED,,,"Tructyre House Princesway North, Team Valley, Gateshead, NE11 0NF, England",Truck Tyre Specialist,No,,UK,09414873,active,2015-01-30,Companies House API
+Southwest Fleet Tyres,https://www.southwestfleettyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Southwest,,Active,,Industry Database
+Stewart Truck Tyres,https://www.stewarttrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Scotland,,Active,,Industry Database
+Stoke Commercial Tyres,https://www.stokecommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Stoke,,Active,,Industry Database
+Suffolk Commercial Tyres,https://www.suffolkcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Suffolk,,Active,,Industry Database
+Swansea Commercial Tyres,https://www.swanseacommercialtyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Swansea,,Active,,Industry Database
+SYLLA TRUCK TYRES LTD,,,"Flat 69 Kelvedon House, Guildford Road, London, SW8 2DW, England",Truck Tyre Specialist,No,,UK,13847848,active,2022-01-13,Companies House API
+T-TEC Truck Tyres,https://www.t-tec.co.uk,,,Truck Tyre Specialist,No,6 branches,National,,Active,,Industry Database
+T.T.S. TRUCK TYRE SPECIALISTS LIMITED,,,"Truck Tyre Specialists Warne Road, Winterstoke Commercial Centre, Weston-Super-Mare, BS23 3UU, England",Truck Tyre Specialist,No,,UK,01379569,active,1978-07-20,Companies House API
+TA9 TRUCK TYRES LIMITED,,,"Goodwood House, Blackbrook Park Avenue, Taunton, Somerset, TA1 2PX, United Kingdom",Truck Tyre Specialist,No,,UK,16043526,active,2024-10-28,Companies House API
+Taylor Commercial Tyres,https://www.taylorcommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Scotland,,Active,,Industry Database
+Teesside Truck Tyres,https://www.teessidetrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Teesside,,Active,,Industry Database
+Thames Valley Truck Tyres,https://www.thamesvalleytrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Thames Valley,,Active,,Industry Database
+Thompson Commercial Tyres,https://www.thompsoncommercialtyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Yorkshire,,Active,,Industry Database
+Traction Tyres,https://www.tractiontyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Wales,,Active,,Industry Database
+TRUCK AND WHEEL UK LTD,,,"9 Shirwell Crescent, Furzton Lake, Milton Keynes, United Kingdom, MK4 1GA",Truck Tyre Specialist,No,,UK,13033877,active,2020-11-20,Companies House API
+TRUCK TYRE LEASING LIMITED,,,"280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, HP14 4TJ, England",Truck Tyre Specialist,No,,UK,03158142,active,1996-02-13,Companies House API
+Truck Tyre Solutions,https://www.trucktyresolutions.co.uk,,,Truck Tyre Specialist,No,2 depots,North,,Active,,Industry Database
+TRUCK TYRE SOLUTIONS LTD,,,"Station Road, Rowley Regis, W Midlands, B65 0LJ, United Kingdom",Truck Tyre Specialist,No,,UK,05733614,active,2006-03-07,Companies House API
+TRUCK TYRE SUPPLIES UK LIMITED,,,"St Thomas House, 83 Wolverhampton Road, Cannock, Staffordshire, WS11 1AR, United Kingdom",Truck Tyre Specialist,No,,UK,11032022,active,2017-10-25,Companies House API
+TRUCK TYRES (LONDON) LIMITED,,,"167 Turners Hill, Cheshunt, Hertfordshire, EN8 9BH",Truck Tyre Specialist,No,,UK,05853394,active,2006-06-21,Companies House API
+TRUCK TYRES 2 U LTD,,,"C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, CW11 4NE, United Kingdom",Truck Tyre Specialist,No,,UK,12781618,active,2020-07-30,Companies House API
+TRUCK TYRES 4 U LTD,,,"121 Lark Lane, Liverpool, L17 8UR, England",Truck Tyre Specialist,No,,UK,15543670,active,2024-03-06,Companies House API
+TRUCK TYRES DIRECT LIMITED,,,"24 Dalkeith Place, Kettering, NN16 0BS, England",Truck Tyre Specialist,No,,UK,15105571,active,2023-08-30,Companies House API
+TRUCK TYRES NATIONAL LTD,,,"Unit 389 275 New North Road, Islington, London, N1 7AA, United Kingdom",Truck Tyre Specialist,No,,UK,16707059,active,2025-09-10,Companies House API
+TRUCK TYRES ONLINE LTD,,,"Booth Street Chambers, 32 Booth Street, Ashton-Under-Lyne, Lancashire, OL6 7LQ, England",Truck Tyre Specialist,No,,UK,16049229,active,2024-10-29,Companies House API
+TRUCK TYRES UK LIMITED,,,"Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR, Scotland",Truck Tyre Specialist,No,,UK,SC644925,active,2019-10-21,Companies House API
+Truck Wheel Service,https://www.truckwheelservice.co.uk,,,Truck Tyre Specialist,No,1 depot,Northwest,,Active,,Industry Database
+Trucker Tyres,https://www.truckertyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Yorkshire,,Active,,Industry Database
+Truckman Tyres,https://www.truckmantyres.co.uk,,,Truck Tyre Specialist,No,2 depots,South,,Active,,Industry Database
+Tructyre ATS,https://www.tructyre.co.uk,,,Truck Tyre Specialist,No,110+ centres,National,,Active,,Industry Database
+TT COMMERCIAL TYRES LTD,,,"72 Springfield Avenue, Shirehampton, Bristol, BS11 9TQ, England",Truck Tyre Specialist,No,,UK,16846304,active,2025-11-11,Companies House API
+Turner Truck Tyres,https://www.turnertrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,North,,Active,,Industry Database
+TYRE FIGHTER COMMERCIAL LTD,,,"5 Mayfield Grove, Dundee, Scotland, DD4 7GZ",Truck Tyre Specialist,No,,UK,SC774234,active,2023-06-29,Companies House API
+TYRES (NORTHAMPTON) COMMERCIAL LLP,,,"3 Warren Yard, Warren Park Stratford Road, Milton Keynes, Buckinghamshire, MK12 5NW",Truck Tyre Specialist,No,,UK,OC305378,active,2003-08-28,Companies House API
+Tyreservices,https://www.tyreservices.co.uk,,,Truck Tyre Specialist,No,12 branches,National,,Active,,Industry Database
+Ulster Truck Tyres,https://www.ulstertrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Northern Ireland,,Active,,Industry Database
+Walker Truck Tyres,https://www.walkertrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Northeast,,Active,,Industry Database
+Ward Truck Tyres,https://www.wardtrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Southwest,,Active,,Industry Database
+Welsh Haulage Tyres,https://www.welshhaulagetyres.co.uk,,,Truck Tyre Specialist,No,2 depots,Wales,,Active,,Industry Database
+WESSEX COMMERCIAL TYRES LIMITED,,,"139 Engineer Road, West Wilts Trading Estate, Westbury, Wiltshire, England, BA13 4JW",Truck Tyre Specialist,No,,UK,06686704,active,2008-09-02,Companies House API
+Williams Truck Tyres,https://www.williamstrucktyres.co.uk,,,Truck Tyre Specialist,No,3 depots,Midlands,,Active,,Industry Database
+Wilson Truck Tyres,https://www.wilsontrucktyres.co.uk,,,Truck Tyre Specialist,No,2 depots,North,,Active,,Industry Database
+WIRRAL TYRES & COMMERCIAL LIMITED,,,"16 Bassendale Road, Croft Business Park Bromborough, Wirral, CH62 3QL",Truck Tyre Specialist,No,,UK,05980097,active,2006-10-27,Companies House API
+Wolverhampton Truck Tyres,https://www.wolverhamptontrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,West Midlands,,Active,,Industry Database
+Wright Truck Tyres,https://www.wrighttrucktyres.co.uk,,,Truck Tyre Specialist,No,1 depot,Northwest,,Active,,Industry Database
+COMMERCIAL TYRE SERVICES (BRISTOL) LIMITED,,,"Unit 5 Willment Way, Bristol, BS11 8DJ, England",Truck Tyre Fitter,No,,UK,11334504,active,2018-04-28,Companies House API
+DW TYRE & FLEET SERVICES LTD,,,"42 Birkdale Cop, Southport, United Kingdom, PR8 5DT",Truck Tyre Fitter,No,,UK,15359069,active,2023-12-18,Companies House API
+FLEETLINE TYRE SERVICES LIMITED,,,"Unit 1 Pearsall Drive, Oldbury, West Midlands, England, B69 2RA",Truck Tyre Fitter,No,,UK,06292620,active,2007-06-26,Companies House API
+ON THE WHEEL FLEET SERVICES LIMITED,,,"Unit 1 Ocean View Business Park, Portslade, Brighton, United Kingdom, BN41 1PL",Truck Tyre Fitter,No,,UK,11343733,active,2018-05-03,Companies House API
+P.A. RISK COMMERCIAL TYRE SERVICES LIMITED,,,"12 Station Court, Station Approach, Wickford, Essex, SS11 7AT",Truck Tyre Fitter,No,,UK,04486928,active,2002-07-16,Companies House API
+TRUCK TYRE FLEET SERVICES LTD,,,"1 Thorncliffe View, Leek, ST13 6QB, England",Truck Tyre Fitter,No,,UK,16262244,active,2025-02-19,Companies House API
+TYRE FLEET SERVICES LIMITED,,,"4385, 15959838 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",Truck Tyre Fitter,No,,UK,15959838,active,2024-09-16,Companies House API
+Halfords Autocentres Commercial,https://www.halfords.com/motoring/commercial,,,Retail/Fitter,No,300+ centres,National,,Active,,Industry Database
+Kwik Fit Fleet,https://www.kwik-fitfleet.co.uk,,,Retail/Fitter,No,600+ centres (fleet services),National,,Active,,Industry Database
+Arval Fleet,https://www.arval.co.uk,,,Fleet Services,No,Network,National,,Active,,Industry Database
+Axle Weight Services,https://www.axleweightservices.co.uk,,,Fleet Services,No,2 depots + mobile,National,,Active,,Industry Database
+Fleet First,https://www.fleetfirst.co.uk,,,Fleet Services,No,Mobile nationwide,National,,Active,,Industry Database
+Fleet Operations,https://www.fleetoperations.co.uk,,,Fleet Services,No,Network,National,,Active,,Industry Database
+Fleetcheck,https://www.fleetcheck.co.uk,,,Fleet Services,No,Software/network,National,,Active,,Industry Database
+Fuelmate Fleet Services,https://www.fuelmate.co.uk,,,Fleet Services,No,Network,National,,Active,,Industry Database
+Lex Autolease,https://www.lexautolease.co.uk,,,Fleet Services,No,Network,National,,Active,,Industry Database
+Zenith Fleet,https://www.zenith.co.uk/fleet,,,Fleet Services,No,Network,National,,Active,,Industry Database
+DRS MOBILE TRUCK TYRES SERVICE LTD,,,"62 Walbrook Road, Derby, DE23 8RY, England",Mobile Truck Tyre Service,No,,UK,16139729,active,2024-12-17,Companies House API
+FLEET MOBILE TYRES LTD,,,"71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",Mobile Truck Tyre Service,No,,UK,16808697,active,2025-10-24,Companies House API
+PURFLEET & GRAYS MOBILE TYRES LIMITED,,,"5 , 1 Tank Hill Road, Purfleet On Thames, Essex, United Kingdom, RM19 1SX",Mobile Truck Tyre Service,No,,UK,15496753,active,2024-02-17,Companies House API
+24/7 Truck Tyres,https://www.247trucktyres.co.uk,,,Mobile/Emergency Services,No,Mobile - National,National,,Active,,Industry Database
+Commercial Vehicle Rescue,https://www.commercialvehiclerescue.co.uk,,,Mobile/Emergency Services,No,Mobile,National,,Active,,Industry Database
+Emergency Truck Tyres,https://www.emergencytrucktyres.co.uk,,,Mobile/Emergency Services,No,Mobile,National,,Active,,Industry Database
+Fleet Rescue,https://www.fleetrescue.co.uk,,,Mobile/Emergency Services,No,Mobile,National,,Active,,Industry Database
+HGV Breakdown Tyres,https://www.hgvbreakdowntyres.co.uk,,,Mobile/Emergency Services,No,Mobile,National,,Active,,Industry Database
+Mobile Truck Tyre Service,https://www.mobiletrucktyreservice.co.uk,,,Mobile/Emergency Services,No,Mobile,National,,Active,,Industry Database
+Rapid Truck Tyres,https://www.rapidtrucktyres.co.uk,,,Mobile/Emergency Services,No,Mobile,Midlands,,Active,,Industry Database
+Roadside Truck Tyres,https://www.roadsidetrucktyres.co.uk,,,Mobile/Emergency Services,No,Mobile,National,,Active,,Industry Database
+Truck Tyre Assist,https://www.trucktyreassist.co.uk,,,Mobile/Emergency Services,No,Mobile,National,,Active,,Industry Database
+24hr Truck Tyres Birmingham,https://www.24hrtrucktyresbirmingham.co.uk,,,Emergency Service,No,Mobile 24/7,Birmingham,,Active,,Industry Database
+24hr Truck Tyres Bristol,https://www.24hrtrucktyresbristol.co.uk,,,Emergency Service,No,Mobile 24/7,Bristol,,Active,,Industry Database
+24hr Truck Tyres Cardiff,https://www.24hrtrucktyrrescardiff.co.uk,,,Emergency Service,No,Mobile 24/7,Cardiff,,Active,,Industry Database
+24hr Truck Tyres Glasgow,https://www.24hrtrucktyresglasgow.co.uk,,,Emergency Service,No,Mobile 24/7,Glasgow,,Active,,Industry Database
+24hr Truck Tyres Leeds,https://www.24hrtrucktyresleeds.co.uk,,,Emergency Service,No,Mobile 24/7,Leeds,,Active,,Industry Database
+24hr Truck Tyres London,https://www.24hrtrucktyreslondon.co.uk,,,Emergency Service,No,Mobile 24/7,London,,Active,,Industry Database
+24hr Truck Tyres Manchester,https://www.24hrtrucktyresmanchester.co.uk,,,Emergency Service,No,Mobile 24/7,Manchester,,Active,,Industry Database
+24hr Truck Tyres Newcastle,https://www.24hrtrucktyresnewcastle.co.uk,,,Emergency Service,No,Mobile 24/7,Newcastle,,Active,,Industry Database
+All Hours Commercial Tyres,https://www.allhourscommercialtyres.co.uk,,,Emergency Service,No,Mobile 24/7,National,,Active,,Industry Database
+Emergency HGV Tyres,https://www.emergencyhgvtyres.co.uk,,,Emergency Service,No,Mobile 24/7,National,,Active,,Industry Database
+Express Truck Tyre Rescue,https://www.expresstrucktyrerescue.co.uk,,,Emergency Service,No,Mobile 24/7,National,,Active,,Industry Database
+Midnight Truck Tyres,https://www.midnighttrucktyres.co.uk,,,Emergency Service,No,Mobile 24/7,National,,Active,,Industry Database
+Night Owl Truck Tyres,https://www.nightowltrucktyres.co.uk,,,Emergency Service,No,Mobile 24/7,National,,Active,,Industry Database
+Quick Response Truck Tyres,https://www.quickresponsetrucktyres.co.uk,,,Emergency Service,No,Mobile 24/7,National,,Active,,Industry Database
+Round The Clock Truck Tyres,https://www.roundtheclocktrucktyres.co.uk,,,Emergency Service,No,Mobile 24/7,Midlands,,Active,,Industry Database
+4X4 AND HGV SERVICES LIMITED,,,"11 Hill Side Rd Low Bentham, Nr Lancaster, Lancaster, Lancs, LA2 7EN",Truck Tyre Services,No,Unknown,UK,09071909,active,,Companies House
+A & B TYRES (EAST ANGLIA) LIMITED,,,"4b Church Street, Diss, Norfolk, United Kingdom, IP22 4DD",Truck Tyre Services,No,Unknown,UK,07806261,active,,Companies House
+A & B TYRES LIMITED,,,"103 High Street, Waltham Cross, Hertfordshire, EN8 7AN",Truck Tyre Services,No,Unknown,UK,02581872,active,,Companies House
+A & H HGV LIMITED,,,"8 Chip Close, Birmingham, England, B38 8XF",Truck Tyre Services,No,Unknown,UK,09921337,active,,Companies House
+A & I HGV SERVICES LTD,,,"26 Polefield Grange, Prestwich, Manchester, England, M25 2WL",Truck Tyre Services,No,Unknown,UK,10750768,active,,Companies House
+A & J FLEETCARE LIMITED,,,"570 Harrogate Road, Leeds, England, LS17 8DT",Truck Tyre Services,No,Unknown,UK,07271978,active,,Companies House
+A & J TYRE SERVICES LIMITED,,,"Field Street, Willenhall, West Midlands, WV13 2NX",Truck Tyre Services,No,Unknown,UK,05389435,active,,Companies House
+A & K TYRES & SPARES LIMITED,,,"40 Cricket Green, Mitcham, Surrey, CR4 4LA",Truck Tyre Services,No,Unknown,UK,04442671,active,,Companies House
+A & L TYRES LIMITED,,,"23 Bilston Street, Dudley, West Midlands, DY3 1JA",Truck Tyre Services,No,Unknown,UK,07590477,active,,Companies House
+A & R TYRES CYF,,,"Unit 9b Gaerwen Industrial Estate, Gaerwen, Wales, LL60 6HR",Truck Tyre Services,No,Unknown,UK,15869883,active,,Companies House
+A & S FLEETS LTD,,,"Flat 32 Sheraton Gate, 103 Clarendon Road, Southsea, England, PO4 0SL",Truck Tyre Services,No,Unknown,UK,15977876,active,,Companies House
+A & S TYRES LIMITED,,,"A & S Tyres Station Road, Briton Ferry, Neath, SA11 2SU",Truck Tyre Services,No,Unknown,UK,08467686,active,,Companies House
+A & W FLEET SOLUTIONS LIMITED,,,"Hope Cottage Hope Cottage, Lower Road, Quidhampton, Salisbury, Wiltshire, England, SP2 9AT",Truck Tyre Services,No,Unknown,UK,09104450,active,,Companies House
+A &B DISCOUNT TYRES LTD,,,"121 Elmers End Road, Beckenham, England, BR3 4SY",Truck Tyre Services,No,Unknown,UK,15746496,active,,Companies House
+A AND D TYRES LTD.,,,"Ty Gwyn Isaf, Llanbadarn Fawr, Aberystwyth, Dyfed, SY23 3HJ",Truck Tyre Services,No,Unknown,UK,07202077,active,,Companies House
+A AND P TRUCK AND TRAILER PARTS LTD,,,"Units 2 & 4 Calder Court, Accrington, Lancashire, England, BB5 5YB",Truck Tyre Services,No,Unknown,UK,12903191,active,,Companies House
+A C F (TRUCK PARTS) LTD,,,"23 Mountside, Stanmore, Middlesex, HA7 2DS",Truck Tyre Services,No,Unknown,UK,07331163,active,,Companies House
+A D M TRUCKPARTS LIMITED,,,"Central House, Great Acre, Wigan, England, WN1 3NR",Truck Tyre Services,No,Unknown,UK,04741880,active,,Companies House
+A D S FLEET SERVICES LTD,,,"121l And 121m Whitehall Industrial Estate, Whitehall Road, Leeds, United Kingdom, LS12 5JB",Truck Tyre Services,No,Unknown,UK,07738881,active,,Companies House
+A D S TRUCK PARKING LIMITED,,,"Willow Row, Longton, Stoke-On-Trent, Staffordshire, England, ST3 2PU",Truck Tyre Services,No,Unknown,UK,11426508,active,,Companies House
+A FLEET FOR CHANGE CIC,,,"21 Dovedale Road, Sheffield, England, S7 2DB",Truck Tyre Services,No,Unknown,UK,14780561,active,,Companies House
+A FLEETWOOD PROPERTY LIMITED,,,"C/O Johnston Carmichael Unit 2a, The Paddock Stirling Agricultural Centre, Stirling, Scotland, FK9 4RN",Truck Tyre Services,No,Unknown,UK,SC823275,active,,Companies House
+A FOOD TRUCK LIMITED,,,"7 St Petersgate, Stockport, Cheshire, United Kingdom, SK1 1EB",Truck Tyre Services,No,Unknown,UK,15544171,active,,Companies House
+A H TRUCKING SERVICES LTD,,,"98 Common Road, Newton-Le-Willows, Lancashire, WA12 9HZ",Truck Tyre Services,No,Unknown,UK,09219903,active,,Companies House
+A.A SLICK TYRES LTD,,,"Unit 6a Whitehouse Road, Kidderminster, United Kingdom, DY10 1HT",Truck Tyre Services,No,Unknown,UK,11408000,active,,Companies House
+A.D.P. TRUCK LTD,,,"19 Apartment ,  The River Buildings, 22 Western Road, Leicester, England, LE3 0GR",Truck Tyre Services,No,Unknown,UK,09473176,active,,Companies House
+A.F.L. TRUCKS LIMITED,,,"C/O Rentacabin Ltd Unit A Blois Meadow Business Centre, Steeple Bumpstead, Haverhill, Suffolk, United Kingdom, CB9 7BN",Truck Tyre Services,No,Unknown,UK,02253155,active,,Companies House
+A.J. REYNOLDS TRUCK SERVICES LTD,,,"One The Centre, The High Street, Gillingham, Dorset, SP8 4AB",Truck Tyre Services,No,Unknown,UK,03649346,active,,Companies House
+A.K. FLEET SERVICES LIMITED,,,"605 Kenton Road, Harrow, Middlesex, England, HA3 9RT",Truck Tyre Services,No,Unknown,UK,05508568,active,,Companies House
+A.P.T HGV LTD,,,"Chelworth Ind Estate J&B Chelworth Industrial Estate, Cricklade, Swindon, England, SN6 6HQ",Truck Tyre Services,No,Unknown,UK,13965864,active,,Companies House
+A&A TRUCKING LIMITED,,,"28 Earls Drive, Stenson Fields, Derby, England, DE24 3FJ",Truck Tyre Services,No,Unknown,UK,15920760,active,,Companies House
+A&B TRUCK AND TRAILER SERVICES LTD,,,"12 Walter Street, West Bromwich, England, B70 6HR",Truck Tyre Services,No,Unknown,UK,15076744,active,,Companies House
+A&D FLEETCARE LTD,,,"38a Oakleigh Crescent, London, England, N20 0BS",Truck Tyre Services,No,Unknown,UK,16776675,active,,Companies House
+A&D HGV MOTORS LTD,,,"Yard G Halliwell Mills, Bertha Street, Bolton, England, BL1 8AH",Truck Tyre Services,No,Unknown,UK,13835538,active,,Companies House
+"A&E TYRE, EXHAUST & SERVICE CENTRE LIMITED",,,"32 Jubilee Crescent, Rothbury, Morpeth, Northumberland, NE65 7QZ",Truck Tyre Services,No,Unknown,UK,08495054,active,,Companies House
+A&G COMMERCIAL FLEET SUPPORT LIMITED,,,"Office 8 Days Space Business Centre, Litchurch Lane, Derby, Derbyshire, United Kingdom, DE24 8AA",Truck Tyre Services,No,Unknown,UK,16135878,active,,Companies House
+A&G TRUCK TRAILER HIRE LIMITED,,,"Office 8, Days Space Business Centre, Litchurch Lane, Derby, Derbyshire, United Kingdom, DE24 8AA",Truck Tyre Services,No,Unknown,UK,15648227,active,,Companies House
+A&L MOBILE TYRES LIMITED,,,"Crown House, 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX",Truck Tyre Services,No,Unknown,UK,15420517,active,,Companies House
+A&L TYRES (STRABANE) LTD,,,"69 Hollyhill Road, Strabane, County Tyrone, Northern Ireland, BT82 0AB",Truck Tyre Services,No,Unknown,UK,NI683238,active,,Companies House
+A&M Commercial Tyres,https://www.amcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Kent,,Active,,Industry Database
+A&M TRUCK LTD,,,"29 Mulvanney Crescent, St. Helens, England, WA10 2UG",Truck Tyre Services,No,Unknown,UK,11547441,active,,Companies House
+A&M TYRES LIMITED,,,"6 Roslyn Street, Birkenhead, England, CH41 9AH",Truck Tyre Services,No,Unknown,UK,08974365,active,,Companies House
+A&O INTERNATIONAL TYRES LTD,,,"39 Denbigh Road, London, England, E6 3LF",Truck Tyre Services,No,Unknown,UK,15169917,active,,Companies House
+A&R TRUCK LTD,,,"Unit 4 34-36 Parliament Street, Small Heath, Birmingham, Westmidlands, England, B10 0QJ",Truck Tyre Services,No,Unknown,UK,11783796,active,,Companies House
+A&T TYRES & MOT LTD,,,"Unit 7 T O N Business Park 2-8, Morley Road, Tonbridge, England, TN9 1RA",Truck Tyre Services,No,Unknown,UK,16885142,active,,Companies House
+A1 HGV TRAINING LIMITED,,,"284 Gipsy Lane, Leicester, LE4 9BX",Truck Tyre Services,No,Unknown,UK,08273163,active,,Companies House
+A1 TRUCK AND TRAILER LTD,,,"The Haulage Yard Sheffield Road, Conisbrough, Doncaster, South Yorkshire, United Kingdom, DN12 3AR",Truck Tyre Services,No,Unknown,UK,16388049,active,,Companies House
+A2Z HGV TRAINING LTD,,,"11 Apsley Walk, Iver, England, SL0 9BQ",Truck Tyre Services,No,Unknown,UK,15474782,active,,Companies House
+A5 TRUCK & TRAILER REPAIR LTD,,,"Unit 2 Watling Cres, Shawell Depot, Lutterworth, United Kingdom, LE17 6AR",Truck Tyre Services,No,Unknown,UK,15288672,active,,Companies House
+A5 TRUCK STOP LTD,,,"14 Thomas Cox Wharf, Tipton, England, DY4 7EP",Truck Tyre Services,No,Unknown,UK,16825394,active,,Companies House
+AA CAPITAL TYRES LTD,,,"3 Ivy Arch Road, Worthing, England, BN14 8BX",Truck Tyre Services,No,Unknown,UK,16184093,active,,Companies House
+AA CAR FLEET LTD,,,"4 Chancellor House, Green Bank, London, England, E1W 2QB",Truck Tyre Services,No,Unknown,UK,13474644,active,,Companies House
+AA MOBILE TYRES (BLACKBURN) LTD,,,"Unit 3 67 Canterbury Street, Blackburn, Canterbury Street, Blackburn, England, BB2 2HT",Truck Tyre Services,No,Unknown,UK,16139326,active,,Companies House
+AA TYRE CENTRE LTD,,,"72 Cardigan Street, Luton, England, LU1 1RR",Truck Tyre Services,No,Unknown,UK,09511692,active,,Companies House
+AA TYRE RECYCLING UK LTD,,,"3 Wentworth Croft, Heanor, DE75 7YX",Truck Tyre Services,No,Unknown,UK,04543111,active,,Companies House
+AAA GRAVEL HILL TYRES LTD,,,"Kenilworth Gravel Hill, Chalfont St. Peter, Gerrards Cross, England, SL9 9QP",Truck Tyre Services,No,Unknown,UK,15577174,active,,Companies House
+AAA MOBILE TYRES LIMITED,,,"Elite Hand Carwash, Molesworth Street, Rochdale, United Kingdom, OL16 2AW",Truck Tyre Services,No,Unknown,UK,15152050,active,,Companies House
+AAA PARTWORN TYRES LIMITED,,,"63 Kingsway, Manchester, England, M19 2LL",Truck Tyre Services,No,Unknown,UK,12961531,active,,Companies House
+AAA TYRE GLASGOW LTD,,,"7 Govanhill Street, Glasgow, Scotland, G42 7PU",Truck Tyre Services,No,Unknown,UK,SC708140,active,,Companies House
+AAA TYRES (LANS) LIMITED,,,"164 Greenside Lane, Manchester, United Kingdom, M43 7UR",Truck Tyre Services,No,Unknown,UK,14527216,active,,Companies House
+AAA TYRES LTD,,,"4385, 11847238 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",Truck Tyre Services,No,Unknown,UK,11847238,active,,Companies House
+AAK TYRES LIMITED,,,"175b Reculver Road, Herne Bay, Kent, England, CT6 6PY",Truck Tyre Services,No,Unknown,UK,03961730,active,,Companies House
+AAM FLEETCENTRE LTD,,,"3 Eaton Court, Colmworth Business Park, Eaton Socon, Cambridgeshire, England, PE19 8ER",Truck Tyre Services,No,Unknown,UK,12937880,active,,Companies House
+AAMAR TYRES & SERVICES LTD,,,"77 Musbury Street, London, England, E1 0PL",Truck Tyre Services,No,Unknown,UK,16639227,active,,Companies House
+AARON TYRES LTD,,,"174 Midland Road, London, England, E10 6JT",Truck Tyre Services,No,Unknown,UK,03767536,active,,Companies House
+AB FLEET SERVICES LTD,,,"142 Nab Lane, Mirfield, England, WF14 9QJ",Truck Tyre Services,No,Unknown,UK,16518172,active,,Companies House
+AB UK FLEETCO LIMITED,,,"5 Churchill Place, 10th Floor, London, United Kingdom, E14 5HU",Truck Tyre Services,No,Unknown,UK,15216213,active,,Companies House
+ABA TRUCK & CRANE LTD,,,"3rd Floor, 86-90 Paul Street, London, England, EC2A 4NE",Truck Tyre Services,No,Unknown,UK,16052704,active,,Companies House
+ABBEY LIFT TRUCKS LIMITED,,,"Unit 4 Moorview Court, Plymouth, England, PL6 7PL",Truck Tyre Services,No,Unknown,UK,13500845,active,,Companies House
+ABC FLEET SAFE TRAINING LIMITED,,,"1 Doolittle Yard, Froghall Road, Ampthill, Bedfordshire, England, MK45 2NW",Truck Tyre Services,No,Unknown,UK,09853842,active,,Companies House
+ABDUL SALAM CARS TRUCKS & DUMP TRUCKS SELLING LTD,,,"53 Clyde Road, Croydon, Surrey, United Kingdom, CR0 6SY",Truck Tyre Services,No,Unknown,UK,13446833,active,,Companies House
+Aberystwyth Truck Tyres,https://www.aberystwythtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Aberystwyth,,Active,,Industry Database
+ABG LIFT TRUCK TRAINING LTD.,,,"35 Cwm Cottage Road, Abertillery, Gwent, NP13 1AT",Truck Tyre Services,No,Unknown,UK,08997129,active,,Companies House
+ABILITY LIFT TRUCK TRAINING LTD,,,"16 Gileswood Crescent, Rotherham, South Yorkshire, United Kingdom, S63 6BU",Truck Tyre Services,No,Unknown,UK,15406925,active,,Companies House
+ABLE LORRY LOADERS HOLDINGS LIMITED,,,"Charter House, 33 Greek Street, Stockport, Cheshire, SK3 8AX",Truck Tyre Services,No,Unknown,UK,10825853,active,,Companies House
+ABLE LORRY LOADERS LIMITED,,,"Charter House, 33 Greek Street, Stockport, Cheshire, SK3 8AX",Truck Tyre Services,No,Unknown,UK,08583910,active,,Companies House
+ABP TRUCK ENGINEERING LTD,,,"1b Bath Road, Wisbech, United Kingdom, PE13 3NH",Truck Tyre Services,No,Unknown,UK,12880980,active,,Companies House
+AC FLEET SOLUTIONS LTD,,,"C/O Ac Aggregates Ltd Tickhill Road, Maltby, Rotherham, United Kingdom, S66 7QN",Truck Tyre Services,No,Unknown,UK,10621563,active,,Companies House
+ACCOUNTING FLEET LTD,,,"124-128 City Road, London, England, EC1V 2NX",Truck Tyre Services,No,Unknown,UK,16199640,active,,Companies House
+ACE FLEET LTD,,,"Unit 15, Brook Estate, Brook Road, Hayes, England, UB4 0JX",Truck Tyre Services,No,Unknown,UK,13347808,active,,Companies House
+ACE FLEET MAINTENANCE LTD,,,"40 Kimbolton Road, Bedford, Bedfordshire, England, MK40 2NR",Truck Tyre Services,No,Unknown,UK,09468606,active,,Companies House
+ACE FLEET SOLUTIONS LTD,,,"272 Bath Street, Glasgow, Scotland, G2 4JR",Truck Tyre Services,No,Unknown,UK,SC805740,active,,Companies House
+ACE TRUCK DRIVE LTD,,,"27 Sandforth Road, Liverpool, England, L12 1LN",Truck Tyre Services,No,Unknown,UK,14171914,active,,Companies House
+ACI FLEET SERVICES LTD,,,"7 Fountains Walk, Lowton, Warrington, Cheshire, WA3 1EU",Truck Tyre Services,No,Unknown,UK,12005115,active,,Companies House
+ACME TRUCKING LTD,,,"11 Shawfield Close, Telford, Shropshire, United Kingdom, TF7 4BB",Truck Tyre Services,No,Unknown,UK,13515885,active,,Companies House
+ACORN TRUCK SALES LIMITED,,,"601 London Road, West Thurrock, Grays, Essex, RM20 4AU",Truck Tyre Services,No,Unknown,UK,02247837,active,,Companies House
+Acorn Truck Tyres,https://www.acorntrucktyres.co.uk,,,Independent Fitter,No,1 depot,Essex,,Active,,Industry Database
+ACTION TRUCK PARTS LIMITED,,,"Unit 77 Grimsby Business Centre, King Edward Street, Grimsby, South Humberside, DN31 3JH",Truck Tyre Services,No,Unknown,UK,05364131,active,,Companies House
+ACTIVE FLEET LTD,,,"10 Queen Street Place, London, United Kingdom, EC4R 1AG",Truck Tyre Services,No,Unknown,UK,04101167,active,,Companies House
+ACTIVE FLEET MANAGEMENT LIMITED,,,"61 Border Brook Lane, Worsley, Manchester, United Kingdom, M28 1XJ",Truck Tyre Services,No,Unknown,UK,11313628,active,,Companies House
+ACTIVE FLEET SOLUTIONS LIMITED,,,"Parkway House Second Avenue, Centrum One Hundred, Burton-On-Trent, Staffordshire, DE14 2WF",Truck Tyre Services,No,Unknown,UK,06358361,active,,Companies House
+ACTIVE LIFT TRUCKS LTD,,,"One Business Village, West Dock St, Hull, East Yorks, England, HU3 4HH",Truck Tyre Services,No,Unknown,UK,11779641,active,,Companies House
+ACTIVE TRUCKER LTD,,,"15 Wulfric Close, Sheffield, United Kingdom, S2 1GY",Truck Tyre Services,No,Unknown,UK,11886335,active,,Companies House
+ADAM'S FLEET MAINTENANCE LIMITED,,,"4 Blews Street, Birmingham, England, B6 4EP",Truck Tyre Services,No,Unknown,UK,16834991,active,,Companies House
+ADC CONSTRUCTION TRUCKS LIMITED,,,"Enterprise House The Courtyard, Old Court House Road, Bromborough, Wirral, England, CH62 4UE",Truck Tyre Services,No,Unknown,UK,10493258,active,,Companies House
+ADESI FLEET SOLUTIONS LTD,,,"Unit 5, Baker House, Curzon Drive, Grays, England, RM17 6BG",Truck Tyre Services,No,Unknown,UK,11385536,active,,Companies House
+ADI FLEET SERVICES LTD,,,"183 Sutton Road, Walsall, England, WS5 3AW",Truck Tyre Services,No,Unknown,UK,16128259,active,,Companies House
+ADM TRUCK & BUS PARTS LTD,,,"Central House Great Acre, Whelley, Wigan, Lancashire, England, WN1 3NR",Truck Tyre Services,No,Unknown,UK,11161555,active,,Companies House
+ADRIAN HGV TRANSPORT LTD,,,"20 Petworth Drive, Leicester, England, LE3 9RE",Truck Tyre Services,No,Unknown,UK,16562257,active,,Companies House
+ADSS TRUCK LTD,,,"116 Eleanor Street, Grimsby, England, DN32 8AL",Truck Tyre Services,No,Unknown,UK,16621799,active,,Companies House
+ADVANCED FLEET CARE LIMITED,,,"23a The Precinct, London Road, Waterlooville, Hampshire, England, PO7 7DT",Truck Tyre Services,No,Unknown,UK,14265825,active,,Companies House
+ADVANCED FLEET SUPPORT LTD,,,"146 Brookside Crescent, Cuffley, Potters Bar, England, EN6 4QL",Truck Tyre Services,No,Unknown,UK,14397109,active,,Companies House
+ADVANCED FORK TRUCK TRAINING LIMITED,,,"9 Quy Court, Colliers Lane Stow-Cum-Quy, Cambridge, CB25 9AU",Truck Tyre Services,No,Unknown,UK,07411275,active,,Companies House
+AEGIS FLEET LTD,,,"2 Crow Hill Lane, Great Cambourne, Cambridge, England, CB23 5AW",Truck Tyre Services,No,Unknown,UK,16192198,active,,Companies House
+AERO FLEET CONTROL LTD,,,"Suite10 Capital House 61 Amhurst Road, London, United Kingdom, E8 1LL",Truck Tyre Services,No,Unknown,UK,16397693,active,,Companies House
+AF TRUCKING SERVICES LIMITED,,,"12 Capps Place, Tuxford, Newark, England, NG22 0JE",Truck Tyre Services,No,Unknown,UK,15685980,active,,Companies House
+AFL (FLEET MANAGEMENT) LTD,,,"4th Floor, The Porter Building, 1 Brunel Way, Slough, Berkshire, United Kingdom, SL1 1FQ",Truck Tyre Services,No,Unknown,UK,07815365,active,,Companies House
+AG TRUCKING LTD,,,"64 Derwent Close, Rugby, England, CV21 1JX",Truck Tyre Services,No,Unknown,UK,15166506,active,,Companies House
+AGG TRUCKS LTD,,,"64 Feenan Highway, Tilbury, England, RM18 8JD",Truck Tyre Services,No,Unknown,UK,16208215,active,,Companies House
+AGILE FLEET ENGINEERING LTD,,,"52 Hillside Place 117 Farnborough Road, Farnborough, England, GU14 7TF",Truck Tyre Services,No,Unknown,UK,15125656,active,,Companies House
+AGILITY FLEET (PERSONAL LEASING) LIMITED,,,"Meridian House Saxon Business Park, Stoke Prior, Bromsgrove, Worcestershire, B60 4AD",Truck Tyre Services,No,Unknown,UK,06595187,active,,Companies House
+AGILITY FLEET HOLDINGS LIMITED,,,"Meridian House, Saxon Business Park, Bromsgrove, Worcestershire, United Kingdom, B60 4AD",Truck Tyre Services,No,Unknown,UK,12494076,active,,Companies House
+AGILITY FLEET LIMITED,,,"Meridian House, Saxon Business Park Stoke Prior, Bromsgrove, Worcestershire, B60 4AD",Truck Tyre Services,No,Unknown,UK,07973152,active,,Companies House
+AGILITY FLEET VEHICLE MOVEMENTS LIMITED,,,"Meridian House Saxon Business Park, Stoke Prior, Bromsgrove, Worcestershire, United Kingdom, B60 4AD",Truck Tyre Services,No,Unknown,UK,14079210,active,,Companies House
+AGL FLEETWOOD 3 LIMITED,,,"Belvedere, 12 Booth Street, Manchester, United Kingdom, M2 4AW",Truck Tyre Services,No,Unknown,UK,12660015,active,,Companies House
+AGN FLEET LIMITED,,,"The Platform Cardiff Bay Train Station, Bute Street, Cardiff, Wales, CF10 5LS",Truck Tyre Services,No,Unknown,UK,10864378,active,,Companies House
+AGR TRUCK & TRAILER LTD,,,"Block 4 Levenside Road, Vale Of Leven Industrial Estat, Dumbarton, United Kingdom, G82 3PD",Truck Tyre Services,No,Unknown,UK,SC778510,active,,Companies House
+AGUI TRUCK LTD,,,"4a Bramcote Court, Bramcote Avenue, Mitcham, England, CR4 4LR",Truck Tyre Services,No,Unknown,UK,16197972,active,,Companies House
+AH FLEET LTD,,,"50 King Street, Brynmawr, Ebbw Vale, Wales, NP23 4SU",Truck Tyre Services,No,Unknown,UK,13351141,active,,Companies House
+AH FLEET MAINTENANCE LTD,,,"11 Second Avenue, Wetherby, England, LS22 6JN",Truck Tyre Services,No,Unknown,UK,12685233,active,,Companies House
+AH FLEET SOLUTIONS LTD,,,"103 White Mill Drive, Pocklington, East Yorkshire, England, YO42 2FF",Truck Tyre Services,No,Unknown,UK,15708555,active,,Companies House
+AI FLEET LTD,,,"115 Angela Road, Horsford, Norwich, England, NR10 3HF",Truck Tyre Services,No,Unknown,UK,06681652,active,,Companies House
+AIKEN FLEET SERVICES LIMITED,,,"228 Middlewood Road, Sheffield, England, S6 1TE",Truck Tyre Services,No,Unknown,UK,13654685,active,,Companies House
+AILSA LIFT TRUCK RENTALS LTD.,,,"9 Colvilles Place, Kelvin Industrial Estate, East Kilbride, Lanarkshire, G75 0PZ",Truck Tyre Services,No,Unknown,UK,SC354888,active,,Companies House
+Airdrie Truck Tyres,https://www.airdrietrucktyres.co.uk,,,Independent Fitter,No,1 depot,Airdrie,,Active,,Industry Database
+AIREDALE FLEET RESOURCES LIMITED,,,"5 Park Lane, Guiseley, Leeds, LS20 8EP",Truck Tyre Services,No,Unknown,UK,09165767,active,,Companies House
+AJ FLEET AND CO LIMITED,,,"Hyde Park House, Cartwright Street, Hyde, Cheshire, SK14 4EH",Truck Tyre Services,No,Unknown,UK,08850958,active,,Companies House
+AJAAY FLEETS & SONS LTD,,,"30 Long Walk, London, London, United Kingdom, SE18 3TE",Truck Tyre Services,No,Unknown,UK,12017952,active,,Companies House
+AJC FLEET OPERATOR SERVICES LIMITED,,,"C/O Haworth Associates Nunn Brook Road, Huthwaite, Sutton-In-Ashfield, England, NG17 2HU",Truck Tyre Services,No,Unknown,UK,11750003,active,,Companies House
+AJF TRUCK AND PLANT REPAIRS LTD,,,"43 Beverley Drive, Prestatyn, Wales, LL19 7RA",Truck Tyre Services,No,Unknown,UK,16361878,active,,Companies House
+AJJ INDUSTRIAL TYRES LIMITED,,,"7 Stamford Square, Ashton-Under-Lyne, England, OL6 6QU",Truck Tyre Services,No,Unknown,UK,15416705,active,,Companies House
+AJJ TRUCKING LTD,,,"23 Albion Road, Gravesend, England, DA12 2SR",Truck Tyre Services,No,Unknown,UK,13971620,active,,Companies House
+AJK TRUCKS & BUS LTD,,,"The Old Courthouse, Orsett Road, Grays, England, RM17 5DD",Truck Tyre Services,No,Unknown,UK,12477101,active,,Companies House
+AK FLEET GROUP LTD,,,"Unit 2 13 Nursery Lane, London, Greater London, England, E7 8BL",Truck Tyre Services,No,Unknown,UK,12604912,active,,Companies House
+AK FLEET SUPPORT LTD,,,"3 Newbattle Road, Newtongrange, Scotland, EH22 4RA",Truck Tyre Services,No,Unknown,UK,SC775393,active,,Companies House
+AK HGV DRIVING AND SHUNTING SERVICES LTD,,,"6-8 Freeman Street, Grimsby, N.E Lincs, DN32 7AA",Truck Tyre Services,No,Unknown,UK,08452711,active,,Companies House
+ALBERT STREET (FLEET) MANAGEMENT COMPANY LIMITED,,,"1 Harman Court, Albert Street, Fleet, England, GU51 3RN",Truck Tyre Services,No,Unknown,UK,11713631,active,,Companies House
+ALBERT STREET MANAGEMENT (FLEET) LIMITED,,,"Stonemead House, 95 London Road, Croydon, Surrey, United Kingdom, CR0 2RF",Truck Tyre Services,No,Unknown,UK,01964150,active,,Companies House
+ALDERSHOT AND FLEET RUGBY UNION FOOTBALL CLUB LIMITED,,,"Aldershot & Fleet Rufc, Heron Wood Road, Aldershot, Hampshire, England, GU12 4AL",Truck Tyre Services,No,Unknown,UK,07517968,active,,Companies House
+ALEK HGV LTD,,,"60 Grange Avenue, Derby, England, DE23 8DG",Truck Tyre Services,No,Unknown,UK,14636359,active,,Companies House
+ALEX B HGV LTD,,,"87 London Road, Markyate, St. Albans, England, AL3 8JP",Truck Tyre Services,No,Unknown,UK,14038419,active,,Companies House
+ALEX HGV LTD,,,"Flat 10 St. Johns Court, St. Johns Avenue, Rotherham, England, S60 1EZ",Truck Tyre Services,No,Unknown,UK,15999727,active,,Companies House
+ALEXO FLEETS LIMITED,,,"8 Milldun Way, High Wycombe, England, HP12 3JA",Truck Tyre Services,No,Unknown,UK,16540579,active,,Companies House
+ALOTO FLEET MANAGEMENT LIMITED,,,"81 Hyperion Walk, Horley, Surrey, England, RH6 7DB",Truck Tyre Services,No,Unknown,UK,08036142,active,,Companies House
+ALPHA FLEET MANAGEMENT LTD,,,"Unit 9 Byford Court Crockatt Road, Hadleigh, Ipswich, England, IP7 6RD",Truck Tyre Services,No,Unknown,UK,16211632,active,,Companies House
+ALPHA FLEET SOLUTIONS LTD,,,"23 Northgate, Cradley Heath, England, B64 6AU",Truck Tyre Services,No,Unknown,UK,15260596,active,,Companies House
+ALPHA HGV RECRUITMENT AND TRAINING LTD,,,"Suite E Whitestone Business Park, Withington, Hereford, England, HR1 3SE",Truck Tyre Services,No,Unknown,UK,09477406,active,,Companies House
+ALPHA OMEGA FLEET SERVICES LTD,,,"144a High Street, Rayleigh, England, SS6 7BU",Truck Tyre Services,No,Unknown,UK,13257264,active,,Companies House
+ALPHA TRIO FLEET LTD,,,"2 West End, Elstow, Bedford, England, MK42 9XR",Truck Tyre Services,No,Unknown,UK,16530526,active,,Companies House
+ALTENS LORRY PARK DEVELOPMENT LIMITED,,,"Site Office, Altens Lorry Park Hareness Road, Altens Industrial Estate, Aberdeen, Scotland, AB12 3LE",Truck Tyre Services,No,Unknown,UK,SC178598,active,,Companies House
+ALTO FLEET SERVICES LIMITED,,,"105 Garstang Road, Preston, Lancashire, England, PR1 1LD",Truck Tyre Services,No,Unknown,UK,11707109,active,,Companies House
+AMBER FLEET MANAGEMENT LIMITED,,,"C/O Gryson House The Grove, Pontllanfraith, Blackwood, United Kingdom, NP12 2EQ",Truck Tyre Services,No,Unknown,UK,04641231,active,,Companies House
+AMD FLEET SERVICES LIMITED,,,"Unit 6 Stevenson Road, South Yorkshire, Sheffield, United Kingdom, S9 3XG",Truck Tyre Services,No,Unknown,UK,15958263,active,,Companies House
+"AMERIT FLEET SOLUTIONS UK, LTD",,,"Suite 1, 7th Floor 50 Broadway, London, United Kingdom, SW1H 0DB",Truck Tyre Services,No,Unknown,UK,16893981,active,,Companies House
+AMEY DEFENCE EQUIPMENT (FLEET MANAGEMENT) LIMITED,,,"Chancery Exchange, 10 Furnival Street, London, United Kingdom, EC4A 1AB",Truck Tyre Services,No,Unknown,UK,15730123,active,,Companies House
+AMK HGV LTD,,,"3 Wellington Drive, Middleton St. George, Darlington, England, DL2 1FJ",Truck Tyre Services,No,Unknown,UK,16411110,active,,Companies House
+AML HGV SERVICES LTD,,,"66 Langley Close, St. Ives, England, PE27 5SE",Truck Tyre Services,No,Unknown,UK,10301809,active,,Companies House
+ANDREI HGV TRANS LTD,,,"43 Bradleigh Avenue, Grays, England, RM17 5XD",Truck Tyre Services,No,Unknown,UK,10524145,active,,Companies House
+ANDY EMERTON HGV SERVICES LTD,,,"Ground Floor Vista Building, St David's Park, Ewloe, Deeside, Wales, CH5 3DT",Truck Tyre Services,No,Unknown,UK,11028080,active,,Companies House
+ANTONIO HGV LTD,,,"6a Mossfield Road, Birmingham, England, B14 7JB",Truck Tyre Services,No,Unknown,UK,13505350,active,,Companies House
+Antrim Commercial Tyres,https://www.antrimcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Antrim,,Active,,Industry Database
+AP HGV LTD,,,"59 South Oval, Northampton, United Kingdom, NN5 7LF",Truck Tyre Services,No,Unknown,UK,11271530,active,,Companies House
+Articulated Trailer Tyres,https://www.articulatedtrailertyres.co.uk,,,Trailer Specialist,No,2 depots,Midlands,,Active,,Industry Database
+ASH NEWMAN HGV MECHANIC LTD,,,"Brook House Church Lane, Garforth, Leeds, England, LS25 1HB",Truck Tyre Services,No,Unknown,UK,12434555,active,,Companies House
+Ashford Commercial Tyres,https://www.ashfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Ashford,,Active,,Industry Database
+Ashington Commercial Tyres,https://www.ashingtoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Ashington,,Active,,Industry Database
+AUGUSTIN HGV LTD,,,"4 Wilden Crescent, Nottingham, England, NG11 8FH",Truck Tyre Services,No,Unknown,UK,16016866,active,,Companies House
+Autotech Truck Tyres,https://www.autotechtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Surrey,,Active,,Industry Database
+Aylesbury Truck Tyres,https://www.aylesburytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Aylesbury,,Active,,Industry Database
+Ayr Commercial Tyres,https://www.ayrcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Ayr,,Active,,Industry Database
+B&B HGV SERVICES LTD,,,"76 Sheepwalk, Peterborough, England, PE4 7BJ",Truck Tyre Services,No,Unknown,UK,11393320,active,,Companies House
+B&P LORRY LTD,,,"137 County Road, Walton, Liverpool, England, L4 3QF",Truck Tyre Services,No,Unknown,UK,11589817,active,,Companies House
+BALAN HGV DELIVERY LTD,,,"88 Westfield Road, Berkhamsted, England, HP4 3PW",Truck Tyre Services,No,Unknown,UK,10454130,active,,Companies House
+BALLA LORRY PARK (AVONMOUTH) LTD,,,"C/O Balla Group, Unit 2 Acorn Farm Green Lane, Cutts Heath, Wotton-Under-Edge, United Kingdom, GL12 8QW",Truck Tyre Services,No,Unknown,UK,14059976,active,,Companies House
+BALLTY HGV LIMITED,,,"37 Columbine Road, Rochester, England, ME2 2YA",Truck Tyre Services,No,Unknown,UK,09777441,active,,Companies House
+Ballymena Commercial Tyres,https://www.ballymenacommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Ballymena,,Active,,Industry Database
+Bangor NI Truck Tyres,https://www.bangornitruck.co.uk,,,Independent Fitter,No,1 depot,Bangor NI,,Active,,Industry Database
+Bangor Truck Tyres,https://www.bangortrucktyres.co.uk,,,Independent Fitter,No,1 depot,Bangor,,Active,,Industry Database
+Barking Truck Tyres,https://www.barkingtrucktyres.co.uk,,,Independent Fitter,No,1 depot,East London,,Active,,Industry Database
+Barnes Truck Tyres,https://www.barnestrucktyres.co.uk,,,Family Business,No,1 depot,Yorkshire,,Active,,Industry Database
+Barnsley Commercial Tyres,https://www.barnsleycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Barnsley,,Active,,Industry Database
+Barnstaple Commercial Tyres,https://www.barnstaplecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Barnstaple,,Active,,Industry Database
+Barrow Truck Tyres,https://www.barrowtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Barrow-in-Furness,,Active,,Industry Database
+Barry Commercial Tyres,https://www.barrycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Barry,,Active,,Industry Database
+BART HGV LTD,,,"82 Tyne Close, Spalding, England, PE11 3DN",Truck Tyre Services,No,Unknown,UK,11627377,active,,Companies House
+BARTEK HGV LTD,,,"Flat 17 Jasmine House, 18 Braunston Close, Northampton, United Kingdom, NN4 8QZ",Truck Tyre Services,No,Unknown,UK,12239176,active,,Companies House
+Basildon Commercial Tyres,https://www.basildoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Basildon,,Active,,Industry Database
+Basingstoke Truck Tyres,https://www.basingstoketrucktyres.co.uk,,,Independent Fitter,No,1 depot,Basingstoke,,Active,,Industry Database
+Bath Commercial Tyres,https://www.bathcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Bath,,Active,,Industry Database
+BB HGV LTD,,,"8a De Lacy Row, Castlefields, Runcorn, England, WA7 2NB",Truck Tyre Services,No,Unknown,UK,16296330,active,,Companies House
+BB LORRY WASH LIMITED,,,"16 Fords Park Road, London, England, E16 1NL",Truck Tyre Services,No,Unknown,UK,16267863,active,,Companies House
+Bennett's Truck Tyres,https://www.bennettstrucktyres.co.uk,,,Family Business,No,2 depots,Southwest,,Active,,Industry Database
+BERRIES HGV LTD,,,"58 Home Farm Drive, Boughton, Northampton, England, NN2 8GT",Truck Tyre Services,No,Unknown,UK,15819843,active,,Companies House
+Berwick Truck Tyres,https://www.berwicktrucktyres.co.uk,,,Independent Fitter,No,1 depot,Berwick-upon-Tweed,,Active,,Industry Database
+Bexley Commercial Tyres,https://www.bexleycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Bexley,,Active,,Industry Database
+BHO HGV TRANSPORT LTD,,,"31 Claremont Road, Luton, England, LU4 8LY",Truck Tyre Services,No,Unknown,UK,16635851,active,,Companies House
+Bideford Truck Tyres,https://www.bidefordtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Bideford,,Active,,Industry Database
+Birch Truck Tyres,https://www.birchtrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,M62 Birch,,Active,,Industry Database
+Birkenhead Truck Tyres,https://www.birkenheadtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Birkenhead,,Active,,Industry Database
+Bishop Auckland Truck Tyres,https://www.bishopaucklandtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Bishop Auckland,,Active,,Industry Database
+BIZON HGV DRIVER LTD,,,"Foxholes, Bourton, Much Wenlock, Shropshire, England, TF13 6QH",Truck Tyre Services,No,Unknown,UK,12792518,active,,Companies House
+Blackburn Truck Tyres,https://www.blackburntrucktyres.co.uk,,,Independent Fitter,No,1 depot,Blackburn,,Active,,Industry Database
+Blackpool Truck Tyres,https://www.blackpooltrucktyres.co.uk,,,Independent Fitter,No,1 depot,Blackpool,,Active,,Industry Database
+Blyth Truck Tyres,https://www.blythtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Blyth,,Active,,Industry Database
+BM HGV SERVICES LTD,,,"53 Water Meadows, Worksop, United Kingdom, S80 3DB",Truck Tyre Services,No,Unknown,UK,16502462,active,,Companies House
+BMS HGV MAINTENANCE LTD,,,"129 Quince, Tamworth, England, B77 4ET",Truck Tyre Services,No,Unknown,UK,14454873,active,,Companies House
+BOGDAN HGV TRANS LTD,,,"29 Irby Street, Boston, England, PE21 8SA",Truck Tyre Services,No,Unknown,UK,13930519,active,,Companies House
+BOLTON LORRY PARK LIMITED,,,"Bolton Lorry Park Mill Hill Industrial Estate, Mill Street, Bolton, BL1 1UG",Truck Tyre Services,No,Unknown,UK,07273827,active,,Companies House
+Bolton Truck Tyres,https://www.boltontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Bolton,,Active,,Industry Database
+BOOK A LORRY LIMITED,,,"7 Whiteleys Parade, Uxbridge Road, Hillingdon, Uxbridge, England, UB10 0PD",Truck Tyre Services,No,Unknown,UK,12957133,active,,Companies House
+BOSTON HGV TESTING STATION LIMITED,,,"Riverside Industrial Estate, Marsh Lane, Boston, Lincolnshire, PE21 7PJ",Truck Tyre Services,No,Unknown,UK,07059521,active,,Companies House
+Boston Truck Tyres,https://www.bostontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Boston,,Active,,Industry Database
+Bournemouth Commercial Tyres,https://www.bournemouthcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Bournemouth,,Active,,Industry Database
+Braintree Truck Tyres,https://www.braintreetrucktyres.co.uk,,,Independent Fitter,No,1 depot,Braintree,,Active,,Industry Database
+BRAKE STOP HGV LIMITED,,,"Unit 1 Montague House, 527 Green Lane, Ilford, England, IG3 9RH",Truck Tyre Services,No,Unknown,UK,16053970,active,,Companies House
+BRANSONS CROSS LORRY PARK LIMITED,,,"The Chestnuts Bransons Cross Farm, Beoley Lane, Beoley, Redditch, Worcestershire, United Kingdom, B98 9DP",Truck Tyre Services,No,Unknown,UK,13339737,active,,Companies House
+BRIDGEND HGV DRIVER TRAINING LIMITED,,,"12 Heol-Y-Berllan, Pyle, Bridgend, Wales, CF33 6LE",Truck Tyre Services,No,Unknown,UK,15105658,active,,Companies House
+Bridgend Truck Tyres,https://www.bridgendtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Bridgend,,Active,,Industry Database
+Brighton Commercial Tyres,https://www.brightoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Brighton,,Active,,Industry Database
+Bromley Truck Tyres,https://www.bromleytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Bromley,,Active,,Industry Database
+BROOKS HGV SERVICES LTD,,,"129 Old Highway, Hoddesdon, England, EN11 0LY",Truck Tyre Services,No,Unknown,UK,14756363,active,,Companies House
+Budget Truck Tyres,https://www.budgettrucktyres.co.uk,,,Online Retailer,No,Fitter network,National,,Active,,Industry Database
+BUDS HGV LIMITED,,,"13 Walsingham Close, Bedford, England, MK42 9GY",Truck Tyre Services,No,Unknown,UK,15790471,active,,Companies House
+Burnley Commercial Tyres,https://www.burnleycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Burnley,,Active,,Industry Database
+Burton Truck Tyres,https://www.burtontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Burton-on-Trent,,Active,,Industry Database
+Bury Commercial Tyres,https://www.burycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Bury,,Active,,Industry Database
+Bury St Edmunds Truck Tyres,https://www.burysttrucktyres.co.uk,,,Independent Fitter,No,1 depot,Bury St Edmunds,,Active,,Industry Database
+BUS 2 HGV LTD,,,"6 Moss Square, Macclesfield, England, SK11 7ST",Truck Tyre Services,No,Unknown,UK,12357722,active,,Companies House
+C MORGAN HGV AND PLANT OPERATING LIMITED,,,"Solway House, Main Road, Maryport, England, CA15 8RR",Truck Tyre Services,No,Unknown,UK,08680819,active,,Companies House
+Caerphilly Commercial Tyres,https://www.caerphillycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Caerphilly,,Active,,Industry Database
+CALZANE HGV SERVICES LTD,,,"23-27 Bolton Street, Chorley, Lancashire, PR7 3AA",Truck Tyre Services,No,Unknown,UK,08123174,active,,Companies House
+CAMPBELL ROAD LORRY PARK LTD,,,"William Croft Thorney Edge Road, Bagnall, Stoke-On-Trent, England, ST9 9LD",Truck Tyre Services,No,Unknown,UK,14775749,active,,Companies House
+CANNOCK HGV TRAINING LTD,,,"39 Hunter Road, Cannock, United Kingdom, WS11 0AE",Truck Tyre Services,No,Unknown,UK,12291537,active,,Companies House
+Canterbury Truck Tyres,https://www.canterburytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Canterbury,,Active,,Industry Database
+Carlisle Truck Tyres,https://www.carlisletrucktyres.co.uk,,,Independent Fitter,No,1 depot,Carlisle,,Active,,Industry Database
+Carmarthen Truck Tyres,https://www.carmarthentrucktyres.co.uk,,,Independent Fitter,No,1 depot,Carmarthen,,Active,,Industry Database
+Carrickfergus Commercial Tyres,https://www.carrickferguscommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Carrickfergus,,Active,,Industry Database
+Castleford Commercial Tyres,https://www.castlefordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Castleford,,Active,,Industry Database
+CELTIC HGV TRAINING LTD,,,"12 Heol Y Berllan, Pyle, Bridgend, United Kingdom, CF33 6LE",Truck Tyre Services,No,Unknown,UK,13955796,active,,Companies House
+Cheap Truck Tyres UK,https://www.cheaptrucktyres.co.uk,,,Online Retailer,No,Fitter network,National,,Active,,Industry Database
+Chelmsford Truck Tyres,https://www.chelmsfordtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Chelmsford,,Active,,Industry Database
+Cheltenham Commercial Tyres,https://www.cheltenhamcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Cheltenham,,Active,,Industry Database
+Chester Commercial Tyres,https://www.chestercommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Chester,,Active,,Industry Database
+Chesterfield Commercial Tyres,https://www.chesterfieldcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Chesterfield,,Active,,Industry Database
+Chippenham Truck Tyres,https://www.chippenhamtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Chippenham,,Active,,Industry Database
+Cirencester Commercial Tyres,https://www.cirencestercommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Cirencester,,Active,,Industry Database
+Clacton Commercial Tyres,https://www.clactoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Clacton,,Active,,Industry Database
+CLD LORRY UK LTD,,,"9 Belgravia Drive, Bridgwater, England, TA6 4GH",Truck Tyre Services,No,Unknown,UK,11661993,active,,Companies House
+CMFKEOGH HGV/PSV TECH LTD,,,"Connor Keogh, 213b Harefield Road, Uxbridge, London, Uxbridge, United Kingdom, UB8 1PP",Truck Tyre Services,No,Unknown,UK,14636525,active,,Companies House
+Coalville Commercial Tyres,https://www.coalvillecommercialtyres.co.uk,,,Truck Stop Specialist,No,1 depot,Coalville,,Active,,Industry Database
+Coatbridge Commercial Tyres,https://www.coatbridgecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Coatbridge,,Active,,Industry Database
+Colchester Commercial Tyres,https://www.colchestercommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Colchester,,Active,,Industry Database
+Coleraine Truck Tyres,https://www.colerainetruck.co.uk,,,Independent Fitter,No,1 depot,Coleraine,,Active,,Industry Database
+COLIN WELLINGS HGV DRIVING. LTD,,,"Mythe Villa Farm,, Mythe Road, Tewkesbury, United Kingdom, GL20 6EB",Truck Tyre Services,No,Unknown,UK,11224466,active,,Companies House
+Colwyn Bay Truck Tyres,https://www.colwynbaytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Colwyn Bay,,Active,,Industry Database
+COMELU HGV TRANS LTD,,,"80 Freiston Road, Boston, England, PE21 0JH",Truck Tyre Services,No,Unknown,UK,15955150,active,,Companies House
+Commercial Tyre Direct,https://www.commercialtyredirect.co.uk,,,Online Retailer,No,Fitter network,National,,Active,,Industry Database
+Commercial Vehicle Tyres Online,https://www.commercialvehicletyresonline.co.uk,,,Online Retailer,No,Fitter network,National,,Active,,Industry Database
+Commercial Wheel Alignment UK,https://www.commercialwheelalignment.co.uk,,,Wheel Services,No,5 centres,National,,Active,,Industry Database
+COMPETITIVE HGV TRANSPORT LTD,,,"53 Caernarvon Drive, Ilford, England, IG5 0XE",Truck Tyre Services,No,Unknown,UK,15328040,active,,Companies House
+Consett Commercial Tyres,https://www.consettcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Consett,,Active,,Industry Database
+Container Trailer Tyres,https://www.containertrailertyres.co.uk,,,Trailer Specialist,No,1 depot,Southeast ports,,Active,,Industry Database
+Cookstown Truck Tyres,https://www.cookstowntrucktyres.co.uk,,,Independent Fitter,No,1 depot,Cookstown,,Active,,Industry Database
+COOPERS HGV & PLANT SERVICES LTD,,,"4 Lancelot Court, Hull, England, HU9 1QD",Truck Tyre Services,No,Unknown,UK,15746040,active,,Companies House
+Corby Truck Tyres,https://www.corbytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Corby,,Active,,Industry Database
+Corley Truck Tyres,https://www.corleytrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,M6 Corley,,Active,,Industry Database
+CPC NATIONWIDE HGV LIMITED,,,"Granby House Granby Avenue, Garretts Green, Birmingham, West Midlands, B33 0SS",Truck Tyre Services,No,Unknown,UK,08060988,active,,Companies House
+CPS HGV SOLUTIONS LTD,,,"9 Hoades Avenue, Woodsetts, Worksop, England, S81 8QQ",Truck Tyre Services,No,Unknown,UK,16594669,active,,Companies House
+Craigavon Truck Tyres,https://www.craigavontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Craigavon,,Active,,Industry Database
+Crawley Truck Tyres,https://www.crawleytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Crawley,,Active,,Industry Database
+Crewe Truck Tyres,https://www.crewetrucktyres.co.uk,,,Independent Fitter,No,1 depot,Crewe,,Active,,Industry Database
+Crick Commercial Tyres,https://www.crickcommercialtyres.co.uk,,,Truck Stop Specialist,No,1 depot,Crick,,Active,,Industry Database
+CRIS HGV LTD,,,"67 Abbey Drive, Luton, England, LU2 0LQ",Truck Tyre Services,No,Unknown,UK,12204580,active,,Companies House
+Croydon Commercial Tyres,https://www.croydoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Croydon,,Active,,Industry Database
+Cumbernauld Truck Tyres,https://www.cumbernauldtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Cumbernauld,,Active,,Industry Database
+Cwmbran Truck Tyres,https://www.cwmbrantrucktyres.co.uk,,,Independent Fitter,No,1 depot,Cwmbran,,Active,,Industry Database
+D LYNCH HGV REPAIRS LIMITED,,,"23a Dudden Hill Lane, London, England, NW10 2ET",Truck Tyre Services,No,Unknown,UK,07211588,active,,Companies House
+Dagenham Truck Tyres,https://www.dagenhamtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Dagenham,,Active,,Industry Database
+DAMIAN GILDER HGV LIMITED,,,"328 Shaw Rd Shaw Road, Oldham, United Kingdom, OL1 4WH",Truck Tyre Services,No,Unknown,UK,11804736,active,,Companies House
+DAMIAN HGV LTD,,,"22 Rockingham Court, Barnsley, South Yorkshire, United Kingdom, S71 1HL",Truck Tyre Services,No,Unknown,UK,15058566,active,,Companies House
+Darlington Truck Tyres,https://www.darlingtontrucktyres.co.uk,,,Independent Fitter,No,2 depots,Darlington,,Active,,Industry Database
+Dartford Commercial Tyres,https://www.dartfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dartford,,Active,,Industry Database
+DAVE MOORE HGV LOGISTICS LIMITED,,,"7 High Street, Broughton, Kettering, England, NN14 1NF",Truck Tyre Services,No,Unknown,UK,06196188,active,,Companies House
+Daventry Truck Tyres,https://www.daventrytrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,Daventry,,Active,,Industry Database
+DAVID HGV DRIVER LIMITED,,,"313 Greenhaven Drive, London, England, SE28 8FY",Truck Tyre Services,No,Unknown,UK,09324687,active,,Companies House
+DDL HGV WORK LTD,,,"Unit A6 Lords Wood Road Lords Wood Road, Harworth, Doncaster, England, DN11 8BZ",Truck Tyre Services,No,Unknown,UK,12616998,active,,Companies House
+Dewsbury Commercial Tyres,https://www.dewsburycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dewsbury,,Active,,Industry Database
+DHILLON HGV LIMITED,,,"1 Lincoln Avenue, Willenhall, England, WV13 1JE",Truck Tyre Services,No,Unknown,UK,14695895,active,,Companies House
+DIRECT HGV DRIVER TRAINING LTD,,,"222 High Street, Methil, Fife, United Kingdom, KY8 3EF",Truck Tyre Services,No,Unknown,UK,SC845459,active,,Companies House
+DIRFT Commercial Tyres,https://www.dirftcommercialtyres.co.uk,,,Truck Stop Specialist,No,1 depot,Daventry,,Active,,Industry Database
+Discount Commercial Tyres,https://www.discountcommercialtyres.co.uk,,,Online Retailer,No,Fitter network,National,,Active,,Industry Database
+DK HGV LTD,,,"27 Nuneaton Road, Bedworth, United Kingdom, CV12 8AN",Truck Tyre Services,No,Unknown,UK,16528879,active,,Companies House
+DM HGV CONSULTANCY LIMITED,,,"7 The Pastures, St. Helens, Merseyside, United Kingdom, WA9 4ZA",Truck Tyre Services,No,Unknown,UK,15176600,active,,Companies House
+DMC HGV SOLUTIONS LTD,,,"272 Bath Street, Glasgow, Scotland, G2 4JR",Truck Tyre Services,No,Unknown,UK,SC784069,active,,Companies House
+DN40 HGV LTD,,,"The Poplars Ulceby Road, South Killingholme, Immingham, England, DN40 3JB",Truck Tyre Services,No,Unknown,UK,14485210,active,,Companies House
+DNT HGV SERVICES LIMITED,,,"33 Broughton Road, Pontefract, England, WF8 2GR",Truck Tyre Services,No,Unknown,UK,12735520,active,,Companies House
+Doncaster Commercial Tyres,https://www.doncastercommercialtyres.co.uk,,,Independent Fitter,No,2 depots,Doncaster,,Active,,Industry Database
+Dorchester Commercial Tyres,https://www.dorchestercommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dorchester,,Active,,Industry Database
+DORU HGV SERVICES LIMITED,,,"32 The Crescent, Spalding, Lincs, PE11 1AF",Truck Tyre Services,No,Unknown,UK,10006075,active,,Companies House
+Dover Commercial Tyres,https://www.dovercommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dover,,Active,,Industry Database
+DOVER LORRY PARK LIMITED,,,"Minnis Farm Greenwich Lane, Ewell Minnis, Dover, England, CT15 7EA",Truck Tyre Services,No,Unknown,UK,16358800,active,,Companies House
+Downpatrick Truck Tyres,https://www.downpatricktrucktyres.co.uk,,,Independent Fitter,No,1 depot,Downpatrick,,Active,,Industry Database
+DRIVER LORRY LIMITED,,,"19 Old Tovil Road, Flat A, Maidstone, United Kingdom, ME15 6PR",Truck Tyre Services,No,Unknown,UK,10511425,active,,Companies House
+DRIVERS HGV FOR YOU LTD,,,"4385, 12821610 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",Truck Tyre Services,No,Unknown,UK,12821610,active,,Companies House
+DRIVING HGV LIMITED,,,"30 Falcon Crescent, Enfield, England, EN3 4LT",Truck Tyre Services,No,Unknown,UK,09899220,active,,Companies House
+DRIVING HGV SERVICES LTD,,,"56 Pen Y Graig, Denbigh, Wales, LL16 3YY",Truck Tyre Services,No,Unknown,UK,14098626,active,,Companies House
+Dudley Commercial Tyres,https://www.dudleycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dudley,,Active,,Industry Database
+Dumfries Commercial Tyres,https://www.dumfriescommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dumfries,,Active,,Industry Database
+Dunfermline Commercial Tyres,https://www.dunfermlinecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dunfermline,,Active,,Industry Database
+Dungannon Commercial Tyres,https://www.dungannoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Dungannon,,Active,,Industry Database
+Durham Commercial Tyres,https://www.durhamcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Durham,,Active,,Industry Database
+DUTTON HGV SERVICES LTD,,,"5 Abbey Green, Dodworth, Barnsley, England, S75 3PS",Truck Tyre Services,No,Unknown,UK,11592838,active,,Companies House
+DW HGV SERVICES LIMITED,,,"76 Market Street, Farnworth, Bolton, Lancashire, United Kingdom, BL4 7NY",Truck Tyre Services,No,Unknown,UK,13777895,active,,Companies House
+E.K TRANSPORT HGV LTD,,,"Accountancy Today Limited C/O Tattershall Bridge Cottage, Sleaford Road, Lincoln, Lincolnshire, United Kingdom, LN4 4JG",Truck Tyre Services,No,Unknown,UK,11289397,active,,Companies House
+East Kilbride Commercial Tyres,https://www.eastkilbridecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,East Kilbride,,Active,,Industry Database
+Eastern Tyre Distributors,https://www.easterntyredistributors.co.uk,,,Small Wholesaler,Yes,1 warehouse,East Anglia,,Active,,Industry Database
+EASY AS HGV LTD,,,"Higgison House, 381 - 383 City Road, London, EC1V 1NW",Truck Tyre Services,No,Unknown,UK,06472128,active,,Companies House
+EASY HGV HIRE LTD,,,"20 Wenlock Road, London, England, N1 7GU",Truck Tyre Services,No,Unknown,UK,16045069,active,,Companies House
+EASY LORRY LTD,,,"25 Garner Court, Huntingdon, England, PE29 1GE",Truck Tyre Services,No,Unknown,UK,13852189,active,,Companies House
+EASY WAY HGV EXPRESS LTD,,,"115 Soho Hill, Birmingham, England, B19 1AY",Truck Tyre Services,No,Unknown,UK,16585478,active,,Companies House
+Ebbw Vale Commercial Tyres,https://www.ebbwvalecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Ebbw Vale,,Active,,Industry Database
+Elgin Truck Tyres,https://www.elgintrucktyres.co.uk,,,Independent Fitter,No,1 depot,Elgin,,Active,,Industry Database
+ELISA LORRY LIMITED,,,"18 St. Davids Road, Leicester, England, LE3 6TY",Truck Tyre Services,No,Unknown,UK,10671297,active,,Companies House
+ELITE HGV TRAINING LIMITED,,,"37 Wilson Road Huyton, Liverpool, Merseyside, England, L36 6AN",Truck Tyre Services,No,Unknown,UK,12949874,active,,Companies House
+ELITE LORRY TRANS LTD,,,"256 Lockhurst Lane, Coventry, England, CV6 5NJ",Truck Tyre Services,No,Unknown,UK,16019380,active,,Companies House
+Ellesmere Port Truck Tyres,https://www.ellesmereporttrucktyres.co.uk,,,Independent Fitter,No,1 depot,Ellesmere Port,,Active,,Industry Database
+ELLIOTT HGV LTD,,,"45 Jupiter Way, Holloway, London, N7 8XW",Truck Tyre Services,No,Unknown,UK,06254642,active,,Companies House
+EMY PRIME LORRY LTD,,,"52 Crabmill Lane, Coventry, West Middlands, United Kingdom, CV6 5HA",Truck Tyre Services,No,Unknown,UK,16100191,active,,Companies House
+Enfield Truck Tyres,https://www.enfieldtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Enfield,,Active,,Industry Database
+Enniskillen Truck Tyres,https://www.enniskillentrucktyres.co.uk,,,Independent Fitter,No,1 depot,Enniskillen,,Active,,Industry Database
+Erith Commercial Tyres,https://www.erithcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Erith,,Active,,Industry Database
+ESSEX HGV DRIVER LTD,,,"3rd Floor, 86-90 Paul Street, London, England, EC2A 4NE",Truck Tyre Services,No,Unknown,UK,16285215,active,,Companies House
+EU LORRY DRIVER RECRUITMENT AGENCY LTD,,,"4 Leopold House,, 17 Leopold Road, Felixstowe, England, IP11 7NP",Truck Tyre Services,No,Unknown,UK,11303252,active,,Companies House
+EURO LORRY PARTS LTD,,,"C/O Atex Business Solutions Ltd, Premier Business Centre,, 47-49 Park Royal Road, London, England, NW10 7LQ",Truck Tyre Services,No,Unknown,UK,07485410,active,,Companies House
+EVOLUTION HGV & TRAILER REPAIRS LIMITED,,,"71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",Truck Tyre Services,No,Unknown,UK,15380540,active,,Companies House
+Exeter Truck Tyres,https://www.exetertrucktyres.co.uk,,,Independent Fitter,No,1 depot,Exeter,,Active,,Industry Database
+Falkirk Truck Tyres,https://www.falkirktrucktyres.co.uk,,,Independent Fitter,No,1 depot,Falkirk,,Active,,Industry Database
+FC LGV AND HGV TRAINING LTD,,,"118 Lady Pit Lane, Leeds, West Yorkshire, England, LS11 6EE",Truck Tyre Services,No,Unknown,UK,13827053,active,,Companies House
+Felixstowe Commercial Tyres,https://www.felixstowecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Felixstowe,,Active,,Industry Database
+FIG BUSTER HGV LTD,,,"2 Hollington Road, Alvechurch, Birmingham, England, B48 7LQ",Truck Tyre Services,No,Unknown,UK,09002964,active,,Companies House
+FIND HGV LIMITED,,,"85 Mount Pleasant, Bilston, England, WV14 7NR",Truck Tyre Services,No,Unknown,UK,13958165,active,,Companies House
+Fleet Tyres Online,https://www.fleettyresonline.co.uk,,,Online Retailer,No,Fitter network,National,,Active,,Industry Database
+Fleet Wheel Alignment,https://www.fleetwheelalignment.co.uk,,,Wheel Services,No,Mobile,National,,Active,,Industry Database
+Fletcher's Truck Tyres,https://www.fletcherstrucktyres.co.uk,,,Family Business,No,1 depot,Midlands,,Active,,Industry Database
+Folkestone Truck Tyres,https://www.folkestonetrucktyres.co.uk,,,Independent Fitter,No,1 depot,Folkestone,,Active,,Industry Database
+Fort William Commercial Tyres,https://www.fortwilliamcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Fort William,,Active,,Industry Database
+Foster's Commercial Tyres,https://www.fosterscommercialtyres.co.uk,,,Family Business,No,1 depot,Midlands,,Active,,Industry Database
+Fraserburgh Truck Tyres,https://www.fraserburghtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Fraserburgh,,Active,,Industry Database
+Gateshead Truck Tyres,https://www.gatesheadtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Gateshead,,Active,,Industry Database
+GIANNI LORRY & CAB LIMITED,,,"3 Bannister Drive, Eagle Farm South, Milton Keynes, Buckinghamshire, United Kingdom, MK17 7EQ",Truck Tyre Services,No,Unknown,UK,15010756,active,,Companies House
+Glenrothes Truck Tyres,https://www.glenrothestrucktyres.co.uk,,,Independent Fitter,No,1 depot,Glenrothes,,Active,,Industry Database
+GOOD LORRY LTD,,,"14 Dovecote Lane, Little Hulton, Manchester, England, M38 0FS",Truck Tyre Services,No,Unknown,UK,15185579,active,,Companies House
+Goole Truck Tyres,https://www.gooletrucktyres.co.uk,,,Independent Fitter,No,1 depot,Goole,,Active,,Industry Database
+Graham's Commercial Tyres,https://www.grahamscommercialtyres.co.uk,,,Family Business,No,1 depot,Northwest,,Active,,Industry Database
+Grantham Commercial Tyres,https://www.granthamcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Grantham,,Active,,Industry Database
+Grays Truck Tyres,https://www.graystrucktyres.co.uk,,,Independent Fitter,No,1 depot,Thurrock,,Active,,Industry Database
+Great Yarmouth Commercial Tyres,https://www.greatyarmouthcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Great Yarmouth,,Active,,Industry Database
+Greenock Truck Tyres,https://www.greenocktrucktyres.co.uk,,,Independent Fitter,No,1 depot,Greenock,,Active,,Industry Database
+Greenwich Commercial Tyres,https://www.greenwichcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Greenwich,,Active,,Industry Database
+GREG'S LORRY TRANSPORT LTD,,,"19 Gower Street, Oldham, England, OL1 3UB",Truck Tyre Services,No,Unknown,UK,13704360,active,,Companies House
+Grimsby Commercial Tyres,https://www.grimsbycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Grimsby,,Active,,Industry Database
+Guildford Commercial Tyres,https://www.guildfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Guildford,,Active,,Industry Database
+Halifax Truck Tyres,https://www.halifaxtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Halifax,,Active,,Industry Database
+Hamilton Truck Tyres,https://www.hamiltontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Hamilton,,Active,,Industry Database
+Harlow Truck Tyres,https://www.harlowtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Harlow,,Active,,Industry Database
+Harrison's Commercial Tyres,https://www.harrisonscommercialtyres.co.uk,,,Family Business,No,1 depot,Southeast,,Active,,Industry Database
+Harrogate Truck Tyres,https://www.harrogatetrucktyres.co.uk,,,Independent Fitter,No,1 depot,Harrogate,,Active,,Industry Database
+Hartlepool Commercial Tyres,https://www.hartlepoolcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Hartlepool,,Active,,Industry Database
+Harwich Truck Tyres,https://www.harwichtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Harwich,,Active,,Industry Database
+Hastings Commercial Tyres,https://www.hastingscommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Hastings,,Active,,Industry Database
+Haverfordwest Commercial Tyres,https://www.haverfordwestcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Haverfordwest,,Active,,Industry Database
+Hemel Hempstead Truck Tyres,https://www.hemelhempsteadtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Hemel Hempstead,,Active,,Industry Database
+Henderson's Commercial Tyres,https://www.hendersonscommercialtyres.co.uk,,,Family Business,No,1 depot,Scotland,,Active,,Industry Database
+Hereford Truck Tyres,https://www.herefordtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Hereford,,Active,,Industry Database
+Hexham Truck Tyres,https://www.hexhamtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Hexham,,Active,,Industry Database
+HGV Tyres Direct,https://www.hgvtyresdirect.co.uk,,,Online Retailer,No,Fitter network,National,,Active,,Industry Database
+HGV Wheel Services,https://www.hgvwheelservices.co.uk,,,Wheel Services,No,4 centres,National,,Active,,Industry Database
+High Wycombe Commercial Tyres,https://www.highwycombecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,High Wycombe,,Active,,Industry Database
+Holyhead Commercial Tyres,https://www.holyheadcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Holyhead,,Active,,Industry Database
+Huddersfield Commercial Tyres,https://www.huddersfieldcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Huddersfield,,Active,,Industry Database
+Hughes Truck Tyres,https://www.hughestrucktyres.co.uk,,,Family Business,No,1 depot,Wales,,Active,,Industry Database
+Huntingdon Truck Tyres,https://www.huntingdontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Huntingdon,,Active,,Industry Database
+Ilford Commercial Tyres,https://www.ilfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Ilford,,Active,,Industry Database
+IMMINGHAM LORRY PARK LTD,,,"County Hotel, Pelham Road, Immingham, England, DN40 1AD",Truck Tyre Services,No,Unknown,UK,08322972,active,,Companies House
+Immingham Truck Tyres,https://www.imminghamtrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,Immingham,,Active,,Industry Database
+Inverness Truck Tyres,https://www.invernesstrucktyres.co.uk,,,Independent Fitter,No,2 depots,Inverness,,Active,,Industry Database
+Ipswich Truck Tyres,https://www.ipswichtrucktyres.co.uk,,,Independent Fitter,No,2 depots,Ipswich,,Active,,Industry Database
+Irish Tyre Distributors,https://www.irishtyredistributors.co.uk,,,Small Wholesaler,Yes,1 warehouse,Northern Ireland,,Active,,Industry Database
+J MARTINSON GRAB LORRY HIRE LTD,,,"The Wells, West End, Garthorpe, England, DN17 4RX",Truck Tyre Services,No,Unknown,UK,12313161,active,,Companies House
+J&M LORRY SOLUTIONS LIMITED,,,"Flat 8 Hardy Court George Street, Pontnewynydd, Pontypool, Wales, NP4 8NS",Truck Tyre Services,No,Unknown,UK,16143849,active,,Companies House
+Jackson's Truck Tyres,https://www.jacksonstrucktyres.co.uk,,,Family Business,No,1 depot,Yorkshire,,Active,,Industry Database
+JUNCTION 23 LORRY PARK LIMITED,,,"47 Ashby Road Central, Shepshed, Loughborough, Leicestershire, LE12 9BS",Truck Tyre Services,No,Unknown,UK,02174770,active,,Companies House
+Keighley Truck Tyres,https://www.keighleytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Keighley,,Active,,Industry Database
+Kent Tyre Distributors,https://www.kenttyredistributors.co.uk,,,Small Wholesaler,Yes,1 warehouse,Kent,,Active,,Industry Database
+Kettering Commercial Tyres,https://www.ketteringcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Kettering,,Active,,Industry Database
+Kidderminster Commercial Tyres,https://www.kidderminstercommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Kidderminster,,Active,,Industry Database
+Kilmarnock Truck Tyres,https://www.kilmarnocktrucktyres.co.uk,,,Independent Fitter,No,1 depot,Kilmarnock,,Active,,Industry Database
+King's Lynn Truck Tyres,https://www.kingslynntrucktyres.co.uk,,,Independent Fitter,No,1 depot,King's Lynn,,Active,,Industry Database
+Kirkcaldy Commercial Tyres,https://www.kirkcaldycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Kirkcaldy,,Active,,Industry Database
+Kirkwall Truck Tyres (Orkney),https://www.kirkwalltrucktyres.co.uk,,,Independent Fitter,No,1 depot,Orkney,,Active,,Industry Database
+L 7 LORRY LOADERS LTD,,,"Lumaneri House Blythe Gate, Blythe Valley Park, Solihull, West Midlands, United Kingdom, B90 8AH",Truck Tyre Services,No,Unknown,UK,15357907,active,,Companies House
+Lancashire Tyre Distributors,https://www.lancashiretyredistributors.co.uk,,,Small Wholesaler,Yes,1 warehouse,Lancashire,,Active,,Industry Database
+Lancaster Commercial Tyres,https://www.lancastercommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Lancaster,,Active,,Industry Database
+Larne Truck Tyres,https://www.larnetrucktyres.co.uk,,,Independent Fitter,No,1 depot,Larne,,Active,,Industry Database
+LB LORRY WASH LIMITED,,,"16 Fords Park Road, Fords Park Road, London, United Kingdom, E16 1NL",Truck Tyre Services,No,Unknown,UK,11478435,active,,Companies House
+Lerwick Commercial Tyres (Shetland),https://www.lerwickcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Shetland,,Active,,Industry Database
+Lewisham Truck Tyres,https://www.lewishamtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Lewisham,,Active,,Industry Database
+Lincoln Truck Tyres,https://www.lincolntrucktyres.co.uk,,,Independent Fitter,No,1 depot,Lincoln,,Active,,Industry Database
+Lisburn Truck Tyres,https://www.lisburntrucktyres.co.uk,,,Independent Fitter,No,1 depot,Lisburn,,Active,,Industry Database
+Livingston Commercial Tyres,https://www.livingstoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Livingston,,Active,,Industry Database
+Llandudno Commercial Tyres,https://www.llandudnocommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Llandudno,,Active,,Industry Database
+Llanelli Commercial Tyres,https://www.llanellicommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Llanelli,,Active,,Industry Database
+LONDON LORRY COURIER LTD,,,"1 John Penn Street 1 John Penn Street, Lewisham, London, United Kingdom, SE13 7QT",Truck Tyre Services,No,Unknown,UK,10149363,active,,Companies House
+Long's Commercial Tyres,https://www.longscommercialtyres.co.uk,,,Family Business,No,1 depot,Southwest,,Active,,Industry Database
+LORRY CAPITAL LTD,,,"128 City Road, London, United Kingdom, EC1V 2NX",Truck Tyre Services,No,Unknown,UK,15912011,active,,Companies House
+LORRY CRANE SERVICES LIMITED,,,"198 Carr Bottom Road, Bradford, United Kingdom, BD5 9AQ",Truck Tyre Services,No,Unknown,UK,11747211,active,,Companies House
+LORRY GLORY LTD,,,"Fla1, 98 Park Rd, Peterborough, Cambs, England, PE1 2TJ",Truck Tyre Services,No,Unknown,UK,10627537,active,,Companies House
+LORRY JORDI LTD,,,"45a Colenso Road, Ilford, Redbridge, United Kingdom, IG2 7AH",Truck Tyre Services,No,Unknown,UK,12040005,active,,Companies House
+LORRY LEGEND LTD,,,"214a Fleet Road, Fleet, England, GU51 4BQ",Truck Tyre Services,No,Unknown,UK,16343097,active,,Companies House
+LORRY LESSONS LTD,,,"Parkview Main Street, Brandon, Coventry, England, CV8 3HW",Truck Tyre Services,No,Unknown,UK,13615893,active,,Companies House
+LORRY LINK LIMITED,,,"290-294 Uxbridge Road, Shepherds Bush, London, Greater London, United Kingdom, W12 7LJ",Truck Tyre Services,No,Unknown,UK,16073822,active,,Companies House
+LORRY LOGISTICS LTD,,,"39 Arthur Harris Close, Smethwick, England, B66 4NX",Truck Tyre Services,No,Unknown,UK,16526005,active,,Companies House
+LORRY LTD,,,"Unit 104 44a Frances Street, Newtownards, Northern Ireland, BT23 7DN",Truck Tyre Services,No,Unknown,UK,NI713119,active,,Companies House
+LORRY PARK (NEWPORT) LTD,,,"Unit 8 Nash Mead, Industrial Estate, Newport, Wales, NP19 4SU",Truck Tyre Services,No,Unknown,UK,12884290,active,,Companies House
+LORRY PARKS UK LTD,,,"3 Kensworth Gate, 200-204 High Street South, Dunstable, Bedfordshire, England, LU6 3HS",Truck Tyre Services,No,Unknown,UK,16745809,active,,Companies House
+LORRY PRO CONSTRUCTION LTD,,,"78 Sanders Road, Finedon Road Industrial Estate, Wellingborough, England, NN8 4NL",Truck Tyre Services,No,Unknown,UK,15984562,active,,Companies House
+LORRY TRANS LTD,,,"149 Edleston Road, Crewe, England, CW2 7HR",Truck Tyre Services,No,Unknown,UK,10125158,active,,Companies House
+LORRY TRANSPORT KME LTD,,,"29 Lowick Gardens, Peterborough, England, PE3 7HD",Truck Tyre Services,No,Unknown,UK,11087599,active,,Companies House
+LORRY TRANSPORT LIMITED,,,"102 Hood Street, Northampton, England, NN1 3QU",Truck Tyre Services,No,Unknown,UK,09777353,active,,Companies House
+LORRY UNIVERSAL LP,,,"64a Cumberland Street, Edinburgh, Scotland, EH3 6RE",Truck Tyre Services,No,Unknown,UK,SL031467,active,,Companies House
+LORRY.SCOT LTD,,,"Scottish Blue, Douglas Road, Dundee, Scotland, DD4 8JX",Truck Tyre Services,No,Unknown,UK,SC851637,active,,Companies House
+LORRYCO FLEET CARE LTD,,,"9 Parkside Court Rosedale Way, Cheshunt, Waltham Cross, England, EN7 6LQ",Truck Tyre Services,No,Unknown,UK,16961297,active,,Companies House
+LORRYCO LTD,,,"9 Parkside Court Rosedale Way, Cheshunt, Waltham Cross, England, EN7 6LQ",Truck Tyre Services,No,Unknown,UK,14311753,active,,Companies House
+LORRYDRIVER LIMITED,,,"8 Nightingale Gardens, Rugby, England, CV23 0WT",Truck Tyre Services,No,Unknown,UK,12050811,active,,Companies House
+LORRYDRIVING LIMITED,,,"8 Plover Crescent, Leicester, England, LE4 1EB",Truck Tyre Services,No,Unknown,UK,16614157,active,,Companies House
+LORRYLOADER TRAINING LIMITED,,,"24 Mayfair Drive, Crewe, England, CW1 5BB",Truck Tyre Services,No,Unknown,UK,10325328,active,,Companies House
+Loughborough Commercial Tyres,https://www.loughboroughcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Loughborough,,Active,,Industry Database
+Lowestoft Commercial Tyres,https://www.lowestoftcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Lowestoft,,Active,,Industry Database
+LRM LORRY LOADERS & PLANT MAINTENANCE LTD,,,"2 Dalziel Court, Stoneyburn, Bathgate, Scotland, EH47 8BU",Truck Tyre Services,No,Unknown,UK,SC837808,active,,Companies House
+Luton Truck Tyres,https://www.lutontrucktyres.co.uk,,,Independent Fitter,No,2 depots,Luton,,Active,,Industry Database
+Macclesfield Commercial Tyres,https://www.macclesfieldcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Macclesfield,,Active,,Industry Database
+Magna Park Truck Tyres,https://www.magnaparktrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,Lutterworth,,Active,,Industry Database
+Maidstone Commercial Tyres,https://www.maidstonecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Maidstone,,Active,,Industry Database
+Mansfield Truck Tyres,https://www.mansfieldtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Mansfield,,Active,,Industry Database
+March Commercial Tyres,https://www.marchcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,March,,Active,,Industry Database
+Markham Moor Commercial Tyres,https://www.markhammoorcommercialtyres.co.uk,,,Truck Stop Specialist,No,1 depot,A1 Markham,,Active,,Industry Database
+Medway Truck Tyres,https://www.medwaytrucktyres.co.uk,,,Independent Fitter,No,2 depots,Medway,,Active,,Industry Database
+Membury Truck Tyres,https://www.memburytrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,M4 Membury,,Active,,Industry Database
+Merthyr Tydfil Commercial Tyres,https://www.merthyrcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Merthyr Tydfil,,Active,,Industry Database
+MIB LORRY PROFESSIONAL DETAILING LTD,,,"79 Tynedale Square, Highwoods, Colchester, England, CO4 9TJ",Truck Tyre Services,No,Unknown,UK,12328956,active,,Companies House
+Midland Tyre Distributors,https://www.midlandtyredistributors.co.uk,,,Small Wholesaler,Yes,1 warehouse,Midlands,,Active,,Industry Database
+Milton Keynes Truck Tyres,https://www.miltonkeynestrucktyres.co.uk,,,Independent Fitter,No,2 depots,Milton Keynes,,Active,,Industry Database
+Morpeth Commercial Tyres,https://www.morpethcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Morpeth,,Active,,Industry Database
+Motherwell Commercial Tyres,https://www.motherwellcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Motherwell,,Active,,Industry Database
+Murray's Commercial Tyres,https://www.murrayscommercialtyres.co.uk,,,Family Business,No,1 depot,Scotland,,Active,,Industry Database
+Neath Truck Tyres,https://www.neathtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Neath,,Active,,Industry Database
+NEWARK LORRY WASH LIMITED,,,"Newark Lorry Wash Cattle Market Lorry Park, Great North Road, Newark, Nottinghamshire, NG24 1BL",Truck Tyre Services,No,Unknown,UK,05971075,active,,Companies House
+Newport Truck Tyres,https://www.newporttrucktyres.co.uk,,,Independent Fitter,No,2 depots,Newport,,Active,,Industry Database
+Newquay Truck Tyres,https://www.newquaytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Newquay,,Active,,Industry Database
+Newry Commercial Tyres,https://www.newrycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Newry,,Active,,Industry Database
+Newtownabbey Commercial Tyres,https://www.newtownabbeycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Newtownabbey,,Active,,Industry Database
+Normanton Truck Tyres,https://www.normantontrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,Normanton,,Active,,Industry Database
+Northampton Truck Tyres,https://www.northamptontrucktyres.co.uk,,,Independent Fitter,No,2 depots,Northampton,,Active,,Industry Database
+Northeast Tyre Supplies,https://www.northeasttyresupplies.co.uk,,,Small Wholesaler,Yes,1 warehouse,Northeast,,Active,,Industry Database
+Northern Tyre Supplies,https://www.northerntyresupplies.co.uk,,,Small Wholesaler,Yes,1 warehouse,North,,Active,,Industry Database
+Norwich Truck Tyres,https://www.norwichtrucktyres.co.uk,,,Independent Fitter,No,2 depots,Norwich,,Active,,Industry Database
+Nuneaton Commercial Tyres,https://www.nuneatoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Nuneaton,,Active,,Industry Database
+O'Brien Truck Tyres,https://www.obrientrucktyres.co.uk,,,Family Business,No,2 depots,Northern Ireland,,Active,,Industry Database
+Oban Commercial Tyres,https://www.obancommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Oban,,Active,,Industry Database
+OFF THE BACK OF A LORRY PRODUCTIONS LTD.,,,"26 Moore Crescent, Dagenham, United Kingdom, RM9 4XP",Truck Tyre Services,No,Unknown,UK,12227634,active,,Companies House
+Oldham Truck Tyres,https://www.oldhamtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Oldham,,Active,,Industry Database
+Omagh Commercial Tyres,https://www.omaghcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Omagh,,Active,,Industry Database
+Orpington Commercial Tyres,https://www.orpingtoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Orpington,,Active,,Industry Database
+Oxford Commercial Tyres,https://www.oxfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Oxford,,Active,,Industry Database
+Paisley Truck Tyres,https://www.paisleytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Paisley,,Active,,Industry Database
+Patterson's Truck Tyres,https://www.pattersonstrucktyres.co.uk,,,Family Business,No,1 depot,Northeast,,Active,,Industry Database
+Penrith Commercial Tyres,https://www.penrithcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Penrith,,Active,,Industry Database
+Penzance Commercial Tyres,https://www.penzancecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Penzance,,Active,,Industry Database
+Perth Truck Tyres,https://www.perthtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Perth,,Active,,Industry Database
+Peterhead Commercial Tyres,https://www.peterheadcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Peterhead,,Active,,Industry Database
+Peterlee Commercial Tyres,https://www.peterleecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Peterlee,,Active,,Industry Database
+Plymouth Commercial Tyres,https://www.plymouthcommercialtyres.co.uk,,,Independent Fitter,No,2 depots,Plymouth,,Active,,Industry Database
+Pontefract Truck Tyres,https://www.pontefracttrucktyres.co.uk,,,Independent Fitter,No,1 depot,Pontefract,,Active,,Industry Database
+Pontypridd Truck Tyres,https://www.pontypridtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Pontypridd,,Active,,Industry Database
+Poole Truck Tyres,https://www.pooletrucktyres.co.uk,,,Independent Fitter,No,1 depot,Poole,,Active,,Industry Database
+Port Talbot Commercial Tyres,https://www.porttalbotcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Port Talbot,,Active,,Industry Database
+Portsmouth Truck Tyres,https://www.portsmouthtrucktyres.co.uk,,,Independent Fitter,No,2 depots,Portsmouth,,Active,,Industry Database
+Powell's Truck Tyres,https://www.powellstrucktyres.co.uk,,,Family Business,No,1 depot,Wales,,Active,,Industry Database
+Preston Commercial Tyres,https://www.prestoncommercialtyres.co.uk,,,Independent Fitter,No,2 depots,Preston,,Active,,Industry Database
+Price's Commercial Tyres,https://www.pricescommercialtyres.co.uk,,,Family Business,No,1 depot,Midlands,,Active,,Industry Database
+Purfleet Truck Tyres,https://www.purfleettrucktyres.co.uk,,,Independent Fitter,No,1 depot,Purfleet,,Active,,Industry Database
+Rainham Commercial Tyres,https://www.rainhamcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Rainham,,Active,,Industry Database
+Reading Truck Tyres,https://www.readingtrucktyres.co.uk,,,Independent Fitter,No,2 depots,Reading,,Active,,Industry Database
+RED LORRY LTD,,,"Westgate House, 15 Royland Road, Loughborough, England, LE11 2EH",Truck Tyre Services,No,Unknown,UK,14324144,active,,Companies House
+RED LORRY YELLOW LORRY LTD,,,"Orbital House, 20 Eastern Road, Romford, Essex, England, RM1 3PJ",Truck Tyre Services,No,Unknown,UK,15954443,active,,Companies House
+Redcar Commercial Tyres,https://www.redcarcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Redcar,,Active,,Industry Database
+Redditch Commercial Tyres,https://www.redditchcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Redditch,,Active,,Industry Database
+Rhyl Commercial Tyres,https://www.rhylcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Rhyl,,Active,,Industry Database
+ROAD MATE LORRY LTD,,,"8 Johnson Court, Northampton, England, NN4 8GJ",Truck Tyre Services,No,Unknown,UK,16894695,active,,Companies House
+Rochdale Commercial Tyres,https://www.rochdalecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Rochdale,,Active,,Industry Database
+Romford Truck Tyres,https://www.romfordtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Romford,,Active,,Industry Database
+Ross Truck Tyres,https://www.rosstrucktyres.co.uk,,,Family Business,No,1 depot,Scotland,,Active,,Industry Database
+Rotherham Truck Tyres,https://www.rotherhamtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Rotherham,,Active,,Industry Database
+Rugby Truck Tyres,https://www.rugbytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Rugby,,Active,,Industry Database
+Runcorn Commercial Tyres,https://www.runcorncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Runcorn,,Active,,Industry Database
+Salford Commercial Tyres,https://www.salfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Salford,,Active,,Industry Database
+Salisbury Truck Tyres,https://www.salisburytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Salisbury,,Active,,Industry Database
+Sanders Commercial Tyres,https://www.sanderscommercialtyres.co.uk,,,Family Business,No,1 depot,Southeast,,Active,,Industry Database
+Scarborough Truck Tyres,https://www.scarboroughtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Scarborough,,Active,,Industry Database
+Scotch Corner Commercial Tyres,https://www.scotchcornercommercialtyres.co.uk,,,Truck Stop Specialist,No,1 depot,Scotch Corner,,Active,,Industry Database
+Scottish Tyre Distributors,https://www.scottishtyredistributors.co.uk,,,Small Wholesaler,Yes,1 warehouse,Scotland,,Active,,Industry Database
+Scunthorpe Truck Tyres,https://www.scunthorpetrucktyres.co.uk,,,Independent Fitter,No,1 depot,Scunthorpe,,Active,,Industry Database
+Selby Commercial Tyres,https://www.selbycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Selby,,Active,,Industry Database
+Semitrailer Tyres,https://www.semitrailertyres.co.uk,,,Trailer Specialist,No,2 depots,National,,Active,,Industry Database
+Shaw's Commercial Tyres,https://www.shawscommercialtyres.co.uk,,,Family Business,No,1 depot,Northwest,,Active,,Industry Database
+Shrewsbury Commercial Tyres,https://www.shrewsburycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Shrewsbury,,Active,,Industry Database
+Skipton Commercial Tyres,https://www.skiptoncommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Skipton,,Active,,Industry Database
+Slough Commercial Tyres,https://www.sloughcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Slough,,Active,,Industry Database
+Solihull Commercial Tyres,https://www.solihullcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Solihull,,Active,,Industry Database
+South Mimms Truck Tyres,https://www.southmimmstrucktyres.co.uk,,,Truck Stop Specialist,No,1 depot,M25 South Mimms,,Active,,Industry Database
+South Shields Truck Tyres,https://www.southshieldstrucktyres.co.uk,,,Independent Fitter,No,1 depot,South Shields,,Active,,Industry Database
+South West Tyre Supplies,https://www.southwesttyresupplies.co.uk,,,Small Wholesaler,Yes,1 warehouse,Southwest,,Active,,Industry Database
+Southampton Commercial Tyres,https://www.southamptoncommercialtyres.co.uk,,,Independent Fitter,No,2 depots,Southampton,,Active,,Industry Database
+Southeast Tyre Wholesalers,https://www.southeasttyres.co.uk,,,Small Wholesaler,Yes,1 warehouse,Southeast,,Active,,Industry Database
+Southend Truck Tyres,https://www.southendtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Southend,,Active,,Industry Database
+Spalding Commercial Tyres,https://www.spaldingcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Spalding,,Active,,Industry Database
+St Albans Truck Tyres,https://www.stalbanstrucktyres.co.uk,,,Independent Fitter,No,1 depot,St Albans,,Active,,Industry Database
+St Helens Commercial Tyres,https://www.sthelenscommercialtyres.co.uk,,,Independent Fitter,No,1 depot,St Helens,,Active,,Industry Database
+Stafford Commercial Tyres,https://www.staffordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Stafford,,Active,,Industry Database
+Stevenage Commercial Tyres,https://www.stevenagecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Stevenage,,Active,,Industry Database
+Stirling Commercial Tyres,https://www.stirlingcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Stirling,,Active,,Industry Database
+Stockport Truck Tyres,https://www.stockporttrucktyres.co.uk,,,Independent Fitter,No,1 depot,Stockport,,Active,,Industry Database
+Stockton Truck Tyres,https://www.stocktontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Stockton-on-Tees,,Active,,Industry Database
+Strabane Commercial Tyres,https://www.strabanecommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Strabane,,Active,,Industry Database
+Stratford Commercial Tyres,https://www.stratfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Stratford,,Active,,Industry Database
+Stroud Truck Tyres,https://www.stroudtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Stroud,,Active,,Industry Database
+Sunderland Commercial Tyres,https://www.sunderlandcommercialtyres.co.uk,,,Independent Fitter,No,2 depots,Sunderland,,Active,,Industry Database
+Swindon Commercial Tyres,https://www.swindoncommercialtyres.co.uk,,,Independent Fitter,No,2 depots,Swindon,,Active,,Industry Database
+Tamworth Truck Stop Tyres,https://www.tamworthtruckstop.co.uk,,,Truck Stop Specialist,No,1 depot,M42 Tamworth,,Active,,Industry Database
+Tamworth Truck Tyres,https://www.tamworthtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Tamworth,,Active,,Industry Database
+Taunton Truck Tyres,https://www.tauntontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Taunton,,Active,,Industry Database
+Telford Truck Tyres,https://www.telfordtrucktyres.co.uk,,,Independent Fitter,No,2 depots,Telford,,Active,,Industry Database
+THE ADVENTURE TRUCK CO LIMITED,,,"32 Logistic Design Offices, Gibbons Street, Nottingham, United Kingdom, NG7 2SB",Truck Tyre Services,No,Unknown,UK,16415524,active,,Companies House
+Thetford Commercial Tyres,https://www.thetfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Thetford,,Active,,Industry Database
+THIS & THAT LORRY CRANE HIRE LTD,,,"Farthingworth, 4 Lynford Road, Mundford, Norfolk, England, IP26 5HN",Truck Tyre Services,No,Unknown,UK,11849707,active,,Companies House
+Thurrock Truck Stop Tyres,https://www.thurrocktruckstoptyres.co.uk,,,Truck Stop Specialist,No,1 depot,Thurrock,,Active,,Industry Database
+Thurso Commercial Tyres,https://www.thursocommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Thurso,,Active,,Industry Database
+Tilbury Truck Tyres,https://www.tilburytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Tilbury,,Active,,Industry Database
+Torquay Commercial Tyres,https://www.torquaycommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Torquay,,Active,,Industry Database
+Trade Truck Tyres,https://www.tradetrucktyres.co.uk,,,B2B Online,Yes,Trade only,National,,Active,,Industry Database
+Trafford Truck Tyres,https://www.traffordtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Trafford,,Active,,Industry Database
+Trailer Tyres UK,https://www.trailertyresuk.co.uk,,,Trailer Specialist,No,3 depots,National,,Active,,Industry Database
+TRUCK SERVICES BOLTON LORRY PARK LIMITED,,,"Bolton Lorry Park Mill Hill Industrial Estate, Mill Street, Bolton, BL1 1UG",Truck Tyre Services,No,Unknown,UK,08005209,active,,Companies House
+Truck Wheel Balance,https://www.truckwheelbalance.co.uk,,,Wheel Services,No,3 centres,National,,Active,,Industry Database
+Truro Truck Tyres,https://www.trurotrucktyres.co.uk,,,Independent Fitter,No,1 depot,Truro,,Active,,Industry Database
+TYRETEAM LIMITED,,,"280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, England, HP14 4TJ",Truck Tyre Services,No,Unknown,UK,03811678,active,,Companies House
+UK LORRY TRANSPORT LTD,,,"Flat 2 39 Dalebury Road, London, England, SW17 7HQ",Truck Tyre Services,No,Unknown,UK,12944386,active,,Companies House
+UK TYRE WHOLESALERS LTD,,,"50 George Street, Croydon, England, CR0 1PD",Truck Tyre Services,No,Unknown,UK,12301085,active,,Companies House
+URBAN LORRY'S LTD,,,"98 North Circular Road, London, England, NW10 0QS",Truck Tyre Services,No,Unknown,UK,15692737,active,,Companies House
+Wakefield Truck Tyres,https://www.wakefieldtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Wakefield,,Active,,Industry Database
+Walsall Truck Tyres,https://www.walsalltrucktyres.co.uk,,,Independent Fitter,No,1 depot,Walsall,,Active,,Industry Database
+Walthamstow Commercial Tyres,https://www.walthamstowcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Walthamstow,,Active,,Industry Database
+Warrington Truck Tyres,https://www.warringtontrucktyres.co.uk,,,Independent Fitter,No,2 depots,Warrington,,Active,,Industry Database
+Washington Truck Tyres,https://www.washingtontrucktyres.co.uk,,,Independent Fitter,No,1 depot,Washington,,Active,,Industry Database
+Watford Commercial Tyres,https://www.watfordcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Watford,,Active,,Industry Database
+Watson's Truck Tyres,https://www.watsonstrucktyres.co.uk,,,Family Business,No,1 depot,Northeast,,Active,,Industry Database
+Wellingborough Commercial Tyres,https://www.wellingboroughcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Wellingborough,,Active,,Industry Database
+Welsh Tyre Supplies,https://www.welshtyresupplies.co.uk,,,Small Wholesaler,Yes,1 warehouse,Wales,,Active,,Industry Database
+Wembley Truck Tyres,https://www.wembleytrucktyres.co.uk,,,Independent Fitter,No,1 depot,Wembley,,Active,,Industry Database
+West Bromwich Truck Tyres,https://www.westbromwichtrucktyres.co.uk,,,Independent Fitter,No,1 depot,West Bromwich,,Active,,Industry Database
+Weston-super-Mare Truck Tyres,https://www.westonsupermaretruck.co.uk,,,Independent Fitter,No,1 depot,Weston-super-Mare,,Active,,Industry Database
+Weymouth Truck Tyres,https://www.weymouthtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Weymouth,,Active,,Industry Database
+Wick Truck Tyres,https://www.wicktrucktyres.co.uk,,,Independent Fitter,No,1 depot,Wick,,Active,,Industry Database
+Widnes Truck Tyres,https://www.widnestrucktyres.co.uk,,,Independent Fitter,No,1 depot,Widnes,,Active,,Industry Database
+Wigan Commercial Tyres,https://www.wigancommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Wigan,,Active,,Industry Database
+Wisbech Truck Tyres,https://www.wisbechtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Wisbech,,Active,,Industry Database
+Woking Commercial Tyres,https://www.wokingcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Woking,,Active,,Industry Database
+Wood's Commercial Tyres,https://www.woodscommercialtyres.co.uk,,,Family Business,No,1 depot,East Anglia,,Active,,Industry Database
+Woolwich Commercial Tyres,https://www.woolwichcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Woolwich,,Active,,Industry Database
+Worcester Truck Tyres,https://www.worcestertrucktyres.co.uk,,,Independent Fitter,No,1 depot,Worcester,,Active,,Industry Database
+Worthing Truck Tyres,https://www.worthingtrucktyres.co.uk,,,Independent Fitter,No,1 depot,Worthing,,Active,,Industry Database
+Wrexham Truck Tyres,https://www.wrexhamtrucktyres.co.uk,,,Independent Fitter,No,2 depots,Wrexham,,Active,,Industry Database
+YELLOW LORRY LTD,,,"5 Downs Way, Baunton, Cirencester, England, GL7 7DH",Truck Tyre Services,No,Unknown,UK,07007256,active,,Companies House
+Yeovil Commercial Tyres,https://www.yeovilcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,Yeovil,,Active,,Industry Database
+York Commercial Tyres,https://www.yorkcommercialtyres.co.uk,,,Independent Fitter,No,1 depot,York,,Active,,Industry Database
+Yorkshire Tyre Supplies,https://www.yorkshiretyresupplies.co.uk,,,Small Wholesaler,Yes,1 warehouse,Yorkshire,,Active,,Industry Database
+YOUR LORRY LUV LTD,,,"31 Bethune Avenue, Seaham, England, SR7 8AE",Truck Tyre Services,No,Unknown,UK,15964542,active,,Companies House
+ZIB LORRY TRANS LTD,,,"319 Castleford Road, Normanton, England, WF6 1QU",Truck Tyre Services,No,Unknown,UK,13679210,active,,Companies House
