@@ -1,0 +1,1297 @@
+[
+  {
+    "name": "Tyrenet",
+    "website": "https://tyrenet.net/",
+    "phone": "0798961579",
+    "email": "service@tyrenet.net",
+    "description": "Mobile tyre fitting for cars, vans and trucks available across the UK. Roadside tyre replacement solutions. 90min turnaround time. 24/7 support.",
+    "verified_truck": true,
+    "source": "Direct website scrape"
+  },
+  {
+    "name": "Tructyre ATS",
+    "website": "https://www.tructyre.co.uk/",
+    "phone": "0640153278",
+    "email": null,
+    "description": "Save time! See our service offerings and request a quote online at our Tructyre site, or directly make an appointment to receive a reminder.",
+    "verified_truck": true,
+    "source": "Direct website scrape"
+  },
+  {
+    "name": "Bandvulc",
+    "website": "https://www.bandvulc.co.uk/",
+    "phone": "03921568627",
+    "email": null,
+    "description": "We continually invest in the future of Truck & Bus retreading by taking full advantage of technical advances and the latest technology available.",
+    "verified_truck": true,
+    "source": "Direct website scrape"
+  },
+  {
+    "name": "Continental Truck",
+    "website": "https://www.continental-tyres.co.uk/truck",
+    "phone": "084715261",
+    "email": null,
+    "description": "Continental Truck and Bus Tyres offer safe, reliable and highly efficient solutions for the transport industry.",
+    "verified_truck": true,
+    "source": "Direct website scrape"
+  },
+  {
+    "name": "Goodyear Truck",
+    "website": "https://www.goodyear.eu/en_gb/truck.html",
+    "phone": "052957164",
+    "email": null,
+    "description": "Take your fleet further with Commercial Tyres from Goodyear. Find the tyres you need and discover our innovative solutions to keep your fleet moving.",
+    "verified_truck": true,
+    "source": "Direct website scrape"
+  },
+  {
+    "name": "Mobile Tyre Fitting UK",
+    "website": "https://www.mobiletyrefittinguk.co.uk/",
+    "phone": "0808 281 5669",
+    "email": null,
+    "description": "Emergency Mobile Tyre Fitters Nationwide with 30-40 minute response time. If you are in an emergency call 0808 281 5669 now!",
+    "verified_truck": true,
+    "source": "Direct website scrape"
+  },
+  {
+    "name": "Tyre Assist 365",
+    "website": "https://www.tyreassist365.com/",
+    "phone": "03332 407592",
+    "email": "bootstrap@5.3.3",
+    "description": "",
+    "verified_truck": true,
+    "source": "Direct website scrape"
+  },
+  {
+    "name": "TRUCK TYRE FLEET SERVICES LTD",
+    "company_number": "16262244",
+    "address": "1 Thorncliffe View, Leek, England, ST13 6QB",
+    "status": "active",
+    "date_created": "2025-02-19",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRE LEASING LIMITED",
+    "company_number": "03158142",
+    "address": "280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, England, HP14 4TJ",
+    "status": "active",
+    "date_created": "1996-02-13",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRES DIRECT LIMITED",
+    "company_number": "15105571",
+    "address": "24 Dalkeith Place, Kettering, England, NN16 0BS",
+    "status": "active",
+    "date_created": "2023-08-30",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRES 4 U LTD",
+    "company_number": "15543670",
+    "address": "121 Lark Lane, Liverpool, England, L17 8UR",
+    "status": "active",
+    "date_created": "2024-03-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRES (LONDON) LIMITED",
+    "company_number": "05853394",
+    "address": "167 Turners Hill, Cheshunt, Hertfordshire, EN8 9BH",
+    "status": "active",
+    "date_created": "2006-06-21",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRES NATIONAL LTD",
+    "company_number": "16707059",
+    "address": "Unit 389 275 New North Road, Islington, London, United Kingdom, N1 7AA",
+    "status": "active",
+    "date_created": "2025-09-10",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRE SOLUTIONS LTD",
+    "company_number": "05733614",
+    "address": "Station Road, Rowley Regis, W Midlands, United Kingdom, B65 0LJ",
+    "status": "active",
+    "date_created": "2006-03-07",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRES ONLINE LTD",
+    "company_number": "16049229",
+    "address": "Booth Street Chambers, 32 Booth Street, Ashton-Under-Lyne, Lancashire, England, OL6 7LQ",
+    "status": "active",
+    "date_created": "2024-10-29",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRES 2 U LTD",
+    "company_number": "12781618",
+    "address": "C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, United Kingdom, CW11 4NE",
+    "status": "active",
+    "date_created": "2020-07-30",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, Scotland, G2 4JR",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRE SUPPLIES UK LIMITED",
+    "company_number": "11032022",
+    "address": "St Thomas House, 83 Wolverhampton Road, Cannock, Staffordshire, United Kingdom, WS11 1AR",
+    "status": "active",
+    "date_created": "2017-10-25",
+    "source": "Companies House"
+  },
+  {
+    "name": "TRUCK TYRE WHOLESALERS LIMITED",
+    "company_number": "13417279",
+    "address": "12 Old Slade Lane, Iver, England, SL0 9DR",
+    "status": "active",
+    "date_created": "2021-05-24",
+    "source": "Companies House"
+  },
+  {
+    "name": "REGOS WHOLESALE LIMITED",
+    "company_number": "07848763",
+    "address": "Cross Chambers, 9 High Street, Newtown, Powys, SY16 2NY",
+    "status": "active",
+    "date_created": "2011-11-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "ANGLIAN TRUCK TYRE MANAGEMENT CAMBS LIMITED",
+    "company_number": "16141864",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",
+    "status": "active",
+    "date_created": "2024-12-18",
+    "source": "Companies House"
+  },
+  {
+    "name": "ANGLIAN TRUCK TYRE MANAGEMENT NORWICH LIMITED",
+    "company_number": "16141882",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",
+    "status": "active",
+    "date_created": "2024-12-18",
+    "source": "Companies House"
+  },
+  {
+    "name": "ANGLIAN TRUCK TYRE MANAGEMENT SOUTH LIMITED",
+    "company_number": "13046940",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",
+    "status": "active",
+    "date_created": "2020-11-27",
+    "source": "Companies House"
+  },
+  {
+    "name": "ANGLIA TRUCK TYRE MANAGEMENT LIMITED",
+    "company_number": "04183442",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",
+    "status": "active",
+    "date_created": "2001-03-20",
+    "source": "Companies House"
+  },
+  {
+    "name": "A2 TRUCK TYRE LIMITED",
+    "company_number": "11261015",
+    "address": "Thames House, Roman Square, Sittingbourne, Kent, United Kingdom, ME10 4BJ",
+    "status": "active",
+    "date_created": "2018-03-19",
+    "source": "Companies House"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, United Kingdom, YO30 4XF",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "source": "Companies House"
+  },
+  {
+    "name": "BIRMINGHAM TRUCK TYRE LTD",
+    "company_number": "08481309",
+    "address": "Kent Space, Suite 2026 6-8 Revenge Road, Chatham, England, ME5 8UD",
+    "status": "active",
+    "date_created": "2013-04-09",
+    "source": "Companies House"
+  },
+  {
+    "name": "CAR VAN TRUCK TYRES LIMITED",
+    "company_number": "08035616",
+    "address": "29 Whitegate Drive Whitegate Drive, Blackpool, England, FY3 9AA",
+    "status": "active",
+    "date_created": "2012-04-18",
+    "source": "Companies House"
+  },
+  {
+    "name": "DRS MOBILE TRUCK TYRES SERVICE LTD",
+    "company_number": "16139729",
+    "address": "62 Walbrook Road, Derby, England, DE23 8RY",
+    "status": "active",
+    "date_created": "2024-12-17",
+    "source": "Companies House"
+  },
+  {
+    "name": "HARRY'S TRUCK TYRES LTD",
+    "company_number": "16009864",
+    "address": "200 Knolton Way, Slough, Berkshire, United Kingdom, SL2 5RS",
+    "status": "active",
+    "date_created": "2024-10-10",
+    "source": "Companies House"
+  },
+  {
+    "name": "SYLLA TRUCK TYRES LTD",
+    "company_number": "13847848",
+    "address": "Flat 69 Kelvedon House, Guildford Road, London, England, SW8 2DW",
+    "status": "active",
+    "date_created": "2022-01-13",
+    "source": "Companies House"
+  },
+  {
+    "name": "TA9 TRUCK TYRES LIMITED",
+    "company_number": "16043526",
+    "address": "Goodwood House, Blackbrook Park Avenue, Taunton, Somerset, United Kingdom, TA1 2PX",
+    "status": "active",
+    "date_created": "2024-10-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "T.T.S. TRUCK TYRE SPECIALISTS LIMITED",
+    "company_number": "01379569",
+    "address": "Truck Tyre Specialists Warne Road, Winterstoke Commercial Centre, Weston-Super-Mare, England, BS23 3UU",
+    "status": "active",
+    "date_created": "1978-07-20",
+    "source": "Companies House"
+  },
+  {
+    "name": "247 TRUCK TYRES LTD",
+    "company_number": "16948484",
+    "address": "599 London Road, Reading, United Kingdom, RG6 1AT",
+    "status": "active",
+    "date_created": "2026-01-07",
+    "source": "Companies House"
+  },
+  {
+    "name": "UK TYRE WHOLESALERS LTD",
+    "company_number": "12301085",
+    "address": "50 George Street, Croydon, England, CR0 1PD",
+    "status": "active",
+    "date_created": "2019-11-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "AJJ INDUSTRIAL TYRES LIMITED",
+    "company_number": "15416705",
+    "address": "7 Stamford Square, Ashton-Under-Lyne, England, OL6 6QU",
+    "status": "active",
+    "date_created": "2024-01-16",
+    "source": "Companies House"
+  },
+  {
+    "name": "RICHARDSON'S VEHICLE SERVICES LTD.",
+    "company_number": "09284243",
+    "address": "75 Swingate, Kimberley, Nottingham, NG16 2PU",
+    "status": "active",
+    "date_created": "2014-10-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "TYRETEAM LIMITED",
+    "company_number": "03811678",
+    "address": "280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, England, HP14 4TJ",
+    "status": "active",
+    "date_created": "1999-07-22",
+    "source": "Companies House"
+  },
+  {
+    "name": "A&A TRUCKING LIMITED",
+    "company_number": "15920760",
+    "address": "28 Earls Drive, Stenson Fields, Derby, England, DE24 3FJ",
+    "status": "active",
+    "date_created": "2024-08-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "A&B TRUCK AND TRAILER SERVICES LTD",
+    "company_number": "15076744",
+    "address": "12 Walter Street, West Bromwich, England, B70 6HR",
+    "status": "active",
+    "date_created": "2023-08-16",
+    "source": "Companies House"
+  },
+  {
+    "name": "A&G TRUCK TRAILER HIRE LIMITED",
+    "company_number": "15648227",
+    "address": "Office 8, Days Space Business Centre, Litchurch Lane, Derby, Derbyshire, United Kingdom, DE24 8AA",
+    "status": "active",
+    "date_created": "2024-04-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "A&M TRUCK LTD",
+    "company_number": "11547441",
+    "address": "29 Mulvanney Crescent, St. Helens, England, WA10 2UG",
+    "status": "active",
+    "date_created": "2018-09-01",
+    "source": "Companies House"
+  },
+  {
+    "name": "A AND P TRUCK AND TRAILER PARTS LTD",
+    "company_number": "12903191",
+    "address": "Units 2 & 4 Calder Court, Accrington, Lancashire, England, BB5 5YB",
+    "status": "active",
+    "date_created": "2020-09-24",
+    "source": "Companies House"
+  },
+  {
+    "name": "A&R TRUCK LTD",
+    "company_number": "11783796",
+    "address": "Unit 4 34-36 Parliament Street, Small Heath, Birmingham, Westmidlands, England, B10 0QJ",
+    "status": "active",
+    "date_created": "2019-01-23",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABA TRUCK & CRANE LTD",
+    "company_number": "16052704",
+    "address": "3rd Floor, 86-90 Paul Street, London, England, EC2A 4NE",
+    "status": "active",
+    "date_created": "2024-10-31",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABBEY LIFT TRUCKS LIMITED",
+    "company_number": "13500845",
+    "address": "Unit 4 Moorview Court, Plymouth, England, PL6 7PL",
+    "status": "active",
+    "date_created": "2021-07-08",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABDUL SALAM CARS TRUCKS & DUMP TRUCKS SELLING LTD",
+    "company_number": "13446833",
+    "address": "53 Clyde Road, Croydon, Surrey, United Kingdom, CR0 6SY",
+    "status": "active",
+    "date_created": "2021-06-09",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABG LIFT TRUCK TRAINING LTD.",
+    "company_number": "08997129",
+    "address": "35 Cwm Cottage Road, Abertillery, Gwent, NP13 1AT",
+    "status": "active",
+    "date_created": "2014-04-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABILITY LIFT TRUCK TRAINING LTD",
+    "company_number": "15406925",
+    "address": "16 Gileswood Crescent, Rotherham, South Yorkshire, United Kingdom, S63 6BU",
+    "status": "active",
+    "date_created": "2024-01-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABP TRUCK ENGINEERING LTD",
+    "company_number": "12880980",
+    "address": "1b Bath Road, Wisbech, United Kingdom, PE13 3NH",
+    "status": "active",
+    "date_created": "2020-09-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "RMG HGV & TYRES LTD",
+    "company_number": "16703486",
+    "address": "23 Lowfield Drive, Askern, Doncaster, United Kingdom, DN6 0FS",
+    "status": "active",
+    "date_created": "2025-09-08",
+    "source": "Companies House"
+  },
+  {
+    "name": "A&D HGV MOTORS LTD",
+    "company_number": "13835538",
+    "address": "Yard G Halliwell Mills, Bertha Street, Bolton, England, BL1 8AH",
+    "status": "active",
+    "date_created": "2022-01-07",
+    "source": "Companies House"
+  },
+  {
+    "name": "A & H HGV LIMITED",
+    "company_number": "09921337",
+    "address": "8 Chip Close, Birmingham, England, B38 8XF",
+    "status": "active",
+    "date_created": "2015-12-17",
+    "source": "Companies House"
+  },
+  {
+    "name": "A & I HGV SERVICES LTD",
+    "company_number": "10750768",
+    "address": "26 Polefield Grange, Prestwich, Manchester, England, M25 2WL",
+    "status": "active",
+    "date_created": "2017-05-03",
+    "source": "Companies House"
+  },
+  {
+    "name": "ADRIAN HGV TRANSPORT LTD",
+    "company_number": "16562257",
+    "address": "20 Petworth Drive, Leicester, England, LE3 9RE",
+    "status": "active",
+    "date_created": "2025-07-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "AK HGV DRIVING AND SHUNTING SERVICES LTD",
+    "company_number": "08452711",
+    "address": "6-8 Freeman Street, Grimsby, N.E Lincs, DN32 7AA",
+    "status": "active",
+    "date_created": "2013-03-20",
+    "source": "Companies House"
+  },
+  {
+    "name": "ALEK HGV LTD",
+    "company_number": "14636359",
+    "address": "60 Grange Avenue, Derby, England, DE23 8DG",
+    "status": "active",
+    "date_created": "2023-02-02",
+    "source": "Companies House"
+  },
+  {
+    "name": "ALEX B HGV LTD",
+    "company_number": "14038419",
+    "address": "87 London Road, Markyate, St. Albans, England, AL3 8JP",
+    "status": "active",
+    "date_created": "2022-04-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "ALEX HGV LTD",
+    "company_number": "15999727",
+    "address": "Flat 10 St. Johns Court, St. Johns Avenue, Rotherham, England, S60 1EZ",
+    "status": "active",
+    "date_created": "2024-10-05",
+    "source": "Companies House"
+  },
+  {
+    "name": "ALPHA HGV RECRUITMENT AND TRAINING LTD",
+    "company_number": "09477406",
+    "address": "Suite E Whitestone Business Park, Withington, Hereford, England, HR1 3SE",
+    "status": "active",
+    "date_created": "2015-03-09",
+    "source": "Companies House"
+  },
+  {
+    "name": "AMK HGV LTD",
+    "company_number": "16411110",
+    "address": "3 Wellington Drive, Middleton St. George, Darlington, England, DL2 1FJ",
+    "status": "active",
+    "date_created": "2025-04-27",
+    "source": "Companies House"
+  },
+  {
+    "name": "AML HGV SERVICES LTD",
+    "company_number": "10301809",
+    "address": "66 Langley Close, St. Ives, England, PE27 5SE",
+    "status": "active",
+    "date_created": "2016-07-29",
+    "source": "Companies House"
+  },
+  {
+    "name": "ANDREI HGV TRANS LTD",
+    "company_number": "10524145",
+    "address": "43 Bradleigh Avenue, Grays, England, RM17 5XD",
+    "status": "active",
+    "date_created": "2016-12-14",
+    "source": "Companies House"
+  },
+  {
+    "name": "ANDY EMERTON HGV SERVICES LTD",
+    "company_number": "11028080",
+    "address": "Ground Floor Vista Building, St David's Park, Ewloe, Deeside, Wales, CH5 3DT",
+    "status": "active",
+    "date_created": "2017-10-24",
+    "source": "Companies House"
+  },
+  {
+    "name": "ANTONIO HGV LTD",
+    "company_number": "13505350",
+    "address": "6a Mossfield Road, Birmingham, England, B14 7JB",
+    "status": "active",
+    "date_created": "2021-07-12",
+    "source": "Companies House"
+  },
+  {
+    "name": "A1 HGV TRAINING LIMITED",
+    "company_number": "08273163",
+    "address": "284 Gipsy Lane, Leicester, LE4 9BX",
+    "status": "active",
+    "date_created": "2012-10-30",
+    "source": "Companies House"
+  },
+  {
+    "name": "A1 TRUCK AND TRAILER LTD",
+    "company_number": "16388049",
+    "address": "The Haulage Yard Sheffield Road, Conisbrough, Doncaster, South Yorkshire, United Kingdom, DN12 3AR",
+    "status": "active",
+    "date_created": "2025-04-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "AP HGV LTD",
+    "company_number": "11271530",
+    "address": "59 South Oval, Northampton, United Kingdom, NN5 7LF",
+    "status": "active",
+    "date_created": "2018-03-23",
+    "source": "Companies House"
+  },
+  {
+    "name": "A.P.T HGV LTD",
+    "company_number": "13965864",
+    "address": "Chelworth Ind Estate J&B Chelworth Industrial Estate, Cricklade, Swindon, England, SN6 6HQ",
+    "status": "active",
+    "date_created": "2022-03-09",
+    "source": "Companies House"
+  },
+  {
+    "name": "ASH NEWMAN HGV MECHANIC LTD",
+    "company_number": "12434555",
+    "address": "Brook House Church Lane, Garforth, Leeds, England, LS25 1HB",
+    "status": "active",
+    "date_created": "2020-01-30",
+    "source": "Companies House"
+  },
+  {
+    "name": "A2Z HGV TRAINING LTD",
+    "company_number": "15474782",
+    "address": "11 Apsley Walk, Iver, England, SL0 9BQ",
+    "status": "active",
+    "date_created": "2024-02-09",
+    "source": "Companies House"
+  },
+  {
+    "name": "AUGUSTIN HGV LTD",
+    "company_number": "16016866",
+    "address": "4 Wilden Crescent, Nottingham, England, NG11 8FH",
+    "status": "active",
+    "date_created": "2024-10-14",
+    "source": "Companies House"
+  },
+  {
+    "name": "AUTOMOTIVE DRIVE LTD",
+    "company_number": "16880081",
+    "address": "69 Peel Street, Rochdale, England, OL12 6PN",
+    "status": "active",
+    "date_created": "2025-11-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "BALAN HGV DELIVERY LTD",
+    "company_number": "10454130",
+    "address": "88 Westfield Road, Berkhamsted, England, HP4 3PW",
+    "status": "active",
+    "date_created": "2016-10-31",
+    "source": "Companies House"
+  },
+  {
+    "name": "BALLTY HGV LIMITED",
+    "company_number": "09777441",
+    "address": "37 Columbine Road, Rochester, England, ME2 2YA",
+    "status": "active",
+    "date_created": "2015-09-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "B&B HGV SERVICES LTD",
+    "company_number": "11393320",
+    "address": "76 Sheepwalk, Peterborough, England, PE4 7BJ",
+    "status": "active",
+    "date_created": "2018-06-01",
+    "source": "Companies House"
+  },
+  {
+    "name": "BARTEK HGV LTD",
+    "company_number": "12239176",
+    "address": "Flat 17 Jasmine House, 18 Braunston Close, Northampton, United Kingdom, NN4 8QZ",
+    "status": "active",
+    "date_created": "2019-10-02",
+    "source": "Companies House"
+  },
+  {
+    "name": "BART HGV LTD",
+    "company_number": "11627377",
+    "address": "82 Tyne Close, Spalding, England, PE11 3DN",
+    "status": "active",
+    "date_created": "2018-10-17",
+    "source": "Companies House"
+  },
+  {
+    "name": "BB HGV LTD",
+    "company_number": "16296330",
+    "address": "8a De Lacy Row, Castlefields, Runcorn, England, WA7 2NB",
+    "status": "active",
+    "date_created": "2025-03-05",
+    "source": "Companies House"
+  },
+  {
+    "name": "BERRIES HGV LTD",
+    "company_number": "15819843",
+    "address": "58 Home Farm Drive, Boughton, Northampton, England, NN2 8GT",
+    "status": "active",
+    "date_created": "2024-07-04",
+    "source": "Companies House"
+  },
+  {
+    "name": "BHO HGV TRANSPORT LTD",
+    "company_number": "16635851",
+    "address": "31 Claremont Road, Luton, England, LU4 8LY",
+    "status": "active",
+    "date_created": "2025-08-07",
+    "source": "Companies House"
+  },
+  {
+    "name": "BIZON HGV DRIVER LTD",
+    "company_number": "12792518",
+    "address": "Foxholes, Bourton, Much Wenlock, Shropshire, England, TF13 6QH",
+    "status": "active",
+    "date_created": "2020-08-05",
+    "source": "Companies House"
+  },
+  {
+    "name": "BM HGV SERVICES LTD",
+    "company_number": "16502462",
+    "address": "53 Water Meadows, Worksop, United Kingdom, S80 3DB",
+    "status": "active",
+    "date_created": "2025-06-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "BMS HGV MAINTENANCE LTD",
+    "company_number": "14454873",
+    "address": "129 Quince, Tamworth, England, B77 4ET",
+    "status": "active",
+    "date_created": "2022-11-01",
+    "source": "Companies House"
+  },
+  {
+    "name": "BOGDAN HGV TRANS LTD",
+    "company_number": "13930519",
+    "address": "29 Irby Street, Boston, England, PE21 8SA",
+    "status": "active",
+    "date_created": "2022-02-21",
+    "source": "Companies House"
+  },
+  {
+    "name": "BOSTON HGV TESTING STATION LIMITED",
+    "company_number": "07059521",
+    "address": "Riverside Industrial Estate, Marsh Lane, Boston, Lincolnshire, PE21 7PJ",
+    "status": "active",
+    "date_created": "2009-10-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "BRAKE STOP HGV LIMITED",
+    "company_number": "16053970",
+    "address": "Unit 1 Montague House, 527 Green Lane, Ilford, England, IG3 9RH",
+    "status": "active",
+    "date_created": "2024-10-31",
+    "source": "Companies House"
+  },
+  {
+    "name": "BRIDGEND HGV DRIVER TRAINING LIMITED",
+    "company_number": "15105658",
+    "address": "12 Heol-Y-Berllan, Pyle, Bridgend, Wales, CF33 6LE",
+    "status": "active",
+    "date_created": "2023-08-30",
+    "source": "Companies House"
+  },
+  {
+    "name": "BROOKS HGV SERVICES LTD",
+    "company_number": "14756363",
+    "address": "129 Old Highway, Hoddesdon, England, EN11 0LY",
+    "status": "active",
+    "date_created": "2023-03-24",
+    "source": "Companies House"
+  },
+  {
+    "name": "BUDS HGV LIMITED",
+    "company_number": "15790471",
+    "address": "13 Walsingham Close, Bedford, England, MK42 9GY",
+    "status": "active",
+    "date_created": "2024-06-20",
+    "source": "Companies House"
+  },
+  {
+    "name": "BUS 2 HGV LTD",
+    "company_number": "12357722",
+    "address": "6 Moss Square, Macclesfield, England, SK11 7ST",
+    "status": "active",
+    "date_created": "2019-12-10",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABLE LORRY LOADERS LIMITED",
+    "company_number": "08583910",
+    "address": "Charter House, 33 Greek Street, Stockport, Cheshire, SK3 8AX",
+    "status": "active",
+    "date_created": "2013-06-25",
+    "source": "Companies House"
+  },
+  {
+    "name": "ABLE LORRY LOADERS HOLDINGS LIMITED",
+    "company_number": "10825853",
+    "address": "Charter House, 33 Greek Street, Stockport, Cheshire, SK3 8AX",
+    "status": "active",
+    "date_created": "2017-06-19",
+    "source": "Companies House"
+  },
+  {
+    "name": "ALTENS LORRY PARK DEVELOPMENT LIMITED",
+    "company_number": "SC178598",
+    "address": "Site Office, Altens Lorry Park Hareness Road, Altens Industrial Estate, Aberdeen, Scotland, AB12 3LE",
+    "status": "active",
+    "date_created": "1997-09-08",
+    "source": "Companies House"
+  },
+  {
+    "name": "BALLA LORRY PARK (AVONMOUTH) LTD",
+    "company_number": "14059976",
+    "address": "C/O Balla Group, Unit 2 Acorn Farm Green Lane, Cutts Heath, Wotton-Under-Edge, United Kingdom, GL12 8QW",
+    "status": "active",
+    "date_created": "2022-04-21",
+    "source": "Companies House"
+  },
+  {
+    "name": "B&P LORRY LTD",
+    "company_number": "11589817",
+    "address": "137 County Road, Walton, Liverpool, England, L4 3QF",
+    "status": "active",
+    "date_created": "2018-09-26",
+    "source": "Companies House"
+  },
+  {
+    "name": "BB LORRY WASH LIMITED",
+    "company_number": "16267863",
+    "address": "16 Fords Park Road, London, England, E16 1NL",
+    "status": "active",
+    "date_created": "2025-02-21",
+    "source": "Companies House"
+  },
+  {
+    "name": "BOLTON LORRY PARK LIMITED",
+    "company_number": "07273827",
+    "address": "Bolton Lorry Park Mill Hill Industrial Estate, Mill Street, Bolton, BL1 1UG",
+    "status": "active",
+    "date_created": "2010-06-04",
+    "source": "Companies House"
+  },
+  {
+    "name": "BOOK A LORRY LIMITED",
+    "company_number": "12957133",
+    "address": "7 Whiteleys Parade, Uxbridge Road, Hillingdon, Uxbridge, England, UB10 0PD",
+    "status": "active",
+    "date_created": "2020-10-16",
+    "source": "Companies House"
+  },
+  {
+    "name": "BRANSONS CROSS LORRY PARK LIMITED",
+    "company_number": "13339737",
+    "address": "The Chestnuts Bransons Cross Farm, Beoley Lane, Beoley, Redditch, Worcestershire, United Kingdom, B98 9DP",
+    "status": "active",
+    "date_created": "2021-04-16",
+    "source": "Companies House"
+  },
+  {
+    "name": "CAMPBELL ROAD LORRY PARK LTD",
+    "company_number": "14775749",
+    "address": "William Croft Thorney Edge Road, Bagnall, Stoke-On-Trent, England, ST9 9LD",
+    "status": "active",
+    "date_created": "2023-04-03",
+    "source": "Companies House"
+  },
+  {
+    "name": "CLD LORRY UK LTD",
+    "company_number": "11661993",
+    "address": "9 Belgravia Drive, Bridgwater, England, TA6 4GH",
+    "status": "active",
+    "date_created": "2018-11-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "DOVER LORRY PARK LIMITED",
+    "company_number": "16358800",
+    "address": "Minnis Farm Greenwich Lane, Ewell Minnis, Dover, England, CT15 7EA",
+    "status": "active",
+    "date_created": "2025-04-01",
+    "source": "Companies House"
+  },
+  {
+    "name": "DRIVER LORRY LIMITED",
+    "company_number": "10511425",
+    "address": "19 Old Tovil Road, Flat A, Maidstone, United Kingdom, ME15 6PR",
+    "status": "active",
+    "date_created": "2016-12-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "EASY LORRY LTD",
+    "company_number": "13852189",
+    "address": "25 Garner Court, Huntingdon, England, PE29 1GE",
+    "status": "active",
+    "date_created": "2022-01-17",
+    "source": "Companies House"
+  },
+  {
+    "name": "ELISA LORRY LIMITED",
+    "company_number": "10671297",
+    "address": "18 St. Davids Road, Leicester, England, LE3 6TY",
+    "status": "active",
+    "date_created": "2017-03-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "ELITE LORRY TRANS LTD",
+    "company_number": "16019380",
+    "address": "256 Lockhurst Lane, Coventry, England, CV6 5NJ",
+    "status": "active",
+    "date_created": "2024-10-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "EMY PRIME LORRY LTD",
+    "company_number": "16100191",
+    "address": "52 Crabmill Lane, Coventry, West Middlands, United Kingdom, CV6 5HA",
+    "status": "active",
+    "date_created": "2024-11-25",
+    "source": "Companies House"
+  },
+  {
+    "name": "EU LORRY DRIVER RECRUITMENT AGENCY LTD",
+    "company_number": "11303252",
+    "address": "4 Leopold House,, 17 Leopold Road, Felixstowe, England, IP11 7NP",
+    "status": "active",
+    "date_created": "2018-04-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "EURO LORRY PARTS LTD",
+    "company_number": "07485410",
+    "address": "C/O Atex Business Solutions Ltd, Premier Business Centre,, 47-49 Park Royal Road, London, England, NW10 7LQ",
+    "status": "active",
+    "date_created": "2011-01-07",
+    "source": "Companies House"
+  },
+  {
+    "name": "GIANNI LORRY & CAB LIMITED",
+    "company_number": "15010756",
+    "address": "3 Bannister Drive, Eagle Farm South, Milton Keynes, Buckinghamshire, United Kingdom, MK17 7EQ",
+    "status": "active",
+    "date_created": "2023-07-18",
+    "source": "Companies House"
+  },
+  {
+    "name": "GOOD LORRY LTD",
+    "company_number": "15185579",
+    "address": "14 Dovecote Lane, Little Hulton, Manchester, England, M38 0FS",
+    "status": "active",
+    "date_created": "2023-10-03",
+    "source": "Companies House"
+  },
+  {
+    "name": "GREG'S LORRY TRANSPORT LTD",
+    "company_number": "13704360",
+    "address": "19 Gower Street, Oldham, England, OL1 3UB",
+    "status": "active",
+    "date_created": "2021-10-26",
+    "source": "Companies House"
+  },
+  {
+    "name": "IMMINGHAM LORRY PARK LTD",
+    "company_number": "08322972",
+    "address": "County Hotel, Pelham Road, Immingham, England, DN40 1AD",
+    "status": "active",
+    "date_created": "2012-12-07",
+    "source": "Companies House"
+  },
+  {
+    "name": "J&M LORRY SOLUTIONS LIMITED",
+    "company_number": "16143849",
+    "address": "Flat 8 Hardy Court George Street, Pontnewynydd, Pontypool, Wales, NP4 8NS",
+    "status": "active",
+    "date_created": "2024-12-18",
+    "source": "Companies House"
+  },
+  {
+    "name": "J MARTINSON GRAB LORRY HIRE LTD",
+    "company_number": "12313161",
+    "address": "The Wells, West End, Garthorpe, England, DN17 4RX",
+    "status": "active",
+    "date_created": "2019-11-13",
+    "source": "Companies House"
+  },
+  {
+    "name": "JUNCTION 23 LORRY PARK LIMITED",
+    "company_number": "02174770",
+    "address": "47 Ashby Road Central, Shepshed, Loughborough, Leicestershire, LE12 9BS",
+    "status": "active",
+    "date_created": "1987-10-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "LB LORRY WASH LIMITED",
+    "company_number": "11478435",
+    "address": "16 Fords Park Road, Fords Park Road, London, United Kingdom, E16 1NL",
+    "status": "active",
+    "date_created": "2018-07-23",
+    "source": "Companies House"
+  },
+  {
+    "name": "LONDON LORRY COURIER LTD",
+    "company_number": "10149363",
+    "address": "1 John Penn Street 1 John Penn Street, Lewisham, London, United Kingdom, SE13 7QT",
+    "status": "active",
+    "date_created": "2016-04-27",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY LTD",
+    "company_number": "NI713119",
+    "address": "Unit 104 44a Frances Street, Newtownards, Northern Ireland, BT23 7DN",
+    "status": "active",
+    "date_created": "2024-04-02",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY CAPITAL LTD",
+    "company_number": "15912011",
+    "address": "128 City Road, London, United Kingdom, EC1V 2NX",
+    "status": "active",
+    "date_created": "2024-08-22",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRYCO LTD",
+    "company_number": "14311753",
+    "address": "9 Parkside Court Rosedale Way, Cheshunt, Waltham Cross, England, EN7 6LQ",
+    "status": "active",
+    "date_created": "2022-08-22",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRYCO FLEET CARE LTD",
+    "company_number": "16961297",
+    "address": "9 Parkside Court Rosedale Way, Cheshunt, Waltham Cross, England, EN7 6LQ",
+    "status": "active",
+    "date_created": "2026-01-13",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY CRANE SERVICES LIMITED",
+    "company_number": "11747211",
+    "address": "198 Carr Bottom Road, Bradford, United Kingdom, BD5 9AQ",
+    "status": "active",
+    "date_created": "2019-01-02",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRYDRIVER LIMITED",
+    "company_number": "12050811",
+    "address": "8 Nightingale Gardens, Rugby, England, CV23 0WT",
+    "status": "active",
+    "date_created": "2019-06-14",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRYDRIVING LIMITED",
+    "company_number": "16614157",
+    "address": "8 Plover Crescent, Leicester, England, LE4 1EB",
+    "status": "active",
+    "date_created": "2025-07-29",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY GLORY LTD",
+    "company_number": "10627537",
+    "address": "Fla1, 98 Park Rd, Peterborough, Cambs, England, PE1 2TJ",
+    "status": "active",
+    "date_created": "2017-02-20",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY JORDI LTD",
+    "company_number": "12040005",
+    "address": "45a Colenso Road, Ilford, Redbridge, United Kingdom, IG2 7AH",
+    "status": "active",
+    "date_created": "2019-06-10",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY LEGEND LTD",
+    "company_number": "16343097",
+    "address": "214a Fleet Road, Fleet, England, GU51 4BQ",
+    "status": "active",
+    "date_created": "2025-03-26",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY LESSONS LTD",
+    "company_number": "13615893",
+    "address": "Parkview Main Street, Brandon, Coventry, England, CV8 3HW",
+    "status": "active",
+    "date_created": "2021-09-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY LINK LIMITED",
+    "company_number": "16073822",
+    "address": "290-294 Uxbridge Road, Shepherds Bush, London, Greater London, United Kingdom, W12 7LJ",
+    "status": "active",
+    "date_created": "2024-11-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRYLOADER TRAINING LIMITED",
+    "company_number": "10325328",
+    "address": "24 Mayfair Drive, Crewe, England, CW1 5BB",
+    "status": "active",
+    "date_created": "2016-08-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY LOGISTICS LTD",
+    "company_number": "16526005",
+    "address": "39 Arthur Harris Close, Smethwick, England, B66 4NX",
+    "status": "active",
+    "date_created": "2025-06-18",
+    "source": "Companies House"
+  },
+  {
+    "name": "LORRY PARK (NEWPORT) LTD",
+    "company_number": "12884290",
+    "address": "Unit 8 Nash Mead, Industrial Estate, Newport, Wales, NP19 4SU",
+    "status": "active",
+    "date_created": "2020-09-16",
+    "source": "Companies House"
+  },
+  {
+    "name": "COMMERCIAL TYRES LTD",
+    "company_number": "10615294",
+    "address": "Vantage Quay, 5 Brewer Street, Manchester, England, M1 2ER",
+    "status": "active",
+    "date_created": "2017-02-13",
+    "source": "Companies House"
+  },
+  {
+    "name": "COMMERCIAL TYRE SERVICES (BRISTOL) LIMITED",
+    "company_number": "11334504",
+    "address": "Unit 5 Willment Way, Bristol, England, BS11 8DJ",
+    "status": "active",
+    "date_created": "2018-04-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "COMMERCIAL TYRES OFF HIGHWAY LIMITED",
+    "company_number": "08555956",
+    "address": "Tructyre House Princesway North, Team Valley, Gateshead, England, NE11 0NF",
+    "status": "active",
+    "date_created": "2013-06-04",
+    "source": "Companies House"
+  },
+  {
+    "name": "COMMERCIAL TYRE SOLUTIONS LTD",
+    "company_number": "15143167",
+    "address": "71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",
+    "status": "active",
+    "date_created": "2023-09-17",
+    "source": "Companies House"
+  },
+  {
+    "name": "COMMERCIAL TYRE SUPPLIES LTD",
+    "company_number": "07754686",
+    "address": "6a Cissplatt Lane,, Keelby,, DN41 8HU",
+    "status": "active",
+    "date_created": "2011-08-26",
+    "source": "Companies House"
+  },
+  {
+    "name": "ACE TYRES COMMERCIAL LTD",
+    "company_number": "10512275",
+    "address": "304 High Street, Orpington, Kent, United Kingdom, BR6 0NF",
+    "status": "active",
+    "date_created": "2016-12-06",
+    "source": "Companies House"
+  },
+  {
+    "name": "AM COMMERCIAL TYRE\u2019S LIMITED",
+    "company_number": "SC846604",
+    "address": "5 Cables Wynd House, Edinburgh, Scotland, EH6 6DF",
+    "status": "active",
+    "date_created": "2025-04-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "ASHFORD COMMERCIAL TYRES LIMITED",
+    "company_number": "07322542",
+    "address": "57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",
+    "status": "active",
+    "date_created": "2010-07-22",
+    "source": "Companies House"
+  },
+  {
+    "name": "BARTON COMMERCIAL TYRES LIMITED",
+    "company_number": "02039874",
+    "address": "Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",
+    "status": "active",
+    "date_created": "1986-07-23",
+    "source": "Companies House"
+  },
+  {
+    "name": "BLACK COUNTRY COMMERCIAL & TYRES LTD",
+    "company_number": "15504034",
+    "address": "36 Lichfield Street, Walsall, England, WS1 1TJ",
+    "status": "active",
+    "date_created": "2024-02-19",
+    "source": "Companies House"
+  },
+  {
+    "name": "CENTRAL TYRE (COMMERCIAL) LIMITED",
+    "company_number": "07760510",
+    "address": "Etel House, Avenue One, Letchworth Garden City, Hertfordshire, SG6 2HU",
+    "status": "active",
+    "date_created": "2011-09-02",
+    "source": "Companies House"
+  },
+  {
+    "name": "CLASSIC COMMERCIAL AND TYRE LIMITED",
+    "company_number": "15485268",
+    "address": "26 Harmer Street, Gravesend, England, DA12 2AX",
+    "status": "active",
+    "date_created": "2024-02-12",
+    "source": "Companies House"
+  },
+  {
+    "name": "COMMERCIAL CONTRACT TYRES LIMITED",
+    "company_number": "04232039",
+    "address": "38 Chelsworth Avenue, Ipswich, Suffolk, United Kingdom, IP4 3AY",
+    "status": "active",
+    "date_created": "2001-06-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "EAST DENE COMMERCIAL TYRES LTD",
+    "company_number": "13300388",
+    "address": "7 East Crescent, Rotherham, England, S65 2RT",
+    "status": "active",
+    "date_created": "2021-03-29",
+    "source": "Companies House"
+  },
+  {
+    "name": "FAST FIT COMMERCIAL TYRES LIMITED",
+    "company_number": "15947304",
+    "address": "6 St. Georges Square, Portsmouth, England, PO1 3EY",
+    "status": "active",
+    "date_created": "2024-09-10",
+    "source": "Companies House"
+  },
+  {
+    "name": "J.S COMMERCIAL TYRES LIMITED",
+    "company_number": "16100479",
+    "address": "23 Turnberry Court Bentley, Doncaster, South Yorkshire, England, DN5 0UL",
+    "status": "active",
+    "date_created": "2024-11-25",
+    "source": "Companies House"
+  },
+  {
+    "name": "JUST TYRES COMMERCIAL (NW) LTD",
+    "company_number": "12789756",
+    "address": "Suite 4 48 Westgate, Skelmersdale, England, WN8 8AZ",
+    "status": "active",
+    "date_created": "2020-08-04",
+    "source": "Companies House"
+  },
+  {
+    "name": "P.A. RISK COMMERCIAL TYRE SERVICES LIMITED",
+    "company_number": "04486928",
+    "address": "12 Station Court, Station Approach, Wickford, Essex, SS11 7AT",
+    "status": "active",
+    "date_created": "2002-07-16",
+    "source": "Companies House"
+  },
+  {
+    "name": "P B TYRES COMMERCIAL LIMITED",
+    "company_number": "15322563",
+    "address": "P B Tyres Bank Street, Golborne, Warrington, Cheshire, England, WA3 3SN",
+    "status": "active",
+    "date_created": "2023-12-01",
+    "source": "Companies House"
+  },
+  {
+    "name": "ROADSTAR COMMERCIAL TYRES LTD",
+    "company_number": "16581991",
+    "address": "3 Ferndown, Crawley, England, RH10 3SB",
+    "status": "active",
+    "date_created": "2025-07-15",
+    "source": "Companies House"
+  },
+  {
+    "name": "SOUTHERN TYRES (COMMERCIAL) LIMITED",
+    "company_number": "09414873",
+    "address": "Tructyre House Princesway North, Team Valley, Gateshead, England, NE11 0NF",
+    "status": "active",
+    "date_created": "2015-01-30",
+    "source": "Companies House"
+  },
+  {
+    "name": "SOUTH WEST COMMERCIAL TYRES LTD",
+    "company_number": "16339735",
+    "address": "South West Crane Hire Tan Lane, St Thomas, Exeter, Devon, United Kingdom, EX2 8EG",
+    "status": "active",
+    "date_created": "2025-03-25",
+    "source": "Companies House"
+  },
+  {
+    "name": "TT COMMERCIAL TYRES LTD",
+    "company_number": "16846304",
+    "address": "72 Springfield Avenue, Shirehampton, Bristol, England, BS11 9TQ",
+    "status": "active",
+    "date_created": "2025-11-11",
+    "source": "Companies House"
+  },
+  {
+    "name": "TYRE FIGHTER COMMERCIAL LTD",
+    "company_number": "SC774234",
+    "address": "5 Mayfield Grove, Dundee, Scotland, DD4 7GZ",
+    "status": "active",
+    "date_created": "2023-06-29",
+    "source": "Companies House"
+  },
+  {
+    "name": "TYRES (NORTHAMPTON) COMMERCIAL LLP",
+    "company_number": "OC305378",
+    "address": "3 Warren Yard, Warren Park Stratford Road, Milton Keynes, Buckinghamshire, MK12 5NW",
+    "status": "active",
+    "date_created": "2003-08-28",
+    "source": "Companies House"
+  },
+  {
+    "name": "WESSEX COMMERCIAL TYRES LIMITED",
+    "company_number": "06686704",
+    "address": "139 Engineer Road, West Wilts Trading Estate, Westbury, Wiltshire, England, BA13 4JW",
+    "status": "active",
+    "date_created": "2008-09-02",
+    "source": "Companies House"
+  },
+  {
+    "name": "WIRRAL TYRES & COMMERCIAL LIMITED",
+    "company_number": "05980097",
+    "address": "16 Bassendale Road, Croft Business Park Bromborough, Wirral, CH62 3QL",
+    "status": "active",
+    "date_created": "2006-10-27",
+    "source": "Companies House"
+  }
+]

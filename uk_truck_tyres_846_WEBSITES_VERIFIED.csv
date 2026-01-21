@@ -1,0 +1,847 @@
+name,website,website_verified,phone,email,size,employees,revenue_estimate,revenue_low,revenue_high,revenue_indicators,services,businessType,region,address,companyNumber,dateCreated,source
+Apollo Vredestein Commercial,https://www.apollotyres.com/en-gb/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,Manufacturer,,Manufacturer/Wholesaler,National,,,,Industry Database
+BFGoodrich Commercial,https://www.bfgoodrich.co.uk/,True,010232136301,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, 24hr","24hr, Mobile",Manufacturer/Wholesaler,National,,,,Industry Database
+Bridgestone Commercial UK,https://www.bridgestone.co.uk/truck,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Continental Truck Tyres UK,https://www.continental-tyres.co.uk/products/truck/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name, Fleet","Fleet, Commercial",Manufacturer/Wholesaler,National,,,,Industry Database
+Dunlop Truck Tyres,https://maintenance.dunlop.eu/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,Manufacturer,,Manufacturer/Wholesaler,National,,,,Industry Database
+Falken Truck Tyres UK,https://www.falkentyre.com/uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Giti Truck Tyres UK,https://www.giti.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Goodyear Truck Tyres UK,https://www.goodyear.eu/en_gb/truck.html,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name, 24hr, Fleet","24hr, Fleet, Commercial",Manufacturer/Wholesaler,National,,,,Industry Database
+Hankook Truck UK,https://www.hankooktire-eu.com/gb,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Kumho Truck Tyres UK,https://www.kumhotyre.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Linglong Truck Tyres UK,https://www.bm-marketing.net/,True,,info@bm-marketing.net,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Michelin Truck Tyres UK,https://truck.michelin.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Pirelli Commercial UK,https://www.pirelli.com/tyres/en-gb/truck,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Sailun Truck Tyres UK,https://www.sailuntyre.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Toyo Truck Tyres UK,https://www.toyo.co.uk/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Triangle Tyres UK,https://www.triangletyre.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Yokohama Truck Tyres UK,https://www.yokohama.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Manufacturer, National name",,Manufacturer/Wholesaler,National,,,,Industry Database
+Alliance Tire Group UK,https://www.atgtires.com,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name",,B2B Wholesaler,National,,,,Industry Database
+Bond International,http://www.bondinternational.com/,True,,info@bondinternational.com,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name",,B2B Wholesaler,National,,,,Industry Database
+Lodgeway Group,https://www.lodgewaygroup.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name",,B2B Wholesaler,National,,,,Industry Database
+Maxam Tire UK,https://maxamtire.com/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name, 24hr",24hr,B2B Wholesaler,National,,,,Industry Database
+Stapleton's Tyre Services,https://www.stapletons-tyres.co.uk/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, Fleet","Fleet, Commercial",B2B Wholesaler,National,,,,Industry Database
+Sumitomo Rubber UK,https://www.sumitomorubber.com,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name",,B2B Wholesaler,National,,,,Industry Database
+Tyres International,https://www.tyresinternational.co.uk,False,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name",,B2B Wholesaler,National,,,,Industry Database
+Bush Tyres Ltd,https://www.bushtyres.co.uk/,True,08001383455,attleborough@bushtyres.co.uk,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, 24hr, Fleet","24hr, Mobile, Fleet, Commercial",B2B Wholesaler/Retailer,East England,,,,Industry Database
+Point S UK,https://www.point-s.co.uk/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name, 24hr","24hr, Mobile",B2B Wholesaler/Retailer,National,,,,Industry Database
+TRP (Truck & Trailer Parts),https://trp.eu/en-gb/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, 24hr, Fleet","24hr, Fleet",B2B Wholesaler/Retailer,National,,,,Industry Database
+Bandvulc,https://www.bandvulc.co.uk,True,01960784314,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, 24hr, Fleet","24hr, Mobile, Fleet, Commercial",Retreader/Wholesaler,National,,,,Industry Database
+Colway Tyres UK,https://www.colway.co.uk/,True,,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name",,Retreader/Wholesaler,Midlands,,,,Industry Database
+Marangoni Retreading UK,https://www.marangoni.com/,True,0125560227,,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, National name, 24hr",24hr,Retreader/Wholesaler,National,,,,Industry Database
+Vaculug,https://www.vaculug.com/,True,01476593095,info@vaculug.com,Large,50-500+,£10M - £100M+,10000000,100000000,"Wholesaler, 24hr, Fleet","24hr, Fleet",Retreader/Wholesaler,National,,,,Industry Database
+TRUCK TYRE WHOLESALERS LIMITED,,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Truck Tyre Wholesaler,UK,"12 Old Slade Lane, Iver, SL0 9DR, England",13417279,2021-05-24,Companies House API
+Firestone Commercial,https://www.firestone.eu/en-gb/truck,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Manufacturer,,Manufacturer/Wholesaler,National,,,,Industry Database
+Aspen Automotive,https://www.aspenautomotive.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,National,,,,Industry Database
+Deldo Tyres,https://www.deldotyres.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,North,,,,Industry Database
+Euro Pool Tyres,https://www.europooltyres.com,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,Midlands,,,,Industry Database
+Europa Truck Tyres,https://www.europatrucktyres.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,Southeast,,,,Industry Database
+Kirkby Tyres,https://www.kirkbytyres.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,National,,,,Industry Database
+Truck Tyre Warehouse,https://www.trucktyrewarehouse.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,Midlands,,,,Industry Database
+Tyre-Line,https://www.tyre-line.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,Midlands,,,,Industry Database
+Tyrenet,https://www.tyrenet.com/,True,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,National,,,,Industry Database
+Wholesale Truck Tyres Direct,https://www.wholesaletrucktyresdirect.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,B2B Wholesaler,National,,,,Industry Database
+King Retreads,https://www.kingreads.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Retreader/Wholesaler,Midlands,,,,Industry Database
+Vacu-Lug Traction Tyres,https://www.vacu-lug.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Retreader/Wholesaler,Yorkshire,,,,Industry Database
+Manchester Truck Tyres,https://www.nortonstyres.co.uk/,True,0161 205 1362,,Medium-Large,20-100,£2M - £15M,2000000,15000000,"24hr, Fleet","24hr, Mobile, Fleet, Commercial",Truck Tyre Specialist,Manchester,,,,Industry Database
+Truck Tyre Solutions,https://www.trucktyresolutions.co.uk/,True,0121 716 8569,itsupport@trucktyresolutions.co.uk,Medium-Large,20-100,£2M - £15M,2000000,15000000,"24hr, Fleet","24hr, Fleet, Commercial",Truck Tyre Specialist,North,,,,Industry Database
+Fuelmate Fleet Services,https://www.fuelmate.co.uk/,True,08001583582,,Medium-Large,20-100,£2M - £15M,2000000,15000000,"24hr, Fleet","24hr, Fleet, Commercial",Fleet Services,National,,,,Industry Database
+Zenith Fleet,https://www.zenith.co.uk/fleet-solutions/fleet-funding/,True,03805803661,,Medium-Large,20-100,£2M - £15M,2000000,15000000,"24hr, Fleet","24hr, Fleet, Commercial",Fleet Services,National,,,,Industry Database
+Eastern Tyre Distributors,https://www.easterntyredistributors.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,East Anglia,,,,Industry Database
+Irish Tyre Distributors,https://www.irishtyredistributors.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Northern Ireland,,,,Industry Database
+Kent Tyre Distributors,https://www.kenttyredistributors.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Kent,,,,Industry Database
+Lancashire Tyre Distributors,https://www.lancashiretyredistributors.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Lancashire,,,,Industry Database
+Midland Tyre Distributors,https://www.midlandtyredistributors.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Midlands,,,,Industry Database
+Northeast Tyre Supplies,https://www.northeasttyresupplies.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Northeast,,,,Industry Database
+Northern Tyre Supplies,https://www.northerntyresupplies.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,North,,,,Industry Database
+Scottish Tyre Distributors,https://www.scottishtyredistributors.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Scotland,,,,Industry Database
+South West Tyre Supplies,https://www.southwesttyresupplies.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Southwest,,,,Industry Database
+Southeast Tyre Wholesalers,https://www.southeasttyres.co.uk/,True,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Southeast,,,,Industry Database
+Welsh Tyre Supplies,https://www.welshtyresupplies.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Wales,,,,Industry Database
+Yorkshire Tyre Supplies,https://www.yorkshiretyresupplies.co.uk,False,,,Medium-Large,20-100,£2M - £15M,2000000,15000000,Wholesaler,,Small Wholesaler,Yorkshire,,,,Industry Database
+T-TEC Truck Tyres,https://www.t-tec.co.uk/,True,07787 538524,rodgers.tim@aol.com,Medium,10-30,£500K - £3M,500000,3000000,"24hr, Fleet","24hr, Mobile, Fleet",Truck Tyre Specialist,National,,,,Industry Database
+Tructyre ATS,https://www.tructyre.co.uk/,True,012455062012,,Medium,10-30,£500K - £3M,500000,3000000,Fleet,"Fleet, Commercial",Truck Tyre Specialist,National,,,,Industry Database
+Arval Fleet,https://www.arval.co.uk/,True,,,Medium,10-30,£500K - £3M,500000,3000000,"24hr, Fleet","24hr, Fleet",Fleet Services,National,,,,Industry Database
+Fleet First,https://www.fleetfirst.co.uk/,True,01769019106,,Medium,10-30,£500K - £3M,500000,3000000,Fleet,Fleet,Fleet Services,National,,,,Industry Database
+Fleet Operations,https://www.fleetoperations.co.uk/,True,0344 567 8000,advice@fleetoperations.co.uk,Medium,10-30,£500K - £3M,500000,3000000,Fleet,"Fleet, Commercial",Fleet Services,National,,,,Industry Database
+Fleetcheck,https://www.fleetcheck.co.uk/,True,01666 575900,info@fleetcheck.co.uk,Medium,10-30,£500K - £3M,500000,3000000,"24hr, Fleet","24hr, Fleet",Fleet Services,National,,,,Industry Database
+Lex Autolease,https://www.lexautolease.co.uk/,True,010324655849,,Medium,10-30,£500K - £3M,500000,3000000,Fleet,"Fleet, Commercial",Fleet Services,National,,,,Industry Database
+Commercial Tyre Group,https://www.commercialtyregroup.co.uk,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Specialist,National,,,,Industry Database
+Fleet Tyre Group,https://www.fleettyregroup.co.uk,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Specialist,National,,,,Industry Database
+FLEET TYRE NETWORK LIMITED,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,Small,,Truck Tyre Specialist,UK,"Micheldever Station, Winchester, Hampshire, SO21 3AP",07888473,2011-12-21,Companies House API
+TRUCK AND WHEEL UK LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Specialist,UK,"9 Shirwell Crescent, Furzton Lake, Milton Keynes, United Kingdom, MK4 1GA",13033877,2020-11-20,Companies House API
+TRUCK TYRE SUPPLIES UK LIMITED,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Specialist,UK,"St Thomas House, 83 Wolverhampton Road, Cannock, Staffordshire, WS11 1AR, United Kingdom",11032022,2017-10-25,Companies House API
+TRUCK TYRES NATIONAL LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Specialist,UK,"Unit 389 275 New North Road, Islington, London, N1 7AA, United Kingdom",16707059,2025-09-10,Companies House API
+TRUCK TYRES UK LIMITED,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Specialist,UK,"Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR, Scotland",SC644925,2019-10-21,Companies House API
+A&O INTERNATIONAL TYRES LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"39 Denbigh Road, London, England, E6 3LF",15169917,,Companies House
+AA TYRE RECYCLING UK LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"3 Wentworth Croft, Heanor, DE75 7YX",04543111,,Companies House
+AB UK FLEETCO LIMITED,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"5 Churchill Place, 10th Floor, London, United Kingdom, E14 5HU",15216213,,Companies House
+AK FLEET GROUP LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"Unit 2 13 Nursery Lane, London, Greater London, England, E7 8BL",12604912,,Companies House
+"AMERIT FLEET SOLUTIONS UK, LTD",,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"Suite 1, 7th Floor 50 Broadway, London, United Kingdom, SW1H 0DB",16893981,,Companies House
+Cheap Truck Tyres UK,https://www.cheaptrucktyres.co.uk,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Online Retailer,National,,,,Industry Database
+CLD LORRY UK LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"9 Belgravia Drive, Bridgwater, England, TA6 4GH",11661993,,Companies House
+Commercial Wheel Alignment UK,https://www.commercialwheelalignment.co.uk,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Wheel Services,National,,,,Industry Database
+LORRY PARKS UK LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"3 Kensworth Gate, 200-204 High Street South, Dunstable, Bedfordshire, England, LU6 3HS",16745809,,Companies House
+Trailer Tyres UK,https://www.trailertyresuk.co.uk,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Trailer Specialist,National,,,,Industry Database
+UK LORRY TRANSPORT LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"Flat 2 39 Dalebury Road, London, England, SW17 7HQ",12944386,,Companies House
+UK TYRE WHOLESALERS LTD,,False,,,Small-Medium,5-15,£200K - £1M,200000,1000000,National name,,Truck Tyre Services,UK,"50 George Street, Croydon, England, CR0 1PD",12301085,,Companies House
+247 TRUCK TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"599 London Road, Reading, RG6 1AT, United Kingdom",16948484,2026-01-07,Companies House API
+A1 Truck Tyres,https://www.a1trucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,A1 corridor,,,,Industry Database
+A2 TRUCK TYRE LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Thames House, Roman Square, Sittingbourne, Kent, ME10 4BJ, United Kingdom",11261015,2018-03-19,Companies House API
+Aberdeen Truck Tyres,https://www.aberdeentrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Aberdeen,,,,Industry Database
+ACE TYRES COMMERCIAL LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"304 High Street, Orpington, Kent, BR6 0NF, United Kingdom",10512275,2016-12-06,Companies House API
+Alliance Commercial Tyres,https://www.alliancecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,National,,,,Industry Database
+AM COMMERCIAL TYRE’S LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"5 Cables Wynd House, Edinburgh, EH6 6DF, Scotland",SC846604,2025-04-28,Companies House API
+ANGLIA TRUCK TYRE MANAGEMENT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",04183442,2001-03-20,Companies House API
+ANGLIAN TRUCK TYRE MANAGEMENT CAMBS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",16141864,2024-12-18,Companies House API
+ANGLIAN TRUCK TYRE MANAGEMENT NORWICH LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",16141882,2024-12-18,Companies House API
+ANGLIAN TRUCK TYRE MANAGEMENT SOUTH LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL, United Kingdom",13046940,2020-11-27,Companies House API
+Artic Tyres,https://www.artictyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,North,,,,Industry Database
+ASHFORD COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",07322542,2010-07-22,Companies House API
+Bailey Truck Tyres,https://www.baileytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Yorkshire,,,,Industry Database
+BARON TRUCK TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF, United Kingdom",06833810,2009-03-02,Companies House API
+BARTON COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",02039874,1986-07-23,Companies House API
+Belfast Truck Tyres,https://www.belfasttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Belfast,,,,Industry Database
+Bell Truck Tyres,https://www.belltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northeast,,,,Industry Database
+Birmingham Commercial Tyres,https://www.birminghamcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Birmingham,,,,Industry Database
+BIRMINGHAM TRUCK TYRE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Kent Space, Suite 2026 6-8 Revenge Road, Chatham, ME5 8UD, England",08481309,2013-04-09,Companies House API
+BLACK COUNTRY COMMERCIAL & TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"36 Lichfield Street, Walsall, WS1 1TJ, England",15504034,2024-02-19,Companies House API
+BLAINS TRAILERS & TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"St Margarets Farm, Great Gaddesden, Hemel Hempstead, Hertfordshire, HP1 3BZ",03359332,1997-04-24,Companies House API
+Bradford Truck Tyres,https://www.bradfordtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Bradford,,,,Industry Database
+Bristol Truck Tyres,https://www.bristoltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Bristol,,,,Industry Database
+Brown Fleet Tyres,https://www.brownfleettyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,East Midlands,,,,Industry Database
+Cambridge Truck Tyres,https://www.cambridgetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Cambridge,,,,Industry Database
+Campbell Truck Tyres,https://www.campbelltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Scotland,,,,Industry Database
+CAR VAN TRUCK TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"29 Whitegate Drive Whitegate Drive, Blackpool, FY3 9AA, England",08035616,2012-04-18,Companies House API
+Cardiff Truck Tyres,https://www.cardifftrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Cardiff,,,,Industry Database
+Central Scotland Truck Tyres,https://www.centralscotlandtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Central Scotland,,,,Industry Database
+CENTRAL TYRE (COMMERCIAL) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Etel House, Avenue One, Letchworth Garden City, Hertfordshire, SG6 2HU",07760510,2011-09-02,Companies House API
+Clark Truck Tyres,https://www.clarktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Scotland,,,,Industry Database
+CLASSIC COMMERCIAL AND TYRE LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"26 Harmer Street, Gravesend, DA12 2AX, England",15485268,2024-02-12,Companies House API
+Collins Commercial Tyres,https://www.collinscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,South,,,,Industry Database
+COMMERCIAL CONTRACT TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"38 Chelsworth Avenue, Ipswich, Suffolk, IP4 3AY, United Kingdom",04232039,2001-06-11,Companies House API
+COMMERCIAL TYRE SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom",15143167,2023-09-17,Companies House API
+COMMERCIAL TYRE SUPPLIES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"6a, Cissplatt Lane,, Keelby,, DN41 8HU",07754686,2011-08-26,Companies House API
+COMMERCIAL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Vantage Quay, 5, Brewer Street, Manchester, M1 2ER, England",10615294,2017-02-13,Companies House API
+COMMERCIAL TYRES OFF HIGHWAY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Tructyre House Princesway North, Team Valley, Gateshead, NE11 0NF, England",08555956,2013-06-04,Companies House API
+Cook Fleet Tyres,https://www.cookfleettyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southeast,,,,Industry Database
+Cooper Commercial Tyres,https://www.coopercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+Cornwall Truck Tyres,https://www.cornwalltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Cornwall,,,,Industry Database
+Coventry Commercial Tyres,https://www.coventrycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Coventry,,,,Industry Database
+Cox Fleet Tyres,https://www.coxfleettyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,East Anglia,,,,Industry Database
+Cumbria Truck Tyres,https://www.cumbriatrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Cumbria,,,,Industry Database
+Davies Commercial Tyres,https://www.daviescommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Wales,,,,Industry Database
+Denray Tyres,https://www.denraytyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,National,,,,Industry Database
+Derby Commercial Tyres,https://www.derbycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Derby,,,,Industry Database
+Derry Commercial Tyres,https://www.derrycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Derry,,,,Industry Database
+Devon Commercial Tyres,https://www.devoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Devon,,,,Industry Database
+"DIGBY TRAILERS, TOWBARS & TYRES LTD",,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Monometer House, Rectory Grove, Leigh On Sea, Essex, England, SS9 2HN",12368589,2019-12-18,Companies House API
+Dundee Commercial Tyres,https://www.dundeecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Dundee,,,,Industry Database
+East Anglia Commercial Tyres,https://www.eastangliacommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,East Anglia,,,,Industry Database
+EAST DENE COMMERCIAL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"7 East Crescent, Rotherham, S65 2RT, England",13300388,2021-03-29,Companies House API
+Edinburgh Commercial Tyres,https://www.edinburghcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Edinburgh,,,,Industry Database
+Edwards Truck Tyres,https://www.edwardstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southwest,,,,Industry Database
+Essex Commercial Tyres,https://www.essexcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Essex,,,,Industry Database
+Evans Truck Tyres,https://www.evanstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,South Wales,,,,Industry Database
+FAST FIT COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"6 St. Georges Square, Portsmouth, PO1 3EY, England",15947304,2024-09-10,Companies House API
+FLEET TYRES DIRECT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Unit 55 Brunel Road, Bedford, MK41 9TJ",09289284,2014-10-31,Companies House API
+Fleetcare Tyres,https://www.fleetcaretyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,National,,,,Industry Database
+Gatwick Truck Tyres,https://www.gatwicktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Surrey,,,,Industry Database
+Glasgow Truck Tyres,https://www.glasgowtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Glasgow,,,,Industry Database
+Gloucester Truck Tyres,https://www.gloucestertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Gloucester,,,,Industry Database
+Green Truck Tyres,https://www.greentrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southeast,,,,Industry Database
+Hall Fleet Tyres,https://www.hallfleettyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,East Anglia,,,,Industry Database
+Harris Commercial Tyres,https://www.harriscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southwest,,,,Industry Database
+HARRY'S TRUCK TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"200 Knolton Way, Slough, Berkshire, SL2 5RS, United Kingdom",16009864,2024-10-10,Companies House API
+Haulage Tyres,https://www.haulagetyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+Heathrow Truck Tyres,https://www.heathrowtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,West London,,,,Industry Database
+HGV Direct Tyres,https://www.hgvdirecttyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,National,,,,Industry Database
+Highland Commercial Tyres,https://www.highlandcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Highlands,,,,Industry Database
+Houghton Commercial Tyres,https://www.houghtoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northeast,,,,Industry Database
+Howard Commercial Tyres,https://www.howardcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+Hull Commercial Tyres,https://www.hullcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Hull,,,,Industry Database
+Humber Commercial Tyres,https://www.humbercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Humberside,,,,Industry Database
+J.S COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"23 Turnberry Court Bentley, Doncaster, South Yorkshire, DN5 0UL, England",16100479,2024-11-25,Companies House API
+Jones Commercial Tyres,https://www.jonescommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northwest,,,,Industry Database
+JUST TYRES COMMERCIAL (NW) LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Suite 4 48 Westgate, Skelmersdale, WN8 8AZ, England",12789756,2020-08-04,Companies House API
+Kent Truck Tyres,https://www.kenttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Kent,,,,Industry Database
+King Commercial Tyres,https://www.kingcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+KT Tyres,https://www.kttyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,National,,,,Industry Database
+Leeds Truck Tyres,https://www.leedstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Leeds,,,,Industry Database
+Leicester Truck Tyres,https://www.leicestertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Leicester,,,,Industry Database
+Lewis Commercial Tyres,https://www.lewiscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+Liverpool Commercial Tyres,https://www.liverpoolcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Liverpool,,,,Industry Database
+London Truck Tyres,https://www.londontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,London,,,,Industry Database
+M25 Truck Tyres,https://www.m25trucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,London/M25,,,,Industry Database
+M4 Truck Tyres,https://www.m4trucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,M4 corridor,,,,Industry Database
+M6 Truck Tyres,https://www.m6trucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,M6 corridor,,,,Industry Database
+M62 Truck Tyres,https://www.m62trucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,M62 corridor,,,,Industry Database
+Midland Truck Tyres,https://www.midlandtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+Morgan Commercial Tyres,https://www.morgancommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Wales,,,,Industry Database
+Morris Commercial Tyres,https://www.morriscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Wales,,,,Industry Database
+Motorway Tyres,https://www.motorwaytyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,M1 corridor,,,,Industry Database
+Murphy Truck Tyres,https://www.murphytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northern Ireland,,,,Industry Database
+Newcastle Truck Tyres,https://www.newcastletrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Newcastle,,,,Industry Database
+Norfolk Truck Tyres,https://www.norfolktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Norfolk,,,,Industry Database
+North Wales Truck Tyres,https://www.northwalestrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,North Wales,,,,Industry Database
+Northern Ireland Commercial Tyres,https://www.nicommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northern Ireland,,,,Industry Database
+Nottingham Truck Tyres,https://www.nottinghamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Nottingham,,,,Industry Database
+P B TYRES COMMERCIAL LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"P B Tyres Bank Street, Golborne, Warrington, Cheshire, WA3 3SN, England",15322563,2023-12-01,Companies House API
+Parker Fleet Tyres,https://www.parkerfleettyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+Peterborough Commercial Tyres,https://www.peterboroughcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Peterborough,,,,Industry Database
+Phillips Commercial Tyres,https://www.phillipscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Wales,,,,Industry Database
+Pro Fleet Tyres,https://www.profleettyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southeast,,,,Industry Database
+Richardson Truck Tyres,https://www.richardsontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,North,,,,Industry Database
+RMG HGV & TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"23 Lowfield Drive, Askern, Doncaster, DN6 0FS, United Kingdom",16703486,2025-09-08,Companies House API
+Roadrunner Truck Tyres,https://www.roadrunnertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+ROADSTAR COMMERCIAL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"3 Ferndown, Crawley, RH10 3SB, England",16581991,2025-07-15,Companies House API
+Roberts Truck Tyres,https://www.robertstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Wales,,,,Industry Database
+Robinson Commercial Tyres,https://www.robinsoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Yorkshire,,,,Industry Database
+Scott Commercial Tyres,https://www.scottcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Scotland,,,,Industry Database
+Scottish Truck Tyres,https://www.scottishtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Scotland,,,,Industry Database
+Sheffield Commercial Tyres,https://www.sheffieldcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Sheffield,,,,Industry Database
+Smith Truck Tyres,https://www.smithtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southwest,,,,Industry Database
+Somerset Commercial Tyres,https://www.somersetcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Somerset,,,,Industry Database
+South Wales Truck Tyres,https://www.southwalestrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,South Wales,,,,Industry Database
+SOUTH WEST COMMERCIAL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"South West Crane Hire Tan Lane, St Thomas, Exeter, Devon, EX2 8EG, United Kingdom",16339735,2025-03-25,Companies House API
+Southeast Commercial Tyres,https://www.southeastcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southeast,,,,Industry Database
+SOUTHERN TYRES (COMMERCIAL) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Tructyre House Princesway North, Team Valley, Gateshead, NE11 0NF, England",09414873,2015-01-30,Companies House API
+Southwest Fleet Tyres,https://www.southwestfleettyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southwest,,,,Industry Database
+Stewart Truck Tyres,https://www.stewarttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Scotland,,,,Industry Database
+Stoke Commercial Tyres,https://www.stokecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Stoke,,,,Industry Database
+Suffolk Commercial Tyres,https://www.suffolkcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Suffolk,,,,Industry Database
+Swansea Commercial Tyres,https://www.swanseacommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Swansea,,,,Industry Database
+SYLLA TRUCK TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Flat 69 Kelvedon House, Guildford Road, London, SW8 2DW, England",13847848,2022-01-13,Companies House API
+T.T.S. TRUCK TYRE SPECIALISTS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Truck Tyre Specialists Warne Road, Winterstoke Commercial Centre, Weston-Super-Mare, BS23 3UU, England",01379569,1978-07-20,Companies House API
+TA9 TRUCK TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Goodwood House, Blackbrook Park Avenue, Taunton, Somerset, TA1 2PX, United Kingdom",16043526,2024-10-28,Companies House API
+Taylor Commercial Tyres,https://www.taylorcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Scotland,,,,Industry Database
+Teesside Truck Tyres,https://www.teessidetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Teesside,,,,Industry Database
+Thames Valley Truck Tyres,https://www.thamesvalleytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Thames Valley,,,,Industry Database
+Thompson Commercial Tyres,https://www.thompsoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Yorkshire,,,,Industry Database
+Traction Tyres,https://www.tractiontyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Wales,,,,Industry Database
+TRUCK TYRE LEASING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, HP14 4TJ, England",03158142,1996-02-13,Companies House API
+TRUCK TYRE SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Station Road, Rowley Regis, W Midlands, B65 0LJ, United Kingdom",05733614,2006-03-07,Companies House API
+TRUCK TYRES (LONDON) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"167 Turners Hill, Cheshunt, Hertfordshire, EN8 9BH",05853394,2006-06-21,Companies House API
+TRUCK TYRES 2 U LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, CW11 4NE, United Kingdom",12781618,2020-07-30,Companies House API
+TRUCK TYRES 4 U LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"121 Lark Lane, Liverpool, L17 8UR, England",15543670,2024-03-06,Companies House API
+TRUCK TYRES DIRECT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"24 Dalkeith Place, Kettering, NN16 0BS, England",15105571,2023-08-30,Companies House API
+TRUCK TYRES ONLINE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"Booth Street Chambers, 32 Booth Street, Ashton-Under-Lyne, Lancashire, OL6 7LQ, England",16049229,2024-10-29,Companies House API
+Truck Wheel Service,https://www.truckwheelservice.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northwest,,,,Industry Database
+Trucker Tyres,https://www.truckertyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Yorkshire,,,,Industry Database
+Truckman Tyres,https://www.truckmantyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,South,,,,Industry Database
+TT COMMERCIAL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"72 Springfield Avenue, Shirehampton, Bristol, BS11 9TQ, England",16846304,2025-11-11,Companies House API
+Turner Truck Tyres,https://www.turnertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,North,,,,Industry Database
+TYRE FIGHTER COMMERCIAL LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"5 Mayfield Grove, Dundee, Scotland, DD4 7GZ",SC774234,2023-06-29,Companies House API
+TYRES (NORTHAMPTON) COMMERCIAL LLP,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"3 Warren Yard, Warren Park Stratford Road, Milton Keynes, Buckinghamshire, MK12 5NW",OC305378,2003-08-28,Companies House API
+Tyreservices,https://www.tyreservices.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,National,,,,Industry Database
+Ulster Truck Tyres,https://www.ulstertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northern Ireland,,,,Industry Database
+Walker Truck Tyres,https://www.walkertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northeast,,,,Industry Database
+Ward Truck Tyres,https://www.wardtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Southwest,,,,Industry Database
+Welsh Haulage Tyres,https://www.welshhaulagetyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Wales,,,,Industry Database
+WESSEX COMMERCIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"139 Engineer Road, West Wilts Trading Estate, Westbury, Wiltshire, England, BA13 4JW",06686704,2008-09-02,Companies House API
+Williams Truck Tyres,https://www.williamstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Midlands,,,,Industry Database
+Wilson Truck Tyres,https://www.wilsontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,North,,,,Industry Database
+WIRRAL TYRES & COMMERCIAL LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,UK,"16 Bassendale Road, Croft Business Park Bromborough, Wirral, CH62 3QL",05980097,2006-10-27,Companies House API
+Wolverhampton Truck Tyres,https://www.wolverhamptontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,West Midlands,,,,Industry Database
+Wright Truck Tyres,https://www.wrighttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Specialist,Northwest,,,,Industry Database
+COMMERCIAL TYRE SERVICES (BRISTOL) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Fitter,UK,"Unit 5 Willment Way, Bristol, BS11 8DJ, England",11334504,2018-04-28,Companies House API
+DW TYRE & FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Fitter,UK,"42 Birkdale Cop, Southport, United Kingdom, PR8 5DT",15359069,2023-12-18,Companies House API
+FLEETLINE TYRE SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Fitter,UK,"Unit 1 Pearsall Drive, Oldbury, West Midlands, England, B69 2RA",06292620,2007-06-26,Companies House API
+ON THE WHEEL FLEET SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Fitter,UK,"Unit 1 Ocean View Business Park, Portslade, Brighton, United Kingdom, BN41 1PL",11343733,2018-05-03,Companies House API
+P.A. RISK COMMERCIAL TYRE SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Fitter,UK,"12 Station Court, Station Approach, Wickford, Essex, SS11 7AT",04486928,2002-07-16,Companies House API
+TRUCK TYRE FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Fitter,UK,"1 Thorncliffe View, Leek, ST13 6QB, England",16262244,2025-02-19,Companies House API
+TYRE FLEET SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Fitter,UK,"4385, 15959838 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",15959838,2024-09-16,Companies House API
+Halfords Autocentres Commercial,https://www.halfords.com/motoring/commercial,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Retail/Fitter,National,,,,Industry Database
+Kwik Fit Fleet,https://www.kwik-fitfleet.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Retail/Fitter,National,,,,Industry Database
+Axle Weight Services,https://www.axleweightservices.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Fleet Services,National,,,,Industry Database
+DRS MOBILE TRUCK TYRES SERVICE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile Truck Tyre Service,UK,"62 Walbrook Road, Derby, DE23 8RY, England",16139729,2024-12-17,Companies House API
+FLEET MOBILE TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile Truck Tyre Service,UK,"71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",16808697,2025-10-24,Companies House API
+PURFLEET & GRAYS MOBILE TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile Truck Tyre Service,UK,"5 , 1 Tank Hill Road, Purfleet On Thames, Essex, United Kingdom, RM19 1SX",15496753,2024-02-17,Companies House API
+24/7 Truck Tyres,https://www.247trucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+Commercial Vehicle Rescue,https://www.commercialvehiclerescue.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+Emergency Truck Tyres,https://www.emergencytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+Fleet Rescue,https://www.fleetrescue.co.uk/,True,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+HGV Breakdown Tyres,https://www.hgvbreakdowntyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+Mobile Truck Tyre Service,https://www.mobiletrucktyreservice.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+Rapid Truck Tyres,https://www.rapidtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,Midlands,,,,Industry Database
+Roadside Truck Tyres,https://www.roadsidetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+Truck Tyre Assist,https://www.trucktyreassist.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Mobile/Emergency Services,National,,,,Industry Database
+24hr Truck Tyres Birmingham,https://www.24hrtrucktyresbirmingham.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Birmingham,,,,Industry Database
+24hr Truck Tyres Bristol,https://www.24hrtrucktyresbristol.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Bristol,,,,Industry Database
+24hr Truck Tyres Cardiff,https://www.24hrtrucktyrrescardiff.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Cardiff,,,,Industry Database
+24hr Truck Tyres Glasgow,https://www.24hrtrucktyresglasgow.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Glasgow,,,,Industry Database
+24hr Truck Tyres Leeds,https://www.24hrtrucktyresleeds.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Leeds,,,,Industry Database
+24hr Truck Tyres London,https://www.24hrtrucktyreslondon.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,London,,,,Industry Database
+24hr Truck Tyres Manchester,https://www.24hrtrucktyresmanchester.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Manchester,,,,Industry Database
+24hr Truck Tyres Newcastle,https://www.24hrtrucktyresnewcastle.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Newcastle,,,,Industry Database
+All Hours Commercial Tyres,https://www.allhourscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,National,,,,Industry Database
+Emergency HGV Tyres,https://www.emergencyhgvtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,National,,,,Industry Database
+Express Truck Tyre Rescue,https://www.expresstrucktyrerescue.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,National,,,,Industry Database
+Midnight Truck Tyres,https://www.midnighttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,National,,,,Industry Database
+Night Owl Truck Tyres,https://www.nightowltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,National,,,,Industry Database
+Quick Response Truck Tyres,https://www.quickresponsetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,National,,,,Industry Database
+Round The Clock Truck Tyres,https://www.roundtheclocktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Emergency Service,Midlands,,,,Industry Database
+4X4 AND HGV SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"11 Hill Side Rd Low Bentham, Nr Lancaster, Lancaster, Lancs, LA2 7EN",09071909,,Companies House
+A & B TYRES (EAST ANGLIA) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4b Church Street, Diss, Norfolk, United Kingdom, IP22 4DD",07806261,,Companies House
+A & B TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"103 High Street, Waltham Cross, Hertfordshire, EN8 7AN",02581872,,Companies House
+A & H HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"8 Chip Close, Birmingham, England, B38 8XF",09921337,,Companies House
+A & I HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"26 Polefield Grange, Prestwich, Manchester, England, M25 2WL",10750768,,Companies House
+A & J FLEETCARE LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"570 Harrogate Road, Leeds, England, LS17 8DT",07271978,,Companies House
+A & J TYRE SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Field Street, Willenhall, West Midlands, WV13 2NX",05389435,,Companies House
+A & K TYRES & SPARES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"40 Cricket Green, Mitcham, Surrey, CR4 4LA",04442671,,Companies House
+A & L TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"23 Bilston Street, Dudley, West Midlands, DY3 1JA",07590477,,Companies House
+A & R TYRES CYF,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 9b Gaerwen Industrial Estate, Gaerwen, Wales, LL60 6HR",15869883,,Companies House
+A & S FLEETS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Flat 32 Sheraton Gate, 103 Clarendon Road, Southsea, England, PO4 0SL",15977876,,Companies House
+A & S TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"A & S Tyres Station Road, Briton Ferry, Neath, SA11 2SU",08467686,,Companies House
+A & W FLEET SOLUTIONS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Hope Cottage Hope Cottage, Lower Road, Quidhampton, Salisbury, Wiltshire, England, SP2 9AT",09104450,,Companies House
+A &B DISCOUNT TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"121 Elmers End Road, Beckenham, England, BR3 4SY",15746496,,Companies House
+A AND D TYRES LTD.,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Ty Gwyn Isaf, Llanbadarn Fawr, Aberystwyth, Dyfed, SY23 3HJ",07202077,,Companies House
+A AND P TRUCK AND TRAILER PARTS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Units 2 & 4 Calder Court, Accrington, Lancashire, England, BB5 5YB",12903191,,Companies House
+A C F (TRUCK PARTS) LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"23 Mountside, Stanmore, Middlesex, HA7 2DS",07331163,,Companies House
+A D M TRUCKPARTS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Central House, Great Acre, Wigan, England, WN1 3NR",04741880,,Companies House
+A D S FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"121l And 121m Whitehall Industrial Estate, Whitehall Road, Leeds, United Kingdom, LS12 5JB",07738881,,Companies House
+A D S TRUCK PARKING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Willow Row, Longton, Stoke-On-Trent, Staffordshire, England, ST3 2PU",11426508,,Companies House
+A FLEET FOR CHANGE CIC,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"21 Dovedale Road, Sheffield, England, S7 2DB",14780561,,Companies House
+A FLEETWOOD PROPERTY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"C/O Johnston Carmichael Unit 2a, The Paddock Stirling Agricultural Centre, Stirling, Scotland, FK9 4RN",SC823275,,Companies House
+A FOOD TRUCK LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"7 St Petersgate, Stockport, Cheshire, United Kingdom, SK1 1EB",15544171,,Companies House
+A H TRUCKING SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"98 Common Road, Newton-Le-Willows, Lancashire, WA12 9HZ",09219903,,Companies House
+A.A SLICK TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 6a Whitehouse Road, Kidderminster, United Kingdom, DY10 1HT",11408000,,Companies House
+A.D.P. TRUCK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"19 Apartment ,  The River Buildings, 22 Western Road, Leicester, England, LE3 0GR",09473176,,Companies House
+A.F.L. TRUCKS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"C/O Rentacabin Ltd Unit A Blois Meadow Business Centre, Steeple Bumpstead, Haverhill, Suffolk, United Kingdom, CB9 7BN",02253155,,Companies House
+A.J. REYNOLDS TRUCK SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"One The Centre, The High Street, Gillingham, Dorset, SP8 4AB",03649346,,Companies House
+A.K. FLEET SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"605 Kenton Road, Harrow, Middlesex, England, HA3 9RT",05508568,,Companies House
+A.P.T HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Chelworth Ind Estate J&B Chelworth Industrial Estate, Cricklade, Swindon, England, SN6 6HQ",13965864,,Companies House
+A&A TRUCKING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"28 Earls Drive, Stenson Fields, Derby, England, DE24 3FJ",15920760,,Companies House
+A&B TRUCK AND TRAILER SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"12 Walter Street, West Bromwich, England, B70 6HR",15076744,,Companies House
+A&D FLEETCARE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"38a Oakleigh Crescent, London, England, N20 0BS",16776675,,Companies House
+A&D HGV MOTORS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Yard G Halliwell Mills, Bertha Street, Bolton, England, BL1 8AH",13835538,,Companies House
+"A&E TYRE, EXHAUST & SERVICE CENTRE LIMITED",,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"32 Jubilee Crescent, Rothbury, Morpeth, Northumberland, NE65 7QZ",08495054,,Companies House
+A&G COMMERCIAL FLEET SUPPORT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Office 8 Days Space Business Centre, Litchurch Lane, Derby, Derbyshire, United Kingdom, DE24 8AA",16135878,,Companies House
+A&G TRUCK TRAILER HIRE LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Office 8, Days Space Business Centre, Litchurch Lane, Derby, Derbyshire, United Kingdom, DE24 8AA",15648227,,Companies House
+A&L MOBILE TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Crown House, 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX",15420517,,Companies House
+A&L TYRES (STRABANE) LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"69 Hollyhill Road, Strabane, County Tyrone, Northern Ireland, BT82 0AB",NI683238,,Companies House
+A&M Commercial Tyres,https://www.amcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Kent,,,,Industry Database
+A&M TRUCK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"29 Mulvanney Crescent, St. Helens, England, WA10 2UG",11547441,,Companies House
+A&M TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"6 Roslyn Street, Birkenhead, England, CH41 9AH",08974365,,Companies House
+A&R TRUCK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 4 34-36 Parliament Street, Small Heath, Birmingham, Westmidlands, England, B10 0QJ",11783796,,Companies House
+A&T TYRES & MOT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 7 T O N Business Park 2-8, Morley Road, Tonbridge, England, TN9 1RA",16885142,,Companies House
+A1 HGV TRAINING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"284 Gipsy Lane, Leicester, LE4 9BX",08273163,,Companies House
+A1 TRUCK AND TRAILER LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"The Haulage Yard Sheffield Road, Conisbrough, Doncaster, South Yorkshire, United Kingdom, DN12 3AR",16388049,,Companies House
+A2Z HGV TRAINING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"11 Apsley Walk, Iver, England, SL0 9BQ",15474782,,Companies House
+A5 TRUCK & TRAILER REPAIR LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 2 Watling Cres, Shawell Depot, Lutterworth, United Kingdom, LE17 6AR",15288672,,Companies House
+A5 TRUCK STOP LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"14 Thomas Cox Wharf, Tipton, England, DY4 7EP",16825394,,Companies House
+AA CAPITAL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"3 Ivy Arch Road, Worthing, England, BN14 8BX",16184093,,Companies House
+AA CAR FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4 Chancellor House, Green Bank, London, England, E1W 2QB",13474644,,Companies House
+AA MOBILE TYRES (BLACKBURN) LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 3 67 Canterbury Street, Blackburn, Canterbury Street, Blackburn, England, BB2 2HT",16139326,,Companies House
+AA TYRE CENTRE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"72 Cardigan Street, Luton, England, LU1 1RR",09511692,,Companies House
+AAA GRAVEL HILL TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Kenilworth Gravel Hill, Chalfont St. Peter, Gerrards Cross, England, SL9 9QP",15577174,,Companies House
+AAA MOBILE TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Elite Hand Carwash, Molesworth Street, Rochdale, United Kingdom, OL16 2AW",15152050,,Companies House
+AAA PARTWORN TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"63 Kingsway, Manchester, England, M19 2LL",12961531,,Companies House
+AAA TYRE GLASGOW LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"7 Govanhill Street, Glasgow, Scotland, G42 7PU",SC708140,,Companies House
+AAA TYRES (LANS) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"164 Greenside Lane, Manchester, United Kingdom, M43 7UR",14527216,,Companies House
+AAA TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4385, 11847238 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",11847238,,Companies House
+AAK TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"175b Reculver Road, Herne Bay, Kent, England, CT6 6PY",03961730,,Companies House
+AAM FLEETCENTRE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"3 Eaton Court, Colmworth Business Park, Eaton Socon, Cambridgeshire, England, PE19 8ER",12937880,,Companies House
+AAMAR TYRES & SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"77 Musbury Street, London, England, E1 0PL",16639227,,Companies House
+AARON TYRES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"174 Midland Road, London, England, E10 6JT",03767536,,Companies House
+AB FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"142 Nab Lane, Mirfield, England, WF14 9QJ",16518172,,Companies House
+ABA TRUCK & CRANE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"3rd Floor, 86-90 Paul Street, London, England, EC2A 4NE",16052704,,Companies House
+ABBEY LIFT TRUCKS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 4 Moorview Court, Plymouth, England, PL6 7PL",13500845,,Companies House
+ABC FLEET SAFE TRAINING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"1 Doolittle Yard, Froghall Road, Ampthill, Bedfordshire, England, MK45 2NW",09853842,,Companies House
+ABDUL SALAM CARS TRUCKS & DUMP TRUCKS SELLING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"53 Clyde Road, Croydon, Surrey, United Kingdom, CR0 6SY",13446833,,Companies House
+Aberystwyth Truck Tyres,https://www.aberystwythtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Aberystwyth,,,,Industry Database
+ABG LIFT TRUCK TRAINING LTD.,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"35 Cwm Cottage Road, Abertillery, Gwent, NP13 1AT",08997129,,Companies House
+ABILITY LIFT TRUCK TRAINING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"16 Gileswood Crescent, Rotherham, South Yorkshire, United Kingdom, S63 6BU",15406925,,Companies House
+ABLE LORRY LOADERS HOLDINGS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Charter House, 33 Greek Street, Stockport, Cheshire, SK3 8AX",10825853,,Companies House
+ABLE LORRY LOADERS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Charter House, 33 Greek Street, Stockport, Cheshire, SK3 8AX",08583910,,Companies House
+ABP TRUCK ENGINEERING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"1b Bath Road, Wisbech, United Kingdom, PE13 3NH",12880980,,Companies House
+AC FLEET SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"C/O Ac Aggregates Ltd Tickhill Road, Maltby, Rotherham, United Kingdom, S66 7QN",10621563,,Companies House
+ACCOUNTING FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"124-128 City Road, London, England, EC1V 2NX",16199640,,Companies House
+ACE FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 15, Brook Estate, Brook Road, Hayes, England, UB4 0JX",13347808,,Companies House
+ACE FLEET MAINTENANCE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"40 Kimbolton Road, Bedford, Bedfordshire, England, MK40 2NR",09468606,,Companies House
+ACE FLEET SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"272 Bath Street, Glasgow, Scotland, G2 4JR",SC805740,,Companies House
+ACE TRUCK DRIVE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"27 Sandforth Road, Liverpool, England, L12 1LN",14171914,,Companies House
+ACI FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"7 Fountains Walk, Lowton, Warrington, Cheshire, WA3 1EU",12005115,,Companies House
+ACME TRUCKING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"11 Shawfield Close, Telford, Shropshire, United Kingdom, TF7 4BB",13515885,,Companies House
+ACORN TRUCK SALES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"601 London Road, West Thurrock, Grays, Essex, RM20 4AU",02247837,,Companies House
+Acorn Truck Tyres,https://www.acorntrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Essex,,,,Industry Database
+ACTION TRUCK PARTS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 77 Grimsby Business Centre, King Edward Street, Grimsby, South Humberside, DN31 3JH",05364131,,Companies House
+ACTIVE FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"10 Queen Street Place, London, United Kingdom, EC4R 1AG",04101167,,Companies House
+ACTIVE FLEET MANAGEMENT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"61 Border Brook Lane, Worsley, Manchester, United Kingdom, M28 1XJ",11313628,,Companies House
+ACTIVE FLEET SOLUTIONS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Parkway House Second Avenue, Centrum One Hundred, Burton-On-Trent, Staffordshire, DE14 2WF",06358361,,Companies House
+ACTIVE LIFT TRUCKS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"One Business Village, West Dock St, Hull, East Yorks, England, HU3 4HH",11779641,,Companies House
+ACTIVE TRUCKER LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"15 Wulfric Close, Sheffield, United Kingdom, S2 1GY",11886335,,Companies House
+ADAM'S FLEET MAINTENANCE LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4 Blews Street, Birmingham, England, B6 4EP",16834991,,Companies House
+ADC CONSTRUCTION TRUCKS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Enterprise House The Courtyard, Old Court House Road, Bromborough, Wirral, England, CH62 4UE",10493258,,Companies House
+ADESI FLEET SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 5, Baker House, Curzon Drive, Grays, England, RM17 6BG",11385536,,Companies House
+ADI FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"183 Sutton Road, Walsall, England, WS5 3AW",16128259,,Companies House
+ADM TRUCK & BUS PARTS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Central House Great Acre, Whelley, Wigan, Lancashire, England, WN1 3NR",11161555,,Companies House
+ADRIAN HGV TRANSPORT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"20 Petworth Drive, Leicester, England, LE3 9RE",16562257,,Companies House
+ADSS TRUCK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"116 Eleanor Street, Grimsby, England, DN32 8AL",16621799,,Companies House
+ADVANCED FLEET CARE LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"23a The Precinct, London Road, Waterlooville, Hampshire, England, PO7 7DT",14265825,,Companies House
+ADVANCED FLEET SUPPORT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"146 Brookside Crescent, Cuffley, Potters Bar, England, EN6 4QL",14397109,,Companies House
+ADVANCED FORK TRUCK TRAINING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"9 Quy Court, Colliers Lane Stow-Cum-Quy, Cambridge, CB25 9AU",07411275,,Companies House
+AEGIS FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"2 Crow Hill Lane, Great Cambourne, Cambridge, England, CB23 5AW",16192198,,Companies House
+AERO FLEET CONTROL LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Suite10 Capital House 61 Amhurst Road, London, United Kingdom, E8 1LL",16397693,,Companies House
+AF TRUCKING SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"12 Capps Place, Tuxford, Newark, England, NG22 0JE",15685980,,Companies House
+AFL (FLEET MANAGEMENT) LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4th Floor, The Porter Building, 1 Brunel Way, Slough, Berkshire, United Kingdom, SL1 1FQ",07815365,,Companies House
+AG TRUCKING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"64 Derwent Close, Rugby, England, CV21 1JX",15166506,,Companies House
+AGG TRUCKS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"64 Feenan Highway, Tilbury, England, RM18 8JD",16208215,,Companies House
+AGILE FLEET ENGINEERING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"52 Hillside Place 117 Farnborough Road, Farnborough, England, GU14 7TF",15125656,,Companies House
+AGILITY FLEET (PERSONAL LEASING) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Meridian House Saxon Business Park, Stoke Prior, Bromsgrove, Worcestershire, B60 4AD",06595187,,Companies House
+AGILITY FLEET HOLDINGS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Meridian House, Saxon Business Park, Bromsgrove, Worcestershire, United Kingdom, B60 4AD",12494076,,Companies House
+AGILITY FLEET LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Meridian House, Saxon Business Park Stoke Prior, Bromsgrove, Worcestershire, B60 4AD",07973152,,Companies House
+AGILITY FLEET VEHICLE MOVEMENTS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Meridian House Saxon Business Park, Stoke Prior, Bromsgrove, Worcestershire, United Kingdom, B60 4AD",14079210,,Companies House
+AGL FLEETWOOD 3 LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Belvedere, 12 Booth Street, Manchester, United Kingdom, M2 4AW",12660015,,Companies House
+AGN FLEET LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"The Platform Cardiff Bay Train Station, Bute Street, Cardiff, Wales, CF10 5LS",10864378,,Companies House
+AGR TRUCK & TRAILER LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Block 4 Levenside Road, Vale Of Leven Industrial Estat, Dumbarton, United Kingdom, G82 3PD",SC778510,,Companies House
+AGUI TRUCK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4a Bramcote Court, Bramcote Avenue, Mitcham, England, CR4 4LR",16197972,,Companies House
+AH FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"50 King Street, Brynmawr, Ebbw Vale, Wales, NP23 4SU",13351141,,Companies House
+AH FLEET MAINTENANCE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"11 Second Avenue, Wetherby, England, LS22 6JN",12685233,,Companies House
+AH FLEET SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"103 White Mill Drive, Pocklington, East Yorkshire, England, YO42 2FF",15708555,,Companies House
+AI FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"115 Angela Road, Horsford, Norwich, England, NR10 3HF",06681652,,Companies House
+AIKEN FLEET SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"228 Middlewood Road, Sheffield, England, S6 1TE",13654685,,Companies House
+AILSA LIFT TRUCK RENTALS LTD.,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"9 Colvilles Place, Kelvin Industrial Estate, East Kilbride, Lanarkshire, G75 0PZ",SC354888,,Companies House
+Airdrie Truck Tyres,https://www.airdrietrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Airdrie,,,,Industry Database
+AIREDALE FLEET RESOURCES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"5 Park Lane, Guiseley, Leeds, LS20 8EP",09165767,,Companies House
+AJ FLEET AND CO LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Hyde Park House, Cartwright Street, Hyde, Cheshire, SK14 4EH",08850958,,Companies House
+AJAAY FLEETS & SONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"30 Long Walk, London, London, United Kingdom, SE18 3TE",12017952,,Companies House
+AJC FLEET OPERATOR SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"C/O Haworth Associates Nunn Brook Road, Huthwaite, Sutton-In-Ashfield, England, NG17 2HU",11750003,,Companies House
+AJF TRUCK AND PLANT REPAIRS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"43 Beverley Drive, Prestatyn, Wales, LL19 7RA",16361878,,Companies House
+AJJ INDUSTRIAL TYRES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"7 Stamford Square, Ashton-Under-Lyne, England, OL6 6QU",15416705,,Companies House
+AJJ TRUCKING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"23 Albion Road, Gravesend, England, DA12 2SR",13971620,,Companies House
+AJK TRUCKS & BUS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"The Old Courthouse, Orsett Road, Grays, England, RM17 5DD",12477101,,Companies House
+AK FLEET SUPPORT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"3 Newbattle Road, Newtongrange, Scotland, EH22 4RA",SC775393,,Companies House
+AK HGV DRIVING AND SHUNTING SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"6-8 Freeman Street, Grimsby, N.E Lincs, DN32 7AA",08452711,,Companies House
+ALBERT STREET (FLEET) MANAGEMENT COMPANY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"1 Harman Court, Albert Street, Fleet, England, GU51 3RN",11713631,,Companies House
+ALBERT STREET MANAGEMENT (FLEET) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Stonemead House, 95 London Road, Croydon, Surrey, United Kingdom, CR0 2RF",01964150,,Companies House
+ALDERSHOT AND FLEET RUGBY UNION FOOTBALL CLUB LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Aldershot & Fleet Rufc, Heron Wood Road, Aldershot, Hampshire, England, GU12 4AL",07517968,,Companies House
+ALEK HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"60 Grange Avenue, Derby, England, DE23 8DG",14636359,,Companies House
+ALEX B HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"87 London Road, Markyate, St. Albans, England, AL3 8JP",14038419,,Companies House
+ALEX HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Flat 10 St. Johns Court, St. Johns Avenue, Rotherham, England, S60 1EZ",15999727,,Companies House
+ALEXO FLEETS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"8 Milldun Way, High Wycombe, England, HP12 3JA",16540579,,Companies House
+ALOTO FLEET MANAGEMENT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"81 Hyperion Walk, Horley, Surrey, England, RH6 7DB",08036142,,Companies House
+ALPHA FLEET MANAGEMENT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 9 Byford Court Crockatt Road, Hadleigh, Ipswich, England, IP7 6RD",16211632,,Companies House
+ALPHA FLEET SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"23 Northgate, Cradley Heath, England, B64 6AU",15260596,,Companies House
+ALPHA HGV RECRUITMENT AND TRAINING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Suite E Whitestone Business Park, Withington, Hereford, England, HR1 3SE",09477406,,Companies House
+ALPHA OMEGA FLEET SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"144a High Street, Rayleigh, England, SS6 7BU",13257264,,Companies House
+ALPHA TRIO FLEET LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"2 West End, Elstow, Bedford, England, MK42 9XR",16530526,,Companies House
+ALTENS LORRY PARK DEVELOPMENT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Site Office, Altens Lorry Park Hareness Road, Altens Industrial Estate, Aberdeen, Scotland, AB12 3LE",SC178598,,Companies House
+ALTO FLEET SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"105 Garstang Road, Preston, Lancashire, England, PR1 1LD",11707109,,Companies House
+AMBER FLEET MANAGEMENT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"C/O Gryson House The Grove, Pontllanfraith, Blackwood, United Kingdom, NP12 2EQ",04641231,,Companies House
+AMD FLEET SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 6 Stevenson Road, South Yorkshire, Sheffield, United Kingdom, S9 3XG",15958263,,Companies House
+AMEY DEFENCE EQUIPMENT (FLEET MANAGEMENT) LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Chancery Exchange, 10 Furnival Street, London, United Kingdom, EC4A 1AB",15730123,,Companies House
+AMK HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"3 Wellington Drive, Middleton St. George, Darlington, England, DL2 1FJ",16411110,,Companies House
+AML HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"66 Langley Close, St. Ives, England, PE27 5SE",10301809,,Companies House
+ANDREI HGV TRANS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"43 Bradleigh Avenue, Grays, England, RM17 5XD",10524145,,Companies House
+ANDY EMERTON HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Ground Floor Vista Building, St David's Park, Ewloe, Deeside, Wales, CH5 3DT",11028080,,Companies House
+ANTONIO HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"6a Mossfield Road, Birmingham, England, B14 7JB",13505350,,Companies House
+Antrim Commercial Tyres,https://www.antrimcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Antrim,,,,Industry Database
+AP HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"59 South Oval, Northampton, United Kingdom, NN5 7LF",11271530,,Companies House
+Articulated Trailer Tyres,https://www.articulatedtrailertyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Trailer Specialist,Midlands,,,,Industry Database
+ASH NEWMAN HGV MECHANIC LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Brook House Church Lane, Garforth, Leeds, England, LS25 1HB",12434555,,Companies House
+Ashford Commercial Tyres,https://www.ashfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ashford,,,,Industry Database
+Ashington Commercial Tyres,https://www.ashingtoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ashington,,,,Industry Database
+AUGUSTIN HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4 Wilden Crescent, Nottingham, England, NG11 8FH",16016866,,Companies House
+Autotech Truck Tyres,https://www.autotechtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Surrey,,,,Industry Database
+Aylesbury Truck Tyres,https://www.aylesburytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Aylesbury,,,,Industry Database
+Ayr Commercial Tyres,https://www.ayrcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ayr,,,,Industry Database
+B&B HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"76 Sheepwalk, Peterborough, England, PE4 7BJ",11393320,,Companies House
+B&P LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"137 County Road, Walton, Liverpool, England, L4 3QF",11589817,,Companies House
+BALAN HGV DELIVERY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"88 Westfield Road, Berkhamsted, England, HP4 3PW",10454130,,Companies House
+BALLA LORRY PARK (AVONMOUTH) LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"C/O Balla Group, Unit 2 Acorn Farm Green Lane, Cutts Heath, Wotton-Under-Edge, United Kingdom, GL12 8QW",14059976,,Companies House
+BALLTY HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"37 Columbine Road, Rochester, England, ME2 2YA",09777441,,Companies House
+Ballymena Commercial Tyres,https://www.ballymenacommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ballymena,,,,Industry Database
+Bangor NI Truck Tyres,https://www.bangornitruck.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bangor NI,,,,Industry Database
+Bangor Truck Tyres,https://www.bangortrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bangor,,,,Industry Database
+Barking Truck Tyres,https://www.barkingtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,East London,,,,Industry Database
+Barnes Truck Tyres,https://www.barnestrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Yorkshire,,,,Industry Database
+Barnsley Commercial Tyres,https://www.barnsleycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Barnsley,,,,Industry Database
+Barnstaple Commercial Tyres,https://www.barnstaplecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Barnstaple,,,,Industry Database
+Barrow Truck Tyres,https://www.barrowtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Barrow-in-Furness,,,,Industry Database
+Barry Commercial Tyres,https://www.barrycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Barry,,,,Industry Database
+BART HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"82 Tyne Close, Spalding, England, PE11 3DN",11627377,,Companies House
+BARTEK HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Flat 17 Jasmine House, 18 Braunston Close, Northampton, United Kingdom, NN4 8QZ",12239176,,Companies House
+Basildon Commercial Tyres,https://www.basildoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Basildon,,,,Industry Database
+Basingstoke Truck Tyres,https://www.basingstoketrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Basingstoke,,,,Industry Database
+Bath Commercial Tyres,https://www.bathcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bath,,,,Industry Database
+BB HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"8a De Lacy Row, Castlefields, Runcorn, England, WA7 2NB",16296330,,Companies House
+BB LORRY WASH LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"16 Fords Park Road, London, England, E16 1NL",16267863,,Companies House
+Bennett's Truck Tyres,https://www.bennettstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Southwest,,,,Industry Database
+BERRIES HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"58 Home Farm Drive, Boughton, Northampton, England, NN2 8GT",15819843,,Companies House
+Berwick Truck Tyres,https://www.berwicktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Berwick-upon-Tweed,,,,Industry Database
+Bexley Commercial Tyres,https://www.bexleycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bexley,,,,Industry Database
+BHO HGV TRANSPORT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"31 Claremont Road, Luton, England, LU4 8LY",16635851,,Companies House
+Bideford Truck Tyres,https://www.bidefordtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bideford,,,,Industry Database
+Birch Truck Tyres,https://www.birchtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,M62 Birch,,,,Industry Database
+Birkenhead Truck Tyres,https://www.birkenheadtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Birkenhead,,,,Industry Database
+Bishop Auckland Truck Tyres,https://www.bishopaucklandtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bishop Auckland,,,,Industry Database
+BIZON HGV DRIVER LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Foxholes, Bourton, Much Wenlock, Shropshire, England, TF13 6QH",12792518,,Companies House
+Blackburn Truck Tyres,https://www.blackburntrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Blackburn,,,,Industry Database
+Blackpool Truck Tyres,https://www.blackpooltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Blackpool,,,,Industry Database
+Blyth Truck Tyres,https://www.blythtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Blyth,,,,Industry Database
+BM HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"53 Water Meadows, Worksop, United Kingdom, S80 3DB",16502462,,Companies House
+BMS HGV MAINTENANCE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"129 Quince, Tamworth, England, B77 4ET",14454873,,Companies House
+BOGDAN HGV TRANS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"29 Irby Street, Boston, England, PE21 8SA",13930519,,Companies House
+BOLTON LORRY PARK LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Bolton Lorry Park Mill Hill Industrial Estate, Mill Street, Bolton, BL1 1UG",07273827,,Companies House
+Bolton Truck Tyres,https://www.boltontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bolton,,,,Industry Database
+BOOK A LORRY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"7 Whiteleys Parade, Uxbridge Road, Hillingdon, Uxbridge, England, UB10 0PD",12957133,,Companies House
+BOSTON HGV TESTING STATION LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Riverside Industrial Estate, Marsh Lane, Boston, Lincolnshire, PE21 7PJ",07059521,,Companies House
+Boston Truck Tyres,https://www.bostontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Boston,,,,Industry Database
+Bournemouth Commercial Tyres,https://www.bournemouthcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bournemouth,,,,Industry Database
+Braintree Truck Tyres,https://www.braintreetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Braintree,,,,Industry Database
+BRAKE STOP HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 1 Montague House, 527 Green Lane, Ilford, England, IG3 9RH",16053970,,Companies House
+BRANSONS CROSS LORRY PARK LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"The Chestnuts Bransons Cross Farm, Beoley Lane, Beoley, Redditch, Worcestershire, United Kingdom, B98 9DP",13339737,,Companies House
+BRIDGEND HGV DRIVER TRAINING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"12 Heol-Y-Berllan, Pyle, Bridgend, Wales, CF33 6LE",15105658,,Companies House
+Bridgend Truck Tyres,https://www.bridgendtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bridgend,,,,Industry Database
+Brighton Commercial Tyres,https://www.brightoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Brighton,,,,Industry Database
+Bromley Truck Tyres,https://www.bromleytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bromley,,,,Industry Database
+BROOKS HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"129 Old Highway, Hoddesdon, England, EN11 0LY",14756363,,Companies House
+Budget Truck Tyres,https://www.budgettrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Online Retailer,National,,,,Industry Database
+BUDS HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"13 Walsingham Close, Bedford, England, MK42 9GY",15790471,,Companies House
+Burnley Commercial Tyres,https://www.burnleycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Burnley,,,,Industry Database
+Burton Truck Tyres,https://www.burtontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Burton-on-Trent,,,,Industry Database
+Bury Commercial Tyres,https://www.burycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bury,,,,Industry Database
+Bury St Edmunds Truck Tyres,https://www.burysttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Bury St Edmunds,,,,Industry Database
+BUS 2 HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"6 Moss Square, Macclesfield, England, SK11 7ST",12357722,,Companies House
+C MORGAN HGV AND PLANT OPERATING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Solway House, Main Road, Maryport, England, CA15 8RR",08680819,,Companies House
+Caerphilly Commercial Tyres,https://www.caerphillycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Caerphilly,,,,Industry Database
+CALZANE HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"23-27 Bolton Street, Chorley, Lancashire, PR7 3AA",08123174,,Companies House
+CAMPBELL ROAD LORRY PARK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"William Croft Thorney Edge Road, Bagnall, Stoke-On-Trent, England, ST9 9LD",14775749,,Companies House
+CANNOCK HGV TRAINING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"39 Hunter Road, Cannock, United Kingdom, WS11 0AE",12291537,,Companies House
+Canterbury Truck Tyres,https://www.canterburytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Canterbury,,,,Industry Database
+Carlisle Truck Tyres,https://www.carlisletrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Carlisle,,,,Industry Database
+Carmarthen Truck Tyres,https://www.carmarthentrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Carmarthen,,,,Industry Database
+Carrickfergus Commercial Tyres,https://www.carrickferguscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Carrickfergus,,,,Industry Database
+Castleford Commercial Tyres,https://www.castlefordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Castleford,,,,Industry Database
+CELTIC HGV TRAINING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"12 Heol Y Berllan, Pyle, Bridgend, United Kingdom, CF33 6LE",13955796,,Companies House
+Chelmsford Truck Tyres,https://www.chelmsfordtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Chelmsford,,,,Industry Database
+Cheltenham Commercial Tyres,https://www.cheltenhamcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Cheltenham,,,,Industry Database
+Chester Commercial Tyres,https://www.chestercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Chester,,,,Industry Database
+Chesterfield Commercial Tyres,https://www.chesterfieldcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Chesterfield,,,,Industry Database
+Chippenham Truck Tyres,https://www.chippenhamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Chippenham,,,,Industry Database
+Cirencester Commercial Tyres,https://www.cirencestercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Cirencester,,,,Industry Database
+Clacton Commercial Tyres,https://www.clactoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Clacton,,,,Industry Database
+CMFKEOGH HGV/PSV TECH LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Connor Keogh, 213b Harefield Road, Uxbridge, London, Uxbridge, United Kingdom, UB8 1PP",14636525,,Companies House
+Coalville Commercial Tyres,https://www.coalvillecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Coalville,,,,Industry Database
+Coatbridge Commercial Tyres,https://www.coatbridgecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Coatbridge,,,,Industry Database
+Colchester Commercial Tyres,https://www.colchestercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Colchester,,,,Industry Database
+Coleraine Truck Tyres,https://www.colerainetruck.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Coleraine,,,,Industry Database
+COLIN WELLINGS HGV DRIVING. LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Mythe Villa Farm,, Mythe Road, Tewkesbury, United Kingdom, GL20 6EB",11224466,,Companies House
+Colwyn Bay Truck Tyres,https://www.colwynbaytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Colwyn Bay,,,,Industry Database
+COMELU HGV TRANS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"80 Freiston Road, Boston, England, PE21 0JH",15955150,,Companies House
+Commercial Tyre Direct,https://www.commercialtyredirect.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Online Retailer,National,,,,Industry Database
+Commercial Vehicle Tyres Online,https://www.commercialvehicletyresonline.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Online Retailer,National,,,,Industry Database
+COMPETITIVE HGV TRANSPORT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"53 Caernarvon Drive, Ilford, England, IG5 0XE",15328040,,Companies House
+Consett Commercial Tyres,https://www.consettcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Consett,,,,Industry Database
+Container Trailer Tyres,https://www.containertrailertyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Trailer Specialist,Southeast ports,,,,Industry Database
+Cookstown Truck Tyres,https://www.cookstowntrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Cookstown,,,,Industry Database
+COOPERS HGV & PLANT SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4 Lancelot Court, Hull, England, HU9 1QD",15746040,,Companies House
+Corby Truck Tyres,https://www.corbytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Corby,,,,Industry Database
+Corley Truck Tyres,https://www.corleytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,M6 Corley,,,,Industry Database
+CPC NATIONWIDE HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Granby House Granby Avenue, Garretts Green, Birmingham, West Midlands, B33 0SS",08060988,,Companies House
+CPS HGV SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"9 Hoades Avenue, Woodsetts, Worksop, England, S81 8QQ",16594669,,Companies House
+Craigavon Truck Tyres,https://www.craigavontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Craigavon,,,,Industry Database
+Crawley Truck Tyres,https://www.crawleytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Crawley,,,,Industry Database
+Crewe Truck Tyres,https://www.crewetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Crewe,,,,Industry Database
+Crick Commercial Tyres,https://www.crickcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Crick,,,,Industry Database
+CRIS HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"67 Abbey Drive, Luton, England, LU2 0LQ",12204580,,Companies House
+Croydon Commercial Tyres,https://www.croydoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Croydon,,,,Industry Database
+Cumbernauld Truck Tyres,https://www.cumbernauldtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Cumbernauld,,,,Industry Database
+Cwmbran Truck Tyres,https://www.cwmbrantrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Cwmbran,,,,Industry Database
+D LYNCH HGV REPAIRS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"23a Dudden Hill Lane, London, England, NW10 2ET",07211588,,Companies House
+Dagenham Truck Tyres,https://www.dagenhamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dagenham,,,,Industry Database
+DAMIAN GILDER HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"328 Shaw Rd Shaw Road, Oldham, United Kingdom, OL1 4WH",11804736,,Companies House
+DAMIAN HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"22 Rockingham Court, Barnsley, South Yorkshire, United Kingdom, S71 1HL",15058566,,Companies House
+Darlington Truck Tyres,https://www.darlingtontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Darlington,,,,Industry Database
+Dartford Commercial Tyres,https://www.dartfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dartford,,,,Industry Database
+DAVE MOORE HGV LOGISTICS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"7 High Street, Broughton, Kettering, England, NN14 1NF",06196188,,Companies House
+Daventry Truck Tyres,https://www.daventrytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Daventry,,,,Industry Database
+DAVID HGV DRIVER LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"313 Greenhaven Drive, London, England, SE28 8FY",09324687,,Companies House
+DDL HGV WORK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit A6 Lords Wood Road Lords Wood Road, Harworth, Doncaster, England, DN11 8BZ",12616998,,Companies House
+Dewsbury Commercial Tyres,https://www.dewsburycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dewsbury,,,,Industry Database
+DHILLON HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"1 Lincoln Avenue, Willenhall, England, WV13 1JE",14695895,,Companies House
+DIRECT HGV DRIVER TRAINING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"222 High Street, Methil, Fife, United Kingdom, KY8 3EF",SC845459,,Companies House
+DIRFT Commercial Tyres,https://www.dirftcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Daventry,,,,Industry Database
+Discount Commercial Tyres,https://www.discountcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Online Retailer,National,,,,Industry Database
+DK HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"27 Nuneaton Road, Bedworth, United Kingdom, CV12 8AN",16528879,,Companies House
+DM HGV CONSULTANCY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"7 The Pastures, St. Helens, Merseyside, United Kingdom, WA9 4ZA",15176600,,Companies House
+DMC HGV SOLUTIONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"272 Bath Street, Glasgow, Scotland, G2 4JR",SC784069,,Companies House
+DN40 HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"The Poplars Ulceby Road, South Killingholme, Immingham, England, DN40 3JB",14485210,,Companies House
+DNT HGV SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"33 Broughton Road, Pontefract, England, WF8 2GR",12735520,,Companies House
+Doncaster Commercial Tyres,https://www.doncastercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Doncaster,,,,Industry Database
+Dorchester Commercial Tyres,https://www.dorchestercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dorchester,,,,Industry Database
+DORU HGV SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"32 The Crescent, Spalding, Lincs, PE11 1AF",10006075,,Companies House
+Dover Commercial Tyres,https://www.dovercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dover,,,,Industry Database
+DOVER LORRY PARK LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Minnis Farm Greenwich Lane, Ewell Minnis, Dover, England, CT15 7EA",16358800,,Companies House
+Downpatrick Truck Tyres,https://www.downpatricktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Downpatrick,,,,Industry Database
+DRIVER LORRY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"19 Old Tovil Road, Flat A, Maidstone, United Kingdom, ME15 6PR",10511425,,Companies House
+DRIVERS HGV FOR YOU LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4385, 12821610 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",12821610,,Companies House
+DRIVING HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"30 Falcon Crescent, Enfield, England, EN3 4LT",09899220,,Companies House
+DRIVING HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"56 Pen Y Graig, Denbigh, Wales, LL16 3YY",14098626,,Companies House
+Dudley Commercial Tyres,https://www.dudleycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dudley,,,,Industry Database
+Dumfries Commercial Tyres,https://www.dumfriescommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dumfries,,,,Industry Database
+Dunfermline Commercial Tyres,https://www.dunfermlinecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dunfermline,,,,Industry Database
+Dungannon Commercial Tyres,https://www.dungannoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Dungannon,,,,Industry Database
+Durham Commercial Tyres,https://www.durhamcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Durham,,,,Industry Database
+DUTTON HGV SERVICES LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"5 Abbey Green, Dodworth, Barnsley, England, S75 3PS",11592838,,Companies House
+DW HGV SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"76 Market Street, Farnworth, Bolton, Lancashire, United Kingdom, BL4 7NY",13777895,,Companies House
+E.K TRANSPORT HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Accountancy Today Limited C/O Tattershall Bridge Cottage, Sleaford Road, Lincoln, Lincolnshire, United Kingdom, LN4 4JG",11289397,,Companies House
+East Kilbride Commercial Tyres,https://www.eastkilbridecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,East Kilbride,,,,Industry Database
+EASY AS HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Higgison House, 381 - 383 City Road, London, EC1V 1NW",06472128,,Companies House
+EASY HGV HIRE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"20 Wenlock Road, London, England, N1 7GU",16045069,,Companies House
+EASY LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"25 Garner Court, Huntingdon, England, PE29 1GE",13852189,,Companies House
+EASY WAY HGV EXPRESS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"115 Soho Hill, Birmingham, England, B19 1AY",16585478,,Companies House
+Ebbw Vale Commercial Tyres,https://www.ebbwvalecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ebbw Vale,,,,Industry Database
+Elgin Truck Tyres,https://www.elgintrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Elgin,,,,Industry Database
+ELISA LORRY LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"18 St. Davids Road, Leicester, England, LE3 6TY",10671297,,Companies House
+ELITE HGV TRAINING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"37 Wilson Road Huyton, Liverpool, Merseyside, England, L36 6AN",12949874,,Companies House
+ELITE LORRY TRANS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"256 Lockhurst Lane, Coventry, England, CV6 5NJ",16019380,,Companies House
+Ellesmere Port Truck Tyres,https://www.ellesmereporttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ellesmere Port,,,,Industry Database
+ELLIOTT HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"45 Jupiter Way, Holloway, London, N7 8XW",06254642,,Companies House
+EMY PRIME LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"52 Crabmill Lane, Coventry, West Middlands, United Kingdom, CV6 5HA",16100191,,Companies House
+Enfield Truck Tyres,https://www.enfieldtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Enfield,,,,Industry Database
+Enniskillen Truck Tyres,https://www.enniskillentrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Enniskillen,,,,Industry Database
+Erith Commercial Tyres,https://www.erithcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Erith,,,,Industry Database
+ESSEX HGV DRIVER LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"3rd Floor, 86-90 Paul Street, London, England, EC2A 4NE",16285215,,Companies House
+EU LORRY DRIVER RECRUITMENT AGENCY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"4 Leopold House,, 17 Leopold Road, Felixstowe, England, IP11 7NP",11303252,,Companies House
+EURO LORRY PARTS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"C/O Atex Business Solutions Ltd, Premier Business Centre,, 47-49 Park Royal Road, London, England, NW10 7LQ",07485410,,Companies House
+EVOLUTION HGV & TRAILER REPAIRS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",15380540,,Companies House
+Exeter Truck Tyres,https://www.exetertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Exeter,,,,Industry Database
+Falkirk Truck Tyres,https://www.falkirktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Falkirk,,,,Industry Database
+FC LGV AND HGV TRAINING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"118 Lady Pit Lane, Leeds, West Yorkshire, England, LS11 6EE",13827053,,Companies House
+Felixstowe Commercial Tyres,https://www.felixstowecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Felixstowe,,,,Industry Database
+FIG BUSTER HGV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"2 Hollington Road, Alvechurch, Birmingham, England, B48 7LQ",09002964,,Companies House
+FIND HGV LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"85 Mount Pleasant, Bilston, England, WV14 7NR",13958165,,Companies House
+Fleet Tyres Online,https://www.fleettyresonline.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Online Retailer,National,,,,Industry Database
+Fleet Wheel Alignment,https://www.fleetwheelalignment.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Wheel Services,National,,,,Industry Database
+Fletcher's Truck Tyres,https://www.fletcherstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Midlands,,,,Industry Database
+Folkestone Truck Tyres,https://www.folkestonetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Folkestone,,,,Industry Database
+Fort William Commercial Tyres,https://www.fortwilliamcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Fort William,,,,Industry Database
+Foster's Commercial Tyres,https://www.fosterscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Midlands,,,,Industry Database
+Fraserburgh Truck Tyres,https://www.fraserburghtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Fraserburgh,,,,Industry Database
+Gateshead Truck Tyres,https://www.gatesheadtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Gateshead,,,,Industry Database
+GIANNI LORRY & CAB LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"3 Bannister Drive, Eagle Farm South, Milton Keynes, Buckinghamshire, United Kingdom, MK17 7EQ",15010756,,Companies House
+Glenrothes Truck Tyres,https://www.glenrothestrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Glenrothes,,,,Industry Database
+GOOD LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"14 Dovecote Lane, Little Hulton, Manchester, England, M38 0FS",15185579,,Companies House
+Goole Truck Tyres,https://www.gooletrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Goole,,,,Industry Database
+Graham's Commercial Tyres,https://www.grahamscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Northwest,,,,Industry Database
+Grantham Commercial Tyres,https://www.granthamcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Grantham,,,,Industry Database
+Grays Truck Tyres,https://www.graystrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Thurrock,,,,Industry Database
+Great Yarmouth Commercial Tyres,https://www.greatyarmouthcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Great Yarmouth,,,,Industry Database
+Greenock Truck Tyres,https://www.greenocktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Greenock,,,,Industry Database
+Greenwich Commercial Tyres,https://www.greenwichcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Greenwich,,,,Industry Database
+GREG'S LORRY TRANSPORT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"19 Gower Street, Oldham, England, OL1 3UB",13704360,,Companies House
+Grimsby Commercial Tyres,https://www.grimsbycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Grimsby,,,,Industry Database
+Guildford Commercial Tyres,https://www.guildfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Guildford,,,,Industry Database
+Halifax Truck Tyres,https://www.halifaxtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Halifax,,,,Industry Database
+Hamilton Truck Tyres,https://www.hamiltontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Hamilton,,,,Industry Database
+Harlow Truck Tyres,https://www.harlowtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Harlow,,,,Industry Database
+Harrison's Commercial Tyres,https://www.harrisonscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Southeast,,,,Industry Database
+Harrogate Truck Tyres,https://www.harrogatetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Harrogate,,,,Industry Database
+Hartlepool Commercial Tyres,https://www.hartlepoolcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Hartlepool,,,,Industry Database
+Harwich Truck Tyres,https://www.harwichtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Harwich,,,,Industry Database
+Hastings Commercial Tyres,https://www.hastingscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Hastings,,,,Industry Database
+Haverfordwest Commercial Tyres,https://www.haverfordwestcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Haverfordwest,,,,Industry Database
+Hemel Hempstead Truck Tyres,https://www.hemelhempsteadtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Hemel Hempstead,,,,Industry Database
+Henderson's Commercial Tyres,https://www.hendersonscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Scotland,,,,Industry Database
+Hereford Truck Tyres,https://www.herefordtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Hereford,,,,Industry Database
+Hexham Truck Tyres,https://www.hexhamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Hexham,,,,Industry Database
+HGV Tyres Direct,https://www.hgvtyresdirect.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Online Retailer,National,,,,Industry Database
+HGV Wheel Services,https://www.hgvwheelservices.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Wheel Services,National,,,,Industry Database
+High Wycombe Commercial Tyres,https://www.highwycombecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,High Wycombe,,,,Industry Database
+Holyhead Commercial Tyres,https://www.holyheadcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Holyhead,,,,Industry Database
+Huddersfield Commercial Tyres,https://www.huddersfieldcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Huddersfield,,,,Industry Database
+Hughes Truck Tyres,https://www.hughestrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Wales,,,,Industry Database
+Huntingdon Truck Tyres,https://www.huntingdontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Huntingdon,,,,Industry Database
+Ilford Commercial Tyres,https://www.ilfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ilford,,,,Industry Database
+IMMINGHAM LORRY PARK LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"County Hotel, Pelham Road, Immingham, England, DN40 1AD",08322972,,Companies House
+Immingham Truck Tyres,https://www.imminghamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Immingham,,,,Industry Database
+Inverness Truck Tyres,https://www.invernesstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Inverness,,,,Industry Database
+Ipswich Truck Tyres,https://www.ipswichtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Ipswich,,,,Industry Database
+J MARTINSON GRAB LORRY HIRE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"The Wells, West End, Garthorpe, England, DN17 4RX",12313161,,Companies House
+J&M LORRY SOLUTIONS LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Flat 8 Hardy Court George Street, Pontnewynydd, Pontypool, Wales, NP4 8NS",16143849,,Companies House
+Jackson's Truck Tyres,https://www.jacksonstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Yorkshire,,,,Industry Database
+JUNCTION 23 LORRY PARK LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"47 Ashby Road Central, Shepshed, Loughborough, Leicestershire, LE12 9BS",02174770,,Companies House
+Keighley Truck Tyres,https://www.keighleytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Keighley,,,,Industry Database
+Kettering Commercial Tyres,https://www.ketteringcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Kettering,,,,Industry Database
+Kidderminster Commercial Tyres,https://www.kidderminstercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Kidderminster,,,,Industry Database
+Kilmarnock Truck Tyres,https://www.kilmarnocktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Kilmarnock,,,,Industry Database
+King's Lynn Truck Tyres,https://www.kingslynntrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,King's Lynn,,,,Industry Database
+Kirkcaldy Commercial Tyres,https://www.kirkcaldycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Kirkcaldy,,,,Industry Database
+Kirkwall Truck Tyres (Orkney),https://www.kirkwalltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Orkney,,,,Industry Database
+L 7 LORRY LOADERS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Lumaneri House Blythe Gate, Blythe Valley Park, Solihull, West Midlands, United Kingdom, B90 8AH",15357907,,Companies House
+Lancaster Commercial Tyres,https://www.lancastercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Lancaster,,,,Industry Database
+Larne Truck Tyres,https://www.larnetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Larne,,,,Industry Database
+LB LORRY WASH LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"16 Fords Park Road, Fords Park Road, London, United Kingdom, E16 1NL",11478435,,Companies House
+Lerwick Commercial Tyres (Shetland),https://www.lerwickcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Shetland,,,,Industry Database
+Lewisham Truck Tyres,https://www.lewishamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Lewisham,,,,Industry Database
+Lincoln Truck Tyres,https://www.lincolntrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Lincoln,,,,Industry Database
+Lisburn Truck Tyres,https://www.lisburntrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Lisburn,,,,Industry Database
+Livingston Commercial Tyres,https://www.livingstoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Livingston,,,,Industry Database
+Llandudno Commercial Tyres,https://www.llandudnocommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Llandudno,,,,Industry Database
+Llanelli Commercial Tyres,https://www.llanellicommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Llanelli,,,,Industry Database
+LONDON LORRY COURIER LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"1 John Penn Street 1 John Penn Street, Lewisham, London, United Kingdom, SE13 7QT",10149363,,Companies House
+Long's Commercial Tyres,https://www.longscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Southwest,,,,Industry Database
+LORRY CAPITAL LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"128 City Road, London, United Kingdom, EC1V 2NX",15912011,,Companies House
+LORRY CRANE SERVICES LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"198 Carr Bottom Road, Bradford, United Kingdom, BD5 9AQ",11747211,,Companies House
+LORRY GLORY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Fla1, 98 Park Rd, Peterborough, Cambs, England, PE1 2TJ",10627537,,Companies House
+LORRY JORDI LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"45a Colenso Road, Ilford, Redbridge, United Kingdom, IG2 7AH",12040005,,Companies House
+LORRY LEGEND LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"214a Fleet Road, Fleet, England, GU51 4BQ",16343097,,Companies House
+LORRY LESSONS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Parkview Main Street, Brandon, Coventry, England, CV8 3HW",13615893,,Companies House
+LORRY LINK LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"290-294 Uxbridge Road, Shepherds Bush, London, Greater London, United Kingdom, W12 7LJ",16073822,,Companies House
+LORRY LOGISTICS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"39 Arthur Harris Close, Smethwick, England, B66 4NX",16526005,,Companies House
+LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 104 44a Frances Street, Newtownards, Northern Ireland, BT23 7DN",NI713119,,Companies House
+LORRY PARK (NEWPORT) LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Unit 8 Nash Mead, Industrial Estate, Newport, Wales, NP19 4SU",12884290,,Companies House
+LORRY PRO CONSTRUCTION LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"78 Sanders Road, Finedon Road Industrial Estate, Wellingborough, England, NN8 4NL",15984562,,Companies House
+LORRY TRANS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"149 Edleston Road, Crewe, England, CW2 7HR",10125158,,Companies House
+LORRY TRANSPORT KME LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"29 Lowick Gardens, Peterborough, England, PE3 7HD",11087599,,Companies House
+LORRY TRANSPORT LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"102 Hood Street, Northampton, England, NN1 3QU",09777353,,Companies House
+LORRY UNIVERSAL LP,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"64a Cumberland Street, Edinburgh, Scotland, EH3 6RE",SL031467,,Companies House
+LORRY.SCOT LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Scottish Blue, Douglas Road, Dundee, Scotland, DD4 8JX",SC851637,,Companies House
+LORRYCO FLEET CARE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"9 Parkside Court Rosedale Way, Cheshunt, Waltham Cross, England, EN7 6LQ",16961297,,Companies House
+LORRYCO LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"9 Parkside Court Rosedale Way, Cheshunt, Waltham Cross, England, EN7 6LQ",14311753,,Companies House
+LORRYDRIVER LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"8 Nightingale Gardens, Rugby, England, CV23 0WT",12050811,,Companies House
+LORRYDRIVING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"8 Plover Crescent, Leicester, England, LE4 1EB",16614157,,Companies House
+LORRYLOADER TRAINING LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"24 Mayfair Drive, Crewe, England, CW1 5BB",10325328,,Companies House
+Loughborough Commercial Tyres,https://www.loughboroughcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Loughborough,,,,Industry Database
+Lowestoft Commercial Tyres,https://www.lowestoftcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Lowestoft,,,,Industry Database
+LRM LORRY LOADERS & PLANT MAINTENANCE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"2 Dalziel Court, Stoneyburn, Bathgate, Scotland, EH47 8BU",SC837808,,Companies House
+Luton Truck Tyres,https://www.lutontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Luton,,,,Industry Database
+Macclesfield Commercial Tyres,https://www.macclesfieldcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Macclesfield,,,,Industry Database
+Magna Park Truck Tyres,https://www.magnaparktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Lutterworth,,,,Industry Database
+Maidstone Commercial Tyres,https://www.maidstonecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Maidstone,,,,Industry Database
+Mansfield Truck Tyres,https://www.mansfieldtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Mansfield,,,,Industry Database
+March Commercial Tyres,https://www.marchcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,March,,,,Industry Database
+Markham Moor Commercial Tyres,https://www.markhammoorcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,A1 Markham,,,,Industry Database
+Medway Truck Tyres,https://www.medwaytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Medway,,,,Industry Database
+Membury Truck Tyres,https://www.memburytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,M4 Membury,,,,Industry Database
+Merthyr Tydfil Commercial Tyres,https://www.merthyrcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Merthyr Tydfil,,,,Industry Database
+MIB LORRY PROFESSIONAL DETAILING LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"79 Tynedale Square, Highwoods, Colchester, England, CO4 9TJ",12328956,,Companies House
+Milton Keynes Truck Tyres,https://www.miltonkeynestrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Milton Keynes,,,,Industry Database
+Morpeth Commercial Tyres,https://www.morpethcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Morpeth,,,,Industry Database
+Motherwell Commercial Tyres,https://www.motherwellcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Motherwell,,,,Industry Database
+Murray's Commercial Tyres,https://www.murrayscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Scotland,,,,Industry Database
+Neath Truck Tyres,https://www.neathtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Neath,,,,Industry Database
+NEWARK LORRY WASH LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Newark Lorry Wash Cattle Market Lorry Park, Great North Road, Newark, Nottinghamshire, NG24 1BL",05971075,,Companies House
+Newport Truck Tyres,https://www.newporttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Newport,,,,Industry Database
+Newquay Truck Tyres,https://www.newquaytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Newquay,,,,Industry Database
+Newry Commercial Tyres,https://www.newrycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Newry,,,,Industry Database
+Newtownabbey Commercial Tyres,https://www.newtownabbeycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Newtownabbey,,,,Industry Database
+Normanton Truck Tyres,https://www.normantontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Normanton,,,,Industry Database
+Northampton Truck Tyres,https://www.northamptontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Northampton,,,,Industry Database
+Norwich Truck Tyres,https://www.norwichtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Norwich,,,,Industry Database
+Nuneaton Commercial Tyres,https://www.nuneatoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Nuneaton,,,,Industry Database
+O'Brien Truck Tyres,https://www.obrientrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Northern Ireland,,,,Industry Database
+Oban Commercial Tyres,https://www.obancommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Oban,,,,Industry Database
+OFF THE BACK OF A LORRY PRODUCTIONS LTD.,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"26 Moore Crescent, Dagenham, United Kingdom, RM9 4XP",12227634,,Companies House
+Oldham Truck Tyres,https://www.oldhamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Oldham,,,,Industry Database
+Omagh Commercial Tyres,https://www.omaghcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Omagh,,,,Industry Database
+Orpington Commercial Tyres,https://www.orpingtoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Orpington,,,,Industry Database
+Oxford Commercial Tyres,https://www.oxfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Oxford,,,,Industry Database
+Paisley Truck Tyres,https://www.paisleytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Paisley,,,,Industry Database
+Patterson's Truck Tyres,https://www.pattersonstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Northeast,,,,Industry Database
+Penrith Commercial Tyres,https://www.penrithcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Penrith,,,,Industry Database
+Penzance Commercial Tyres,https://www.penzancecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Penzance,,,,Industry Database
+Perth Truck Tyres,https://www.perthtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Perth,,,,Industry Database
+Peterhead Commercial Tyres,https://www.peterheadcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Peterhead,,,,Industry Database
+Peterlee Commercial Tyres,https://www.peterleecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Peterlee,,,,Industry Database
+Plymouth Commercial Tyres,https://www.plymouthcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Plymouth,,,,Industry Database
+Pontefract Truck Tyres,https://www.pontefracttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Pontefract,,,,Industry Database
+Pontypridd Truck Tyres,https://www.pontypridtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Pontypridd,,,,Industry Database
+Poole Truck Tyres,https://www.pooletrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Poole,,,,Industry Database
+Port Talbot Commercial Tyres,https://www.porttalbotcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Port Talbot,,,,Industry Database
+Portsmouth Truck Tyres,https://www.portsmouthtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Portsmouth,,,,Industry Database
+Powell's Truck Tyres,https://www.powellstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Wales,,,,Industry Database
+Preston Commercial Tyres,https://www.prestoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Preston,,,,Industry Database
+Price's Commercial Tyres,https://www.pricescommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Midlands,,,,Industry Database
+Purfleet Truck Tyres,https://www.purfleettrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Purfleet,,,,Industry Database
+Rainham Commercial Tyres,https://www.rainhamcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Rainham,,,,Industry Database
+Reading Truck Tyres,https://www.readingtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Reading,,,,Industry Database
+RED LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Westgate House, 15 Royland Road, Loughborough, England, LE11 2EH",14324144,,Companies House
+RED LORRY YELLOW LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Orbital House, 20 Eastern Road, Romford, Essex, England, RM1 3PJ",15954443,,Companies House
+Redcar Commercial Tyres,https://www.redcarcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Redcar,,,,Industry Database
+Redditch Commercial Tyres,https://www.redditchcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Redditch,,,,Industry Database
+Rhyl Commercial Tyres,https://www.rhylcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Rhyl,,,,Industry Database
+ROAD MATE LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"8 Johnson Court, Northampton, England, NN4 8GJ",16894695,,Companies House
+Rochdale Commercial Tyres,https://www.rochdalecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Rochdale,,,,Industry Database
+Romford Truck Tyres,https://www.romfordtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Romford,,,,Industry Database
+Ross Truck Tyres,https://www.rosstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Scotland,,,,Industry Database
+Rotherham Truck Tyres,https://www.rotherhamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Rotherham,,,,Industry Database
+Rugby Truck Tyres,https://www.rugbytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Rugby,,,,Industry Database
+Runcorn Commercial Tyres,https://www.runcorncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Runcorn,,,,Industry Database
+Salford Commercial Tyres,https://www.salfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Salford,,,,Industry Database
+Salisbury Truck Tyres,https://www.salisburytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Salisbury,,,,Industry Database
+Sanders Commercial Tyres,https://www.sanderscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Southeast,,,,Industry Database
+Scarborough Truck Tyres,https://www.scarboroughtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Scarborough,,,,Industry Database
+Scotch Corner Commercial Tyres,https://www.scotchcornercommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Scotch Corner,,,,Industry Database
+Scunthorpe Truck Tyres,https://www.scunthorpetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Scunthorpe,,,,Industry Database
+Selby Commercial Tyres,https://www.selbycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Selby,,,,Industry Database
+Semitrailer Tyres,https://www.semitrailertyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Trailer Specialist,National,,,,Industry Database
+Shaw's Commercial Tyres,https://www.shawscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Northwest,,,,Industry Database
+Shrewsbury Commercial Tyres,https://www.shrewsburycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Shrewsbury,,,,Industry Database
+Skipton Commercial Tyres,https://www.skiptoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Skipton,,,,Industry Database
+Slough Commercial Tyres,https://www.sloughcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Slough,,,,Industry Database
+Solihull Commercial Tyres,https://www.solihullcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Solihull,,,,Industry Database
+South Mimms Truck Tyres,https://www.southmimmstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,M25 South Mimms,,,,Industry Database
+South Shields Truck Tyres,https://www.southshieldstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,South Shields,,,,Industry Database
+Southampton Commercial Tyres,https://www.southamptoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Southampton,,,,Industry Database
+Southend Truck Tyres,https://www.southendtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Southend,,,,Industry Database
+Spalding Commercial Tyres,https://www.spaldingcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Spalding,,,,Industry Database
+St Albans Truck Tyres,https://www.stalbanstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,St Albans,,,,Industry Database
+St Helens Commercial Tyres,https://www.sthelenscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,St Helens,,,,Industry Database
+Stafford Commercial Tyres,https://www.staffordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Stafford,,,,Industry Database
+Stevenage Commercial Tyres,https://www.stevenagecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Stevenage,,,,Industry Database
+Stirling Commercial Tyres,https://www.stirlingcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Stirling,,,,Industry Database
+Stockport Truck Tyres,https://www.stockporttrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Stockport,,,,Industry Database
+Stockton Truck Tyres,https://www.stocktontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Stockton-on-Tees,,,,Industry Database
+Strabane Commercial Tyres,https://www.strabanecommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Strabane,,,,Industry Database
+Stratford Commercial Tyres,https://www.stratfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Stratford,,,,Industry Database
+Stroud Truck Tyres,https://www.stroudtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Stroud,,,,Industry Database
+Sunderland Commercial Tyres,https://www.sunderlandcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Sunderland,,,,Industry Database
+Swindon Commercial Tyres,https://www.swindoncommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Swindon,,,,Industry Database
+Tamworth Truck Stop Tyres,https://www.tamworthtruckstop.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,M42 Tamworth,,,,Industry Database
+Tamworth Truck Tyres,https://www.tamworthtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Tamworth,,,,Industry Database
+Taunton Truck Tyres,https://www.tauntontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Taunton,,,,Industry Database
+Telford Truck Tyres,https://www.telfordtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Telford,,,,Industry Database
+THE ADVENTURE TRUCK CO LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"32 Logistic Design Offices, Gibbons Street, Nottingham, United Kingdom, NG7 2SB",16415524,,Companies House
+Thetford Commercial Tyres,https://www.thetfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Thetford,,,,Industry Database
+THIS & THAT LORRY CRANE HIRE LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Farthingworth, 4 Lynford Road, Mundford, Norfolk, England, IP26 5HN",11849707,,Companies House
+Thurrock Truck Stop Tyres,https://www.thurrocktruckstoptyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Stop Specialist,Thurrock,,,,Industry Database
+Thurso Commercial Tyres,https://www.thursocommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Thurso,,,,Industry Database
+Tilbury Truck Tyres,https://www.tilburytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Tilbury,,,,Industry Database
+Torquay Commercial Tyres,https://www.torquaycommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Torquay,,,,Industry Database
+Trade Truck Tyres,https://www.tradetrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,B2B Online,National,,,,Industry Database
+Trafford Truck Tyres,https://www.traffordtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Trafford,,,,Industry Database
+TRUCK SERVICES BOLTON LORRY PARK LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"Bolton Lorry Park Mill Hill Industrial Estate, Mill Street, Bolton, BL1 1UG",08005209,,Companies House
+Truck Wheel Balance,https://www.truckwheelbalance.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Wheel Services,National,,,,Industry Database
+Truro Truck Tyres,https://www.trurotrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Truro,,,,Industry Database
+TYRETEAM LIMITED,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, England, HP14 4TJ",03811678,,Companies House
+URBAN LORRY'S LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"98 North Circular Road, London, England, NW10 0QS",15692737,,Companies House
+Wakefield Truck Tyres,https://www.wakefieldtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Wakefield,,,,Industry Database
+Walsall Truck Tyres,https://www.walsalltrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Walsall,,,,Industry Database
+Walthamstow Commercial Tyres,https://www.walthamstowcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Walthamstow,,,,Industry Database
+Warrington Truck Tyres,https://www.warringtontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Warrington,,,,Industry Database
+Washington Truck Tyres,https://www.washingtontrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Washington,,,,Industry Database
+Watford Commercial Tyres,https://www.watfordcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Watford,,,,Industry Database
+Watson's Truck Tyres,https://www.watsonstrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,Northeast,,,,Industry Database
+Wellingborough Commercial Tyres,https://www.wellingboroughcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Wellingborough,,,,Industry Database
+Wembley Truck Tyres,https://www.wembleytrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Wembley,,,,Industry Database
+West Bromwich Truck Tyres,https://www.westbromwichtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,West Bromwich,,,,Industry Database
+Weston-super-Mare Truck Tyres,https://www.westonsupermaretruck.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Weston-super-Mare,,,,Industry Database
+Weymouth Truck Tyres,https://www.weymouthtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Weymouth,,,,Industry Database
+Wick Truck Tyres,https://www.wicktrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Wick,,,,Industry Database
+Widnes Truck Tyres,https://www.widnestrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Widnes,,,,Industry Database
+Wigan Commercial Tyres,https://www.wigancommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Wigan,,,,Industry Database
+Wisbech Truck Tyres,https://www.wisbechtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Wisbech,,,,Industry Database
+Woking Commercial Tyres,https://www.wokingcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Woking,,,,Industry Database
+Wood's Commercial Tyres,https://www.woodscommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Family Business,East Anglia,,,,Industry Database
+Woolwich Commercial Tyres,https://www.woolwichcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Woolwich,,,,Industry Database
+Worcester Truck Tyres,https://www.worcestertrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Worcester,,,,Industry Database
+Worthing Truck Tyres,https://www.worthingtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Worthing,,,,Industry Database
+Wrexham Truck Tyres,https://www.wrexhamtrucktyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Wrexham,,,,Industry Database
+YELLOW LORRY LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"5 Downs Way, Baunton, Cirencester, England, GL7 7DH",07007256,,Companies House
+Yeovil Commercial Tyres,https://www.yeovilcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,Yeovil,,,,Industry Database
+York Commercial Tyres,https://www.yorkcommercialtyres.co.uk,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Independent Fitter,York,,,,Industry Database
+YOUR LORRY LUV LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"31 Bethune Avenue, Seaham, England, SR7 8AE",15964542,,Companies House
+ZIB LORRY TRANS LTD,,False,,,Small,1-5,£50K - £300K,50000,300000,Small,,Truck Tyre Services,UK,"319 Castleford Road, Normanton, England, WF6 1QU",13679210,,Companies House

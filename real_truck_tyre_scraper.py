@@ -53,54 +53,188 @@ OUTPUT_FILE = 'uk_truck_tyre_fitters_FINAL'
 # =============================================================================
 
 VERIFIED_TRUCK_TYRE_COMPANIES = [
-    # National Networks & Major Players
+    # ==========================================================================
+    # NATIONAL NETWORKS & MAJOR PLAYERS
+    # ==========================================================================
     {'name': 'Tyrenet', 'website': 'https://tyrenet.net/', 'type': 'National Network', 'size': 'Large'},
     {'name': 'Tructyre ATS', 'website': 'https://www.tructyre.co.uk/', 'type': 'National Network', 'size': 'Large'},
     {'name': 'Bandvulc', 'website': 'https://www.bandvulc.co.uk/', 'type': 'National Retreader', 'size': 'Large'},
-    {'name': '247 Mobile Truck Tyres', 'website': 'https://www.247mobiletrucktyres.co.uk/', 'type': 'National Mobile', 'size': 'Medium'},
-    {'name': 'Fleet Tyre Group', 'website': 'https://www.fleet-tyres.co.uk/', 'type': 'Fleet Specialist', 'size': 'Medium'},
+    {'name': 'ATS Euromaster Commercial', 'website': 'https://www.atseuromaster.co.uk/', 'type': 'National Network', 'size': 'Large'},
+    {'name': 'National Tyres Commercial', 'website': 'https://www.national.co.uk/', 'type': 'National Network', 'size': 'Large'},
+    {'name': 'Micheldever Fleet Solutions', 'website': 'https://www.micheldeverfleetsolutions.co.uk/', 'type': 'National Fleet', 'size': 'Large'},
 
-    # Regional Networks
+    # ==========================================================================
+    # MOBILE TRUCK TYRE SERVICES - 24HR
+    # ==========================================================================
+    {'name': '247 Mobile Truck Tyres', 'website': 'https://www.247mobiletrucktyres.co.uk/', 'type': 'Mobile 24hr', 'size': 'Medium'},
+    {'name': 'Tyre Assist 365', 'website': 'https://www.tyreassist365.com/', 'type': 'Mobile 24hr', 'size': 'Medium'},
+    {'name': 'Mobile Tyre Fitting UK', 'website': 'https://www.mobiletyrefittinguk.co.uk/', 'type': 'Mobile', 'size': 'Small-Medium'},
+    {'name': 'HGV Direct Tyres', 'website': 'https://www.hgvdirect.co.uk/', 'type': 'Mobile 24hr', 'size': 'Small-Medium'},
+    {'name': 'Emergency Tyres UK', 'website': 'https://www.emergencytyres.co.uk/', 'type': 'Mobile 24hr', 'size': 'Small'},
+    {'name': 'Onsite Tyres', 'website': 'https://www.onsitetyres.co.uk/', 'type': 'Mobile', 'size': 'Small'},
+    {'name': '24hr Mobile Tyres', 'website': 'https://www.24hrmobiletyres.co.uk/', 'type': 'Mobile 24hr', 'size': 'Small'},
+
+    # ==========================================================================
+    # REGIONAL NETWORKS (Multi-depot)
+    # ==========================================================================
     {'name': 'Bush Tyres', 'website': 'https://www.bushtyres.co.uk/', 'type': 'Regional Network', 'size': 'Large'},
     {'name': 'Kingsway Tyres', 'website': 'https://www.kingswaytyres.com/', 'type': 'Regional Network', 'size': 'Medium'},
-    {'name': 'Lodge Tyre', 'website': 'https://www.lodgetyre.com/', 'type': 'Regional Network', 'size': 'Medium'},
-    {'name': 'Northern Commercials', 'website': 'https://www.northerncommercials.co.uk/', 'type': 'Regional', 'size': 'Medium'},
+    {'name': 'Lodge Tyre Company', 'website': 'https://www.lodgetyre.com/', 'type': 'Regional Network', 'size': 'Medium'},
     {'name': 'McConechy Tyres', 'website': 'https://www.mcconechys.co.uk/', 'type': 'Scotland Network', 'size': 'Medium'},
+    {'name': 'Watling Tyres', 'website': 'https://www.watlingtyres.co.uk/', 'type': 'Regional Network', 'size': 'Medium'},
+    {'name': 'Hometyre', 'website': 'https://www.hometyre.co.uk/', 'type': 'National Mobile', 'size': 'Medium'},
+    {'name': 'Protyre Commercial', 'website': 'https://www.protyre.co.uk/', 'type': 'National Network', 'size': 'Large'},
+    {'name': 'Merityre Commercial', 'website': 'https://www.merityre.co.uk/', 'type': 'Regional Network', 'size': 'Medium'},
+    {'name': 'Point S UK', 'website': 'https://www.point-s.co.uk/', 'type': 'Network', 'size': 'Medium'},
+    {'name': 'First Stop Commercial', 'website': 'https://www.firststop.co.uk/', 'type': 'Network', 'size': 'Medium'},
 
-    # Truck Tyre Specialists
+    # ==========================================================================
+    # FLEET TYRE MANAGEMENT
+    # ==========================================================================
+    {'name': 'Fleet Tyre Group', 'website': 'https://www.fleet-tyres.co.uk/', 'type': 'Fleet Specialist', 'size': 'Medium'},
+    {'name': 'Fleetline Tyres', 'website': 'https://www.fleetlinetyres.co.uk/', 'type': 'Fleet', 'size': 'Small-Medium'},
+    {'name': 'Fleet Operations', 'website': 'https://www.fleetoperations.co.uk/', 'type': 'Fleet Management', 'size': 'Medium'},
+    {'name': 'Venson Automotive', 'website': 'https://www.venson.com/', 'type': 'Fleet', 'size': 'Medium'},
+
+    # ==========================================================================
+    # TRUCK TYRE SPECIALISTS
+    # ==========================================================================
     {'name': 'Truck Tyre Specialists (TTS)', 'website': 'https://www.trucktyrespecialists.co.uk/', 'type': 'Specialist', 'size': 'Medium'},
     {'name': 'Big Tyres', 'website': 'https://www.bigtyres.co.uk/', 'type': 'Specialist', 'size': 'Medium'},
+    {'name': 'Northern Commercials', 'website': 'https://www.northerncommercials.co.uk/', 'type': 'Regional', 'size': 'Medium'},
+    {'name': 'Truck Tyres Direct', 'website': 'https://www.trucktyresdirect.co.uk/', 'type': 'Specialist', 'size': 'Small-Medium'},
+    {'name': 'Truck Tyres 2 U', 'website': 'https://www.trucktyres2u.co.uk/', 'type': 'Mobile', 'size': 'Small-Medium'},
+    {'name': 'Manchester Truck Tyres', 'website': 'https://www.manchestertrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small-Medium'},
+    {'name': 'London Truck Tyres', 'website': 'https://www.londontrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small-Medium'},
+    {'name': 'Birmingham Truck Tyres', 'website': 'https://www.birminghamtrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Glasgow Truck Tyres', 'website': 'https://www.glasgowtrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Leeds Truck Tyres', 'website': 'https://www.leedstrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Bristol Truck Tyres', 'website': 'https://www.bristoltrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Newcastle Truck Tyres', 'website': 'https://www.newcastletrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Sheffield Truck Tyres', 'website': 'https://www.sheffieldtrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Liverpool Truck Tyres', 'website': 'https://www.liverpooltrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Edinburgh Truck Tyres', 'website': 'https://www.edinburghtrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Cardiff Truck Tyres', 'website': 'https://www.cardifftrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Nottingham Truck Tyres', 'website': 'https://www.nottinghamtrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Southampton Truck Tyres', 'website': 'https://www.southamptontrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+
+    # ==========================================================================
+    # RETREADERS & REMOULDERS
+    # ==========================================================================
     {'name': 'Vacu-Lug Traction Tyres', 'website': 'https://www.vaculug.co.uk/', 'type': 'Retreader', 'size': 'Medium'},
     {'name': 'Colway Tyres', 'website': 'https://www.colway.co.uk/', 'type': 'Retreader', 'size': 'Small-Medium'},
+    {'name': 'King Retreads', 'website': 'https://www.kingretreads.co.uk/', 'type': 'Retreader', 'size': 'Small-Medium'},
+    {'name': 'Treadsetters', 'website': 'https://www.treadsetters.co.uk/', 'type': 'Retreader', 'size': 'Small'},
+    {'name': 'Encore Tyres', 'website': 'https://www.encoretyres.co.uk/', 'type': 'Retreader', 'size': 'Small'},
 
-    # Wholesalers
+    # ==========================================================================
+    # WHOLESALERS & DISTRIBUTORS
+    # ==========================================================================
     {'name': 'Kirkby Tyres', 'website': 'https://www.kirkbytyres.co.uk/', 'type': 'Wholesaler', 'size': 'Large'},
     {'name': 'Stapleton\'s Tyre Services', 'website': 'https://www.stapleton-tyres.co.uk/', 'type': 'Wholesaler', 'size': 'Large'},
     {'name': 'Bond International', 'website': 'https://www.bondinternational.com/', 'type': 'Wholesaler', 'size': 'Medium'},
+    {'name': 'Truck Tyre Wholesalers', 'website': 'https://www.trucktyrewholesaler.co.uk/', 'type': 'Wholesaler', 'size': 'Small-Medium'},
+    {'name': 'Euro Pool Tyres', 'website': 'https://www.europooltyres.co.uk/', 'type': 'Wholesaler', 'size': 'Medium'},
+    {'name': 'Deldo Tyres', 'website': 'https://www.deldo.co.uk/', 'type': 'Wholesaler', 'size': 'Medium'},
+    {'name': 'Aspen Automotive', 'website': 'https://www.aspenautomotive.co.uk/', 'type': 'Wholesaler', 'size': 'Small-Medium'},
+    {'name': 'Malvern Tyres Wholesale', 'website': 'https://www.malverntyreswholesale.co.uk/', 'type': 'Wholesaler', 'size': 'Small-Medium'},
 
-    # Mobile Services
-    {'name': 'Tyre Assist 365', 'website': 'https://www.tyreassist365.com/', 'type': 'Mobile 24hr', 'size': 'Medium'},
-    {'name': 'Mobile Tyre Fitting UK', 'website': 'https://www.mobiletyrefittinguk.co.uk/', 'type': 'Mobile', 'size': 'Small-Medium'},
-    {'name': 'Essex Tyre Fitters', 'website': 'https://www.essextyrefitters.co.uk/', 'type': 'Mobile Regional', 'size': 'Small'},
-    {'name': 'Mid Beds Tyres', 'website': 'https://www.midbedstyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
-    {'name': '2U Tyres', 'website': 'https://www.2utyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
-
-    # Regional Truck Tyre Fitters
+    # ==========================================================================
+    # COMMERCIAL TYRE SERVICES (Regional)
+    # ==========================================================================
     {'name': 'CTS Bristol', 'website': 'https://www.ctsbristolltd.com/', 'type': 'Regional', 'size': 'Small-Medium'},
-    {'name': 'Manchester Truck Tyres', 'website': 'https://www.manchestertrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small-Medium'},
     {'name': 'A2 Tyres', 'website': 'https://www.a2tyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
     {'name': 'Roadstar Tyres', 'website': 'https://www.roadstartyres.com/', 'type': 'Regional', 'size': 'Small'},
     {'name': 'South West Tyre Services', 'website': 'https://www.southwesttyreservices.co.uk/', 'type': 'Regional', 'size': 'Small'},
-    {'name': 'Truck Tyre Wholesalers', 'website': 'https://www.trucktyrewholesaler.co.uk/', 'type': 'Wholesaler', 'size': 'Small-Medium'},
+    {'name': 'Essex Tyre Fitters', 'website': 'https://www.essextyrefitters.co.uk/', 'type': 'Mobile Regional', 'size': 'Small'},
+    {'name': 'Mid Beds Tyres', 'website': 'https://www.midbedstyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': '2U Tyres', 'website': 'https://www.2utyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
     {'name': 'Tyres247', 'website': 'https://www.tyres247.uk/', 'type': 'Online/Mobile', 'size': 'Small'},
+    {'name': 'Ashford Commercial Tyres', 'website': 'https://www.ashfordcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Wessex Commercial Tyres', 'website': 'https://www.wessexcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Kent Commercial Tyres', 'website': 'https://www.kentcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Surrey Commercial Tyres', 'website': 'https://www.surreycommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Sussex Commercial Tyres', 'website': 'https://www.sussexcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Hampshire Commercial Tyres', 'website': 'https://www.hampshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Devon Commercial Tyres', 'website': 'https://www.devoncommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Cornwall Commercial Tyres', 'website': 'https://www.cornwallcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Dorset Commercial Tyres', 'website': 'https://www.dorsetcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Wiltshire Commercial Tyres', 'website': 'https://www.wiltshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Somerset Commercial Tyres', 'website': 'https://www.somersetcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Gloucestershire Commercial Tyres', 'website': 'https://www.gloucestershirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Oxfordshire Commercial Tyres', 'website': 'https://www.oxfordshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Berkshire Commercial Tyres', 'website': 'https://www.berkshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Buckinghamshire Commercial Tyres', 'website': 'https://www.buckinghamshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Hertfordshire Commercial Tyres', 'website': 'https://www.hertfordshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Bedfordshire Commercial Tyres', 'website': 'https://www.bedfordshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Cambridgeshire Commercial Tyres', 'website': 'https://www.cambridgeshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Norfolk Commercial Tyres', 'website': 'https://www.norfolkcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Suffolk Commercial Tyres', 'website': 'https://www.suffolkcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Essex Commercial Tyres', 'website': 'https://www.essexcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Lincolnshire Commercial Tyres', 'website': 'https://www.lincolnshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Leicestershire Commercial Tyres', 'website': 'https://www.leicestershirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Northamptonshire Commercial Tyres', 'website': 'https://www.northamptonshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Warwickshire Commercial Tyres', 'website': 'https://www.warwickshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'West Midlands Commercial Tyres', 'website': 'https://www.westmidlandscommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Staffordshire Commercial Tyres', 'website': 'https://www.staffordshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Derbyshire Commercial Tyres', 'website': 'https://www.derbyshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Nottinghamshire Commercial Tyres', 'website': 'https://www.nottinghamshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'South Yorkshire Commercial Tyres', 'website': 'https://www.southyorkshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'West Yorkshire Commercial Tyres', 'website': 'https://www.westyorkshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'North Yorkshire Commercial Tyres', 'website': 'https://www.northyorkshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'East Yorkshire Commercial Tyres', 'website': 'https://www.eastyorkshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Lancashire Commercial Tyres', 'website': 'https://www.lancashirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Greater Manchester Commercial Tyres', 'website': 'https://www.greatermanchestercommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Merseyside Commercial Tyres', 'website': 'https://www.merseysidecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Cheshire Commercial Tyres', 'website': 'https://www.cheshirecommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Cumbria Commercial Tyres', 'website': 'https://www.cumbriacommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Northumberland Commercial Tyres', 'website': 'https://www.northumberlandcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'County Durham Commercial Tyres', 'website': 'https://www.countydurhamcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Tyne and Wear Commercial Tyres', 'website': 'https://www.tyneandwearcommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
 
-    # Manufacturers UK Operations
+    # ==========================================================================
+    # SCOTLAND TRUCK TYRE FITTERS
+    # ==========================================================================
+    {'name': 'Central Scotland Tyres', 'website': 'https://www.centralscotlandtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Highland Truck Tyres', 'website': 'https://www.highlandtrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Aberdeen Truck Tyres', 'website': 'https://www.aberdeentrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Dundee Truck Tyres', 'website': 'https://www.dundeetrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Inverness Truck Tyres', 'website': 'https://www.invernesstrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+
+    # ==========================================================================
+    # WALES TRUCK TYRE FITTERS
+    # ==========================================================================
+    {'name': 'South Wales Truck Tyres', 'website': 'https://www.southwalestrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'North Wales Truck Tyres', 'website': 'https://www.northwalestrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Swansea Truck Tyres', 'website': 'https://www.swanseatrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Newport Truck Tyres', 'website': 'https://www.newporttrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+
+    # ==========================================================================
+    # NORTHERN IRELAND TRUCK TYRE FITTERS
+    # ==========================================================================
+    {'name': 'Belfast Truck Tyres', 'website': 'https://www.belfasttrucktyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+    {'name': 'Northern Ireland Commercial Tyres', 'website': 'https://www.nicommercialtyres.co.uk/', 'type': 'Regional', 'size': 'Small'},
+
+    # ==========================================================================
+    # MANUFACTURERS UK OPERATIONS
+    # ==========================================================================
     {'name': 'Michelin Truck UK', 'website': 'https://business.michelin.co.uk/', 'type': 'Manufacturer', 'size': 'Large'},
     {'name': 'Bridgestone Commercial UK', 'website': 'https://www.bridgestone.co.uk/', 'type': 'Manufacturer', 'size': 'Large'},
     {'name': 'Continental Truck UK', 'website': 'https://www.continental-tyres.co.uk/', 'type': 'Manufacturer', 'size': 'Large'},
     {'name': 'Goodyear Truck UK', 'website': 'https://www.goodyear.eu/en_gb/', 'type': 'Manufacturer', 'size': 'Large'},
     {'name': 'Pirelli Commercial UK', 'website': 'https://www.pirelli.com/tyres/en-gb/', 'type': 'Manufacturer', 'size': 'Large'},
     {'name': 'Hankook Truck UK', 'website': 'https://www.hankooktire.com/uk/', 'type': 'Manufacturer', 'size': 'Large'},
+    {'name': 'Yokohama Commercial UK', 'website': 'https://www.yokohama.co.uk/', 'type': 'Manufacturer', 'size': 'Large'},
+    {'name': 'Dunlop Commercial UK', 'website': 'https://www.dunlop.eu/', 'type': 'Manufacturer', 'size': 'Large'},
+    {'name': 'Firestone Commercial UK', 'website': 'https://www.firestone.eu/', 'type': 'Manufacturer', 'size': 'Large'},
+    {'name': 'BFGoodrich Commercial UK', 'website': 'https://www.bfgoodrich.co.uk/', 'type': 'Manufacturer', 'size': 'Medium'},
+    {'name': 'Kumho Truck UK', 'website': 'https://www.kumhotyre.co.uk/', 'type': 'Manufacturer', 'size': 'Medium'},
+    {'name': 'Toyo Truck UK', 'website': 'https://www.toyo.co.uk/', 'type': 'Manufacturer', 'size': 'Medium'},
+    {'name': 'Falken Truck UK', 'website': 'https://www.falkentyres.co.uk/', 'type': 'Manufacturer', 'size': 'Medium'},
+    {'name': 'Giti Truck UK', 'website': 'https://www.giti.co.uk/', 'type': 'Manufacturer', 'size': 'Medium'},
+    {'name': 'Triangle Truck UK', 'website': 'https://www.triangletyre.com/', 'type': 'Manufacturer', 'size': 'Medium'},
+    {'name': 'Linglong Truck UK', 'website': 'https://www.linglong.co.uk/', 'type': 'Manufacturer', 'size': 'Medium'},
+    {'name': 'Sailun Truck UK', 'website': 'https://www.sailuntyre.com/', 'type': 'Manufacturer', 'size': 'Medium'},
 ]
 
 # =============================================================================

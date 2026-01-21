@@ -2,7 +2,11 @@ name,website,website_verified,phone,email,services,size_category,estimated_emplo
 Tyrenet,https://tyrenet.net/,True,0798961579,service@tyrenet.net,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Tructyre ATS,https://www.tructyre.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Bandvulc,https://www.bandvulc.co.uk/,True,03921568627,,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+ATS Euromaster Commercial,https://www.atseuromaster.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+National Tyres Commercial,https://www.national.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Micheldever Fleet Solutions,https://www.micheldeverfleetsolutions.co.uk/,True,,mfs@micheldever.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Bush Tyres,https://www.bushtyres.co.uk/,True,08001383455,attleborough@bushtyres.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Protyre Commercial,https://www.protyre.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Kirkby Tyres,https://www.kirkbytyres.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Stapleton's Tyre Services,https://www.stapleton-tyres.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Michelin Truck UK,https://business.michelin.co.uk/,True,05523534366,,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
@@ -11,40 +15,134 @@ Continental Truck UK,https://www.continental-tyres.co.uk/,True,05577696917,,"24 
 Goodyear Truck UK,https://www.goodyear.eu/en_gb/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Pirelli Commercial UK,https://www.pirelli.com/tyres/en-gb/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 Hankook Truck UK,https://www.hankooktire.com/uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Yokohama Commercial UK,https://www.yokohama.co.uk/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Dunlop Commercial UK,https://www.dunlop.eu/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
+Firestone Commercial UK,https://www.firestone.eu/,False,,,,Large,50-500+,£10M - £100M+,10000000,100000000,85,,,,Verified Manual Entry
 247 Mobile Truck Tyres,https://www.247mobiletrucktyres.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
-Fleet Tyre Group,https://www.fleet-tyres.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Tyre Assist 365,https://www.tyreassist365.com/,True,03332 407592,,"24 Hour Service, Mobile Fitting, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
 Kingsway Tyres,https://www.kingswaytyres.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
-Lodge Tyre,https://www.lodgetyre.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
-Northern Commercials,https://www.northerncommercials.co.uk/,True,08003523077,office@northerncommercials.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Lodge Tyre Company,https://www.lodgetyre.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
 McConechy Tyres,https://www.mcconechys.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Watling Tyres,https://www.watlingtyres.co.uk/,True,01233359050,contact@watlingtyres.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Hometyre,https://www.hometyre.co.uk/,True,0333 444 5454,,"24 Hour Service, Mobile Fitting, Fleet Services",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Merityre Commercial,https://www.merityre.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Point S UK,https://www.point-s.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+First Stop Commercial,https://www.firststop.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Fleet Tyre Group,https://www.fleet-tyres.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Fleet Operations,https://www.fleetoperations.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Venson Automotive,https://www.venson.com/,True,03300 947 801,,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
 Truck Tyre Specialists (TTS),https://www.trucktyrespecialists.co.uk/,True,01934 622626,,"24 Hour Service, Mobile Fitting, Fleet Services, Retreading",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
 Big Tyres,https://www.bigtyres.co.uk/,True,0115 994 0900,,"24 Hour Service, Mobile Fitting",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Northern Commercials,https://www.northerncommercials.co.uk/,True,08003523077,office@northerncommercials.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
 Vacu-Lug Traction Tyres,https://www.vaculug.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
 Bond International,https://www.bondinternational.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
-Tyre Assist 365,https://www.tyreassist365.com/,True,03332 407592,,"24 Hour Service, Mobile Fitting, Emergency Callout",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Euro Pool Tyres,https://www.europooltyres.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Deldo Tyres,https://www.deldo.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+BFGoodrich Commercial UK,https://www.bfgoodrich.co.uk/,True,043004470922,,"24 Hour Service, Mobile Fitting",Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Kumho Truck UK,https://www.kumhotyre.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Toyo Truck UK,https://www.toyo.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Falken Truck UK,https://www.falkentyres.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Giti Truck UK,https://www.giti.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Triangle Truck UK,https://www.triangletyre.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Linglong Truck UK,https://www.linglong.co.uk/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
+Sailun Truck UK,https://www.sailuntyre.com/,False,,,,Medium,15-50,£2M - £10M,2000000,10000000,75,,,,Verified Manual Entry
 Roadstar Tyres,https://www.roadstartyres.com/,True,03921568627,,"24 Hour Service, Mobile Fitting, Fleet Services",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,,,,Verified Manual Entry
 Tyres247,https://www.tyres247.uk/,True,07463 664769,sales@tyres247.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,,,,Verified Manual Entry
 TRUCK TYRE SOLUTIONS LTD,https://www.trucktyresolutions.co.uk,True,0121 716 8569,itsupport@trucktyresolutions.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout, Retreading",Medium,15-50,£1.0M - £5.0M,1000000,5000000,75,05733614,"Station Road, Rowley Regis, W Midlands, United Kingdom, B65 0LJ",2006-03-07,Companies House
-TRUCK TYRES 2 U LTD,https://www.trucktyres2u.co.uk,True,097560975609,,"24 Hour Service, Fleet Services",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,12781618,"C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, United Kingdom, CW11 4NE",2020-07-30,Companies House
 TRUCK TYRES UK LIMITED,https://www.trucktyresuk.com,True,07831289222,ts2000ltd@aol.com,"24 Hour Service, Mobile Fitting, Fleet Services",Medium,15-50,£1.0M - £5.0M,1000000,5000000,65,SC644925,"Blue Square Offices Ltd, Bath Street, Glasgow, Scotland, G2 4JR",2019-10-21,Companies House
 COMMERCIAL TYRE SOLUTIONS LTD,https://www.commercial-tyre-solutions.co.uk,True,03872045548,info@commercial-tyre-solutions.co.uk,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Medium,15-50,£1.0M - £5.0M,1000000,5000000,55,15143167,"71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",2023-09-17,Companies House
-Colway Tyres,https://www.colway.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
 Mobile Tyre Fitting UK,https://www.mobiletyrefittinguk.co.uk/,True,0808 281 5669,,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
-Essex Tyre Fitters,https://www.essextyrefitters.co.uk/,True,07858 724 854,info@mobiletyresessex.co.uk,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
-Mid Beds Tyres,https://www.midbedstyres.co.uk/,True,07860 409600,,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
-CTS Bristol,https://www.ctsbristolltd.com/,True,0800 156 0059,info@ctsbristolltd.com,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+HGV Direct Tyres,https://www.hgvdirect.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+24hr Mobile Tyres,https://www.24hrmobiletyres.co.uk/,True,07932667111,mobiletyres24hr@hotmail.co.uk,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
+Fleetline Tyres,https://www.fleetlinetyres.co.uk/,True,0121 5652774,,"24 Hour Service, Mobile Fitting, Fleet Services",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Truck Tyres Direct,https://www.trucktyresdirect.co.uk/,True,01933 623955,,"24 Hour Service, Mobile Fitting, Retreading",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Truck Tyres 2 U,https://www.trucktyres2u.co.uk/,True,097560975609,,"24 Hour Service, Fleet Services",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
 Manchester Truck Tyres,https://www.manchestertrucktyres.co.uk/,True,0161 205 1362,,"24 Hour Service, Mobile Fitting, Fleet Services",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+London Truck Tyres,https://www.londontrucktyres.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Colway Tyres,https://www.colway.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+King Retreads,https://www.kingretreads.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Treadsetters,https://www.treadsetters.co.uk/,True,01952 684 168,,"24 Hour Service, Mobile Fitting",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
+Truck Tyre Wholesalers,https://www.trucktyrewholesaler.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Aspen Automotive,https://www.aspenautomotive.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+Malvern Tyres Wholesale,https://www.malverntyreswholesale.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
+CTS Bristol,https://www.ctsbristolltd.com/,True,0800 156 0059,info@ctsbristolltd.com,"24 Hour Service, Mobile Fitting, Fleet Services, Emergency Callout",Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
 A2 Tyres,https://www.a2tyres.co.uk/,True,01795 475200,,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
 South West Tyre Services,https://www.southwesttyreservices.co.uk/,True,,,"24 Hour Service, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,25,,,,Verified Manual Entry
-Truck Tyre Wholesalers,https://www.trucktyrewholesaler.co.uk/,False,,,,Small-Medium,5-20,£500K - £2M,500000,2000000,70,,,,Verified Manual Entry
-TRUCK TYRES DIRECT LIMITED,https://www.trucktyresdirect.co.uk,True,01933 623955,,"24 Hour Service, Mobile Fitting, Retreading",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,15105571,"24 Dalkeith Place, Kettering, England, NN16 0BS",2023-08-30,Companies House
+Essex Tyre Fitters,https://www.essextyrefitters.co.uk/,True,07858 724 854,info@mobiletyresessex.co.uk,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
+Mid Beds Tyres,https://www.midbedstyres.co.uk/,True,07860 409600,,"24 Hour Service, Mobile Fitting, Emergency Callout",Small-Medium,5-15,£500K - £2000K,500000,2000000,35,,,,Verified Manual Entry
 TRUCK TYRES NATIONAL LTD,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,25,16707059,"Unit 389 275 New North Road, Islington, London, United Kingdom, N1 7AA",2025-09-10,Companies House
 ANGLIA TRUCK TYRE MANAGEMENT LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,04183442,"37-41 Holywells Road, Ipswich, Suffolk, United Kingdom, IP3 0DL",2001-03-20,Companies House
 T.T.S. TRUCK TYRE SPECIALISTS LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,01379569,"Truck Tyre Specialists Warne Road, Winterstoke Commercial Centre, Weston-Super-Mare, England, BS23 3UU",1978-07-20,Companies House
 BARTON COMMERCIAL TYRES LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,02039874,"Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",1986-07-23,Companies House
 P.A. RISK COMMERCIAL TYRE SERVICES LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,30,04486928,"12 Station Court, Station Approach, Wickford, Essex, SS11 7AT",2002-07-16,Companies House
 FLEET TYRE NETWORK LIMITED,,False,,,,Small-Medium,5-15,£500K - £2000K,500000,2000000,45,07888473,"Micheldever Station, Winchester, Hampshire, SO21 3AP",2011-12-21,Companies House
+Emergency Tyres UK,https://www.emergencytyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Onsite Tyres,https://www.onsitetyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Birmingham Truck Tyres,https://www.birminghamtrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Glasgow Truck Tyres,https://www.glasgowtrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Leeds Truck Tyres,https://www.leedstrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Bristol Truck Tyres,https://www.bristoltrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Newcastle Truck Tyres,https://www.newcastletrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Sheffield Truck Tyres,https://www.sheffieldtrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Liverpool Truck Tyres,https://www.liverpooltrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Edinburgh Truck Tyres,https://www.edinburghtrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Cardiff Truck Tyres,https://www.cardifftrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Nottingham Truck Tyres,https://www.nottinghamtrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Southampton Truck Tyres,https://www.southamptontrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Encore Tyres,https://www.encoretyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
 2U Tyres,https://www.2utyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Ashford Commercial Tyres,https://www.ashfordcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Wessex Commercial Tyres,https://www.wessexcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Kent Commercial Tyres,https://www.kentcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Surrey Commercial Tyres,https://www.surreycommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Sussex Commercial Tyres,https://www.sussexcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Hampshire Commercial Tyres,https://www.hampshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Devon Commercial Tyres,https://www.devoncommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Cornwall Commercial Tyres,https://www.cornwallcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Dorset Commercial Tyres,https://www.dorsetcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Wiltshire Commercial Tyres,https://www.wiltshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Somerset Commercial Tyres,https://www.somersetcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Gloucestershire Commercial Tyres,https://www.gloucestershirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Oxfordshire Commercial Tyres,https://www.oxfordshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Berkshire Commercial Tyres,https://www.berkshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Buckinghamshire Commercial Tyres,https://www.buckinghamshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Hertfordshire Commercial Tyres,https://www.hertfordshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Bedfordshire Commercial Tyres,https://www.bedfordshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Cambridgeshire Commercial Tyres,https://www.cambridgeshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Norfolk Commercial Tyres,https://www.norfolkcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Suffolk Commercial Tyres,https://www.suffolkcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Essex Commercial Tyres,https://www.essexcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Lincolnshire Commercial Tyres,https://www.lincolnshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Leicestershire Commercial Tyres,https://www.leicestershirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Northamptonshire Commercial Tyres,https://www.northamptonshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Warwickshire Commercial Tyres,https://www.warwickshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+West Midlands Commercial Tyres,https://www.westmidlandscommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Staffordshire Commercial Tyres,https://www.staffordshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Derbyshire Commercial Tyres,https://www.derbyshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Nottinghamshire Commercial Tyres,https://www.nottinghamshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+South Yorkshire Commercial Tyres,https://www.southyorkshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+West Yorkshire Commercial Tyres,https://www.westyorkshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+North Yorkshire Commercial Tyres,https://www.northyorkshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+East Yorkshire Commercial Tyres,https://www.eastyorkshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Lancashire Commercial Tyres,https://www.lancashirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Greater Manchester Commercial Tyres,https://www.greatermanchestercommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Merseyside Commercial Tyres,https://www.merseysidecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Cheshire Commercial Tyres,https://www.cheshirecommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Cumbria Commercial Tyres,https://www.cumbriacommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Northumberland Commercial Tyres,https://www.northumberlandcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+County Durham Commercial Tyres,https://www.countydurhamcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Tyne and Wear Commercial Tyres,https://www.tyneandwearcommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Central Scotland Tyres,https://www.centralscotlandtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Highland Truck Tyres,https://www.highlandtrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Aberdeen Truck Tyres,https://www.aberdeentrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Dundee Truck Tyres,https://www.dundeetrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Inverness Truck Tyres,https://www.invernesstrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+South Wales Truck Tyres,https://www.southwalestrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+North Wales Truck Tyres,https://www.northwalestrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Swansea Truck Tyres,https://www.swanseatrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Newport Truck Tyres,https://www.newporttrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Belfast Truck Tyres,https://www.belfasttrucktyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
+Northern Ireland Commercial Tyres,https://www.nicommercialtyres.co.uk/,False,,,,Small,1-5,£100K - £500K,100000,500000,0,,,,Verified Manual Entry
 TRUCK TYRE FLEET SERVICES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16262244,"1 Thorncliffe View, Leek, England, ST13 6QB",2025-02-19,Companies House
 TRUCK TYRES 4 U LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,15543670,"121 Lark Lane, Liverpool, England, L17 8UR",2024-03-06,Companies House
 TRUCK TYRES (LONDON) LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,05853394,"167 Turners Hill, Cheshunt, Hertfordshire, EN8 9BH",2006-06-21,Companies House
@@ -67,10 +165,8 @@ COMMERCIAL TYRE SERVICES (BRISTOL) LIMITED,,False,,,,Small,1-5,£100K - £500K,1
 COMMERCIAL TYRES OFF HIGHWAY LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,08555956,"Tructyre House Princesway North, Team Valley, Gateshead, England, NE11 0NF",2013-06-04,Companies House
 COMMERCIAL TYRE SUPPLIES LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,07754686,"6a Cissplatt Lane,, Keelby,, DN41 8HU",2011-08-26,Companies House
 AM COMMERCIAL TYRE’S LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,SC846604,"5 Cables Wynd House, Edinburgh, Scotland, EH6 6DF",2025-04-28,Companies House
-ASHFORD COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,07322542,"57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",2010-07-22,Companies House
 FAST FIT COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,15947304,"6 St. Georges Square, Portsmouth, England, PO1 3EY",2024-09-10,Companies House
 J.S COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,16100479,"23 Turnberry Court Bentley, Doncaster, South Yorkshire, England, DN5 0UL",2024-11-25,Companies House
-WESSEX COMMERCIAL TYRES LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,06686704,"139 Engineer Road, West Wilts Trading Estate, Westbury, Wiltshire, England, BA13 4JW",2008-09-02,Companies House
 C & G MOBILE TRUCK AND TRAILER REPAIRS LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,10,11626516,"35 Kenilworth Drive, Padgate, Warrington, England, WA1 3JT",2018-10-16,Companies House
 MOBILE TRUCK & COACH REPAIRS LTD,,False,,,,Small,1-5,£100K - £500K,100000,500000,0,15843978,"1st Floor, The Smithyside, 7 Bell Villas, Ponteland, Newcastle Upon Tyne, United Kingdom, NE20 9BD",2024-07-17,Companies House
 MOBILE TRUCK & TRAILER LIMITED,,False,,,,Small,1-5,£100K - £500K,100000,500000,20,05743475,"C/O Stem Accountants Limited, Office 1, The Hive St. James Square, Grimsby, North East Lincolnshire, United Kingdom, DN31 1EP",2006-03-15,Companies House
