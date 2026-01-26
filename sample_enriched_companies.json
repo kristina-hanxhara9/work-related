@@ -1,0 +1,5224 @@
+[
+  {
+    "name": "APOLLO COMMERCIAL CLEANING LTD",
+    "company_number": "15291302",
+    "status": "active",
+    "date_created": "2023-11-17",
+    "company_type": "ltd",
+    "address": "117 Dartford Rd, Dartford, Kent, DA1 3EN",
+    "postcode": "DA1 3EN",
+    "locality": "Dartford",
+    "country": "England",
+    "sic_codes": [
+      "96090"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-08-31",
+    "confirmation_next_due": "2027-01-18",
+    "directors": [
+      {
+        "name": "MORRIS, Lauren",
+        "role": "director",
+        "appointed": "2024-01-04",
+        "nationality": "British",
+        "address": "25, Haymakers Lane, Ashford, TN23 4GL"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "MORRIS, Lauren",
+    "owners": [
+      {
+        "name": "Ms Lauren Morris",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Ms Lauren Morris",
+    "original_website": "https://www.apollotyres.com/en-gb/truck",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BRIDGESTONE EUROPE NV/SA, UK BRANCH",
+    "company_number": "BR021251",
+    "status": "open",
+    "date_created": "2019-03-30",
+    "company_type": "uk-establishment",
+    "address": " Athena Drive,Tachbrook Park, Warwick, CV34 6UX",
+    "postcode": "CV34 6UX",
+    "locality": "Warwick",
+    "country": "",
+    "sic_codes": [],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [],
+    "director_count": 0,
+    "director_names": "",
+    "owners": [],
+    "owner_names": "",
+    "original_website": "https://www.bridgestone.co.uk/truck",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.continental-tyres.co.uk/truck",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "DUNLOP AIRCRAFT TYRES LIMITED",
+    "company_number": "03226333",
+    "status": "active",
+    "date_created": "1996-07-17",
+    "company_type": "ltd",
+    "address": "40 Fort Parkway, Birmingham, B24 9HL",
+    "postcode": "B24 9HL",
+    "locality": "Birmingham",
+    "country": "",
+    "sic_codes": [
+      "22110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "INGLEBY (917) LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-07-31",
+    "directors": [
+      {
+        "name": "AMADEO, Adam Keith",
+        "role": "director",
+        "appointed": "2022-03-16",
+        "nationality": "British",
+        "address": "40, Fort Parkway, Birmingham, B24 9HL"
+      },
+      {
+        "name": "BENTZEN, Sarah",
+        "role": "director",
+        "appointed": "2018-03-01",
+        "nationality": "British",
+        "address": "40, Fort Parkway, Birmingham, B24 9HL"
+      },
+      {
+        "name": "BRADY, Sean Thomas",
+        "role": "director",
+        "appointed": "2017-10-01",
+        "nationality": "British",
+        "address": "40, Fort Parkway, Birmingham, B24 9HL"
+      },
+      {
+        "name": "DHAWAN, Shashank",
+        "role": "director",
+        "appointed": "2023-04-17",
+        "nationality": "British",
+        "address": "40, Fort Parkway, Birmingham, B24 9HL"
+      },
+      {
+        "name": "MCKENNA, Susan",
+        "role": "director",
+        "appointed": "2023-01-20",
+        "nationality": "British",
+        "address": "40, Fort Parkway, Birmingham, B24 9HL"
+      }
+    ],
+    "director_count": 5,
+    "director_names": "AMADEO, Adam Keith, BENTZEN, Sarah, BRADY, Sean Thomas",
+    "owners": [
+      {
+        "name": "Tyre Bidco Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Tyre Bidco Limited",
+    "original_website": "https://www.dunlop.eu/en_gb/truck",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.falkentyre.com/uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.giti.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "GOODYEAR DUNLOP TYRES UK (PENSION TRUSTEES) LTD.",
+    "company_number": "01792066",
+    "status": "active",
+    "date_created": "1984-02-15",
+    "company_type": "ltd",
+    "address": "2 New Bailey, 6 Stanley Street, Salford, Greater Manchester, M3 5GS",
+    "postcode": "M3 5GS",
+    "locality": "Salford",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "65300"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "DUNLOP TYRES (PENSION TRUSTEES) LTD",
+      "SP TYRES UK (PENSION TRUSTEES) LIMITED",
+      "SUMI RUBBER UK (PENSION TRUSTEES) LIMITED",
+      "DIKAPPA (NUMBER 287) LIMITED"
+    ],
+    "accounts_next_due": "2027-01-05",
+    "confirmation_next_due": "2026-10-12",
+    "directors": [
+      {
+        "name": "LDC NOMINEE SECRETARY LIMITED",
+        "role": "corporate-secretary",
+        "appointed": "2021-02-01",
+        "nationality": "",
+        "address": "2 New Bailey, 6 Stanley Street, Salford, M3 5GS"
+      },
+      {
+        "name": "BORGOGNO, John",
+        "role": "director",
+        "appointed": "2019-09-01",
+        "nationality": "British",
+        "address": "C/O Goodyear Tyres Uk Ltd, 2920 Trident Court, Birmingham, B37 7YN"
+      },
+      {
+        "name": "BROOKS, James Robert",
+        "role": "director",
+        "appointed": "2025-04-01",
+        "nationality": "English",
+        "address": "C/O Goodyear Tyres Uk Ltd, 2920 Trident Court, Solihull Parkway, Birmingham, B37 7YN"
+      },
+      {
+        "name": "LOCKE, Petra Briony",
+        "role": "director",
+        "appointed": "2024-01-01",
+        "nationality": "British",
+        "address": "C/O Goodyear Tyres Uk Ltd, 2920 Trident Court, Birmingham, B37 7YN"
+      },
+      {
+        "name": "MCNULTY, Michael",
+        "role": "director",
+        "appointed": "2019-05-23",
+        "nationality": "American",
+        "address": "C/O Goodyear Tyres Uk Ltd, 2920 Trident Court, Birmingham, B37 7YN"
+      },
+      {
+        "name": "WYNN, Michael David",
+        "role": "director",
+        "appointed": "2025-04-01",
+        "nationality": "English",
+        "address": "2, New Bailey, Salford, M3 5GS"
+      },
+      {
+        "name": "DALRIADA TRUSTEES LIMITED",
+        "role": "corporate-director",
+        "appointed": "2024-07-31",
+        "nationality": "",
+        "address": "Linen Loft, Adelaide Street, Belfast, BT2 8FE"
+      }
+    ],
+    "director_count": 7,
+    "director_names": "LDC NOMINEE SECRETARY LIMITED, BORGOGNO, John, BROOKS, James Robert",
+    "owners": [
+      {
+        "name": "Dunlop Tyres Ltd",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Dunlop Tyres Ltd",
+    "original_website": "https://www.goodyear.eu/en_gb/truck",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "HANKOOK PROUNA UK CO LTD",
+    "company_number": "07134949",
+    "status": "dissolved",
+    "date_created": "2010-01-25",
+    "company_type": "ltd",
+    "address": "3 Chandlers Way, Stone, Staffordshire, ST15 8LY",
+    "postcode": "ST15 8LY",
+    "locality": "Stone",
+    "country": "",
+    "sic_codes": [
+      "47190"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "POINTON, Timothy Robert",
+        "role": "secretary",
+        "appointed": "2010-01-25",
+        "nationality": "",
+        "address": "Rectory Cottage, Rectory Road, Hollington, ST10 4HH"
+      },
+      {
+        "name": "HEATH, Frank Clyde",
+        "role": "director",
+        "appointed": "2010-01-25",
+        "nationality": "British",
+        "address": "19, Springwood Drive, Stone, ST15 8TU"
+      },
+      {
+        "name": "KIM, Young Shin",
+        "role": "director",
+        "appointed": "2010-01-25",
+        "nationality": "South Korean",
+        "address": "701, Shindong - Ah, Seoul, 135-872 2"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "POINTON, Timothy Robert, HEATH, Frank Clyde, KIM, Young Shin",
+    "owners": [],
+    "owner_names": "",
+    "original_website": "https://www.hankooktire-eu.com/gb",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.kumhotyre.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.linglongtyre.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "UK MICHELIN TYRES GROUP CO., LTD.",
+    "company_number": "06014193",
+    "status": "dissolved",
+    "date_created": "2006-11-30",
+    "company_type": "ltd",
+    "address": "7-11 Minerva Road, Park Royal, London, NW10 6HJ",
+    "postcode": "NW10 6HJ",
+    "locality": "London",
+    "country": "",
+    "sic_codes": [
+      "7499"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "C&R BUSINESS CONSULTING LIMITED",
+        "role": "corporate-secretary",
+        "appointed": "2011-03-05",
+        "nationality": "",
+        "address": "7/11, Minerva Road, London, NW10 6HJ"
+      },
+      {
+        "name": "DAI, Ai Qin",
+        "role": "director",
+        "appointed": "2006-11-30",
+        "nationality": "Chinese",
+        "address": "No.37, Zhaoxia Alley,, Ruian City,"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "C&R BUSINESS CONSULTING LIMITED, DAI, Ai Qin",
+    "owners": [],
+    "owner_names": "",
+    "original_website": "https://truck.michelin.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "PIRELLI UK LIMITED",
+    "company_number": "00133461",
+    "status": "active",
+    "date_created": "1914-01-20",
+    "company_type": "ltd",
+    "address": "Pirelli Derby Road, Stretton, Burton-On-Trent, Staffordshire, DE13 0BH",
+    "postcode": "DE13 0BH",
+    "locality": "Burton-On-Trent",
+    "country": "",
+    "sic_codes": [
+      "70100"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "PIRELLI UK PLC",
+      "PIRELLI GENERAL PUBLIC LIMITED COMPANY",
+      "PIRELLI GENERAL CABLE WORKS LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-08-14",
+    "directors": [
+      {
+        "name": "SAGOO, Charanjit Singh",
+        "role": "secretary",
+        "appointed": "2009-09-16",
+        "nationality": "British",
+        "address": "Pirelli, Derby Road, Burton-On-Trent, DE13 0BH"
+      },
+      {
+        "name": "BALLAN, William David James",
+        "role": "director",
+        "appointed": "2012-04-18",
+        "nationality": "British",
+        "address": "Pirelli, Derby Road, Burton-On-Trent, DE13 0BH"
+      },
+      {
+        "name": "OCIONE NOGUEIRA, Eduardo",
+        "role": "director",
+        "appointed": "2021-08-05",
+        "nationality": "Brazilian",
+        "address": "Pirelli, Derby Road, Burton-On-Trent, DE13 0BH"
+      },
+      {
+        "name": "PAPADAKOS, Dimitrios",
+        "role": "director",
+        "appointed": "2025-05-28",
+        "nationality": "Greek",
+        "address": "Pirelli, Derby Road, Burton-On-Trent, DE13 0BH"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "SAGOO, Charanjit Singh, BALLAN, William David James, OCIONE NOGUEIRA, Eduardo",
+    "owners": [
+      {
+        "name": "Pirelli & C. S.P.A",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Pirelli & C. S.P.A",
+    "original_website": "https://www.pirelli.com/tyres/en-gb/truck",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.sailuntyre.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.toyo.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AL TRIANGLE UK LIMITED",
+    "company_number": "09470234",
+    "status": "active",
+    "date_created": "2015-03-04",
+    "company_type": "ltd",
+    "address": "9 Albury Drive, Pinner, Middlesex, HA5 3RN",
+    "postcode": "HA5 3RN",
+    "locality": "Pinner",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "46770"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-12-31",
+    "confirmation_next_due": "2026-04-14",
+    "directors": [
+      {
+        "name": "ASIF, Muhammad",
+        "role": "director",
+        "appointed": "2015-03-09",
+        "nationality": "British",
+        "address": "9, Albury Drive, Pinner, HA5 3RN"
+      },
+      {
+        "name": "BANO, Muneeza",
+        "role": "director",
+        "appointed": "2015-03-04",
+        "nationality": "British",
+        "address": "9, Albury Drive, Pinner, HA5 3RN"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "ASIF, Muhammad, BANO, Muneeza",
+    "owners": [
+      {
+        "name": "Mrs Muneeza Bano",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mrs Muneeza Bano",
+    "original_website": "https://www.triangletyre.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.yokohama.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Manufacturer/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ALLIANCE AUTOMOTIVE UK TRADING GROUPS LIMITED",
+    "company_number": "01416163",
+    "status": "active",
+    "date_created": "1979-02-21",
+    "company_type": "ltd",
+    "address": "Roydsdale House, Roydsdale Way Euroway Trading, Estate Bradford, West Yorkshire, BD4 6SE",
+    "postcode": "BD4 6SE",
+    "locality": "Estate Bradford",
+    "country": "",
+    "sic_codes": [
+      "82990"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "GROUP AUTO UNION UK AND IRELAND LIMITED",
+      "THE FACTORING SERVICES GROUP LIMITED",
+      "MOTOR FACTORING SERVICES (SHIPLEY) COMPANY LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2027-01-14",
+    "directors": [
+      {
+        "name": "GALVIN, Cade Ashby",
+        "role": "director",
+        "appointed": "2025-08-21",
+        "nationality": "British",
+        "address": "Floor 11, 45, Church Street, Birmingham, B3 2RT"
+      },
+      {
+        "name": "RICHARDSON, Stephen William",
+        "role": "director",
+        "appointed": "2019-12-31",
+        "nationality": "British",
+        "address": "Roydsdale House, Estate Bradford, BD4 6SE"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "GALVIN, Cade Ashby, RICHARDSON, Stephen William",
+    "owners": [
+      {
+        "name": "Alliance Automotive Uk Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Alliance Automotive Uk Limited",
+    "original_website": "https://www.atgtires.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BOND INTERNATIONAL LIMITED",
+    "company_number": "10080255",
+    "status": "dissolved",
+    "date_created": "2016-03-23",
+    "company_type": "ltd",
+    "address": "Ingles Manor, Castle Hill Avenue, Folkestone, CT20 2RD",
+    "postcode": "CT20 2RD",
+    "locality": "Folkestone",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "60200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "MODINA, Michael Keith",
+        "role": "secretary",
+        "appointed": "2019-06-25",
+        "nationality": "",
+        "address": "Ingles Manor, Castle Hill Avenue, Folkestone, CT20 2RD"
+      },
+      {
+        "name": "GLEISSNER, Michael, Mr.",
+        "role": "director",
+        "appointed": "2016-03-23",
+        "nationality": "German",
+        "address": "Ingles Manor, Castle Hill Avenue, Folkestone, CT20 2RD"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "MODINA, Michael Keith, GLEISSNER, Michael, Mr.",
+    "owners": [
+      {
+        "name": "Michael Gleissner",
+        "ownership": "75-100%",
+        "nationality": "German"
+      }
+    ],
+    "owner_names": "Michael Gleissner",
+    "original_website": "https://www.bondinternational.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "MAXAM TIRE INTERNATIONAL LIMITED",
+    "company_number": "FC034723",
+    "status": "active",
+    "date_created": "2017-07-01",
+    "company_type": "oversea-company",
+    "address": "3806 Central Plaza 18 Harbour Road, Wanchai",
+    "postcode": "",
+    "locality": "Wanchai",
+    "country": "Hong Kong",
+    "sic_codes": [],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "united-kingdom",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "PRINZA LIMITED",
+        "role": "corporate-secretary",
+        "appointed": "2017-10-24",
+        "nationality": "",
+        "address": "3806 Central Plaza, 18 Harbour Road, Wanchai"
+      },
+      {
+        "name": "BAMFORD, Michelle",
+        "role": "director",
+        "appointed": "2017-10-24",
+        "nationality": "Canadian",
+        "address": "Vienna House, International Square, Solihul, B37 7AG"
+      },
+      {
+        "name": "JL, Changkun",
+        "role": "director",
+        "appointed": "2017-10-24",
+        "nationality": "Chinese",
+        "address": "Vienna House, International Square, Solihul, B37 7AG"
+      },
+      {
+        "name": "WEST, Martin",
+        "role": "director",
+        "appointed": "2017-10-24",
+        "nationality": "British",
+        "address": "Vienna House, International Square, Solihul, B37 7GN"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "PRINZA LIMITED, BAMFORD, Michelle, JL, Changkun",
+    "owners": [],
+    "owner_names": "",
+    "original_website": "https://www.maxamtire.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "SUMITOMO ELECTRIC FINANCE UK PLC",
+    "company_number": "02434214",
+    "status": "active",
+    "date_created": "1989-10-19",
+    "company_type": "plc",
+    "address": "Octagon Point, 5 Cheapside, London, EC2V 6AA",
+    "postcode": "EC2V 6AA",
+    "locality": "London",
+    "country": "England",
+    "sic_codes": [
+      "64999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "SUMITOMO ELECTRIC FINANCE UK LIMITED",
+      "INGLEBY (458) LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-10-05",
+    "directors": [
+      {
+        "name": "KAWAKAMI, Daiki",
+        "role": "secretary",
+        "appointed": "2019-01-07",
+        "nationality": "",
+        "address": "Octagon Point, 5 Cheapside, London, EC2V 6AA"
+      },
+      {
+        "name": "FUJIWARA, Masakazu, Mr.",
+        "role": "director",
+        "appointed": "2024-10-01",
+        "nationality": "Japanese",
+        "address": "Octagon Point, 5 Cheapside, London, EC2V 6AA"
+      },
+      {
+        "name": "HATANO, Seigo",
+        "role": "director",
+        "appointed": "2025-05-01",
+        "nationality": "Japanese",
+        "address": "Octagon Point, 5 Cheapside, London, EC2V 6AA"
+      },
+      {
+        "name": "HIZUME, Kenichiro, Mr.",
+        "role": "director",
+        "appointed": "2023-06-28",
+        "nationality": "Japanese",
+        "address": "Octagon Point, 5 Cheapside, London, EC2V 6AA"
+      },
+      {
+        "name": "ISEKI, Takahiko, Mr.",
+        "role": "director",
+        "appointed": "2025-04-16",
+        "nationality": "Japanese",
+        "address": "Octagon Point, 5 Cheapside, London, EC2V 6AA"
+      }
+    ],
+    "director_count": 5,
+    "director_names": "KAWAKAMI, Daiki, FUJIWARA, Masakazu, Mr., HATANO, Seigo",
+    "owners": [
+      {
+        "name": "Sumitomo Electric Industries Ltd,",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Sumitomo Electric Industries Ltd,",
+    "original_website": "https://www.sumitomorubber.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "A&O INTERNATIONAL TYRES LTD",
+    "company_number": "15169917",
+    "status": "active",
+    "date_created": "2023-09-27",
+    "company_type": "ltd",
+    "address": "39 Denbigh Road, London, E6 3LF",
+    "postcode": "E6 3LF",
+    "locality": "London",
+    "country": "England",
+    "sic_codes": [
+      "38110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-06-30",
+    "confirmation_next_due": "2025-10-10",
+    "directors": [
+      {
+        "name": "GOMEZ, Oscar Enrique",
+        "role": "director",
+        "appointed": "2023-09-27",
+        "nationality": "Dutch",
+        "address": "39, Denbigh Road, London, E6 3LF"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "GOMEZ, Oscar Enrique",
+    "owners": [
+      {
+        "name": "Mr Oscar Enrique Gomez",
+        "ownership": "75-100%",
+        "nationality": "Dutch"
+      }
+    ],
+    "owner_names": "Mr Oscar Enrique Gomez",
+    "original_website": "https://www.tyresinternational.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "COLLAGEN COLWAY UK LTD",
+    "company_number": "14761142",
+    "status": "active",
+    "date_created": "2023-03-27",
+    "company_type": "ltd",
+    "address": "44 Maytree Close, Birmingham, B37 5ED",
+    "postcode": "B37 5ED",
+    "locality": "Birmingham",
+    "country": "England",
+    "sic_codes": [
+      "47910"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-08-28",
+    "confirmation_next_due": "2026-04-09",
+    "directors": [
+      {
+        "name": "ROSICKA, Anna",
+        "role": "director",
+        "appointed": "2023-03-27",
+        "nationality": "Polish",
+        "address": "44, Maytree Close, Birmingham, B37 5ED"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "ROSICKA, Anna",
+    "owners": [
+      {
+        "name": "Mrs Anna Rosicka",
+        "ownership": "75-100%",
+        "nationality": "Polish"
+      }
+    ],
+    "owner_names": "Mrs Anna Rosicka",
+    "original_website": "https://www.colway.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Retreader/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "MARANGONI TYRE UK LIMITED",
+    "company_number": "05665200",
+    "status": "dissolved",
+    "date_created": "2006-01-04",
+    "company_type": "ltd",
+    "address": "109 Northampton Road, Brixworth, Northampton, Northamptonshire, NN6 9BU",
+    "postcode": "NN6 9BU",
+    "locality": "Northamptonshire",
+    "country": "",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "CARRUTHERS, Derek James",
+        "role": "director",
+        "appointed": "2006-01-04",
+        "nationality": "British",
+        "address": "Orchard House, Earls Croome, WR8 9DG"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "CARRUTHERS, Derek James",
+    "owners": [],
+    "owner_names": "",
+    "original_website": "https://www.marangoni.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Retreader/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRE WHOLESALERS LIMITED",
+    "company_number": "13417279",
+    "status": "active",
+    "date_created": "2021-05-24",
+    "company_type": "ltd",
+    "address": "12 Old Slade Lane, Iver, SL0 9DR",
+    "postcode": "SL0 9DR",
+    "locality": "Iver",
+    "country": "England",
+    "sic_codes": [
+      "22110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-02-28",
+    "confirmation_next_due": "2026-06-06",
+    "directors": [
+      {
+        "name": "VIRK, Kamaljit Singh",
+        "role": "director",
+        "appointed": "2021-05-24",
+        "nationality": "British",
+        "address": "12, Old Slade Lane, Iver, SL0 9DR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "VIRK, Kamaljit Singh",
+    "owners": [
+      {
+        "name": "Mr Kamaljit Singh Virk",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Kamaljit Singh Virk",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "EUROPA TRUCK PARTS LIMITED",
+    "company_number": "03878791",
+    "status": "active",
+    "date_created": "1999-11-17",
+    "company_type": "ltd",
+    "address": "16 Valley Road, Station Road Ind Est, Wombwell, Barnsley, South Yorkshire, S73 0BS",
+    "postcode": "S73 0BS",
+    "locality": "Barnsley",
+    "country": "England",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "VOL-TRUCK PARTS LTD."
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-12-01",
+    "directors": [
+      {
+        "name": "RICHARDSON, Henry Clive",
+        "role": "secretary",
+        "appointed": "1999-11-17",
+        "nationality": "British",
+        "address": "Bosworth Barn, York, YO62 4AT"
+      },
+      {
+        "name": "RICHARDSON, Henry Clive",
+        "role": "director",
+        "appointed": "1999-11-17",
+        "nationality": "British",
+        "address": "Bosworth Barn, York, YO62 4AT"
+      },
+      {
+        "name": "WATSON, Stephen",
+        "role": "director",
+        "appointed": "1999-11-17",
+        "nationality": "British",
+        "address": "11 Cheviot Walk, Barnsley, S75 2HH"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "RICHARDSON, Henry Clive, RICHARDSON, Henry Clive, WATSON, Stephen",
+    "owners": [
+      {
+        "name": "Mr Henry Clive Richardson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Stephen Watson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Henry Clive Richardson, Mr Stephen Watson",
+    "original_website": "https://www.europatrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "QUICK TYRES KIRKBY LIVERPOOL LIMITED",
+    "company_number": "15737759",
+    "status": "active",
+    "date_created": "2024-05-23",
+    "company_type": "ltd",
+    "address": "C/O Stuart Mcbain Ltd (Accountants) Unit 14 Tower Street, Brunswick Business Park, Liverpool, L3 4BJ",
+    "postcode": "L3 4BJ",
+    "locality": "Liverpool",
+    "country": "England",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-12-31",
+    "confirmation_next_due": "2026-06-05",
+    "directors": [
+      {
+        "name": "CANNON, Christopher",
+        "role": "director",
+        "appointed": "2024-05-23",
+        "nationality": "English",
+        "address": "C/O Stuart Mcbain Ltd (Accountants), Unit 14 Tower Street, Liverpool, L3 4BJ"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "CANNON, Christopher",
+    "owners": [
+      {
+        "name": "Mr Christopher Cannon",
+        "ownership": "75-100%",
+        "nationality": "English"
+      }
+    ],
+    "owner_names": "Mr Christopher Cannon",
+    "original_website": "https://www.kirkbytyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AA MOBILE TYRE SERVICES LTD",
+    "company_number": "15446074",
+    "status": "dissolved",
+    "date_created": "2024-01-27",
+    "company_type": "ltd",
+    "address": "13 Oakleigh Court Church Hill Road, Barnet, EN4 8UX",
+    "postcode": "EN4 8UX",
+    "locality": "Barnet",
+    "country": "England",
+    "sic_codes": [
+      "49410"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "SXM SERVICES LTD"
+    ],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "BIJANNIA, Sanaz",
+        "role": "director",
+        "appointed": "2024-01-27",
+        "nationality": "Iranian",
+        "address": "13 Oakleigh Court, Church Hill Road, Barnet, EN4 8UX"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "BIJANNIA, Sanaz",
+    "owners": [
+      {
+        "name": "Miss Sanaz Bijannia",
+        "ownership": "75-100%",
+        "nationality": "Iranian"
+      }
+    ],
+    "owner_names": "Miss Sanaz Bijannia",
+    "original_website": "https://www.stapletons-tyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "PALLET TRUCK WAREHOUSE LIMITED",
+    "company_number": "05259242",
+    "status": "active",
+    "date_created": "2004-10-14",
+    "company_type": "ltd",
+    "address": "3 West Street, Leighton Buzzard, LU7 1DA",
+    "postcode": "LU7 1DA",
+    "locality": "Leighton Buzzard",
+    "country": "England",
+    "sic_codes": [
+      "46190",
+      "47990"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "HST SCALES UK LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-10-28",
+    "directors": [
+      {
+        "name": "CURTIS, Helen",
+        "role": "secretary",
+        "appointed": "2004-10-19",
+        "nationality": "British",
+        "address": "3, West Street, Leighton Buzzard, LU7 1DA"
+      },
+      {
+        "name": "CURTIS, Mark Richard",
+        "role": "director",
+        "appointed": "2004-10-19",
+        "nationality": "British",
+        "address": "3, West Street, Leighton Buzzard, LU7 1DA"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "CURTIS, Helen, CURTIS, Mark Richard",
+    "owners": [
+      {
+        "name": "Mr Mark Richard Curtis",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Mark Richard Curtis",
+    "original_website": "https://www.trucktyrewarehouse.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TYRE-LINE LIMITED",
+    "company_number": "11373171",
+    "status": "active",
+    "date_created": "2018-05-21",
+    "company_type": "ltd",
+    "address": "Cedar House Sopwith Way, Drayton Fields Industrial Estate, Daventry, NN11 8PB",
+    "postcode": "NN11 8PB",
+    "locality": "Daventry",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "29320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-02-28",
+    "confirmation_next_due": "2026-06-03",
+    "directors": [
+      {
+        "name": "MUSSON, Edward Leslie Ford",
+        "role": "director",
+        "appointed": "2018-05-21",
+        "nationality": "British",
+        "address": "Cedar House, Sopwith Way, Daventry, NN11 8PB"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "MUSSON, Edward Leslie Ford",
+    "owners": [
+      {
+        "name": "Tyre-Line Original Equipment Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Tyre-Line Original Equipment Limited",
+    "original_website": "https://www.tyre-line.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TYRENET LIMITED",
+    "company_number": "03279590",
+    "status": "active",
+    "date_created": "1996-11-18",
+    "company_type": "ltd",
+    "address": "Mulberry House, Loudhams Wood Lane, Chalfont St. Giles, Buckinghamshire, HP8 4AP",
+    "postcode": "HP8 4AP",
+    "locality": "Chalfont St. Giles",
+    "country": "",
+    "sic_codes": [
+      "63110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-12-01",
+    "directors": [
+      {
+        "name": "HENRY, Jacqueline",
+        "role": "secretary",
+        "appointed": "1996-11-18",
+        "nationality": "British",
+        "address": "Mulberry House Loudhams Wood Lane, Chalfont St Giles, HP8 4AP"
+      },
+      {
+        "name": "HENRY, Jacqueline",
+        "role": "director",
+        "appointed": "1996-11-18",
+        "nationality": "British",
+        "address": "Mulberry House Loudhams Wood Lane, Chalfont St Giles, HP8 4AP"
+      },
+      {
+        "name": "HENRY, Mark Adrian Alexander",
+        "role": "director",
+        "appointed": "1996-11-18",
+        "nationality": "British",
+        "address": "Mulberry House Loudhams Wood Lane, Chalfont St Giles, HP8 4AP"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "HENRY, Jacqueline, HENRY, Jacqueline, HENRY, Mark Adrian Alexander",
+    "owners": [
+      {
+        "name": "Mr Mark Adrian Alexander Henry",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Miss Jacqueline Henry",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Mark Adrian Alexander Henry, Miss Jacqueline Henry",
+    "original_website": "https://www.tyrenet.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES DIRECT LIMITED",
+    "company_number": "15105571",
+    "status": "active",
+    "date_created": "2023-08-30",
+    "company_type": "ltd",
+    "address": "24 Dalkeith Place, Kettering, NN16 0BS",
+    "postcode": "NN16 0BS",
+    "locality": "Kettering",
+    "country": "England",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-05-31",
+    "confirmation_next_due": "2026-09-12",
+    "directors": [
+      {
+        "name": "POWELL, Claire",
+        "role": "director",
+        "appointed": "2023-08-30",
+        "nationality": "British",
+        "address": "24, Dalkeith Place, Kettering, NN16 0BS"
+      },
+      {
+        "name": "POWELL, James David",
+        "role": "director",
+        "appointed": "2023-08-30",
+        "nationality": "British",
+        "address": "24, Dalkeith Place, Kettering, NN16 0BS"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "POWELL, Claire, POWELL, James David",
+    "owners": [
+      {
+        "name": "Mr James David Powell",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr James David Powell",
+    "original_website": "https://www.wholesaletrucktyresdirect.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRP CASH & CARRY LIMITED",
+    "company_number": "13941374",
+    "status": "active",
+    "date_created": "2022-02-25",
+    "company_type": "ltd",
+    "address": "W10-11 Western International Market, Hayes Road, Southall, UB2 5XJ",
+    "postcode": "UB2 5XJ",
+    "locality": "Southall",
+    "country": "England",
+    "sic_codes": [
+      "46330",
+      "46341",
+      "46360",
+      "46390"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "BIR SOLUTIONS LIMITED"
+    ],
+    "accounts_next_due": "2026-01-31",
+    "confirmation_next_due": "2026-07-24",
+    "directors": [
+      {
+        "name": "AMIRI, Najaf Ali",
+        "role": "director",
+        "appointed": "2026-01-01",
+        "nationality": "British",
+        "address": "W10-11, Western International Market, Southall, UB2 5XJ"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "AMIRI, Najaf Ali",
+    "owners": [
+      {
+        "name": "Mr Abdul Ali Baratali",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Najaf Ali Amiri",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Abdul Ali Baratali, Mr Najaf Ali Amiri",
+    "original_website": "https://www.trp.eu",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "B2B Wholesaler/Retailer",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BANDVULC TYRES LTD",
+    "company_number": "01350593",
+    "status": "active",
+    "date_created": "1978-01-30",
+    "company_type": "ltd",
+    "address": "Gillard Way, Lee Mill Industrial Estate, Ivybridge, Devon, PL21 9LN",
+    "postcode": "PL21 9LN",
+    "locality": "Ivybridge",
+    "country": "",
+    "sic_codes": [
+      "22110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "BANDVULC REMOULDS LIMITED",
+      "AEROFLO (R.W. DEVON) LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-08-02",
+    "directors": [
+      {
+        "name": "CHOUDHURY, Nafaz",
+        "role": "secretary",
+        "appointed": "2025-02-21",
+        "nationality": "",
+        "address": "Gillard Way, Ivybridge, PL21 9LN"
+      },
+      {
+        "name": "BUDAY, Martin",
+        "role": "director",
+        "appointed": "2025-05-01",
+        "nationality": "Slovak",
+        "address": "Gillard Way, Ivybridge, PL21 9LN"
+      },
+      {
+        "name": "CHOUDHURY, Nafaz",
+        "role": "director",
+        "appointed": "2025-02-21",
+        "nationality": "British",
+        "address": "Gillard Way, Ivybridge, PL21 9LN"
+      },
+      {
+        "name": "MORTIMER, Tracey",
+        "role": "director",
+        "appointed": "2024-12-31",
+        "nationality": "British",
+        "address": "Gillard Way, Ivybridge, PL21 9LN"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "CHOUDHURY, Nafaz, BUDAY, Martin, CHOUDHURY, Nafaz",
+    "owners": [
+      {
+        "name": "Continental Uk Group Holdings Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Continental Uk Group Holdings Limited",
+    "original_website": "https://www.bandvulc.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Retreader/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "VACU-LUG TRACTION TYRES(OVERSEAS)LIMITED",
+    "company_number": "00504229",
+    "status": "dissolved",
+    "date_created": "1952-02-07",
+    "company_type": "ltd",
+    "address": "Gonerby Road, Gonerby Hill Foot, Grantham, Lincolnshire, NG31 8HF",
+    "postcode": "NG31 8HF",
+    "locality": "Grantham",
+    "country": "",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "PARSONS, John Philip",
+        "role": "secretary",
+        "appointed": "2002-07-01",
+        "nationality": "British",
+        "address": "Gonerby Road, Grantham, NG31 8HF"
+      },
+      {
+        "name": "HERCOCK, Timothy Rowland",
+        "role": "director",
+        "appointed": "2002-04-23",
+        "nationality": "British",
+        "address": "Gonerby Road, Grantham, NG31 8HF"
+      },
+      {
+        "name": "PARKER, Diana Jean",
+        "role": "director",
+        "appointed": "",
+        "nationality": "British",
+        "address": "Gonerby Road, Grantham, NG31 8HF"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "PARSONS, John Philip, HERCOCK, Timothy Rowland, PARKER, Diana Jean",
+    "owners": [],
+    "owner_names": "",
+    "original_website": "https://www.vacu-lug.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Retreader/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "VACULUG LIMITED",
+    "company_number": "00488961",
+    "status": "active",
+    "date_created": "1950-12-01",
+    "company_type": "ltd",
+    "address": "Gonerby Road, Gonerby Hill Foot, Grantham, Lincolnshire, NG31 8HE",
+    "postcode": "NG31 8HE",
+    "locality": "Grantham",
+    "country": "",
+    "sic_codes": [
+      "22110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "VACULUG EUROPE LIMITED",
+      "VACU-LUG LIMITED",
+      "VACULUG TECHNOLOGIES LIMITED",
+      "VACU-LUG TRACTION TYRES LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2025-12-27",
+    "directors": [
+      {
+        "name": "KANDHARI, Harjeev Singh",
+        "role": "director",
+        "appointed": "2018-07-31",
+        "nationality": "British",
+        "address": "Stirling House 9, Burroughs Gardens, London, NW4 4AU"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "KANDHARI, Harjeev Singh",
+    "owners": [
+      {
+        "name": "Grantham Capital Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Grantham Capital Limited",
+    "original_website": "https://www.vaculug.com",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Retreader/Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CANTERBURY TYRE DISTRIBUTORS LIMITED",
+    "company_number": "00376277",
+    "status": "active",
+    "date_created": "1942-09-24",
+    "company_type": "ltd",
+    "address": "1-3 Pelham Road, Gravesend, DA11 0HN",
+    "postcode": "DA11 0HN",
+    "locality": "Gravesend",
+    "country": "England",
+    "sic_codes": [
+      "74990"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-10-08",
+    "directors": [
+      {
+        "name": "FLURY, Karen Frances",
+        "role": "director",
+        "appointed": "",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      },
+      {
+        "name": "FLURY, Roger James",
+        "role": "director",
+        "appointed": "2020-11-10",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "FLURY, Karen Frances, FLURY, Roger James",
+    "owners": [
+      {
+        "name": "The Watling Tyres Service Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "The Watling Tyres Service Limited",
+    "original_website": "https://www.easterntyredistributors.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BRITISH & IRISH ASSOCIATION OF FASTENER DISTRIBUTORS LIMITED",
+    "company_number": "06789790",
+    "status": "active",
+    "date_created": "2009-01-13",
+    "company_type": "private-limited-guarant-nsc",
+    "address": "10b Red House Yard Gislingham Road, Thornham Magna, Eye, Suffolk, IP23 8HH",
+    "postcode": "IP23 8HH",
+    "locality": "Eye",
+    "country": "England",
+    "sic_codes": [
+      "94990"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "BRITISH ASSOCIATION OF FASTENER DISTRIBUTORS LIMITED"
+    ],
+    "accounts_next_due": "2027-03-31",
+    "confirmation_next_due": "2026-01-23",
+    "directors": [
+      {
+        "name": "MANAGEMENT COMPANY, The Assoc",
+        "role": "secretary",
+        "appointed": "2025-10-09",
+        "nationality": "",
+        "address": "10b Red House Yard, Gislingham Road, Eye, IP23 8HH"
+      },
+      {
+        "name": "CLARKE, Stephen David",
+        "role": "director",
+        "appointed": "2025-10-09",
+        "nationality": "British",
+        "address": "10b Red House Yard, Gislingham Road, Eye, IP23 8HH"
+      },
+      {
+        "name": "FURNESS, David",
+        "role": "director",
+        "appointed": "2012-10-04",
+        "nationality": "British",
+        "address": "Star Business Park, Congleton Road, Macclesfield, SK11 9JA"
+      },
+      {
+        "name": "HENDERSON, Gary",
+        "role": "director",
+        "appointed": "2023-05-01",
+        "nationality": "British",
+        "address": "10b Red House Yard, Gislingham Road, Eye, IP23 8HH"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "MANAGEMENT COMPANY, The Assoc, CLARKE, Stephen David, FURNESS, David",
+    "owners": [
+      {
+        "name": "Mr Stephen David Clarke",
+        "ownership": "Unknown",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Gary Henderson",
+        "ownership": "Unknown",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr David Furness",
+        "ownership": "Unknown",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Stephen David Clarke, Mr Gary Henderson",
+    "original_website": "https://www.irishtyredistributors.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CANTERBURY TYRE DISTRIBUTORS LIMITED",
+    "company_number": "00376277",
+    "status": "active",
+    "date_created": "1942-09-24",
+    "company_type": "ltd",
+    "address": "1-3 Pelham Road, Gravesend, DA11 0HN",
+    "postcode": "DA11 0HN",
+    "locality": "Gravesend",
+    "country": "England",
+    "sic_codes": [
+      "74990"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-10-08",
+    "directors": [
+      {
+        "name": "FLURY, Karen Frances",
+        "role": "director",
+        "appointed": "",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      },
+      {
+        "name": "FLURY, Roger James",
+        "role": "director",
+        "appointed": "2020-11-10",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "FLURY, Karen Frances, FLURY, Roger James",
+    "owners": [
+      {
+        "name": "The Watling Tyres Service Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "The Watling Tyres Service Limited",
+    "original_website": "https://www.kenttyredistributors.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "LANCASHIRE ELECTRICAL DISTRIBUTORS LIMITED",
+    "company_number": "01845601",
+    "status": "active",
+    "date_created": "1984-09-04",
+    "company_type": "ltd",
+    "address": "30 Woodlands Parkway, Timperley, Altrincham, Cheshire, WA15 7QU",
+    "postcode": "WA15 7QU",
+    "locality": "Altrincham",
+    "country": "",
+    "sic_codes": [
+      "46760"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "GLOBETIME LIMITED"
+    ],
+    "accounts_next_due": "2026-04-30",
+    "confirmation_next_due": "2026-04-26",
+    "directors": [
+      {
+        "name": "ANTHONY, Peter John",
+        "role": "director",
+        "appointed": "2016-03-14",
+        "nationality": "British",
+        "address": "20, Market Street, Altrincham, WA14 1PF"
+      },
+      {
+        "name": "KILROE, Daniel Paul",
+        "role": "director",
+        "appointed": "2023-04-06",
+        "nationality": "Irish",
+        "address": "30 Woodlands Parkway, Altrincham, WA15 7QU"
+      },
+      {
+        "name": "KILROE, Rachel Maura",
+        "role": "director",
+        "appointed": "2023-04-06",
+        "nationality": "Irish",
+        "address": "30 Woodlands Parkway, Altrincham, WA15 7QU"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "ANTHONY, Peter John, KILROE, Daniel Paul, KILROE, Rachel Maura",
+    "owners": [
+      {
+        "name": "Twenty 15 Capital Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Twenty 15 Capital Limited",
+    "original_website": "https://www.lancashiretyredistributors.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CANTERBURY TYRE DISTRIBUTORS LIMITED",
+    "company_number": "00376277",
+    "status": "active",
+    "date_created": "1942-09-24",
+    "company_type": "ltd",
+    "address": "1-3 Pelham Road, Gravesend, DA11 0HN",
+    "postcode": "DA11 0HN",
+    "locality": "Gravesend",
+    "country": "England",
+    "sic_codes": [
+      "74990"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-10-08",
+    "directors": [
+      {
+        "name": "FLURY, Karen Frances",
+        "role": "director",
+        "appointed": "",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      },
+      {
+        "name": "FLURY, Roger James",
+        "role": "director",
+        "appointed": "2020-11-10",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "FLURY, Karen Frances, FLURY, Roger James",
+    "owners": [
+      {
+        "name": "The Watling Tyres Service Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "The Watling Tyres Service Limited",
+    "original_website": "https://www.midlandtyredistributors.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "NORTHEAST DETAILING SUPPLIES LTD",
+    "company_number": "13765381",
+    "status": "dissolved",
+    "date_created": "2021-11-25",
+    "company_type": "ltd",
+    "address": "103 Sea Road, Sunderland, SR6 9BN",
+    "postcode": "SR6 9BN",
+    "locality": "Sunderland",
+    "country": "England",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "MAJOR, Steven Robert",
+        "role": "director",
+        "appointed": "2021-11-25",
+        "nationality": "British",
+        "address": "103, Sea Road, Sunderland, SR6 9BN"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "MAJOR, Steven Robert",
+    "owners": [
+      {
+        "name": "Mr Steven Robert Major",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Steven Robert Major",
+    "original_website": "https://www.northeasttyresupplies.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "NORTHERN TYRE LOGISTICS LIMITED",
+    "company_number": "10931817",
+    "status": "dissolved",
+    "date_created": "2017-08-24",
+    "company_type": "ltd",
+    "address": "Site 18 Unit 1 Willow Holme Road, Willowholme, Carlisle, Cumbria, CA2 5RT",
+    "postcode": "CA2 5RT",
+    "locality": "Carlisle",
+    "country": "England",
+    "sic_codes": [
+      "52219"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "KIRKALDY, Shaun",
+        "role": "director",
+        "appointed": "2017-08-24",
+        "nationality": "British",
+        "address": "3, Little Dockray, Penrith, CA11 7HL"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "KIRKALDY, Shaun",
+    "owners": [
+      {
+        "name": "Mr Shaun Kirkaldy",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Shaun Kirkaldy",
+    "original_website": "https://www.northerntyresupplies.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CANTERBURY TYRE DISTRIBUTORS LIMITED",
+    "company_number": "00376277",
+    "status": "active",
+    "date_created": "1942-09-24",
+    "company_type": "ltd",
+    "address": "1-3 Pelham Road, Gravesend, DA11 0HN",
+    "postcode": "DA11 0HN",
+    "locality": "Gravesend",
+    "country": "England",
+    "sic_codes": [
+      "74990"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-10-08",
+    "directors": [
+      {
+        "name": "FLURY, Karen Frances",
+        "role": "director",
+        "appointed": "",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      },
+      {
+        "name": "FLURY, Roger James",
+        "role": "director",
+        "appointed": "2020-11-10",
+        "nationality": "British",
+        "address": "1-3 Pelham Road, Gravesend, DA11 0HN"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "FLURY, Karen Frances, FLURY, Roger James",
+    "owners": [
+      {
+        "name": "The Watling Tyres Service Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "The Watling Tyres Service Limited",
+    "original_website": "https://www.scottishtyredistributors.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "SOUTH WEST COMMERCIAL TYRES LTD",
+    "company_number": "16339735",
+    "status": "active",
+    "date_created": "2025-03-25",
+    "company_type": "ltd",
+    "address": "South West Crane Hire Tan Lane, St Thomas, Exeter, Devon, EX2 8EG",
+    "postcode": "EX2 8EG",
+    "locality": "Exeter",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-12-25",
+    "confirmation_next_due": "2026-04-07",
+    "directors": [
+      {
+        "name": "JEFFERY, Alistair Gordon Reginald",
+        "role": "director",
+        "appointed": "2025-03-25",
+        "nationality": "British",
+        "address": "South West Crane Hire, Tan Lane, Exeter, EX2 8EG"
+      },
+      {
+        "name": "JEFFERY, Daniel Michael",
+        "role": "director",
+        "appointed": "2025-03-25",
+        "nationality": "British",
+        "address": "South West Crane Hire, Tan Lane, Exeter, EX2 8EG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "JEFFERY, Alistair Gordon Reginald, JEFFERY, Daniel Michael",
+    "owners": [
+      {
+        "name": "Mr Alistair Gordon Reginald Jeffery",
+        "ownership": "Unknown",
+        "nationality": "British"
+      },
+      {
+        "name": "Swch Ltd",
+        "ownership": "75-100%",
+        "nationality": ""
+      },
+      {
+        "name": "Mr Daniel Michael Jeffery",
+        "ownership": "Unknown",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Alistair Gordon Reginald Jeffery, Swch Ltd",
+    "original_website": "https://www.southwesttyresupplies.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "SOLO TYRE WHOLESALERS LTD",
+    "company_number": "14320689",
+    "status": "dissolved",
+    "date_created": "2022-08-26",
+    "company_type": "ltd",
+    "address": "37 Whitemore Road Whitmore Road, Birmingham, B10 0NR",
+    "postcode": "B10 0NR",
+    "locality": "Birmingham",
+    "country": "England",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "HUSSAIN, Sohail",
+        "role": "director",
+        "appointed": "2022-08-26",
+        "nationality": "British",
+        "address": "37 Whitemore Road, Whitmore Road, Birmingham, B10 0NR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "HUSSAIN, Sohail",
+    "owners": [
+      {
+        "name": "Mr Sohail Hussain",
+        "ownership": "75-100%",
+        "nationality": "Pakistani"
+      }
+    ],
+    "owner_names": "Mr Sohail Hussain",
+    "original_website": "https://www.southeasttyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "WELSH TYRE RECYCLING SERVICES LTD",
+    "company_number": "07517833",
+    "status": "active",
+    "date_created": "2011-02-04",
+    "company_type": "ltd",
+    "address": "Unit S Hirwaun Industrial Estate, Hirwaun, Aberdare, Mid Glamorgan, CF44 9UP",
+    "postcode": "CF44 9UP",
+    "locality": "Aberdare",
+    "country": "Wales",
+    "sic_codes": [
+      "38320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-01-31",
+    "confirmation_next_due": "2026-03-09",
+    "directors": [
+      {
+        "name": "POWELL, Darran",
+        "role": "director",
+        "appointed": "2011-02-04",
+        "nationality": "British",
+        "address": "Riverside Lodge, Llys Cynon, Aberdare, CF44 9PR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "POWELL, Darran",
+    "owners": [
+      {
+        "name": "Darren Powell",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Darren Powell",
+    "original_website": "https://www.welshtyresupplies.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "YORKSHIRE TYRE SUPPLIES LTD",
+    "company_number": "10597960",
+    "status": "dissolved",
+    "date_created": "2017-02-02",
+    "company_type": "ltd",
+    "address": "Unit 5c Tong Street Business Park, Holme Lane, Bradford, West Yorkshire, BD4 0PY",
+    "postcode": "BD4 0PY",
+    "locality": "Bradford",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "",
+    "confirmation_next_due": "",
+    "directors": [
+      {
+        "name": "HUSSAIN, Sohail",
+        "role": "director",
+        "appointed": "2017-02-02",
+        "nationality": "British",
+        "address": "Unit 5c, Tong Street Business Park, Bradford, BD4 0PY"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "HUSSAIN, Sohail",
+    "owners": [
+      {
+        "name": "Mr Sohail Hussain",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Sohail Hussain",
+    "original_website": "https://www.yorkshiretyresupplies.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Small Wholesaler",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "DW TYRE & FLEET SERVICES LTD",
+    "company_number": "15359069",
+    "status": "active",
+    "date_created": "2023-12-18",
+    "company_type": "ltd",
+    "address": "42 Birkdale Cop, Southport, PR8 5DT",
+    "postcode": "PR8 5DT",
+    "locality": "Southport",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-12-31",
+    "directors": [
+      {
+        "name": "WILLIAMS, Dewi Richard",
+        "role": "director",
+        "appointed": "2023-12-18",
+        "nationality": "Welsh",
+        "address": "42, Birkdale Cop, Southport, PR8 5DT"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "WILLIAMS, Dewi Richard",
+    "owners": [
+      {
+        "name": "Mr Dewi Richard Williams",
+        "ownership": "75-100%",
+        "nationality": "Welsh"
+      }
+    ],
+    "owner_names": "Mr Dewi Richard Williams",
+    "original_website": "https://www.fleettyregroup.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "FLEET TYRE NETWORK LIMITED",
+    "company_number": "07888473",
+    "status": "active",
+    "date_created": "2011-12-21",
+    "company_type": "ltd",
+    "address": "Micheldever Station, Winchester, Hampshire, SO21 3AP",
+    "postcode": "SO21 3AP",
+    "locality": "Winchester",
+    "country": "",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-04-05",
+    "directors": [
+      {
+        "name": "GORING, Will",
+        "role": "secretary",
+        "appointed": "2020-05-01",
+        "nationality": "",
+        "address": "Micheldever Station, Winchester, SO21 3AP"
+      },
+      {
+        "name": "AWAZU, Kei",
+        "role": "director",
+        "appointed": "2022-06-01",
+        "nationality": "Japanese",
+        "address": "Micheldever Station, Winchester, SO21 3AP"
+      },
+      {
+        "name": "GORING, Will James Frederick",
+        "role": "director",
+        "appointed": "2020-05-01",
+        "nationality": "British",
+        "address": "Micheldever Station, Winchester, SO21 3AP"
+      },
+      {
+        "name": "MITCHELL, Graham",
+        "role": "director",
+        "appointed": "2024-10-01",
+        "nationality": "British",
+        "address": "Micheldever Station, Winchester, SO21 3AP"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "GORING, Will, AWAZU, Kei, GORING, Will James Frederick",
+    "owners": [
+      {
+        "name": "Micheldever Tyre Services Ltd",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Micheldever Tyre Services Ltd",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK AND WHEEL UK LTD",
+    "company_number": "13033877",
+    "status": "active",
+    "date_created": "2020-11-20",
+    "company_type": "ltd",
+    "address": "9 Shirwell Crescent, Furzton Lake, Milton Keynes, MK4 1GA",
+    "postcode": "MK4 1GA",
+    "locality": "Milton Keynes",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "49410"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-12-03",
+    "directors": [
+      {
+        "name": "AGUILAR TORMO, Hector",
+        "role": "director",
+        "appointed": "2021-03-15",
+        "nationality": "Spanish",
+        "address": "9, Shirwell Crescent, Milton Keynes, MK4 1GA"
+      },
+      {
+        "name": "LLONIS IRIGOYEN, Alfredo",
+        "role": "director",
+        "appointed": "2022-03-21",
+        "nationality": "Spanish",
+        "address": "9, Shirwell Crescent, Milton Keynes, MK4 1GA"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "AGUILAR TORMO, Hector, LLONIS IRIGOYEN, Alfredo",
+    "owners": [
+      {
+        "name": "Mr Carlos Llonis Irigoyen",
+        "ownership": "25-50%",
+        "nationality": "Spanish"
+      },
+      {
+        "name": "Mr Alfredo Llonis Irigoyen",
+        "ownership": "25-50%",
+        "nationality": "Spanish"
+      },
+      {
+        "name": "Truck And Wheel S.L.",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Mr Carlos Llonis Irigoyen, Mr Alfredo Llonis Irigoyen",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRE SUPPLIES UK LIMITED",
+    "company_number": "11032022",
+    "status": "active",
+    "date_created": "2017-10-25",
+    "company_type": "ltd",
+    "address": "St Thomas House, 83 Wolverhampton Road, Cannock, Staffordshire, WS11 1AR",
+    "postcode": "WS11 1AR",
+    "locality": "Cannock",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-11-30",
+    "confirmation_next_due": "2025-11-07",
+    "directors": [
+      {
+        "name": "PARKES, Michael",
+        "role": "director",
+        "appointed": "2017-10-25",
+        "nationality": "English",
+        "address": "St Thomas House, 83 Wolverhampton Road, Cannock, WS11 1AR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "PARKES, Michael",
+    "owners": [
+      {
+        "name": "Mr Michael Parkes",
+        "ownership": "75-100%",
+        "nationality": "English"
+      }
+    ],
+    "owner_names": "Mr Michael Parkes",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES NATIONAL LTD",
+    "company_number": "16707059",
+    "status": "active",
+    "date_created": "2025-09-10",
+    "company_type": "ltd",
+    "address": "Unit 389 275 New North Road, Islington, London, N1 7AA",
+    "postcode": "N1 7AA",
+    "locality": "London",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-06-10",
+    "confirmation_next_due": "2026-09-23",
+    "directors": [
+      {
+        "name": "ABDI, Warsame Omar",
+        "role": "director",
+        "appointed": "2025-09-10",
+        "nationality": "Dutch",
+        "address": "Unit 389, 275 New North Road, London, N1 7AA"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "ABDI, Warsame Omar",
+    "owners": [
+      {
+        "name": "Mr Warsame Omar Abdi",
+        "ownership": "75-100%",
+        "nationality": "Dutch"
+      }
+    ],
+    "owner_names": "Mr Warsame Omar Abdi",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "A&O INTERNATIONAL TYRES LTD",
+    "company_number": "15169917",
+    "status": "active",
+    "date_created": "2023-09-27",
+    "company_type": "ltd",
+    "address": "39 Denbigh Road, London, E6 3LF",
+    "postcode": "E6 3LF",
+    "locality": "London",
+    "country": "England",
+    "sic_codes": [
+      "38110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-06-30",
+    "confirmation_next_due": "2025-10-10",
+    "directors": [
+      {
+        "name": "GOMEZ, Oscar Enrique",
+        "role": "director",
+        "appointed": "2023-09-27",
+        "nationality": "Dutch",
+        "address": "39, Denbigh Road, London, E6 3LF"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "GOMEZ, Oscar Enrique",
+    "owners": [
+      {
+        "name": "Mr Oscar Enrique Gomez",
+        "ownership": "75-100%",
+        "nationality": "Dutch"
+      }
+    ],
+    "owner_names": "Mr Oscar Enrique Gomez",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AA TYRE RECYCLING UK LTD",
+    "company_number": "04543111",
+    "status": "active",
+    "date_created": "2002-09-24",
+    "company_type": "ltd",
+    "address": "3 Wentworth Croft, Heanor, DE75 7YX",
+    "postcode": "DE75 7YX",
+    "locality": "",
+    "country": "",
+    "sic_codes": [
+      "38320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "DAVID THOMAS ELECTRICAL LTD"
+    ],
+    "accounts_next_due": "2026-06-30",
+    "confirmation_next_due": "2026-10-08",
+    "directors": [
+      {
+        "name": "THOMAS, Daniel",
+        "role": "director",
+        "appointed": "2005-11-01",
+        "nationality": "British",
+        "address": "3 Wentworth Croft, Heanor, DE75 7YX"
+      },
+      {
+        "name": "THOMAS, David Charles",
+        "role": "director",
+        "appointed": "2002-09-24",
+        "nationality": "British",
+        "address": "3 Wentworth Croft, Heanor, DE75 7YX"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "THOMAS, Daniel, THOMAS, David Charles",
+    "owners": [
+      {
+        "name": "Mr David Charles Thomas",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Daniel Thomas",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr David Charles Thomas, Mr Daniel Thomas",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AB UK FLEETCO LIMITED",
+    "company_number": "15216213",
+    "status": "active",
+    "date_created": "2023-10-17",
+    "company_type": "ltd",
+    "address": "5 Churchill Place, 10th Floor, London, E14 5HU",
+    "postcode": "E14 5HU",
+    "locality": "London",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "64922",
+      "64999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-10-30",
+    "directors": [
+      {
+        "name": "CSC CORPORATE SERVICES (LONDON) LIMITED",
+        "role": "corporate-secretary",
+        "appointed": "2023-10-17",
+        "nationality": "",
+        "address": "5, Churchill Place, London, E14 5HU"
+      },
+      {
+        "name": "KHAN, Raheel Shehzad",
+        "role": "director",
+        "appointed": "2023-10-17",
+        "nationality": "British",
+        "address": "5, Churchill Place, London, E14 5HU"
+      },
+      {
+        "name": "CSC DIRECTORS (NO.3) LIMITED",
+        "role": "corporate-director",
+        "appointed": "2023-10-17",
+        "nationality": "",
+        "address": "5, Churchill Place, London, E14 5HU"
+      },
+      {
+        "name": "CSC DIRECTORS (NO.4) LIMITED",
+        "role": "corporate-director",
+        "appointed": "2023-10-17",
+        "nationality": "",
+        "address": "5, Churchill Place, London, E14 5HU"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "CSC CORPORATE SERVICES (LONDON) LIMITED, KHAN, Raheel Shehzad, CSC DIRECTORS (NO.3) LIMITED",
+    "owners": [
+      {
+        "name": "Csc Corporate Services (London) Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Csc Corporate Services (London) Limited",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AK FLEET GROUP LTD",
+    "company_number": "12604912",
+    "status": "active",
+    "date_created": "2020-05-15",
+    "company_type": "ltd",
+    "address": "Unit 2 13 Nursery Lane, London, Greater London, E7 8BL",
+    "postcode": "E7 8BL",
+    "locality": "London",
+    "country": "England",
+    "sic_codes": [
+      "77110"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-03-31",
+    "confirmation_next_due": "2026-05-27",
+    "directors": [
+      {
+        "name": "KHAN, Abbas",
+        "role": "secretary",
+        "appointed": "2020-05-15",
+        "nationality": "",
+        "address": "Unit 2, 13 Nursery Lane, London, E7 8BL"
+      },
+      {
+        "name": "KHAN, Abbas",
+        "role": "director",
+        "appointed": "2020-05-15",
+        "nationality": "British",
+        "address": "Unit 2, 13 Nursery Lane, London, E7 8BL"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "KHAN, Abbas, KHAN, Abbas",
+    "owners": [
+      {
+        "name": "Mr Abbas Khan",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Abbas Khan",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AMERIT FLEET SOLUTIONS UK, LTD",
+    "company_number": "16893981",
+    "status": "active",
+    "date_created": "2025-12-05",
+    "company_type": "ltd",
+    "address": "Suite 1, 7th Floor 50 Broadway, London, SW1H 0DB",
+    "postcode": "SW1H 0DB",
+    "locality": "London",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "64209"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-09-05",
+    "confirmation_next_due": "2026-12-18",
+    "directors": [
+      {
+        "name": "RACHEY, Ross",
+        "role": "director",
+        "appointed": "2025-12-05",
+        "nationality": "American",
+        "address": "Suite 1, 7th Floor, 50 Broadway, London, SW1H 0DB"
+      },
+      {
+        "name": "WILLIAMS, Frederick Daniel",
+        "role": "director",
+        "appointed": "2025-12-05",
+        "nationality": "Canadian",
+        "address": "Suite 1, 7th Floor, 50 Broadway, London, SW1H 0DB"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "RACHEY, Ross, WILLIAMS, Frederick Daniel",
+    "owners": [],
+    "owner_names": "",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "TRUCK TYRES UK LIMITED",
+    "company_number": "SC644925",
+    "status": "active",
+    "date_created": "2019-10-21",
+    "company_type": "ltd",
+    "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",
+    "postcode": "G2 4JR",
+    "locality": "Glasgow",
+    "country": "Scotland",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-11-03",
+    "directors": [
+      {
+        "name": "DONALDSON, Forde",
+        "role": "director",
+        "appointed": "2019-10-21",
+        "nationality": "British",
+        "address": "Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "DONALDSON, Forde",
+    "owners": [
+      {
+        "name": "Mr Forde Donaldson",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Forde Donaldson",
+    "original_website": "https://www.cheaptrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Online Retailer",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CLD LORRY UK LTD",
+    "company_number": "11661993",
+    "status": "active",
+    "date_created": "2018-11-06",
+    "company_type": "ltd",
+    "address": "9 Belgravia Drive, Bridgwater, TA6 4GH",
+    "postcode": "TA6 4GH",
+    "locality": "Bridgwater",
+    "country": "England",
+    "sic_codes": [
+      "49410"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2020-11-06",
+    "confirmation_next_due": "2020-12-17",
+    "directors": [
+      {
+        "name": "LOLESCU, Claudiu-Iulian",
+        "role": "director",
+        "appointed": "2018-11-06",
+        "nationality": "Romanian",
+        "address": "9, Belgravia Drive, Bridgwater, TA6 4GH"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "LOLESCU, Claudiu-Iulian",
+    "owners": [
+      {
+        "name": "Mr Claudiu-Iulian Lolescu",
+        "ownership": "75-100%",
+        "nationality": "Romanian"
+      }
+    ],
+    "owner_names": "Mr Claudiu-Iulian Lolescu",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "COMMERCIAL WHEEL ALIGNMENT LIMITED",
+    "company_number": "06283105",
+    "status": "active",
+    "date_created": "2007-06-18",
+    "company_type": "ltd",
+    "address": "5 Poplar Hill, Stowmarket, IP14 2AS",
+    "postcode": "IP14 2AS",
+    "locality": "Stowmarket",
+    "country": "England",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-08-31",
+    "confirmation_next_due": "2026-07-02",
+    "directors": [
+      {
+        "name": "HOLLAND, Michael Paul",
+        "role": "secretary",
+        "appointed": "2007-06-18",
+        "nationality": "British",
+        "address": "76, Forest Road, Stowmarket, IP14 3HJ"
+      },
+      {
+        "name": "HOLLAND, Michael Paul",
+        "role": "director",
+        "appointed": "2007-06-18",
+        "nationality": "British",
+        "address": "76, Forest Road, Stowmarket, IP14 3HJ"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "HOLLAND, Michael Paul, HOLLAND, Michael Paul",
+    "owners": [
+      {
+        "name": "Michael Paul Holland",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Michael Paul Holland",
+    "original_website": "https://www.commercialwheelalignment.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Wheel Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "LORRY PARKS UK LTD",
+    "company_number": "16745809",
+    "status": "active",
+    "date_created": "2025-09-26",
+    "company_type": "ltd",
+    "address": "3 Kensworth Gate, 200-204 High Street South, Dunstable, Bedfordshire, LU6 3HS",
+    "postcode": "LU6 3HS",
+    "locality": "Dunstable",
+    "country": "England",
+    "sic_codes": [
+      "68209"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-06-26",
+    "confirmation_next_due": "2026-10-09",
+    "directors": [
+      {
+        "name": "MCBRIDE, Kevin Daniel",
+        "role": "director",
+        "appointed": "2025-09-26",
+        "nationality": "British",
+        "address": "High Oaks, Kimpton Bottom, Kimpton, SG4 8EU"
+      },
+      {
+        "name": "O'BRIEN, Daniel",
+        "role": "director",
+        "appointed": "2025-10-01",
+        "nationality": "Irish",
+        "address": "3 Kensworth Gate, 200-204 High Street South, Dunstable, LU6 3HS"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "MCBRIDE, Kevin Daniel, O'BRIEN, Daniel",
+    "owners": [
+      {
+        "name": "Mr Daniel O'Brien",
+        "ownership": "25-50%",
+        "nationality": "Irish"
+      },
+      {
+        "name": "Mr Kevin Daniel Mcbride",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Daniel O'Brien, Mr Kevin Daniel Mcbride",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ALL TRUCK & TRAILER PARTS UK LTD",
+    "company_number": "SC552510",
+    "status": "liquidation",
+    "date_created": "2016-12-13",
+    "company_type": "ltd",
+    "address": "C/O Begbies Traynor, 2 Bothwell Street, Glasgow, G2 6LU",
+    "postcode": "G2 6LU",
+    "locality": "Glasgow",
+    "country": "",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": true,
+    "has_insolvency": true,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2025-01-31",
+    "confirmation_next_due": "2024-12-12",
+    "directors": [
+      {
+        "name": "MCHUGH, Nigel",
+        "role": "director",
+        "appointed": "2016-12-13",
+        "nationality": "British",
+        "address": "9 Craighall Place, Annbank, KA6 5FB"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "MCHUGH, Nigel",
+    "owners": [
+      {
+        "name": "Mr Nigel Mchugh",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Nigel Mchugh",
+    "original_website": "https://www.trailertyresuk.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Trailer Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "UK LORRY TRANSPORT LTD",
+    "company_number": "12944386",
+    "status": "active",
+    "date_created": "2020-10-12",
+    "company_type": "ltd",
+    "address": "Flat 2 39 Dalebury Road, London, SW17 7HQ",
+    "postcode": "SW17 7HQ",
+    "locality": "London",
+    "country": "England",
+    "sic_codes": [
+      "49410"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-07-31",
+    "confirmation_next_due": "2026-10-11",
+    "directors": [
+      {
+        "name": "KROL, Katarzyna",
+        "role": "secretary",
+        "appointed": "2020-10-12",
+        "nationality": "",
+        "address": "Flat 2, 39 Dalebury Road, London, SW17 7HQ"
+      },
+      {
+        "name": "KROL, Katarzyna",
+        "role": "director",
+        "appointed": "2020-10-12",
+        "nationality": "Polish",
+        "address": "Flat 2, 39 Dalebury Road, London, SW17 7HQ"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "KROL, Katarzyna, KROL, Katarzyna",
+    "owners": [
+      {
+        "name": "Ms Katarzyna Krol",
+        "ownership": "75-100%",
+        "nationality": "Polish"
+      }
+    ],
+    "owner_names": "Ms Katarzyna Krol",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "UK TYRE WHOLESALERS LTD",
+    "company_number": "12301085",
+    "status": "active",
+    "date_created": "2019-11-06",
+    "company_type": "ltd",
+    "address": "50 George Street, Croydon, CR0 1PD",
+    "postcode": "CR0 1PD",
+    "locality": "Croydon",
+    "country": "England",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "UK TRUCK TYRE LIMITED"
+    ],
+    "accounts_next_due": "2026-08-31",
+    "confirmation_next_due": "2026-10-19",
+    "directors": [
+      {
+        "name": "MCCOURT, Ricky Bobbie",
+        "role": "director",
+        "appointed": "2020-07-02",
+        "nationality": "British",
+        "address": "50, George Street, Croydon, CR0 1PD"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "MCCOURT, Ricky Bobbie",
+    "owners": [
+      {
+        "name": "Mr Ricky Bobbie Mccourt",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Ricky Bobbie Mccourt",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Services",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "247 TRUCK TYRES LTD",
+    "company_number": "16948484",
+    "status": "active",
+    "date_created": "2026-01-07",
+    "company_type": "ltd",
+    "address": "599 London Road, Reading, RG6 1AT",
+    "postcode": "RG6 1AT",
+    "locality": "Reading",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-10-07",
+    "confirmation_next_due": "2027-01-20",
+    "directors": [
+      {
+        "name": "ALI, Haseeb",
+        "role": "director",
+        "appointed": "2026-01-07",
+        "nationality": "British",
+        "address": "599, London Road, Reading, RG6 1AT"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "ALI, Haseeb",
+    "owners": [
+      {
+        "name": "Mr Haseeb Ali",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Haseeb Ali",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "A1 CABS & TRUCK UK LTD",
+    "company_number": "13723108",
+    "status": "active",
+    "date_created": "2021-11-04",
+    "company_type": "ltd",
+    "address": "28 Edith Road, London, E6 1DE",
+    "postcode": "E6 1DE",
+    "locality": "London",
+    "country": "England",
+    "sic_codes": [
+      "53202",
+      "56290"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "MUBEENIO LTD"
+    ],
+    "accounts_next_due": "2026-08-31",
+    "confirmation_next_due": "2026-02-06",
+    "directors": [
+      {
+        "name": "AHMED, Tahmina",
+        "role": "director",
+        "appointed": "2025-01-23",
+        "nationality": "Bangladeshi",
+        "address": "28, Edith Road, London, E6 1DE"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "AHMED, Tahmina",
+    "owners": [
+      {
+        "name": "Miss Tahmina Ahmed",
+        "ownership": "75-100%",
+        "nationality": "Bangladeshi"
+      }
+    ],
+    "owner_names": "Miss Tahmina Ahmed",
+    "original_website": "https://www.a1trucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "A2 TRUCK TYRE LIMITED",
+    "company_number": "11261015",
+    "status": "active",
+    "date_created": "2018-03-19",
+    "company_type": "ltd",
+    "address": "Thames House, Roman Square, Sittingbourne, Kent, ME10 4BJ",
+    "postcode": "ME10 4BJ",
+    "locality": "Sittingbourne",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-12-31",
+    "confirmation_next_due": "2026-04-01",
+    "directors": [
+      {
+        "name": "LORTON, Kevin William",
+        "role": "director",
+        "appointed": "2018-03-19",
+        "nationality": "British",
+        "address": "Thames House, Roman Square, Sittingbourne, ME10 4BJ"
+      },
+      {
+        "name": "LORTON, Robert Gary",
+        "role": "director",
+        "appointed": "2018-03-19",
+        "nationality": "British",
+        "address": "Thames House, Roman Square, Sittingbourne, ME10 4BJ"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "LORTON, Kevin William, LORTON, Robert Gary",
+    "owners": [
+      {
+        "name": "A2 Tyre Supplies Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "A2 Tyre Supplies Limited",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "company_type": "ltd",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",
+    "postcode": "YO30 4XF",
+    "locality": "York",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-04-30",
+    "confirmation_next_due": "2026-03-16",
+    "directors": [
+      {
+        "name": "STOW, Hilary",
+        "role": "secretary",
+        "appointed": "2009-03-02",
+        "nationality": "Other",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      },
+      {
+        "name": "STOW, Richard Sidney",
+        "role": "director",
+        "appointed": "2009-03-02",
+        "nationality": "British",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STOW, Hilary, STOW, Richard Sidney",
+    "owners": [
+      {
+        "name": "Mr Richard Sidney Stow",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Richard Sidney Stow",
+    "original_website": "https://www.aberdeentrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ACE TYRES COMMERCIAL LTD",
+    "company_number": "10512275",
+    "status": "active",
+    "date_created": "2016-12-06",
+    "company_type": "ltd",
+    "address": "304 High Street, Orpington, Kent, BR6 0NF",
+    "postcode": "BR6 0NF",
+    "locality": "Orpington",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-12-19",
+    "directors": [
+      {
+        "name": "COLE, Audrey",
+        "role": "director",
+        "appointed": "2016-12-06",
+        "nationality": "British",
+        "address": "304, High Street, Orpington, BR6 0NF"
+      },
+      {
+        "name": "COLE, Kevin",
+        "role": "director",
+        "appointed": "2016-12-06",
+        "nationality": "British",
+        "address": "304, High Street, Orpington, BR6 0NF"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "COLE, Audrey, COLE, Kevin",
+    "owners": [
+      {
+        "name": "Mrs Audrey Cole",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Kevin Cole",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mrs Audrey Cole, Mr Kevin Cole",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ACE TYRES COMMERCIAL LTD",
+    "company_number": "10512275",
+    "status": "active",
+    "date_created": "2016-12-06",
+    "company_type": "ltd",
+    "address": "304 High Street, Orpington, Kent, BR6 0NF",
+    "postcode": "BR6 0NF",
+    "locality": "Orpington",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-12-19",
+    "directors": [
+      {
+        "name": "COLE, Audrey",
+        "role": "director",
+        "appointed": "2016-12-06",
+        "nationality": "British",
+        "address": "304, High Street, Orpington, BR6 0NF"
+      },
+      {
+        "name": "COLE, Kevin",
+        "role": "director",
+        "appointed": "2016-12-06",
+        "nationality": "British",
+        "address": "304, High Street, Orpington, BR6 0NF"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "COLE, Audrey, COLE, Kevin",
+    "owners": [
+      {
+        "name": "Mrs Audrey Cole",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Kevin Cole",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mrs Audrey Cole, Mr Kevin Cole",
+    "original_website": "https://www.alliancecommercialtyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AM COMMERCIAL TYRE\u2019S LIMITED",
+    "company_number": "SC846604",
+    "status": "active",
+    "date_created": "2025-04-28",
+    "company_type": "ltd",
+    "address": "5 Cables Wynd House, Edinburgh, EH6 6DF",
+    "postcode": "EH6 6DF",
+    "locality": "Edinburgh",
+    "country": "Scotland",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2027-01-28",
+    "confirmation_next_due": "2026-05-11",
+    "directors": [
+      {
+        "name": "MORGAN, Andrew John Willam",
+        "role": "director",
+        "appointed": "2025-04-28",
+        "nationality": "Scottish",
+        "address": "5, Cables Wynd House, Edinburgh, EH6 6DF"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "MORGAN, Andrew John Willam",
+    "owners": [
+      {
+        "name": "Mr Andrew John Willam Morgan",
+        "ownership": "75-100%",
+        "nationality": "Scottish"
+      }
+    ],
+    "owner_names": "Mr Andrew John Willam Morgan",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ANGLIA TRUCK TYRE MANAGEMENT LIMITED",
+    "company_number": "04183442",
+    "status": "active",
+    "date_created": "2001-03-20",
+    "company_type": "ltd",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",
+    "postcode": "IP3 0DL",
+    "locality": "Ipswich",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-03-31",
+    "confirmation_next_due": "2026-12-06",
+    "directors": [
+      {
+        "name": "WILMOT, Tony Justin",
+        "role": "secretary",
+        "appointed": "2001-03-20",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "AUKSTIEJUS, Aivaras",
+        "role": "director",
+        "appointed": "2014-07-01",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "STAIRMAND, William",
+        "role": "director",
+        "appointed": "2014-07-01",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "WILMOT, Tony Justin",
+        "role": "director",
+        "appointed": "2019-08-29",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "WILMOT, Tony Justin, AUKSTIEJUS, Aivaras, STAIRMAND, William",
+    "owners": [
+      {
+        "name": "Ipswich Tyre Group Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      },
+      {
+        "name": "Ipswich Tyre Group Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Ipswich Tyre Group Limited, Ipswich Tyre Group Limited",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ANGLIAN TRUCK TYRE MANAGEMENT CAMBS LIMITED",
+    "company_number": "16141864",
+    "status": "active",
+    "date_created": "2024-12-18",
+    "company_type": "ltd",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",
+    "postcode": "IP3 0DL",
+    "locality": "Ipswich",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-04-21",
+    "confirmation_next_due": "2026-12-31",
+    "directors": [
+      {
+        "name": "STAIRMAND, William",
+        "role": "director",
+        "appointed": "2024-12-18",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "WILMOT, Tony Justin",
+        "role": "director",
+        "appointed": "2024-12-18",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STAIRMAND, William, WILMOT, Tony Justin",
+    "owners": [
+      {
+        "name": "Ipswich Tyre Group Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Ipswich Tyre Group Limited",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ANGLIAN TRUCK TYRE MANAGEMENT NORWICH LIMITED",
+    "company_number": "16141882",
+    "status": "active",
+    "date_created": "2024-12-18",
+    "company_type": "ltd",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",
+    "postcode": "IP3 0DL",
+    "locality": "Ipswich",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-04-21",
+    "confirmation_next_due": "2026-12-31",
+    "directors": [
+      {
+        "name": "BROWN, Neil",
+        "role": "director",
+        "appointed": "2025-05-07",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "STAIRMAND, William",
+        "role": "director",
+        "appointed": "2024-12-18",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "WILMOT, Tony Justin",
+        "role": "director",
+        "appointed": "2024-12-18",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "BROWN, Neil, STAIRMAND, William, WILMOT, Tony Justin",
+    "owners": [
+      {
+        "name": "Ipswich Tyre Group Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Ipswich Tyre Group Limited",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ANGLIAN TRUCK TYRE MANAGEMENT SOUTH LIMITED",
+    "company_number": "13046940",
+    "status": "active",
+    "date_created": "2020-11-27",
+    "company_type": "ltd",
+    "address": "37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",
+    "postcode": "IP3 0DL",
+    "locality": "Ipswich",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-03-31",
+    "confirmation_next_due": "2026-12-06",
+    "directors": [
+      {
+        "name": "STAIRMAND, William",
+        "role": "director",
+        "appointed": "2020-11-27",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "WALLIS, Jay Leonard",
+        "role": "director",
+        "appointed": "2020-11-27",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "WALLIS, Sarah Jane",
+        "role": "director",
+        "appointed": "2020-11-27",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      },
+      {
+        "name": "WILMOT, Tony Justin",
+        "role": "director",
+        "appointed": "2020-11-27",
+        "nationality": "British",
+        "address": "37-41, Holywells Road, Ipswich, IP3 0DL"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "STAIRMAND, William, WALLIS, Jay Leonard, WALLIS, Sarah Jane",
+    "owners": [
+      {
+        "name": "Anglia Truck Tyre Management Limited",
+        "ownership": "50-75%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Anglia Truck Tyre Management Limited",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "ASHFORD COMMERCIAL TYRES LIMITED",
+    "company_number": "07322542",
+    "status": "active",
+    "date_created": "2010-07-22",
+    "company_type": "ltd",
+    "address": "57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",
+    "postcode": "TW16 5HL",
+    "locality": "Sunbury On Thames",
+    "country": "",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2021-12-31",
+    "confirmation_next_due": "2022-08-05",
+    "directors": [
+      {
+        "name": "BEBB, Thomas David",
+        "role": "director",
+        "appointed": "2010-07-22",
+        "nationality": "British",
+        "address": "238 Station Road, Addlestone, KT15 2PS"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "BEBB, Thomas David",
+    "owners": [
+      {
+        "name": "Mr Thomas David Bebb",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Thomas David Bebb",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BAILEY TRUCK SOLUTIONS LIMITED",
+    "company_number": "14627540",
+    "status": "active",
+    "date_created": "2023-01-31",
+    "company_type": "ltd",
+    "address": "9 Commerce Road, Lynchwood, Peterborough, Cambs, PE2 6LR",
+    "postcode": "PE2 6LR",
+    "locality": "Peterborough",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "TRUCK LOGIC LIMITED"
+    ],
+    "accounts_next_due": "2026-10-31",
+    "confirmation_next_due": "2026-02-13",
+    "directors": [
+      {
+        "name": "BAILEY, Neil Robert",
+        "role": "director",
+        "appointed": "2023-01-31",
+        "nationality": "British",
+        "address": "9 Commerce Road, Lynchwood, Peterborough, PE2 6LR"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "BAILEY, Neil Robert",
+    "owners": [
+      {
+        "name": "Mr Neil Robert Bailey",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Neil Robert Bailey",
+    "original_website": "https://www.baileytrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "company_type": "ltd",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",
+    "postcode": "YO30 4XF",
+    "locality": "York",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-04-30",
+    "confirmation_next_due": "2026-03-16",
+    "directors": [
+      {
+        "name": "STOW, Hilary",
+        "role": "secretary",
+        "appointed": "2009-03-02",
+        "nationality": "Other",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      },
+      {
+        "name": "STOW, Richard Sidney",
+        "role": "director",
+        "appointed": "2009-03-02",
+        "nationality": "British",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STOW, Hilary, STOW, Richard Sidney",
+    "owners": [
+      {
+        "name": "Mr Richard Sidney Stow",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Richard Sidney Stow",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARTON COMMERCIAL TYRES LIMITED",
+    "company_number": "02039874",
+    "status": "active",
+    "date_created": "1986-07-23",
+    "company_type": "ltd",
+    "address": "Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",
+    "postcode": "DL10 6NB",
+    "locality": "Richmond",
+    "country": "",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-04-30",
+    "confirmation_next_due": "2026-09-26",
+    "directors": [
+      {
+        "name": "JOHNSON, Charlotte Mary",
+        "role": "secretary",
+        "appointed": "",
+        "nationality": "British",
+        "address": "Traston Scurragh Lane, Richmond, DL10 5EG"
+      },
+      {
+        "name": "JOHNSON, Alison Mary",
+        "role": "director",
+        "appointed": "2022-02-03",
+        "nationality": "British",
+        "address": "Dunholme, Scurragh Lane, Richmond, DL10 5EG"
+      },
+      {
+        "name": "JOHNSON, Charlotte Mary",
+        "role": "director",
+        "appointed": "",
+        "nationality": "British",
+        "address": "Traston Scurragh Lane, Richmond, DL10 5EG"
+      },
+      {
+        "name": "JOHNSON, Geoffrey Colin Skinner",
+        "role": "director",
+        "appointed": "",
+        "nationality": "British",
+        "address": "Traston Scurragh Lane, Richmond, DL10 5EG"
+      },
+      {
+        "name": "JOHNSON, Joseph Stuart",
+        "role": "director",
+        "appointed": "2022-02-03",
+        "nationality": "British",
+        "address": "10, Anvil Way, Northallerton, DL7 0EJ"
+      }
+    ],
+    "director_count": 5,
+    "director_names": "JOHNSON, Charlotte Mary, JOHNSON, Alison Mary, JOHNSON, Charlotte Mary",
+    "owners": [
+      {
+        "name": "Miss Alison Mary Johnson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Joseph Stuart Johnson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Miss Alison Mary Johnson, Mr Joseph Stuart Johnson",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "LAKELAND TYRES BELFAST LIMITED",
+    "company_number": "NI627485",
+    "status": "liquidation",
+    "date_created": "2014-10-28",
+    "company_type": "ltd",
+    "address": "Unit A1 Boucher Business Studios, Glenmachan Place, Belfast, Antrim, BT12 6QH",
+    "postcode": "BT12 6QH",
+    "locality": "Belfast",
+    "country": "",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": true,
+    "has_insolvency": true,
+    "jurisdiction": "northern-ireland",
+    "previous_names": [],
+    "accounts_next_due": "2018-09-29",
+    "confirmation_next_due": "2018-08-18",
+    "directors": [
+      {
+        "name": "SMYTON, Janice",
+        "role": "secretary",
+        "appointed": "2014-10-28",
+        "nationality": "",
+        "address": "Unit A1, Boucher Business Studios, Belfast, BT12 6QH"
+      },
+      {
+        "name": "FRAZER, Adrian Desmond",
+        "role": "director",
+        "appointed": "2014-10-28",
+        "nationality": "British",
+        "address": "93, Marble Arch Road,, Enniskillen, BT92 1AD"
+      },
+      {
+        "name": "SMYTON, Janice",
+        "role": "director",
+        "appointed": "2016-10-29",
+        "nationality": "British",
+        "address": "56, Tullyhill Road, Enniskillen, BT94 4PH"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "SMYTON, Janice, FRAZER, Adrian Desmond, SMYTON, Janice",
+    "owners": [
+      {
+        "name": "Mr Adrian Frazer",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Adrian Frazer",
+    "original_website": "https://www.belfasttrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "company_type": "ltd",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",
+    "postcode": "YO30 4XF",
+    "locality": "York",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-04-30",
+    "confirmation_next_due": "2026-03-16",
+    "directors": [
+      {
+        "name": "STOW, Hilary",
+        "role": "secretary",
+        "appointed": "2009-03-02",
+        "nationality": "Other",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      },
+      {
+        "name": "STOW, Richard Sidney",
+        "role": "director",
+        "appointed": "2009-03-02",
+        "nationality": "British",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STOW, Hilary, STOW, Richard Sidney",
+    "owners": [
+      {
+        "name": "Mr Richard Sidney Stow",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Richard Sidney Stow",
+    "original_website": "https://www.belltrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "AJ TYRES BIRMINGHAM LTD",
+    "company_number": "10404724",
+    "status": "active",
+    "date_created": "2016-09-30",
+    "company_type": "ltd",
+    "address": "23 Larches Street, Birmingham, West Midlands, B11 1XH",
+    "postcode": "B11 1XH",
+    "locality": "Birmingham",
+    "country": "England",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-06-30",
+    "confirmation_next_due": "2026-07-30",
+    "directors": [
+      {
+        "name": "KHAN, Abdul Jabbar",
+        "role": "director",
+        "appointed": "2016-09-30",
+        "nationality": "Pakistani",
+        "address": "23, Larches Street, Birmingham, B11 1XH"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "KHAN, Abdul Jabbar",
+    "owners": [
+      {
+        "name": "Mr Abdul Jabbar Khan",
+        "ownership": "75-100%",
+        "nationality": "Pakistani"
+      }
+    ],
+    "owner_names": "Mr Abdul Jabbar Khan",
+    "original_website": "https://www.birminghamcommercialtyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BIRMINGHAM TRUCK TYRE LTD",
+    "company_number": "08481309",
+    "status": "active",
+    "date_created": "2013-04-09",
+    "company_type": "ltd",
+    "address": "Kent Space, Suite 2026 6-8 Revenge Road, Chatham, ME5 8UD",
+    "postcode": "ME5 8UD",
+    "locality": "Chatham",
+    "country": "England",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "THE RECRUITMENT FIRM LIMITED"
+    ],
+    "accounts_next_due": "2026-12-31",
+    "confirmation_next_due": "2026-07-18",
+    "directors": [
+      {
+        "name": "GALLAGHER, Nicola Maria",
+        "role": "director",
+        "appointed": "2013-04-09",
+        "nationality": "British",
+        "address": "Owls Barn, 38 Salts Avenue, Maidstone, ME15 0AZ"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "GALLAGHER, Nicola Maria",
+    "owners": [
+      {
+        "name": "Ms Nicola Maria Gallagher",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Ms Nicola Maria Gallagher",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BLACK COUNTRY COMMERCIAL & TYRES LTD",
+    "company_number": "15504034",
+    "status": "active",
+    "date_created": "2024-02-19",
+    "company_type": "ltd",
+    "address": "36 Lichfield Street, Walsall, WS1 1TJ",
+    "postcode": "WS1 1TJ",
+    "locality": "Walsall",
+    "country": "England",
+    "sic_codes": [
+      "45200",
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "BLACK COUNTRY TYRES LTD"
+    ],
+    "accounts_next_due": "2026-11-30",
+    "confirmation_next_due": "2026-03-04",
+    "directors": [
+      {
+        "name": "REHMAN, Azizur",
+        "role": "director",
+        "appointed": "2024-02-19",
+        "nationality": "British",
+        "address": "36, Lichfield Street, Walsall, WS1 1TJ"
+      },
+      {
+        "name": "REHMAN, Habib",
+        "role": "director",
+        "appointed": "2024-02-19",
+        "nationality": "British",
+        "address": "36, Lichfield Street, Walsall, WS1 1TJ"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "REHMAN, Azizur, REHMAN, Habib",
+    "owners": [
+      {
+        "name": "Mr Azizur Rehman",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Azizur Rehman",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BLAINS TRAILERS & TYRES LTD",
+    "company_number": "03359332",
+    "status": "active",
+    "date_created": "1997-04-24",
+    "company_type": "ltd",
+    "address": "St Margarets Farm, Great Gaddesden, Hemel Hempstead, Hertfordshire, HP1 3BZ",
+    "postcode": "HP1 3BZ",
+    "locality": "Hemel Hempstead",
+    "country": "",
+    "sic_codes": [
+      "47190"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "BLAIN'S TRAILERS & TYRES LIMITED"
+    ],
+    "accounts_next_due": "2026-09-30",
+    "confirmation_next_due": "2026-12-04",
+    "directors": [
+      {
+        "name": "MATTERSON, Jacqueline",
+        "role": "secretary",
+        "appointed": "1997-10-01",
+        "nationality": "British",
+        "address": "St Margarets Farm, St. Margarets, Hemel Hempstead, HP1 3BZ"
+      },
+      {
+        "name": "MATTERSON, Jacqueline",
+        "role": "director",
+        "appointed": "1997-10-01",
+        "nationality": "British",
+        "address": "St Margarets Farm, Great Gaddesden, Hemel Hempstead, HP1 3BZ"
+      },
+      {
+        "name": "MATTERSON, Matthew George",
+        "role": "director",
+        "appointed": "2023-03-10",
+        "nationality": "British",
+        "address": "St Margarets Farm, Hemel Hempstead, HP1 3BZ"
+      },
+      {
+        "name": "MATTERSON, Timothy John",
+        "role": "director",
+        "appointed": "1997-10-01",
+        "nationality": "British",
+        "address": "St Margarets Farm, Hemel Hempstead, HP1 3BZ"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "MATTERSON, Jacqueline, MATTERSON, Jacqueline, MATTERSON, Matthew George",
+    "owners": [
+      {
+        "name": "Mr Matthew George Matterson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Matthew George Matterson",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BRADFORD TRUCK & BUS LTD",
+    "company_number": "11452375",
+    "status": "active",
+    "date_created": "2018-07-06",
+    "company_type": "ltd",
+    "address": "Unit 2 Lister Street, Bradford, BD4 9PQ",
+    "postcode": "BD4 9PQ",
+    "locality": "Bradford",
+    "country": "England",
+    "sic_codes": [
+      "45200",
+      "91020"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-03-31",
+    "confirmation_next_due": "2026-07-24",
+    "directors": [
+      {
+        "name": "SIMPSON, Iain James",
+        "role": "director",
+        "appointed": "2018-07-06",
+        "nationality": "British",
+        "address": "Unit 2, Lister Street, Bradford, BD4 9PQ"
+      },
+      {
+        "name": "TOLSON, Kiran Lewis",
+        "role": "director",
+        "appointed": "2018-07-06",
+        "nationality": "British",
+        "address": "Unit 2, Lister Street, Bradford, BD4 9PQ"
+      },
+      {
+        "name": "TOLSON, Krishan John",
+        "role": "director",
+        "appointed": "2018-07-06",
+        "nationality": "British",
+        "address": "Unit 2, Lister Street, Bradford, BD4 9PQ"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "SIMPSON, Iain James, TOLSON, Kiran Lewis, TOLSON, Krishan John",
+    "owners": [
+      {
+        "name": "Mr Krishan John Tolson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Kiran Lewis Tolson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Iain James Simpson",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Krishan John Tolson, Mr Kiran Lewis Tolson",
+    "original_website": "https://www.bradfordtrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "company_type": "ltd",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",
+    "postcode": "YO30 4XF",
+    "locality": "York",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-04-30",
+    "confirmation_next_due": "2026-03-16",
+    "directors": [
+      {
+        "name": "STOW, Hilary",
+        "role": "secretary",
+        "appointed": "2009-03-02",
+        "nationality": "Other",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      },
+      {
+        "name": "STOW, Richard Sidney",
+        "role": "director",
+        "appointed": "2009-03-02",
+        "nationality": "British",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STOW, Hilary, STOW, Richard Sidney",
+    "owners": [
+      {
+        "name": "Mr Richard Sidney Stow",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Richard Sidney Stow",
+    "original_website": "https://www.bristoltrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "FLEET MOBILE TYRES LTD",
+    "company_number": "16808697",
+    "status": "active",
+    "date_created": "2025-10-24",
+    "company_type": "ltd",
+    "address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "postcode": "WC2H 9JQ",
+    "locality": "London",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200",
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-07-24",
+    "confirmation_next_due": "2026-11-06",
+    "directors": [
+      {
+        "name": "JORDAN, Cardinal Tobias",
+        "role": "director",
+        "appointed": "2025-10-24",
+        "nationality": "British",
+        "address": "4, Pacific Road, London, E16 1PJ"
+      },
+      {
+        "name": "YEARWOOD, Leon Henderson",
+        "role": "director",
+        "appointed": "2025-10-24",
+        "nationality": "British",
+        "address": "71-75, Shelton Street, London, WC2H 9JQ"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "JORDAN, Cardinal Tobias, YEARWOOD, Leon Henderson",
+    "owners": [
+      {
+        "name": "Mr Cardinal Tobias Jordan",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Leon Henderson Yearwood",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Cardinal Tobias Jordan, Mr Leon Henderson Yearwood",
+    "original_website": "https://www.brownfleettyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "company_type": "ltd",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",
+    "postcode": "YO30 4XF",
+    "locality": "York",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-04-30",
+    "confirmation_next_due": "2026-03-16",
+    "directors": [
+      {
+        "name": "STOW, Hilary",
+        "role": "secretary",
+        "appointed": "2009-03-02",
+        "nationality": "Other",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      },
+      {
+        "name": "STOW, Richard Sidney",
+        "role": "director",
+        "appointed": "2009-03-02",
+        "nationality": "British",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STOW, Hilary, STOW, Richard Sidney",
+    "owners": [
+      {
+        "name": "Mr Richard Sidney Stow",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Richard Sidney Stow",
+    "original_website": "https://www.cambridgetrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "company_type": "ltd",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",
+    "postcode": "YO30 4XF",
+    "locality": "York",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-04-30",
+    "confirmation_next_due": "2026-03-16",
+    "directors": [
+      {
+        "name": "STOW, Hilary",
+        "role": "secretary",
+        "appointed": "2009-03-02",
+        "nationality": "Other",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      },
+      {
+        "name": "STOW, Richard Sidney",
+        "role": "director",
+        "appointed": "2009-03-02",
+        "nationality": "British",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STOW, Hilary, STOW, Richard Sidney",
+    "owners": [
+      {
+        "name": "Mr Richard Sidney Stow",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Richard Sidney Stow",
+    "original_website": "https://www.campbelltrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CAR VAN TRUCK TYRES LIMITED",
+    "company_number": "08035616",
+    "status": "active",
+    "date_created": "2012-04-18",
+    "company_type": "ltd",
+    "address": "29 Whitegate Drive Whitegate Drive, Blackpool, FY3 9AA",
+    "postcode": "FY3 9AA",
+    "locality": "Blackpool",
+    "country": "England",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-01-31",
+    "confirmation_next_due": "2026-05-02",
+    "directors": [
+      {
+        "name": "LOMAS, Jason",
+        "role": "director",
+        "appointed": "2012-04-18",
+        "nationality": "British",
+        "address": "64, Devona Avenue, Blackpool, FY4 4NU"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "LOMAS, Jason",
+    "owners": [
+      {
+        "name": "Mr Jason Lomas",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Jason Lomas",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CARDIFF BAY TRUCK SERVICES LIMITED",
+    "company_number": "03383608",
+    "status": "active",
+    "date_created": "1997-06-09",
+    "company_type": "ltd",
+    "address": "Cbts, Clipper Road, Roath Dock, Cardiff, South Glamorgan, CF10 4EW",
+    "postcode": "CF10 4EW",
+    "locality": "Cardiff",
+    "country": "",
+    "sic_codes": [
+      "45190",
+      "45200",
+      "45310",
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-02-28",
+    "confirmation_next_due": "2026-03-05",
+    "directors": [
+      {
+        "name": "DAVIES, Ian Michael",
+        "role": "secretary",
+        "appointed": "2003-01-25",
+        "nationality": "British",
+        "address": "37, Silver Street, Dursley, GL11 4NA"
+      },
+      {
+        "name": "DAVIES, Ian Michael",
+        "role": "director",
+        "appointed": "1997-06-09",
+        "nationality": "British",
+        "address": "37, Silver Street, Dursley, GL11 4NA"
+      },
+      {
+        "name": "HARRIS, David Francis",
+        "role": "director",
+        "appointed": "1997-06-09",
+        "nationality": "British",
+        "address": "The Sycamore Tree, Pontyclun, CF72 9RQ"
+      }
+    ],
+    "director_count": 3,
+    "director_names": "DAVIES, Ian Michael, DAVIES, Ian Michael, HARRIS, David Francis",
+    "owners": [
+      {
+        "name": "Mr Ian Michael Davies",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr David Francis Harris",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Ian Michael Davies, Mr David Francis Harris",
+    "original_website": "https://www.cardifftrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CENTRAL SCOTLAND TRUCK SERVICES LIMITED",
+    "company_number": "SC823773",
+    "status": "active",
+    "date_created": "2024-09-25",
+    "company_type": "ltd",
+    "address": "Unit 16 Houston Mains, Broxburn, West Lothian, EH52 6PA",
+    "postcode": "EH52 6PA",
+    "locality": "Broxburn",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "52290"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "scotland",
+    "previous_names": [],
+    "accounts_next_due": "2026-06-25",
+    "confirmation_next_due": "2025-10-08",
+    "directors": [
+      {
+        "name": "FAIRGRIEVE, Jamie David",
+        "role": "director",
+        "appointed": "2024-09-25",
+        "nationality": "British",
+        "address": "Unit 16, Houston Mains, Broxburn, EH52 6PA"
+      },
+      {
+        "name": "FORREST, Ben Aaron",
+        "role": "director",
+        "appointed": "2024-09-25",
+        "nationality": "British",
+        "address": "Unit 16, Houston Mains, Broxburn, EH52 6PA"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "FAIRGRIEVE, Jamie David, FORREST, Ben Aaron",
+    "owners": [
+      {
+        "name": "Mr Jamie David Fairgrieve",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Ben Aaron Forrest",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Jamie David Fairgrieve, Mr Ben Aaron Forrest",
+    "original_website": "https://www.centralscotlandtrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CENTRAL TYRE (COMMERCIAL) LIMITED",
+    "company_number": "07760510",
+    "status": "active",
+    "date_created": "2011-09-02",
+    "company_type": "ltd",
+    "address": "Etel House, Avenue One, Letchworth Garden City, Hertfordshire, SG6 2HU",
+    "postcode": "SG6 2HU",
+    "locality": "Letchworth Garden City",
+    "country": "",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [
+      "STAPLETON'S (RETAIL) LIMITED"
+    ],
+    "accounts_next_due": "2026-12-31",
+    "confirmation_next_due": "2026-07-15",
+    "directors": [
+      {
+        "name": "DEMPSEY, Paul",
+        "role": "secretary",
+        "appointed": "2025-07-04",
+        "nationality": "",
+        "address": "Etel House, Avenue One, Letchworth Garden City, SG6 2HU"
+      },
+      {
+        "name": "FUKUDA, Takeshi",
+        "role": "director",
+        "appointed": "2025-08-05",
+        "nationality": "Japanese",
+        "address": "Etel House, Avenue One, Letchworth Garden City, SG6 2HU"
+      },
+      {
+        "name": "JOYCE, Daniel Christopher",
+        "role": "director",
+        "appointed": "2025-12-19",
+        "nationality": "British",
+        "address": "Etel House, Avenue One, Letchworth Garden City, SG6 2HU"
+      },
+      {
+        "name": "SLADE, Mark Richard",
+        "role": "director",
+        "appointed": "2014-03-01",
+        "nationality": "British",
+        "address": "Etel House, Avenue One, Letchworth Garden City, SG6 2HU"
+      }
+    ],
+    "director_count": 4,
+    "director_names": "DEMPSEY, Paul, FUKUDA, Takeshi, JOYCE, Daniel Christopher",
+    "owners": [
+      {
+        "name": "Kwik-Fit (Gb) Limited",
+        "ownership": "75-100%",
+        "nationality": ""
+      }
+    ],
+    "owner_names": "Kwik-Fit (Gb) Limited",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "BARON TRUCK TYRES LIMITED",
+    "company_number": "06833810",
+    "status": "active",
+    "date_created": "2009-03-02",
+    "company_type": "ltd",
+    "address": "Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",
+    "postcode": "YO30 4XF",
+    "locality": "York",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "99999"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2027-04-30",
+    "confirmation_next_due": "2026-03-16",
+    "directors": [
+      {
+        "name": "STOW, Hilary",
+        "role": "secretary",
+        "appointed": "2009-03-02",
+        "nationality": "Other",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      },
+      {
+        "name": "STOW, Richard Sidney",
+        "role": "director",
+        "appointed": "2009-03-02",
+        "nationality": "British",
+        "address": "41, Kensington Road, York, YO30 5XG"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "STOW, Hilary, STOW, Richard Sidney",
+    "owners": [
+      {
+        "name": "Mr Richard Sidney Stow",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Richard Sidney Stow",
+    "original_website": "https://www.clarktrucktyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "CLASSIC COMMERCIAL AND TYRE LIMITED",
+    "company_number": "15485268",
+    "status": "active",
+    "date_created": "2024-02-12",
+    "company_type": "ltd",
+    "address": "26 Harmer Street, Gravesend, DA12 2AX",
+    "postcode": "DA12 2AX",
+    "locality": "Gravesend",
+    "country": "England",
+    "sic_codes": [
+      "45320"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-02-06",
+    "confirmation_next_due": "2026-08-27",
+    "directors": [
+      {
+        "name": "WATTS, Danny Antony",
+        "role": "director",
+        "appointed": "2024-02-12",
+        "nationality": "British",
+        "address": "26, Harmer Street, Gravesend, DA12 2AX"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "WATTS, Danny Antony",
+    "owners": [
+      {
+        "name": "Mr Danny Antony Watts",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Danny Antony Watts",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "COLLINS COMMERCIAL LIMITED",
+    "company_number": "04330297",
+    "status": "active",
+    "date_created": "2001-11-28",
+    "company_type": "ltd",
+    "address": "Ground Floor Cooper House, 316 Regents Park Road, London, N3 2JX",
+    "postcode": "N3 2JX",
+    "locality": "London",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "68310"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-12-31",
+    "confirmation_next_due": "2026-12-14",
+    "directors": [
+      {
+        "name": "COLLINS, Noreen Maria",
+        "role": "director",
+        "appointed": "2018-10-03",
+        "nationality": "British",
+        "address": "12 Princess Court, Bryanston Place, London, W1H 2DF"
+      },
+      {
+        "name": "COLLINS, Paul Stanley",
+        "role": "director",
+        "appointed": "2001-11-28",
+        "nationality": "British",
+        "address": "12, Princess Court, London, W1H 2DF"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "COLLINS, Noreen Maria, COLLINS, Paul Stanley",
+    "owners": [
+      {
+        "name": "Mrs Noreen Maria Collins",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Mr Paul Stanley Collins",
+        "ownership": "50-75%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mrs Noreen Maria Collins, Mr Paul Stanley Collins",
+    "original_website": "https://www.collinscommercialtyres.co.uk",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "COMMERCIAL CONTRACT TYRES LIMITED",
+    "company_number": "04232039",
+    "status": "active",
+    "date_created": "2001-06-11",
+    "company_type": "ltd",
+    "address": "38 Chelsworth Avenue, Ipswich, Suffolk, IP4 3AY",
+    "postcode": "IP4 3AY",
+    "locality": "Ipswich",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45310"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-04-30",
+    "confirmation_next_due": "2026-10-22",
+    "directors": [
+      {
+        "name": "SMYTHE, Paul Dean",
+        "role": "director",
+        "appointed": "2001-06-11",
+        "nationality": "British",
+        "address": "38, Chelsworth Avenue, Ipswich, IP4 3AY"
+      }
+    ],
+    "director_count": 1,
+    "director_names": "SMYTHE, Paul Dean",
+    "owners": [
+      {
+        "name": "Mr Robert Adam Smythe",
+        "ownership": "25-50%",
+        "nationality": "British"
+      },
+      {
+        "name": "Thomas Smythe",
+        "ownership": "25-50%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Robert Adam Smythe, Thomas Smythe",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "name": "COMMERCIAL TYRE SOLUTIONS LTD",
+    "company_number": "15143167",
+    "status": "active",
+    "date_created": "2023-09-17",
+    "company_type": "ltd",
+    "address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "postcode": "WC2H 9JQ",
+    "locality": "London",
+    "country": "United Kingdom",
+    "sic_codes": [
+      "45200"
+    ],
+    "has_charges": false,
+    "has_insolvency": false,
+    "jurisdiction": "england-wales",
+    "previous_names": [],
+    "accounts_next_due": "2026-06-30",
+    "confirmation_next_due": "2026-09-30",
+    "directors": [
+      {
+        "name": "SKIDMORE, Robyn",
+        "role": "secretary",
+        "appointed": "2023-09-17",
+        "nationality": "",
+        "address": "1st Formations Ltd, 71-75, Shelton Street, London, WC2H 9JQ"
+      },
+      {
+        "name": "AHMED, Osman",
+        "role": "director",
+        "appointed": "2023-09-17",
+        "nationality": "British",
+        "address": "71-75, Shelton Street, London, WC2H 9JQ"
+      }
+    ],
+    "director_count": 2,
+    "director_names": "SKIDMORE, Robyn, AHMED, Osman",
+    "owners": [
+      {
+        "name": "Mr Osman Ahmed",
+        "ownership": "75-100%",
+        "nationality": "British"
+      }
+    ],
+    "owner_names": "Mr Osman Ahmed",
+    "original_website": "",
+    "original_phone": "",
+    "original_email": "",
+    "businessType": "Truck Tyre Specialist",
+    "verification_status": "VERIFIED"
+  }
+]
