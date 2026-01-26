@@ -1,0 +1,1088 @@
+company_number,company_name,status,company_type,date_of_creation,address,postcode,locality,region,sic_codes,is_truck_commercial,is_mobile,categories
+16262244,TRUCK TYRE FLEET SERVICES LTD,active,ltd,2025-02-19,"1 Thorncliffe View, Leek, ST13 6QB",ST13 6QB,Leek,,22110,True,False,truck_commercial; fitting_service; fleet
+03158142,TRUCK TYRE LEASING LIMITED,active,ltd,1996-02-13,"280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, HP14 4TJ",HP14 4TJ,High Wycombe,Buckinghamshire,99999,True,False,truck_commercial
+15105571,TRUCK TYRES DIRECT LIMITED,active,ltd,2023-08-30,"24 Dalkeith Place, Kettering, NN16 0BS",NN16 0BS,Kettering,,45320,True,False,truck_commercial
+15543670,TRUCK TYRES 4 U LTD,active,ltd,2024-03-06,"121 Lark Lane, Liverpool, L17 8UR",L17 8UR,Liverpool,,45320,True,False,truck_commercial
+05853394,TRUCK TYRES (LONDON) LIMITED,active,ltd,2006-06-21,"167 Turners Hill, Cheshunt, Hertfordshire, EN8 9BH",EN8 9BH,Cheshunt,Hertfordshire,99999,True,False,truck_commercial
+16707059,TRUCK TYRES NATIONAL LTD,active,ltd,2025-09-10,"Unit 389 275 New North Road, Islington, London, N1 7AA",N1 7AA,London,,45320,True,False,truck_commercial
+05733614,TRUCK TYRE SOLUTIONS LTD,active,ltd,2006-03-07,"Station Road, Rowley Regis, W Midlands, B65 0LJ",B65 0LJ,Rowley Regis,W Midlands,45310,True,False,truck_commercial
+16049229,TRUCK TYRES ONLINE LTD,active,ltd,2024-10-29,"Booth Street Chambers, 32 Booth Street, Ashton-Under-Lyne, Lancashire, OL6 7LQ",OL6 7LQ,Ashton-Under-Lyne,Lancashire,45310; 45320,True,False,truck_commercial
+12781618,TRUCK TYRES 2 U LTD,active,ltd,2020-07-30,"C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, CW11 4NE",CW11 4NE,Sandbach,Cheshire,45320,True,False,truck_commercial
+SC644925,TRUCK TYRES UK LIMITED,active,ltd,2019-10-21,"Blue Square Offices Ltd, Bath Street, Glasgow, G2 4JR",G2 4JR,Glasgow,,45310,True,False,truck_commercial
+11032022,TRUCK TYRE SUPPLIES UK LIMITED,active,ltd,2017-10-25,"St Thomas House, 83 Wolverhampton Road, Cannock, Staffordshire, WS11 1AR",WS11 1AR,Cannock,Staffordshire,45320,True,False,truck_commercial; wholesale
+13417279,TRUCK TYRE WHOLESALERS LIMITED,active,ltd,2021-05-24,"12 Old Slade Lane, Iver, SL0 9DR",SL0 9DR,Iver,,22110,True,False,truck_commercial; wholesale
+16141864,ANGLIAN TRUCK TYRE MANAGEMENT CAMBS LIMITED,active,ltd,2024-12-18,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",IP3 0DL,Ipswich,Suffolk,45200,True,False,truck_commercial
+16141882,ANGLIAN TRUCK TYRE MANAGEMENT NORWICH LIMITED,active,ltd,2024-12-18,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",IP3 0DL,Ipswich,Suffolk,45200,True,False,truck_commercial
+13046940,ANGLIAN TRUCK TYRE MANAGEMENT SOUTH LIMITED,active,ltd,2020-11-27,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",IP3 0DL,Ipswich,Suffolk,45200,True,False,truck_commercial
+04183442,ANGLIA TRUCK TYRE MANAGEMENT LIMITED,active,ltd,2001-03-20,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",IP3 0DL,Ipswich,Suffolk,45200,True,False,truck_commercial
+11261015,A2 TRUCK TYRE LIMITED,active,ltd,2018-03-19,"Thames House, Roman Square, Sittingbourne, Kent, ME10 4BJ",ME10 4BJ,Sittingbourne,Kent,45320,True,False,truck_commercial
+06833810,BARON TRUCK TYRES LIMITED,active,ltd,2009-03-02,"Unit 14, Kettlestring Park Kettlestring Lane, Clifton Moor, York, YO30 4XF",YO30 4XF,York,,99999,True,False,truck_commercial
+08481309,BIRMINGHAM TRUCK TYRE LTD,active,ltd,2013-04-09,"Kent Space, Suite 2026 6-8 Revenge Road, Chatham, ME5 8UD",ME5 8UD,Chatham,,45200,True,False,truck_commercial
+08035616,CAR VAN TRUCK TYRES LIMITED,active,ltd,2012-04-18,"29 Whitegate Drive Whitegate Drive, Blackpool, FY3 9AA",FY3 9AA,Blackpool,,45320,True,False,truck_commercial
+16139729,DRS MOBILE TRUCK TYRES SERVICE LTD,active,ltd,2024-12-17,"62 Walbrook Road, Derby, DE23 8RY",DE23 8RY,Derby,,52290,True,True,truck_commercial; mobile; fitting_service
+16009864,HARRY'S TRUCK TYRES LTD,active,ltd,2024-10-10,"200 Knolton Way, Slough, Berkshire, SL2 5RS",SL2 5RS,Slough,Berkshire,45320,True,False,truck_commercial
+13847848,SYLLA TRUCK TYRES LTD,active,ltd,2022-01-13,"Flat 69 Kelvedon House, Guildford Road, London, SW8 2DW",SW8 2DW,London,,46770,True,False,truck_commercial
+16043526,TA9 TRUCK TYRES LIMITED,active,ltd,2024-10-28,"Goodwood House, Blackbrook Park Avenue, Taunton, Somerset, TA1 2PX",TA1 2PX,Taunton,Somerset,45200,True,False,truck_commercial
+01379569,T.T.S. TRUCK TYRE SPECIALISTS LIMITED,active,ltd,1978-07-20,"Truck Tyre Specialists Warne Road, Winterstoke Commercial Centre, Weston-Super-Mare, BS23 3UU",BS23 3UU,Weston-Super-Mare,,22110,True,False,truck_commercial
+16948484,247 TRUCK TYRES LTD,active,ltd,2026-01-07,"599 London Road, Reading, RG6 1AT",RG6 1AT,Reading,,45200,True,False,truck_commercial
+12301085,UK TYRE WHOLESALERS LTD,active,ltd,2019-11-06,"50 George Street, Croydon, CR0 1PD",CR0 1PD,Croydon,,45320,False,False,wholesale
+15416705,AJJ INDUSTRIAL TYRES LIMITED,active,ltd,2024-01-16,"7 Stamford Square, Ashton-Under-Lyne, OL6 6QU",OL6 6QU,Ashton-Under-Lyne,,45320,False,False,general_tyre
+03811678,TYRETEAM LIMITED,active,ltd,1999-07-22,"280 Main Road, Walters Ash, High Wycombe, Buckinghamshire, HP14 4TJ",HP14 4TJ,High Wycombe,Buckinghamshire,45310,False,False,general_tyre
+10615294,COMMERCIAL TYRES LTD,active,ltd,2017-02-13,"Vantage Quay, 5, Brewer Street, Manchester, M1 2ER",M1 2ER,Manchester,,17120; 45320,True,False,truck_commercial
+11334504,COMMERCIAL TYRE SERVICES (BRISTOL) LIMITED,active,ltd,2018-04-28,"Unit 5 Willment Way, Bristol, BS11 8DJ",BS11 8DJ,Bristol,,45200,True,False,truck_commercial; fitting_service
+08555956,COMMERCIAL TYRES OFF HIGHWAY LIMITED,active,ltd,2013-06-04,"Tructyre House Princesway North, Team Valley, Gateshead, NE11 0NF",NE11 0NF,Gateshead,,99999,True,False,truck_commercial
+15143167,COMMERCIAL TYRE SOLUTIONS LTD,active,ltd,2023-09-17,"71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",WC2H 9JQ,London,,45200,True,False,truck_commercial
+07754686,COMMERCIAL TYRE SUPPLIES LTD,active,ltd,2011-08-26,"6a, Cissplatt Lane,, Keelby,, DN41 8HU",DN41 8HU,"Keelby,",,45320,True,False,truck_commercial; wholesale
+10512275,ACE TYRES COMMERCIAL LTD,active,ltd,2016-12-06,"304 High Street, Orpington, Kent, BR6 0NF",BR6 0NF,Orpington,Kent,45200,True,False,truck_commercial
+SC846604,AM COMMERCIAL TYRE’S LIMITED,active,ltd,2025-04-28,"5 Cables Wynd House, Edinburgh, EH6 6DF",EH6 6DF,Edinburgh,,45320,True,False,truck_commercial
+07322542,ASHFORD COMMERCIAL TYRES LIMITED,active,ltd,2010-07-22,"57 Kingsmead Avenue, Sunbury On Thames, Middlesex, TW16 5HL",TW16 5HL,Sunbury On Thames,Middlesex,45320,True,False,truck_commercial
+02039874,BARTON COMMERCIAL TYRES LIMITED,active,ltd,1986-07-23,"Barton Lorry Park, Barton, Richmond, North Yorishire, DL10 6NB",DL10 6NB,Richmond,North Yorishire,45320,True,False,truck_commercial
+15504034,BLACK COUNTRY COMMERCIAL & TYRES LTD,active,ltd,2024-02-19,"36 Lichfield Street, Walsall, WS1 1TJ",WS1 1TJ,Walsall,,45200; 45320,True,False,truck_commercial
+07760510,CENTRAL TYRE (COMMERCIAL) LIMITED,active,ltd,2011-09-02,"Etel House, Avenue One, Letchworth Garden City, Hertfordshire, SG6 2HU",SG6 2HU,Letchworth Garden City,Hertfordshire,45200,True,False,truck_commercial
+15485268,CLASSIC COMMERCIAL AND TYRE LIMITED,active,ltd,2024-02-12,"26 Harmer Street, Gravesend, DA12 2AX",DA12 2AX,Gravesend,,45320,True,False,truck_commercial
+04232039,COMMERCIAL CONTRACT TYRES LIMITED,active,ltd,2001-06-11,"38 Chelsworth Avenue, Ipswich, Suffolk, IP4 3AY",IP4 3AY,Ipswich,Suffolk,45310,True,False,truck_commercial
+13300388,EAST DENE COMMERCIAL TYRES LTD,active,ltd,2021-03-29,"7 East Crescent, Rotherham, S65 2RT",S65 2RT,Rotherham,,45200,True,False,truck_commercial
+15947304,FAST FIT COMMERCIAL TYRES LIMITED,active,ltd,2024-09-10,"6 St. Georges Square, Portsmouth, PO1 3EY",PO1 3EY,Portsmouth,,45200,True,False,truck_commercial
+16100479,J.S COMMERCIAL TYRES LIMITED,active,ltd,2024-11-25,"23 Turnberry Court Bentley, Doncaster, South Yorkshire, DN5 0UL",DN5 0UL,Doncaster,South Yorkshire,45200,True,False,truck_commercial
+12789756,JUST TYRES COMMERCIAL (NW) LTD,active,ltd,2020-08-04,"Suite 4 48 Westgate, Skelmersdale, WN8 8AZ",WN8 8AZ,Skelmersdale,,45310,True,False,truck_commercial
+04486928,P.A. RISK COMMERCIAL TYRE SERVICES LIMITED,active,ltd,2002-07-16,"12 Station Court, Station Approach, Wickford, Essex, SS11 7AT",SS11 7AT,Wickford,Essex,45200,True,False,truck_commercial; fitting_service
+15322563,P B TYRES COMMERCIAL LIMITED,active,ltd,2023-12-01,"P B Tyres Bank Street, Golborne, Warrington, Cheshire, WA3 3SN",WA3 3SN,Warrington,Cheshire,45200,True,False,truck_commercial
+16581991,ROADSTAR COMMERCIAL TYRES LTD,active,ltd,2025-07-15,"3 Ferndown, Crawley, RH10 3SB",RH10 3SB,Crawley,,45200,True,False,truck_commercial
+09414873,SOUTHERN TYRES (COMMERCIAL) LIMITED,active,ltd,2015-01-30,"Tructyre House Princesway North, Team Valley, Gateshead, NE11 0NF",NE11 0NF,Gateshead,,99999,True,False,truck_commercial
+16339735,SOUTH WEST COMMERCIAL TYRES LTD,active,ltd,2025-03-25,"South West Crane Hire Tan Lane, St Thomas, Exeter, Devon, EX2 8EG",EX2 8EG,Exeter,Devon,45310,True,False,truck_commercial
+16846304,TT COMMERCIAL TYRES LTD,active,ltd,2025-11-11,"72 Springfield Avenue, Shirehampton, Bristol, BS11 9TQ",BS11 9TQ,Bristol,,45200,True,False,truck_commercial
+SC774234,TYRE FIGHTER COMMERCIAL LTD,active,ltd,2023-06-29,"5 Mayfield Grove, Dundee, DD4 7GZ",DD4 7GZ,Dundee,,45320,True,False,truck_commercial
+OC305378,TYRES (NORTHAMPTON) COMMERCIAL LLP,active,llp,2003-08-28,"3 Warren Yard, Warren Park Stratford Road, Milton Keynes, Buckinghamshire, MK12 5NW",MK12 5NW,Milton Keynes,Buckinghamshire,,True,False,truck_commercial
+06686704,WESSEX COMMERCIAL TYRES LIMITED,active,ltd,2008-09-02,"139 Engineer Road, West Wilts Trading Estate, Westbury, Wiltshire, BA13 4JW",BA13 4JW,Westbury,Wiltshire,45320,True,False,truck_commercial
+05980097,WIRRAL TYRES & COMMERCIAL LIMITED,active,ltd,2006-10-27,"16 Bassendale Road, Croft Business Park Bromborough, Wirral, CH62 3QL",CH62 3QL,Wirral,,45200,True,False,truck_commercial
+15577174,AAA GRAVEL HILL TYRES LTD,active,ltd,2024-03-19,"Kenilworth Gravel Hill, Chalfont St. Peter, Gerrards Cross, SL9 9QP",SL9 9QP,Gerrards Cross,,45200,False,False,general_tyre
+15152050,AAA MOBILE TYRES LIMITED,active,ltd,2023-09-20,"Elite Hand Carwash, Molesworth Street, Rochdale, OL16 2AW",OL16 2AW,Rochdale,,45200; 45320,False,True,mobile
+12961531,AAA PARTWORN TYRES LIMITED,active,ltd,2020-10-20,"63 Kingsway, Manchester, M19 2LL",M19 2LL,Manchester,,45200,False,False,general_tyre
+SC708140,AAA TYRE GLASGOW LTD,active,ltd,2021-08-31,"7 Govanhill Street, Glasgow, G42 7PU",G42 7PU,Glasgow,,82990,False,False,general_tyre
+11847238,AAA TYRES LTD,active,ltd,2019-02-26,"11847238 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",CF14 8LH,Cardiff,,22110,False,False,general_tyre
+14527216,AAA TYRES (LANS) LIMITED,active,ltd,2022-12-07,"164 Greenside Lane, Manchester, M43 7UR",M43 7UR,Manchester,,45200,False,False,general_tyre
+16184093,AA CAPITAL TYRES LTD,active,ltd,2025-01-14,"3 Ivy Arch Road, Worthing, BN14 8BX",BN14 8BX,Worthing,,45200,False,False,general_tyre
+03961730,AAK TYRES LIMITED,active,ltd,2000-03-31,"175b Reculver Road, Herne Bay, Kent, CT6 6PY",CT6 6PY,Herne Bay,Kent,45200,False,False,general_tyre
+16639227,AAMAR TYRES & SERVICES LTD,active,ltd,2025-08-08,"14 Horn Lane, London, SE10 0RT",SE10 0RT,London,,45200; 45320; 82990,False,False,fitting_service
+16139326,AA MOBILE TYRES (BLACKBURN) LTD,active,ltd,2024-12-16,"Unit 3 67 Canterbury Street, Blackburn, Canterbury Street, Blackburn, BB2 2HT",BB2 2HT,Blackburn,,45320,False,True,mobile
+15746496,A &B DISCOUNT TYRES LTD,active,ltd,2024-05-28,"121 Elmers End Road, Beckenham, BR3 4SY",BR3 4SY,Beckenham,,45320,False,False,general_tyre
+02581872,A & B TYRES LIMITED,active,ltd,1991-02-12,"103 High Street, Waltham Cross, Hertfordshire, EN8 7AN",EN8 7AN,Hertfordshire,,68209,False,False,general_tyre
+07806261,A & B TYRES (EAST ANGLIA) LIMITED,active,ltd,2011-10-11,"4b Church Street, Diss, Norfolk, IP22 4DD",IP22 4DD,Diss,Norfolk,45320,False,False,general_tyre
+07202077,A AND D TYRES LTD.,active,ltd,2010-03-25,"Ty Gwyn Isaf, Llanbadarn Fawr, Aberystwyth, Dyfed, SY23 3HJ",SY23 3HJ,Aberystwyth,Dyfed,45200,False,False,general_tyre
+08495054,"A&E TYRE, EXHAUST & SERVICE CENTRE LIMITED",active,ltd,2013-04-18,"32 Jubilee Crescent, Rothbury, Morpeth, Northumberland, NE65 7QZ",NE65 7QZ,Morpeth,Northumberland,45112; 45200,False,False,fitting_service
+05389435,A & J TYRE SERVICES LIMITED,active,ltd,2005-03-11,"Field Street, Willenhall, West Midlands, WV13 2NX",WV13 2NX,West Midlands,,45310,False,False,fitting_service
+04442671,A & K TYRES & SPARES LIMITED,active,ltd,2002-05-20,"40 Cricket Green, Mitcham, Surrey, CR4 4LA",CR4 4LA,Surrey,,45320,False,False,general_tyre
+15420517,A&L MOBILE TYRES LIMITED,active,ltd,2024-01-17,"Crown House, 27 Old Gloucester Street, London, WC1N 3AX",WC1N 3AX,London,,45200,False,True,mobile
+07590477,A & L TYRES LIMITED,active,ltd,2011-04-04,"23 Bilston Street, Dudley, West Midlands, DY3 1JA",DY3 1JA,Dudley,West Midlands,45200,False,False,general_tyre
+NI683238,A&L TYRES (STRABANE) LTD,active,ltd,2021-10-20,"69 Hollyhill Road, Strabane, County Tyrone, BT82 0AB",BT82 0AB,Strabane,County Tyrone,45320,False,False,general_tyre
+08974365,A&M TYRES LIMITED,active,ltd,2014-04-02,"6 Roslyn Street, Birkenhead, CH41 9AH",CH41 9AH,Birkenhead,,45200,False,False,general_tyre
+15169917,A&O INTERNATIONAL TYRES LTD,active,ltd,2023-09-27,"39 Denbigh Road, London, E6 3LF",E6 3LF,London,,38110,False,False,general_tyre
+15869883,A & R TYRES CYF,active,ltd,2024-08-01,"Unit 9b Gaerwen Industrial Estate, Gaerwen, LL60 6HR",LL60 6HR,Gaerwen,,22110,False,False,general_tyre
+08467686,A & S TYRES LIMITED,active,ltd,2013-04-02,"A & S Tyres Station Road, Briton Ferry, Neath, SA11 2SU",SA11 2SU,Neath,,45310,False,False,general_tyre
+16885142,A&T TYRES & MOT LTD,active,ltd,2025-12-02,"Unit 7 T O N Business Park 2-8, Morley Road, Tonbridge, TN9 1RA",TN9 1RA,Tonbridge,,45200,False,False,general_tyre
+03767536,AARON TYRES LTD,active,ltd,1999-05-10,"174 Midland Road, London, E10 6JT",E10 6JT,London,,33190; 77110,False,False,general_tyre
+11408000,A.A SLICK TYRES LTD,active,ltd,2018-06-11,"Unit 6a Whitehouse Road, Kidderminster, DY10 1HT",DY10 1HT,Kidderminster,,45320,False,False,general_tyre
+09511692,AA TYRE CENTRE LTD,active,ltd,2015-03-26,"72 Cardigan Street, Luton, LU1 1RR",LU1 1RR,Luton,,45200,False,False,fitting_service
+04543111,AA TYRE RECYCLING UK LTD,active,ltd,2002-09-24,"3 Wentworth Croft, Heanor, DE75 7YX",DE75 7YX,,,38320,False,False,general_tyre
+14416821,A.A TYRES & AUTOCENTRE LTD,active,ltd,2022-10-13,"Whitley Arches Garage, Calderside, Hebden Bridge, HX7 6NG",HX7 6NG,Hebden Bridge,,45200,False,False,fitting_service
+15873837,AA TYRE SERVICES LTD,active,ltd,2024-08-03,"128 City Road, London, EC1V 2NX",EC1V 2NX,London,,45320,False,False,fitting_service
+SC851980,AA TYRES GLASGOW LTD,active,ltd,2025-06-12,"19 Lovat Place, Rutherglen, Glasgow, Lanarkshire, G73 5HS",G73 5HS,Glasgow,Lanarkshire,45200,False,False,general_tyre
+16225251,AA TYRE SOLUTIONS (NW) LTD,active,ltd,2025-02-03,"1st Floor Portfolio Place, 498 Broadway Chadderton, Oldham, OL9 9PY",OL9 9PY,Oldham,,45200,False,False,general_tyre
+16745269,ABBAS TYRES LTD,active,ltd,2025-09-26,"18 William Street, Northampton, Northamptonshire, NN1 3EW",NN1 3EW,Northampton,Northamptonshire,45200,False,False,general_tyre
+00665344,ABBEY TYRE CO. (CAMBRIDGE) LTD,active,ltd,1960-07-18,"Ba Bush & Son, Station Yard, Horncastle, Lincolnshire, LN9 5AQ",LN9 5AQ,Horncastle,Lincolnshire,45320,False,False,general_tyre
+15349267,ABBEY TYRES LTD,active,ltd,2023-12-13,"25 Shaftesbury Center, Percy Street, Swindon, SN2 2AZ",SN2 2AZ,Swindon,,45200,False,False,general_tyre
+09275775,ABBEY TYRES AND MECHANIC LIMITED,active,ltd,2014-10-22,"2a New Barn Street, London, E13 8JA",E13 8JA,London,,33120,False,False,general_tyre
+06368601,ABBEY TYRES (BISHOPS WALTHAM) LIMITED,active,ltd,2007-09-12,"33 Oakland Road, Botley, Southampton, SO32 2SX",SO32 2SX,Southampton,,45200; 45320,False,False,general_tyre
+SC301150,ABBOTSINCH TYRES & EXHAUSTS LTD,active,ltd,2006-04-21,"1st Floor 1 Atlantic Quay, Robertson Street, Glasgow, G2 8JB",G2 8JB,Glasgow,,99999,False,False,general_tyre
+08849313,ABCO TYRES LTD,active,ltd,2014-01-16,"Unit 1 Platform Commercial Park, Bert Smith Way, Market Drayton, TF9 3GY",TF9 3GY,Market Drayton,,45320,False,False,general_tyre
+16963142,ABDUL TYRES LTD,active,ltd,2026-01-14,"Unit 2, 2 Ripon Street, Sheffield, S9 3LX",S9 3LX,Sheffield,,45200; 45320,False,False,general_tyre
+SC821051,ABERCORN TYRES LIMITED,active,ltd,2024-08-29,"71 Abercorn Street, Paisley, PA3 4AS",PA3 4AS,Paisley,,45200,False,False,general_tyre
+12366784,ABERTILLERY MOT AND TYRE CENTRE LTD,active,ltd,2019-12-17,"49 Somerset Street, Abertillery, Gwent, NP13 1DL",NP13 1DL,Abertillery,Gwent,45200,False,False,fitting_service
+07401809,ABLEFIT TYRES & EXHAUSTS LIMITED,active,ltd,2010-10-08,"9-13 High Street High Street, Wells, Somerset, BA5 2AA",BA5 2AA,Wells,Somerset,45200,False,False,general_tyre
+15440553,ABM TYRES LIMITED,active,ltd,2024-01-24,"113 Avenell Road, London, N5 1BH",N5 1BH,London,,45200,False,False,general_tyre
+10156797,ABS AUTO & TYRES LIMITED,active,ltd,2016-04-29,"Jack Bygraves, London Road, Biggleswade, SG18 8ET",SG18 8ET,Biggleswade,,45200,False,False,general_tyre
+15419060,ABSOLUTE AUTO SERVICE & TYRES LTD,active,ltd,2024-01-17,"Absolute Auto Service & Tyres Ltd, Lonsdale Street, Newton Heath, Greater Manchester, M40 2FT",M40 2FT,Newton Heath,Greater Manchester,45200; 45320,False,False,fitting_service
+09777884,ABSOLUTE TYRES LTD.,active,ltd,2015-09-15,"7 Wellington Road, Crowthorne, RG45 7LJ",RG45 7LJ,Crowthorne,,45112; 45200,False,False,general_tyre
+07657722,A B TYRES LTD,active,ltd,2011-06-03,"Viola Street Viola Street, Astley Bridge, Bolton, BL1 8NG",BL1 8NG,Bolton,,82990,False,False,general_tyre
+09026745,AB TYRE SALES LTD,active,ltd,2014-05-07,"Hud Hey Industrial Estate Hud Hey Road, Haslingden, Rossendale, BB4 5JH",BB4 5JH,Rossendale,,45320,False,False,general_tyre
+09772907,AB TYRES WHITEHALL ROAD LIMITED,active,ltd,2015-09-11,"232 Whitehall Road, Tipton, DY4 7EX",DY4 7EX,Tipton,,45320,False,False,general_tyre
+12716510,A CAPITAL TYRES LIMITED,active,ltd,2020-07-03,"251 Long Elmes, Harrow, HA3 6LE",HA3 6LE,Harrow,,45200,False,False,general_tyre
+12527392,ACCESS INDUSTRIAL TYRES LTD,active,ltd,2020-03-20,"Unit E Smarden Business Estate, Smarden, Ashford, Kent, TN27 8QL",TN27 8QL,Ashford,Kent,33120,False,False,general_tyre
+08052422,ACC TYRES LIMITED,active,ltd,2012-05-01,"Unit 15 Temple Bar Business Park, Strettington, Chichester, West Sussex, PO18 0TU",PO18 0TU,Chichester,West Sussex,33190,False,False,general_tyre
+08762390,ACE BRANDED TYRES LTD,active,ltd,2013-11-05,"Unit 6 Second Drove, Fengate, Peterborough, PE1 5XA",PE1 5XA,Peterborough,,45200,False,False,general_tyre
+13827143,ACE MOBILE TYRES LTD,active,ltd,2022-01-04,"21 Mill Parade, Newport, NP20 2JQ",NP20 2JQ,Newport,,45320,False,True,mobile
+12411469,ACE TYRES LTD,active,ltd,2020-01-20,"21 Mill Parade, Newport, NP20 2JQ",NP20 2JQ,Newport,,45320,False,False,general_tyre
+15965964,ACE TYRES BARLANE LTD,active,ltd,2024-09-19,"Unit F11 Bar Lane Industrial Park, Bar Lane, Nottingham, NG6 0JA",NG6 0JA,Nottingham,,45200,False,False,general_tyre
+14805260,ACE TYRES HEREFORD LIMITED,active,ltd,2023-04-15,"Unit 15 Rockfield Road Industrial Estate, Rockfield Road, Hereford, HR1 2UA",HR1 2UA,Hereford,,45112; 45200; 45320,False,False,general_tyre
+13995414,ACE TYRES WAKEFIELD LTD,active,ltd,2022-03-22,"314 Leeds Road, Wakefield, WF1 2HY",WF1 2HY,Wakefield,,45320,False,False,general_tyre
+SC809326,ACE TYRES WHOLESALE UK LIMITED,active,ltd,2024-05-02,"18 Taylor Street, Ayr, KA8 8AU",KA8 8AU,Ayr,,45310,False,False,wholesale
+03632944,ACHILL TYRES LTD.,active,ltd,1998-09-17,"Achill Tyres Brandon Road, Mildenhall, Bury St. Edmunds, Suffolk, IP28 7JQ",IP28 7JQ,Bury St. Edmunds,Suffolk,45320,False,False,general_tyre
+10171594,ACKLAND TYRES LTD,active,ltd,2016-05-10,"Huntworth House, Huntworth, Bridgwater, Somerset, TA7 0AH",TA7 0AH,Bridgwater,Somerset,45200,False,False,general_tyre
+09191090,"ACME TYRE CO., LTD",active,ltd,2014-08-28,"Flat 107 25 Indescon Square, London, E14 9DG",E14 9DG,London,,99999,False,False,general_tyre
+14408491,ACORN PARK TYRES LTD,active,ltd,2022-10-10,"282 Harehills Lane, Leeds, LS9 7BD",LS9 7BD,Leeds,,45320,False,False,general_tyre
+11804162,ACORN TYRES AND EXHAUSTS LTD,active,ltd,2019-02-04,"Unit 20 Dinan Way Trading Estate, Exmouth, Devon, EX8 4RS",EX8 4RS,Exmouth,Devon,45200,False,False,general_tyre
+08696468,ACORN TYRES (AYLESBURY) LTD,active,ltd,2013-09-19,"Unit 7 Weston Way Industrial Estate, Lower Road, Stoke Mandeville, Aylesbury, Buckinghamshire, HP22 5GT",HP22 5GT,Aylesbury,Buckinghamshire,45200,False,False,general_tyre
+13499342,ACTIVE MOBILE TYRE LTD,active,ltd,2021-07-07,"54 Park Chase, Wembley, Middlesex, HA9 8EH",HA9 8EH,Wembley,Middlesex,96090,False,True,mobile
+14334975,ACTIVE TYRES LTD,active,ltd,2022-09-05,"216 Bellingdon Road, Chesham, HP5 2NN",HP5 2NN,Chesham,,82990,False,False,general_tyre
+06856489,A-C TYRES (UK) LTD,active,ltd,2009-03-24,"C/O Monetta, 232 Stamford Street Central, Ashton-Under-Lyne, OL6 7NQ",OL6 7NQ,Ashton-Under-Lyne,,45310,False,False,general_tyre
+16819858,ADAMS 1010 TYRE'S LTD,active,ltd,2025-10-30,"82 Hood Street, Northampton, NN1 3QU",NN1 3QU,Northampton,,45310,False,False,general_tyre
+11065104,ADAM'S TYRE & MOT CENTRE LIMITED,active,ltd,2017-11-15,"Fenland House, 15b Hostmoor Avenue, March, Cambridgeshire, PE15 0AX",PE15 0AX,March,Cambridgeshire,45200,False,False,fitting_service
+12507014,ADAMS TYRES LIMITED,active,ltd,2020-03-10,"Unit D, 41-45 Stanningley Road, Leeds, LS12 3LW",LS12 3LW,Leeds,,45200,False,False,general_tyre
+13182985,ADAMS TYRES BRADFORD LIMITED,active,ltd,2021-02-05,"Unit D & D1, Whitehead Mill, Young Street, Bradford, BD8 9RE",BD8 9RE,Bradford,,47990,False,False,general_tyre
+10647026,ADAMS TYRE SPECIALISTS LIMITED,active,ltd,2017-03-02,"Albion Court, Grovehill Road, Beverley, East Yorkshire, HU17 0HL",HU17 0HL,Beverley,East Yorkshire,45320,False,False,general_tyre
+12949614,ADAM TYRES LTD,active,ltd,2020-10-14,"Unit 5d Wattville Road, Smethwick, B66 2NU",B66 2NU,Smethwick,,45200,False,False,general_tyre
+16683199,ADAM'Z TYRE'Z LTD,active,ltd,2025-08-31,"2 Essex Street, Bradford, BD4 7PG",BD4 7PG,Bradford,,71129,False,False,general_tyre
+14676814,ADAZ TYRES LTD,active,ltd,2023-02-20,"First Floor, 2 Hampton Court Road, Birmingham, B17 9AE",B17 9AE,Birmingham,,45200,False,False,general_tyre
+08544151,ADDINGTON  TYRES LTD,active,ltd,2013-05-24,"513 London Road, North Cheam, Sutton, Surrey, SM3 8JR",SM3 8JR,Sutton,Surrey,45200,False,False,general_tyre
+05213285,ADDISON TYRES LIMITED,active,ltd,2004-08-24,"52a High Street, Princes End, Tipton, West Midlands, DY4 9HP",DY4 9HP,Tipton,West Midlands,45310,False,False,general_tyre
+SC819110,ADDISON TYRES & GARAGE SERVICES LTD,active,ltd,2024-08-12,"16 March Road East, Buckie, AB56 4BY",AB56 4BY,Buckie,,45200,False,False,fitting_service
+16248370,ADDLESTONE TYRE CENTRE LTD,active,ltd,2025-02-12,"1-3 New Haw Road, Addlestone, KT15 2BZ",KT15 2BZ,Addlestone,,22110,False,False,fitting_service
+15055195,ADDLESTONE TYRES LTD,active,ltd,2023-08-07,"1-3 New Haw Road, Addlestone, KT15 2BZ",KT15 2BZ,Addlestone,,22110,False,False,general_tyre
+16664371,ADDLESTONE TYRE SERVICES LTD,active,ltd,2025-08-21,"1-3 New Haw Road, Addlestone, KT15 2BZ",KT15 2BZ,Addlestone,,22110,False,False,fitting_service
+10950865,ADD TYRE AND EXHAUST LTD,active,ltd,2017-09-07,"Unit 11 Thornton Road Industrial Estate, Thornton Road, Pickering, YO18 7JB",YO18 7JB,Pickering,,45200,False,False,general_tyre
+16313171,ADE MOBILE TYRES LTD,active,ltd,2025-03-13,"24 Anson Green, Newport, Gwent, NP19 9GN",NP19 9GN,Newport,Gwent,45310,False,True,mobile
+01405709,ADR UK TYREMART LIMITED,active,ltd,1978-12-18,"Main Road, Long Bennington, Newark, Nottinghamshire, NG23 5DJ",NG23 5DJ,Newark,Nottinghamshire,46900,False,False,general_tyre
+11398996,A.D.S. MOBILE TYRES LIMITED,active,ltd,2018-06-05,"Homedale House The Street, Homedale House, Kings Lynn, PE33 9JN",PE33 9JN,Kings Lynn,,45320,False,True,mobile
+04659490,A D TYRES LIMITED,active,ltd,2003-02-07,"19-24 Garratts Lane, Cradley Heath, West Midlands, B64 5RG",B64 5RG,Cradley Heath,West Midlands,45400,False,False,general_tyre
+04087390,A D TYRES (WHOLESALE) LIMITED,active,ltd,2000-10-10,"Alice Head Farm Alicehead Road, Ashover, Chesterfield, S45 0DQ",S45 0DQ,Chesterfield,,45310,False,False,wholesale
+04698588,ADVANCE MOBILE TYRES LIMITED,active,ltd,2003-03-14,"Acer House, 54a Hartford Road, Davenham Northwich, Cheshire, CW9 8JF",CW9 8JF,Davenham Northwich,Cheshire,45200,True,True,truck_commercial; mobile
+01853463,ADVANCE TYRES HOLDINGS LIMITED,active,ltd,1984-10-08,"975 Mollison Avenue, Enfield, Middlesex, EN3 7NN",EN3 7NN,Enfield,Middlesex,45310; 68209; 70100,True,False,truck_commercial
+07635581,ADVANCE TYRE SPECIALISTS LIMITED,active,ltd,2011-05-16,"Moonrakers Treskinnick Cross, Poundstock, Bude, Cornwall, EX23 0DT",EX23 0DT,Bude,Cornwall,45320,True,False,truck_commercial
+12875281,"AET INTERNATIONAL TYRE GROUP CO., LTD",active,ltd,2020-09-13,"53 Whateleys Drive, Kenilworth, Warwickshire, CV8 2GY",CV8 2GY,Kenilworth,Warwickshire,74990,False,False,general_tyre
+16750711,A EXPRESS TYRE LTD,active,ltd,2025-09-29,"47 Sancroft Road, Harrow, HA3 7NU",HA3 7NU,Harrow,,45200,False,False,general_tyre
+01393204,AFAN TYRE DISCOUNT CENTRE LIMITED,active,ltd,1978-10-10,"Unit 2 Gas Works Estate, Victoria Road, Port Talbot, SA12 6DB",SA12 6DB,Port Talbot,,45310,False,False,fitting_service
+16302488,AFFORDABLE MOBILE TYRES LTD,active,ltd,2025-03-09,"101 Prebendal Avenue, Aylesbury, HP21 8LB",HP21 8LB,Aylesbury,,45200,False,True,mobile
+15873699,AFFORDABLE TYRES LTD,active,ltd,2024-08-03,"Unit 1 Gwel Avon Business Park, Gilston Road, Saltash, Cornwall, PL12 6TW",PL12 6TW,Saltash,Cornwall,45320,False,False,general_tyre
+16427488,AFFORDABLE TYRES SWANSEA LTD,active,ltd,2025-05-02,"63 Courtney Street, Manselton, Swansea, SA5 9NR",SA5 9NR,Swansea,,45200,False,False,general_tyre
+15243936,AFFORDABLE TYRES 2U LTD,active,ltd,2023-10-28,"The Workshops Waun Bant Road, Kenfig Hill, Bridgend, CF33 6DE",CF33 6DE,Bridgend,,99999,False,False,general_tyre
+15754977,AFG MOTORS & TYRES LTD,active,ltd,2024-06-01,"1 Potterton Road, Leicester, LE4 2EU",LE4 2EU,Leicester,,45200,False,False,general_tyre
+14808629,A580 TYRES LIMITED,active,ltd,2023-04-17,"11 Valentines Road, Atherton, Manchester, M46 0LD",M46 0LD,Manchester,,45200,False,False,general_tyre
+08206811,A52 TYRE BARN LIMITED,active,ltd,2012-09-07,"Tyre Barn Grantham Road, Whatton, Nottingham, NG13 9EW",NG13 9EW,Nottingham,,45112; 45200; 45320,False,False,general_tyre
+09331827,A44 TYRE SHOP LIMITED,active,ltd,2014-11-28,"Micheldever Tyre Services Limited, Micheldever Station, Winchester, Hampshire, SO21 3AP",SO21 3AP,Winchester,Hampshire,99999,False,False,general_tyre
+10969974,A4 MOTOR TYRES LTD,active,ltd,2017-09-19,"357-363 Bath Road, Slough, SL1 6JA",SL1 6JA,Slough,,45200,False,False,general_tyre
+12165299,A406 QUALITY TYRES LTD,active,ltd,2019-08-20,"451 North Circular Road, London, NW2 7QD",NW2 7QD,London,,45320,False,False,general_tyre
+13814795,A40 TYRES LTD,active,ltd,2021-12-22,"412-416 London Road, High Wycombe, HP11 1LP",HP11 1LP,High Wycombe,,33170; 45310; 45320,False,False,general_tyre
+07184524,A G H TYRES LIMITED,active,ltd,2010-03-10,"Unit 3 Moulton Park Business Centre, Redhouse Road, Moulton Park Industrial Estate, Northampton, NN3 6AQ",NN3 6AQ,Northampton,,45320,False,False,general_tyre
+12818507,AGILITY TYRES AND AUTOS LTD,active,ltd,2020-08-17,"19 Roman Way, Bourne End, SL8 5LR",SL8 5LR,Bourne End,,45200,False,False,general_tyre
+12922082,AGL TYRES LTD,active,ltd,2020-10-02,"114 Waye Avenue, Hounslow, Middlesex, TW5 9SF",TW5 9SF,Hounslow,Middlesex,45320,False,False,general_tyre
+06893864,AGRICULTURAL TYRES & WHEELS LIMITED,active,ltd,2009-05-01,"Hallbridge House Blackjack Road, Swineshead, Boston, Lincolnshire, PE20 3HH",PE20 3HH,Boston,Lincolnshire,46610,False,False,general_tyre
+16916920,AGRICULTURAL TYRES & WHEELS (UK) LTD,active,ltd,2025-12-17,"Hallbridge House Blackjack Road, Swineshead, Boston, Lincolnshire, PE20 3HH",PE20 3HH,Boston,Lincolnshire,46610,False,False,general_tyre
+13171918,AGS TYRES LTD,active,ltd,2021-02-01,"Unit 4a, 232 Selsdon Road, South Croydon, CR2 6PL",CR2 6PL,South Croydon,,45320,False,False,general_tyre
+14191665,A G TYRES LTD,active,ltd,2022-06-23,"14 Miller Court Millbay Road, Plymouth, PL1 3LQ",PL1 3LQ,Plymouth,,45200,False,False,general_tyre
+13838842,A H TYRE DISTRIBUTION LTD,active,ltd,2022-01-10,"228 Middlewood Road, Sheffield, S6 1TE",S6 1TE,Sheffield,,45320,False,False,wholesale
+10019937,AIFA TYRES LTD,active,ltd,2016-02-23,"C/O Taxassist Accountants, 93 Uxbridge Road, Hanwell, Middlesex, W7 3ST",W7 3ST,Hanwell,Middlesex,45310,False,False,general_tyre
+16762161,AI MOBILE TYRES LTD,active,ltd,2025-10-03,"111a Burnt Oak Broadway, Edgware, HA8 5EN",HA8 5EN,Edgware,,45200; 45320,False,True,mobile
+SC537051,AIRDRIE TYRES LIMITED,active,ltd,2016-06-03,"2 Heritage Way, Coatbridge, ML5 1QD",ML5 1QD,Coatbridge,,45200,False,False,general_tyre
+07282247,AIRPORT TYRE SERVICE STANSTED LIMITED,active,ltd,2010-06-14,"29 Turner Road, Colchester, Essex, CO4 5LA",CO4 5LA,Colchester,Essex,45200,False,False,fitting_service
+SC848612,AIRPRO TYRES LTD,active,ltd,2025-05-14,"1 Simonsburn Road, Kilmarnock, Ayrshire, KA1 5LA",KA1 5LA,Kilmarnock,Ayrshire,45200,False,False,general_tyre
+01923049,AIRSPEED TYRE AND EXHAUST LIMITED,active,ltd,1985-06-17,"Unit 2-4 Foxtail Road, Ransomes Park, Ipswich, IP3 9RT",IP3 9RT,Ipswich,,45200; 45320,False,False,general_tyre
+16329733,AIRVAN MOBILE 24/7 TYRES LTD,active,ltd,2025-03-20,"7 Preston Road, Slough, SL2 5LP",SL2 5LP,Slough,,22110,True,True,truck_commercial; mobile
+16513209,AI TYRES LTD,active,ltd,2025-06-12,"Unit 3 Hubert Street, Nottingham, NG7 5AJ",NG7 5AJ,Nottingham,,45200; 45320,False,False,general_tyre
+09126541,AJAELO TYRES SHOP LTD,active,ltd,2014-07-11,"348-350 Rear Of Queens Bridge Road, Hackney, London, E8 3AR",E8 3AR,Hackney,London,47799,False,False,general_tyre
+15939308,AJC TYRES LTD,active,ltd,2024-09-05,"86 Ferris Way, Hilperton, Trowbridge, BA14 7GX",BA14 7GX,Trowbridge,,45310,False,False,general_tyre
+15633206,AJM MOBILE TYRES & VEHICLE REPAIRS LTD,active,ltd,2024-04-10,"28 Witch Elm, Harwich, CO12 4UB",CO12 4UB,Harwich,,45200,True,True,truck_commercial; mobile
+15463546,A J MOBILE TYRES 24/7 LIMITED,active,ltd,2024-02-03,"124a Eversley Avenue, Bexleyheath, DA7 6RG",DA7 6RG,Bexleyheath,,22110,False,True,mobile
+16363637,AJM TYRE & EXHAUST LTD,active,ltd,2025-04-03,"49 College Street, Camborne, Cornwall, TR14 7JX",TR14 7JX,Camborne,Cornwall,45200,False,False,general_tyre
+15127899,A.J.M TYRES LTD,active,ltd,2023-09-10,"6-7 Castle Gate, Castle Street, Hertford, Hertfordshire, SG14 1HD",SG14 1HD,Hertford,Hertfordshire,39000,False,False,general_tyre
+15789554,AJP TYRES LTD,active,ltd,2024-06-19,"Unit P Rose-An-Grouse, Canonstown, Hayle, TR27 6LP",TR27 6LP,Hayle,,45320,False,False,general_tyre
+16283429,AJR MOBILE TYRES LTD,active,ltd,2025-02-28,"22 Tillycombe Road, Portland, Dorset, DT5 1LG",DT5 1LG,Portland,Dorset,45200,False,True,mobile
+16368250,AJ SIAN TYRES LTD,active,ltd,2025-04-07,"Unit 17 Premier Partnership Estate, Leys Road, Brockmoor, Brierley Hill, DY5 3UP",DY5 3UP,Brierley Hill,,45200; 45320,False,False,general_tyre
+05021631,A.J.S. (TYRES) LTD,active,ltd,2004-01-21,"5 Yeomans Court, Ware Road, Hertford, Hertfordshire, SG13 7HJ",SG13 7HJ,Hertford,Hertfordshire,99999,False,False,general_tyre
+08817595,A J TYRES LTD,active,ltd,2013-12-17,"48 Victoria Road, Bentley, Doncaster, South Yorkshire, DN5 0HA",DN5 0HA,Doncaster,South Yorkshire,33170,False,False,general_tyre
+10404724,AJ TYRES BIRMINGHAM LTD,active,ltd,2016-09-30,"23 Larches Street, Birmingham, West Midlands, B11 1XH",B11 1XH,Birmingham,West Midlands,45320,False,False,general_tyre
+10341135,AK AUTOS AND TYRES LTD,active,ltd,2016-08-22,"3 Kingsley Terrace, Newcastle Upon Tyne, Tyne And Wear, NE4 6PJ",NE4 6PJ,Newcastle Upon Tyne,Tyne And Wear,45200,False,False,general_tyre
+16904472,AKB TYRES LTD,active,ltd,2025-12-11,"153 Cheetham Hill Road, Manchester, M8 8LY",M8 8LY,Manchester,,45200,False,False,general_tyre
+09833394,AK CAR & VAN SALES TRADING AS RAWRETH TYRES LTD,active,ltd,2015-10-20,"Tyndol A1245, Chelmsford Road, Rawreth, Essex, SS11 8SY",SS11 8SY,Rawreth,Essex,45112; 45200,True,False,truck_commercial
+15300458,AKOY TYRES LTD,active,ltd,2023-11-21,"145-151 London Road, Croydon, CR0 2RG",CR0 2RG,Croydon,,45200; 45310; 45320; 96090,False,False,general_tyre
+14306145,AK TYRES LTD,active,ltd,2022-08-19,"128 City Road, London, EC1V 2NX",EC1V 2NX,London,,38210,False,False,general_tyre
+16802549,AK TYRES AND REPAIR CENTRE LTD,active,ltd,2025-10-22,"Unit 663 Green Lane, Letchworth Garden City, SG6 1PF",SG6 1PF,Letchworth Garden City,,45320,False,False,fitting_service
+15589739,A K TYRES COVENTRY LTD,active,ltd,2024-03-24,"5 Albany Road, Coventry, CV5 6JQ",CV5 6JQ,Coventry,,45320,False,False,general_tyre
+16576399,AK TYRES URMSTON LTD,active,ltd,2025-07-11,"140 Higher Road, Urmston, Manchester, M41 9AZ",M41 9AZ,Manchester,,45200,False,False,general_tyre
+08062832,A K W TYRE SERVICES LTD,active,ltd,2012-05-09,"Albert Goodman, Lupin Way, Yeovil, Somerset, BA22 8WW",BA22 8WW,Yeovil,Somerset,45200,False,False,fitting_service
+15798179,AKYS TYRES MOBILE TYRE FITTING LTD,active,ltd,2024-06-23,"Quadrant House, Broad Street Mall, Reading, RG1 7QE",RG1 7QE,Reading,,45200,False,True,mobile; fitting_service
+12089747,ALABHAI TYRES LONDON LTD,active,ltd,2019-07-06,"1-7 Blount Street, London, E14 7RL",E14 7RL,London,,45200,False,False,general_tyre
+15222127,ALANYA TYRES LTD,active,ltd,2023-10-19,"291 Montagu Road, London, N9 0EU",N9 0EU,London,,33170,False,False,general_tyre
+SC272387,ALBA TYRE MANAGEMENT LIMITED,active,ltd,2004-08-24,"Abercorn House, 79 Renfrew Road, Paisley, PA3 4DA",PA3 4DA,Paisley,,22110,False,False,general_tyre
+01885402,ALBA TYRES LIMITED,active,ltd,1985-02-12,"C/O Micheldever Tyre Services Limited, Micheldever Station, Winchester, Hampshire, SO21 3AP",SO21 3AP,Winchester,Hampshire,99999,False,False,general_tyre
+16533154,ALBERT TYRES BB UK LIMITED,active,ltd,2025-06-20,"Unit 1a 2-16 Canterbury Street, Blackburn, BB2 2HP",BB2 2HP,Blackburn,,45200,False,False,general_tyre
+13615317,ALBERT TYRES UK LIMITED,active,ltd,2021-09-10,"Unit 6 Phoenix Works 58 Blackburn Road Blackburn Road, Church, Accrington, BB5 4PF",BB5 4PF,Accrington,,45320,False,False,general_tyre
+10480680,ALCESTER TYRES LTD,active,ltd,2016-11-16,"The Bristol Office, 2nd Floor 5 High Street, Westbury On Trym, Bristol, BS9 3BY",BS9 3BY,Bristol,,96090,False,False,general_tyre
+13188425,ALDERSHOT TYRES LIMITED,active,ltd,2021-02-09,"51 Potters Crescent, Ash, Aldershot, GU12 6AY",GU12 6AY,Aldershot,,45200,False,False,general_tyre
+08635979,ALDRIDGE TYRE SAVE LTD,active,ltd,2013-08-02,"Unit 11 Merchants Way, Aldridge, Walsall, WS9 8SW",WS9 8SW,Aldridge,Walsall,45320,False,False,general_tyre
+15984414,ALE TYRES LTD,active,ltd,2024-09-27,"Unit 112 Harvey Drive, Chestfield, Whitstable, CT5 3QY",CT5 3QY,Whitstable,,45320,False,False,general_tyre
+01288945,ALEXANDER GIBSON (TYRE DISTRIBUTORS) LIMITED,active,ltd,1976-12-02,"2 Old Court Mews, 311a Chase Road, Southgate, London, N14 6JS",N14 6JS,Southgate,London,68209,False,False,general_tyre
+15538393,ALEXANDRA MOTORS & TYRES LIMITED,active,ltd,2024-03-04,"6-7 Cecil Square, Margate, Kent, CT9 1BD",CT9 1BD,Margate,Kent,45112; 45310,False,False,general_tyre
+09496109,ALEX'S TYRES LIMITED,active,ltd,2015-03-18,"69 Whitelot Close, Southwick, Brighton, BN42 4YQ",BN42 4YQ,Brighton,,45200,False,False,general_tyre
+11990050,ALEX TYRES LIMITED,active,ltd,2019-05-10,"351 Bradford Road Batley, West Yorkshire, WF17 5PQ",WF17 5PQ,West Yorkshire,,96090,False,False,general_tyre
+15088385,ALFA GREEN TYRES UK LTD,active,ltd,2023-08-22,"3 Greenshield Industrial Estate, Bradfield Road, London, E16 2AU",E16 2AU,London,,45310,False,False,general_tyre
+15874232,ALI'S TYRES AND ALIGNMENT CENTRE LTD,active,ltd,2024-08-03,"24 Upton Lane, London, E7 9LN",E7 9LN,London,,45200,False,False,fitting_service
+12858752,ALI TYRES SERVICES LTD,active,ltd,2020-09-04,"Unit 2 5 River Road, Barking, London, IG11 0JS",IG11 0JS,Barking,London,45200,False,False,fitting_service
+15499011,ALI’S AUTO & TYRES LTD,active,ltd,2024-02-18,"22c Southwold Road, London, E5 9PT",E5 9PT,London,,45200,False,False,general_tyre
+16937528,ALL ABOUT TYRES LTD,active,ltd,2025-12-31,"38 Robinson Road, Gloucester, GL1 5BN",GL1 5BN,Gloucester,,45200,False,False,general_tyre
+01796047,ALL CAR EXHAUSTS AND TYRES LIMITED,active,ltd,1984-02-29,"52 Broad Street, Leek, Staffordshire, ST13 5NS",ST13 5NS,Staffordshire,,45310,False,False,general_tyre
+06011034,ALLERTON TYRES LTD,active,ltd,2006-11-27,"Seymour Chambers, 92 London Rd, Liverpool, L3 5NW",L3 5NW,Liverpool,,45320,False,False,general_tyre
+05718111,ALLNIGHT TYRES LTD,active,ltd,2006-02-22,"167 Turners Hill, Cheshunt, Waltham Cross, Hertfordshire, EN8 9BH",EN8 9BH,Waltham Cross,Hertfordshire,45320,False,False,general_tyre
+16712363,ALLRIGHT TYRES LIMITED,active,ltd,2025-09-11,"Units 1 & 2 Field View Baynards Business Park, Baynards Green, Bicester, Oxfordshire, OX27 7SG",OX27 7SG,Bicester,Oxfordshire,45320,False,False,general_tyre
+06719204,ALL ROADS TYRES LIMITED,active,ltd,2008-10-09,"18a Rother Court, Parkgate, Rotherham, South Yorkshire, S62 6DR",S62 6DR,Rotherham,South Yorkshire,45320,False,False,general_tyre
+05752097,ALLROUND TYRES LIMITED,active,ltd,2006-03-22,"Station Yard, Horncastle, Lincolnshire, LN9 5AQ",LN9 5AQ,Horncastle,Lincolnshire,45200; 45320,False,False,general_tyre
+16362435,ALLSORTS TYRES AND REPAIRS LIMITED,active,ltd,2025-04-02,"6 Hill Top, Ebbw Vale, NP23 6PJ",NP23 6PJ,Ebbw Vale,,45200,False,False,general_tyre
+08452739,ALL TERRAIN SPECIALIST TYRES LIMITED,active,ltd,2013-03-20,"Sea View, Pennington, Ulverston, Cumbria, LA12 0JP",LA12 0JP,Ulverston,Cumbria,99999,False,False,general_tyre
+05291738,ALL TERRAIN TYRES LIMITED,active,ltd,2004-11-19,"Suite 2d Building 1, Eastern Business Park, Wern Fawr Lane, St Mellons, Cardiff, CF3 5EA",CF3 5EA,Cardiff,,46630,False,False,general_tyre
+16714281,ALLTREAD TYRES AND POWDER COATING SERVICES LTD,active,ltd,2025-09-12,"2a Hallcar Street, Sheffield, S4 7JY",S4 7JY,Sheffield,,45200,False,False,fitting_service
+SC399729,ALL TYRED OUT LIMITED,active,ltd,2011-05-17,"2 Castle Road, Bankside Industrial Estate, Falkirk, Central, FK2 7UY",FK2 7UY,Falkirk,Central,45320,False,False,general_tyre
+SC515824,ALL TYRES LTD,active,ltd,2015-09-17,"34 Avenue Street, Glasgow, G40 3SA",G40 3SA,Glasgow,,96090,False,False,general_tyre
+14787836,ALL TYRES AND WHEELS (KENT) LTD,active,ltd,2023-04-10,"Unit 1c Joseph Wilson Industrial Estate, Whitstable, Kent, CT5 3PS",CT5 3PS,Whitstable,Kent,45200,False,False,general_tyre
+08218007,ALL TYRES (OXFORD) LIMITED,active,ltd,2012-09-18,"Finsbury House, New Street, Chipping Norton, OX7 5LL",OX7 5LL,Chipping Norton,,47789,False,False,general_tyre
+16411170,ALL TYREZ LTD,active,ltd,2025-04-27,"57 Shelson Avenue, Feltham, TW13 4QS",TW13 4QS,Feltham,,22110; 96090,False,False,general_tyre
+14810675,ALMAS TYRES LTD,active,ltd,2023-04-18,"Kevin Hart Car Sales Havelock Street, Oswaldtwistle, Accrington, Lancashire, BB5 3JY",BB5 3JY,Accrington,Lancashire,45310,False,False,general_tyre
+11390053,ALMO SPARE PARTS & TYRES LTD,active,ltd,2018-05-31,"Trafalgar House, 673 Leeds Road, Huddersfield, HD2 1YY",HD2 1YY,Huddersfield,,45310; 45320,False,False,general_tyre
+08861672,ALPHA AND STREET LEGAL (TYRES) LIMITED,active,ltd,2014-01-27,"C/O Knight Brown Accountants, 3 Crewe Road, Sandbach, Cheshire, CW11 4NE",CW11 4NE,Sandbach,Cheshire,45200,False,False,general_tyre
+14334981,ALPHA TYRES LTD,active,ltd,2022-09-05,"190 Billet Road, London, E17 5DX",E17 5DX,London,,45310; 96090,False,False,general_tyre
+14445114,ALPHA TYRES REDCAR LTD,active,ltd,2022-10-26,"4 Limerick Road, Redcar, TS10 5JU",TS10 5JU,Redcar,,45200,False,False,general_tyre
+16130136,ALPINE TYRES LIMITED,active,ltd,2024-12-11,"10-12 Commercial Street, Shipley, BD18 3SR",BD18 3SR,Shipley,,45200,False,False,general_tyre
+06988217,ALS TYRES LTD,active,ltd,2009-08-12,"122 Winchcombe Street, Cheltenham, GL52 2NW",GL52 2NW,Cheltenham,,45320,False,False,general_tyre
+10104325,AL'S TYRE SHOP LIMITED,active,ltd,2016-04-05,"89 Eversley Mount, Sherburn In Elmet, Leeds, LS25 6AR",LS25 6AR,Leeds,,45320,False,False,general_tyre
+16496639,ALT MOBILE TYRE COMPANY LIMITED,active,ltd,2025-06-04,"14 Great Park Close, Plymouth, PL7 2GP",PL7 2GP,Plymouth,,45200,False,True,mobile
+01328244,ALTRINCHAM TYRE & EXHAUSTS LIMITED,active,ltd,1977-09-02,"260 Manchester Road, Altrincham, Cheshire, WA14 5LZ",WA14 5LZ,Cheshire,,45200; 45320,False,False,general_tyre
+03980738,A. L. TYRES LIMITED,active,ltd,2000-04-26,"45-49 Greek Street, Stockport, Cheshire, SK3 8AX",SK3 8AX,Cheshire,,45310,False,False,general_tyre
+15515718,ALVIN TYRES LTD,active,ltd,2024-02-23,"145-147 145-147 Leabrook Road, Tipton, DY4 0DY",DY4 0DY,Tipton,,45200,False,False,general_tyre
+16679613,AMAN TYRES LIMITED,active,ltd,2025-08-28,"61a Bailey Street, Brynmawr, Ebbw Vale, NP23 4HB",NP23 4HB,Ebbw Vale,,45200,False,False,general_tyre
+04647629,AMBER TYRE & AUTO CENTRE LIMITED,active,ltd,2003-01-24,"251 Heage Road, Ripley, Derbyshire, DE5 3GH",DE5 3GH,Ripley,Derbyshire,45200,False,False,fitting_service
+11411529,AMBER TYRES LIMITED,active,ltd,2018-06-12,"C/O Tsl Vaunguard, Steel Street, Rotherham, S61 1DP",S61 1DP,Rotherham,,45310,False,False,general_tyre
+10673814,AMC TYRES LTD,active,ltd,2017-03-16,"45 Brigstock Road, Thornton Heath, CR7 7JH",CR7 7JH,Thornton Heath,,45200,False,False,general_tyre
+16299720,AMEEN TYRES CENTRE LTD,active,ltd,2025-03-07,"319 Harrogate Road, Bradford, West Yorkshire, BD2 3SU",BD2 3SU,Bradford,West Yorkshire,45200,False,False,fitting_service
+13831822,AMERSHAM MOBILE TYRE SERVICE LTD,active,ltd,2022-01-06,"28 Lowfield Way, Hazlemere, High Wycombe, HP15 7RR",HP15 7RR,High Wycombe,,45200,False,True,mobile; fitting_service
+09022527,AMMANFORD TYRE & AUTO LTD,active,ltd,2014-05-02,"Ammanford Tyre & Auto Ltd, Unit 1, 110, College Street, Ammanford, Carmarthenshire, SA18 2BR",SA18 2BR,Ammanford,Carmarthenshire,45200,False,False,general_tyre
+11940303,AMMAN TYRE SHOP LTD,active,ltd,2019-04-11,"Unit 3x Llewellyn Courtyard, Maesquarre Road, Ammanford, SA18 2HQ",SA18 2HQ,Ammanford,,45310; 45320,False,False,general_tyre
+16027887,AMMAR TYRES LTD,active,ltd,2024-10-18,"Kingsnorth Tyres, Ashford Road, Kingsnorth, Ashford, TN26 1NJ",TN26 1NJ,Ashford,,45400,False,False,general_tyre
+14280065,A.M MOBILE TYRES LTD,active,ltd,2022-08-05,"323 The Civic Building High Street, Epping, CM16 4BZ",CM16 4BZ,Epping,,22110; 45200,False,True,mobile
+15641070,AM PM TYRES LTD,active,ltd,2024-04-12,"1 Kingfisher Drive, Redhill, RH1 2AD",RH1 2AD,Redhill,,45200,False,False,general_tyre
+16226094,AM RECOVERY AND TYRES LTD,active,ltd,2025-02-03,"13 St. Pauls Street, Stoke-On-Trent, ST6 4BZ",ST6 4BZ,Stoke-On-Trent,,49410,False,False,general_tyre
+16933821,AM TECH AND TYRES LTD,active,ltd,2025-12-29,"3 Buzzard Close, Maldon, CM9 4EP",CM9 4EP,Maldon,,45200,False,False,general_tyre
+16010846,AM2PM TYRES LTD,active,ltd,2024-10-10,"16 Tavistock Road, Reading, Berkshire, RG2 7SR",RG2 7SR,Reading,Berkshire,45200,False,False,general_tyre
+15074339,A M TYRES & MOTOR REPAIRS LTD,active,ltd,2023-08-15,"2nd Floor Butler House, 177-178 Tottenham Court Road, London, W1T 7AF",W1T 7AF,London,,45200,False,False,general_tyre
+06493670,ANDERSON TYRES LIMITED,active,ltd,2008-02-05,"427 Margate Road, Ramsgate, Kent, CT12 6SN",CT12 6SN,Ramsgate,Kent,82990,False,False,general_tyre
+10917434,ANDREW PAGE TYRES LTD,active,ltd,2017-08-15,"2 Dawley Brook Road, Kingswinford, DY6 7BD",DY6 7BD,Kingswinford,,71129,False,False,general_tyre
+15070179,ANDY'S TYRES LTD,active,ltd,2023-08-14,"836-840 Hertford Road, Enfield, EN3 6UE",EN3 6UE,Enfield,,45320,False,False,general_tyre
+04742691,ANDY'S TYRES & BATTERIES LIMITED,active,ltd,2003-04-23,"140 Finedon Road, Irthlingborough, Wellingborough, NN9 5UB",NN9 5UB,Wellingborough,,45320,False,False,general_tyre
+06336084,ANDY'S TYRES (BRIDLINGTON) LTD,active,ltd,2007-08-07,"138 Quay Road, Bridlington, North Humberside, YO16 4JB",YO16 4JB,Bridlington,North Humberside,45320,False,False,general_tyre
+16393257,ANGELS TYRES LTD,active,ltd,2025-04-16,"75 Westgate, Cleckheaton, BD19 5HS",BD19 5HS,Cleckheaton,,45320,False,False,general_tyre
+11851274,ANGEL TYRES LTD,active,ltd,2019-02-27,"1-3 Tent Street, London, E1 5DQ",E1 5DQ,London,,45320,False,False,general_tyre
+SC364816,ANGUS TYRES LIMITED,active,ltd,2009-09-01,"6 Hill Place, Arbroath, Angus, DD11 1AF",DD11 1AF,Arbroath,Angus,45200,False,False,general_tyre
+01943149,ANNFIELD TYRES LIMITED,active,ltd,1985-08-30,"24 Dalkeith Place, Kettering, Northamptonshire, NN16 0BS",NN16 0BS,Kettering,Northamptonshire,45310,False,False,general_tyre
+NI728683,ANNSBOROUGH TYRES LIMITED,active,ltd,2025-04-17,"Unit 4 Annesborough Industrial Estate Annesborough Road, Lurgan, Craigavon, BT67 9JD",BT67 9JD,Craigavon,,45200,False,False,general_tyre
+07432490,ANR TYRES LIMITED,active,ltd,2010-11-08,"Holly Cottage, Argent Street, Grays, Essex, RM17 6PH",RM17 6PH,Grays,Essex,33170,False,False,general_tyre
+16757474,ANS TYRES LTD,active,ltd,2025-10-02,"86 Wharf Street, Dukinfield, Cheshire, SK16 4PG",SK16 4PG,Dukinfield,Cheshire,45200,False,False,general_tyre
+16243274,A.N.S TYRES EMERGENCY MOBILE SERVICES 24HR LTD,active,ltd,2025-02-11,"86 Wharf Street, Dukinfield, SK16 4RA",SK16 4RA,Dukinfield,,22110,False,True,mobile; fitting_service
+16278010,ANTON TYRES SPECIALIST 24/6 LTD,active,ltd,2025-02-26,"85 Great Portland Street, First Floor, London, W1W 7LT",W1W 7LT,London,,45200; 49410,False,False,general_tyre
+12547306,AN TYRES & COMPANY LTD,active,ltd,2020-04-06,"An Tyres, Square Hill Road, Maidstone, ME15 7TL",ME15 7TL,Maidstone,,45200; 96090,False,False,general_tyre
+13222174,ANWAR TYRES FITTING SERVICES LTD,active,ltd,2021-02-24,"81 Arundel Road, Luton, LU4 8DY",LU4 8DY,Luton,,45320,False,False,fitting_service
+14769071,ANYTIME TYRES 247 LTD,active,ltd,2023-03-30,"113 Romford Road, London, E15 4LY",E15 4LY,London,,45200,False,False,general_tyre
+08484868,ANZ KINGS TYRES & SERVICE CENTRE LTD,active,ltd,2013-04-11,"8 Holstock Road, Ilford, IG1 1LG",IG1 1LG,Ilford,,45200,False,False,fitting_service
+13250747,AOK TYRES LTD,active,ltd,2021-03-08,"36 Lichfield Street, Walsall, WS1 1TJ",WS1 1TJ,Walsall,,45320,False,False,general_tyre
+02747562,A1 DISCOUNT TYRES LIMITED,active,ltd,1992-09-15,"7-8 Portmill Lane, Hitchin, Hertfordshire, SG5 1DJ",SG5 1DJ,Hitchin,Hertfordshire,99999,False,False,general_tyre
+15402892,A1 EXPRESS TYRES LTD,active,ltd,2024-01-10,"30 Devonshire Road, Ilford, IG2 7EN",IG2 7EN,Ilford,,45200,False,False,general_tyre
+03768991,A14 TYRES LIMITED,active,ltd,1999-05-12,"Foxhunters Tyres, Burnside Road, North Shields, NE30 3LE",NE30 3LE,North Shields,,45320,False,False,general_tyre
+16982427,A1 PERFORMANCE TYRES LTD,active,ltd,2026-01-22,"Unit 2 Albert Street, Halifax, HX1 5NW",HX1 5NW,Halifax,,45320,False,False,general_tyre
+14479336,A1 QU33NS ROAD TYRES LTD,active,ltd,2022-11-11,"Elsie Whiteley Innovation Centre C/O Pinnacle, Hopwood Lane, Halifax, HX1 5ER",HX1 5ER,Halifax,,45200,False,False,general_tyre
+16187721,A13 TYRES LTD,active,ltd,2025-01-16,"Unit 1 Rippleside Commercial Estate, Ripple Road, Barking, Essex, IG11 0RJ",IG11 0RJ,Barking,Essex,45200,False,False,general_tyre
+15838823,A1 TOP TREAD TYRES LTD,active,ltd,2024-07-15,"321 Cleveland Street, Birkenhead, CH41 3QG",CH41 3QG,Birkenhead,,45200,False,False,general_tyre
+13951340,A1 TYRE CENTRE LIMITED,active,ltd,2022-03-03,"747 Romford Road, London, E12 5AW",E12 5AW,London,,45200,False,False,fitting_service
+LP010354,A ONE TYRES LP,active,limited-partnership,2005-04-07,"Unit 4, Clare Street, Swansea, SA5 9JU",SA5 9JU,Swansea,,,False,False,general_tyre
+15090313,A1 TYRES AND AUTO REPAIR LTD,active,ltd,2023-08-22,"111 Fengate, Unit Number 2, Peterborough, PE1 5BA",PE1 5BA,Peterborough,,45200; 45320,False,False,general_tyre
+07553260,A1 TYRES AND EXHAUSTS LTD.,active,ltd,2011-03-07,"Red Hill House, Coventry Road, Coventry, West Midlands, CV7 8DA",CV7 8DA,Coventry,West Midlands,45200,False,False,general_tyre
+16968932,A ONE TYRES & SERVICES LIMITED,active,ltd,2026-01-16,"1a Clipstone Road West, Forest Town, Mansfield, NG19 0EF",NG19 0EF,Mansfield,,45200,False,False,fitting_service
+NI054309,A ONE TYRES (DROMORE) LTD,active,ltd,2005-03-14,"139 Banbridge Road, Dromore, County Down, BT25 1NF",BT25 1NF,Dromore,County Down,22110,False,False,general_tyre
+16341205,A 1 TYRES EXPERT LIMITED,active,ltd,2025-03-25,"187 Parchmore Road, Unit 9, Thornton Heath, CR7 8HD",CR7 8HD,Thornton Heath,,45200,False,False,general_tyre
+16983143,A1 TYRES 4 U LIMITED,active,ltd,2026-01-23,"21 Nineveh Road, Handsworth, Birmingham, B21 0SU",B21 0SU,Birmingham,,45320,False,False,general_tyre
+14431483,A1 TYRES LONGSIGHT LIMITED,active,ltd,2022-10-20,"91a Slade Lane, Manchester, Greater Manchester, M13 0GW",M13 0GW,Manchester,Greater Manchester,45320,False,False,general_tyre
+11756562,A1 TYRES (MANCHESTER) LTD,active,ltd,2019-01-08,"125 Rochdale Road, Manchester, M4 4HZ",M4 4HZ,Manchester,,45200,False,False,general_tyre
+16664126,A1 TYRES NE LTD,active,ltd,2025-08-21,"60 Brougham Street, Darlington, County Durham, DL3 0NB",DL3 0NB,Darlington,County Durham,45200; 45320; 45400,False,False,general_tyre
+15773619,A1 TYRES PVT LTD,active,ltd,2024-06-12,"8 Pickford Street, Huddersfield, West Yorkshire, HD3 4LG",HD3 4LG,Huddersfield,West Yorkshire,45200,False,False,general_tyre
+SC323184,A1 TYRES (SCOTLAND) LTD.,active,ltd,2007-05-08,"26 St. Bryde Street, East Kilbride, Glasgow, G74 4HQ",G74 4HQ,Glasgow,,45200,False,False,general_tyre
+07795796,A1 TYRES (U.K.) LIMITED,active,ltd,2011-10-03,"Charlton House, Dour Street, Dover, Kent, CT16 1BL",CT16 1BL,Dover,Kent,47990,False,False,general_tyre
+16308687,AOT TYRES & SERVICING LTD,active,ltd,2025-03-11,"247 Rowland Way, Aylesbury, HP19 7SR",HP19 7SR,Aylesbury,,45200,False,False,general_tyre
+12395075,AO TYRES LTD,active,ltd,2020-01-09,"C/O Rus & Co, 1192 Stratford Road, Hall Green, Birmingham, B28 8AB",B28 8AB,Birmingham,,45200; 45320,False,False,general_tyre
+16627084,APACHE TYRES (SWANSEA) LTD,active,ltd,2025-08-04,"Unit 211 Second Floor 3-5 Ripple Road, Barking, Essex, IG11 7NF",IG11 7NF,Barking,Essex,45320,False,False,general_tyre
+11465185,AP CAR CARE & TYRES LIMITED,active,ltd,2018-07-16,"Windsor House, 9-15 Adelaide Street, Luton, LU1 5BJ",LU1 5BJ,Luton,,45200,False,False,general_tyre
+15671571,APEX TYRES LTD,active,ltd,2024-04-23,"15 Neville Street, Cardiff, CF11 6LP",CF11 6LP,Cardiff,,45111; 45112; 45310; 45320,False,False,general_tyre
+16976086,APEX TYRES HUB LIMITED,active,ltd,2026-01-20,"44 Balmoral Drive, Woking, GU22 8EY",GU22 8EY,Woking,,45320,False,False,general_tyre
+16703486,RMG HGV & TYRES LTD,active,ltd,2025-09-08,"23 Lowfield Drive, Askern, Doncaster, DN6 0FS",DN6 0FS,Doncaster,,45200,True,False,truck_commercial
+16750217,MOBILE TYRE & SERVICES LTD,active,ltd,2025-09-29,"Unit 480 Cantrell Road, London, E3 4BN",E3 4BN,London,,45200,False,True,mobile; fitting_service
+15996995,MOBILE TYRE ASSIST LTD,active,ltd,2024-10-03,"42 Culver Lane, Reading, RG6 1DY",RG6 1DY,Reading,,45200,False,True,mobile
+15037362,MOBILE TYRE BAY LTD,active,ltd,2023-07-30,"163 West Wycombe Road, Lower Ground Floor, High Wycombe, HP12 3AB",HP12 3AB,High Wycombe,,45320,False,True,mobile
+15179263,MOBILE TYRE BUDDY LTD,active,ltd,2023-10-01,"19 Radnor Street, Oldham, OL9 7RH",OL9 7RH,Oldham,,45320,False,True,mobile
+16592144,MOBILE TYRE CENTRE LTD,active,ltd,2025-07-18,"20 Wenlock Road, London, N1 7GU",N1 7GU,London,,45200,False,True,mobile; fitting_service
+13780015,MOBILE TYRE CLINIC LTD,active,ltd,2021-12-03,"Unit 3e, Autumn Yard, 39 Autumn Street, London, E3 2TT",E3 2TT,London,,45200; 45320,False,True,mobile
+13370188,MOBILE TYRE COMPANY (LAXFIELD) LIMITED,active,ltd,2021-04-30,"Potash Farm, Dennington Road, Laxfield, Nr Woodbridge, Suffolk, IP13 8HJ",IP13 8HJ,"Laxfield, Nr Woodbridge",Suffolk,45200; 45320,False,True,mobile
+15203000,MOBILE TYRE EXPERTS LTD,active,ltd,2023-10-11,"11 Maryland Road, Thornton Heath, Surrey, CR7 8DG",CR7 8DG,Thornton Heath,Surrey,45200,False,True,mobile
+15498767,MOBILE TYRE EXPERTS 24*7 LTD,active,ltd,2024-02-17,"25 Walnut Tree Road, Hounslow, TW5 0LP",TW5 0LP,Hounslow,,45200,False,True,mobile
+15243488,MOBILE TYRE FITTER LTD,active,ltd,2023-10-28,"34 Galeys Road, Chelysmore, CV3 5GN",CV3 5GN,Chelysmore,,45200,False,True,mobile
+16074427,MOBILE TYRE FITTING LTD,active,ltd,2024-11-12,"34 Galeys Road, Chelysmore, CV3 5GN",CV3 5GN,Chelysmore,,45200,False,True,mobile; fitting_service
+16880970,MOBILE TYRE FITTING BICESTER 24/7 MOBILE TYRE DOCTOR LTD,active,ltd,2025-11-28,"20 Jesse Terrace, Reading, RG1 7RT",RG1 7RT,Reading,,45310; 45320; 45400,False,True,mobile; fitting_service
+16742870,MOBILE TYRE FITTING CHELMSFORD LTD,active,ltd,2025-09-25,"Ashtree Farm Boyton Cross, Roxwell, Chelmsford, CM1 4LP",CM1 4LP,Chelmsford,,45200,False,True,mobile; fitting_service
+09352380,MOBILE TYRE FITTING LONDON LTD,active,ltd,2014-12-12,"84 Brunswick Park Road, London, N11 1JJ",N11 1JJ,London,,45200,False,True,mobile; fitting_service
+16584789,MOBILE TYRE FITTING NEAR ME LTD,active,ltd,2025-07-15,"128 Uxbridge Road, London, W12 8AA",W12 8AA,London,,47910,False,True,mobile; fitting_service
+16880836,MOBILE TYRE FITTING OXFORD 24/7 MOBILE TYRE DOCTOR LTD,active,ltd,2025-11-28,"20 Jesse Terrace, Reading, RG1 7RT",RG1 7RT,Reading,,45200; 45310; 45320,False,True,mobile; fitting_service
+16880750,MOBILE TYRE FITTING READING 24/7 MOBILE TYRE DOCTOR LTD,active,ltd,2025-11-28,"20 Jesse Terrace, Reading, RG1 7RT",RG1 7RT,Reading,,45310; 45320; 45400,False,True,mobile; fitting_service
+15521074,MOBILE TYRE FITTING STRATFORD LTD,active,ltd,2024-02-26,"49 Maryland Square, Stratford, London, E15 1HF",E15 1HF,Stratford,London,45200,False,True,mobile; fitting_service
+16389024,MOBILE TYRE FITTING TEES VALLEY LTD,active,ltd,2025-04-15,"6 Heslop Street, Thornaby, Stockton On Tees, TS17 7HA",TS17 7HA,Stockton On Tees,,45200,False,True,mobile; fitting_service
+15443132,MOBILE TYRE FIXER LTD,active,ltd,2024-01-25,"34 Galeys Road, Chelysmore, CV3 5GN",CV3 5GN,Chelysmore,,45200; 45320,False,True,mobile
+14728776,MOBILE TYRE FORCE LTD,active,ltd,2023-03-14,"Portland House, Belmont Business Park, Durham, DH1 1TW",DH1 1TW,Durham,,45200,False,True,mobile
+16907203,MOBILE TYRE FUSION LTD,active,ltd,2025-12-12,"142 Windsor Road, Ilford, IG1 1HE",IG1 1HE,Ilford,,45320,False,True,mobile
+10612276,MOBILE TYRE GIANT LTD,active,ltd,2017-02-10,"Gutteridge Works, Western Avenue, Uxbridge, UB10 9AP",UB10 9AP,Uxbridge,,82990,False,True,mobile
+16143084,MOBILE TYRE GROUP LTD,active,ltd,2024-12-18,"19 Jennings Place, Bradford, West Yorkshire, BD7 3EZ",BD7 3EZ,Bradford,West Yorkshire,45320,False,True,mobile
+13417642,MOBILE TYRE HUB LTD,active,ltd,2021-05-24,"03 Eastcourt Avenue, Earley, Reading, RG6 1HH",RG6 1HH,Reading,,45200,False,True,mobile
+16914529,MOBILE TYRE LAB LTD,active,ltd,2025-12-16,"35b Greenleaf Road, London, E17 6QN",E17 6QN,London,,45200,False,True,mobile
+15261798,MOBILE TYRE LEICESTER LIMITED,active,ltd,2023-11-06,"389 Abbey Lane, Leicester, LE4 5QJ",LE4 5QJ,Leicester,,45320,False,True,mobile
+15950257,MOBILE TYRE LONDON LTD,active,ltd,2024-09-11,"11 Florida Road, Thornton Heath, CR7 8EY",CR7 8EY,Thornton Heath,,45200,False,True,mobile
+13178058,MOBILE TYREMAN LIMITED,active,ltd,2021-02-03,"East London Business Centre, 93-101 Greenfield Road, London, E1 1EJ",E1 1EJ,London,,45320,False,True,mobile
+16667811,MOBILE TYRE MATES LTD,active,ltd,2025-08-22,"172 Newport Road, Aldershot, GU12 4PZ",GU12 4PZ,Aldershot,,45200,False,True,mobile
+15959771,MOBILE TYRE MEDICS LIMITED,active,ltd,2024-09-16,"6 Fallowfield Drive, Newport, NP19 4TD",NP19 4TD,Newport,,45320,False,True,mobile
+08335032,MOBILE TYRE PROFESSIONALS LIMITED,active,ltd,2012-12-18,"11 Lynx Crescent, Weston-Super-Mare, BS24 9DJ",BS24 9DJ,Weston-Super-Mare,,45200,False,True,mobile
+15949849,MOBILE TYRE REPAIR TEAM LTD,active,ltd,2024-09-11,"662 High Road, London, N12 0NL",N12 0NL,London,,45200,False,True,mobile
+16284277,MOBILE TYRE REPLACEMENT LIMITED,active,ltd,2025-02-28,"26 Lottie Road, Birmingham, B29 6JZ",B29 6JZ,Birmingham,,45200,False,True,mobile
+13600322,MOBILE TYRE RESCUE LTD,active,ltd,2021-09-02,"464 Wokingham Road, Earley, Reading, RG6 7HY",RG6 7HY,Reading,,45320,False,True,mobile
+16887384,MOBILE TYRE RESCUE SERVICE LTD,active,ltd,2025-12-02,"Flat 12 Banstead Court, 50 Westway, London, W12 0QH",W12 0QH,London,,52219,False,True,mobile; fitting_service
+16538155,MOBILE TYRE RESCUE24/7 LTD,active,ltd,2025-06-24,"61 Delamare Road, Hayes, UB4 0NN",UB4 0NN,Hayes,,45200,False,True,mobile
+16153839,MOBILE TYRE RUNNER LTD,active,ltd,2024-12-27,"93 Vale Crescent South, Nottingham, NG8 3PQ",NG8 3PQ,Nottingham,,45200,False,True,mobile
+07586783,MOBILE TYRES LIMITED,active,ltd,2011-03-31,"The Courtyard Shoreham Road, Upper Beeding, Steyning, West Sussex, BN44 3TN",BN44 3TN,Steyning,West Sussex,45200,False,True,mobile
+14055418,MOBILE TYRES & MECHANIC LTD,active,ltd,2022-04-20,"662 High Road, London, N12 0NL",N12 0NL,London,,45200,False,True,mobile
+16709742,MOBILE TYRES DOCTOR LTD,active,ltd,2025-09-10,"41 Hogarth Road, Ipswich, IP3 0HA",IP3 0HA,Ipswich,,45200; 45320; 82990,False,True,mobile
+13660241,MOBILE TYRE SERVICES LTD,active,ltd,2021-10-04,"15 Redman Road, High Wycombe, HP12 4PH",HP12 4PH,High Wycombe,,45320,False,True,mobile; fitting_service
+09212733,MOBILE TYRE SERVICES MANCHESTER LIMITED,active,ltd,2014-09-10,"Unit 1 Sandywood Depot Lumns Lane, Clifton, Swinton, Manchester, M27 8LH",M27 8LH,Manchester,,45200,False,True,mobile; fitting_service
+16427788,MOBILE TYRE SERVICES 247 LTD,active,ltd,2025-05-02,"599 London Road, Earley, Reading, Berkshire, RG6 1AT",RG6 1AT,Reading,Berkshire,45200,False,True,mobile; fitting_service
+12406929,MOBILE TYRES 4 YOU LTD,active,ltd,2020-01-16,"117 Dartford Rd, Dartford, Kent, DA1 3EN",DA1 3EN,Dartford,Kent,45320,False,True,mobile
+08450293,MOBILE TYRES (GOOLE) LIMITED,active,ltd,2013-03-19,"Mobile Tyres (Goole), Mariners Street, Goole, East Yorkshire, DN14 5BS",DN14 5BS,Goole,East Yorkshire,45200,False,True,mobile
+15349702,MOBILE TYRES LOCAL LTD,active,ltd,2023-12-13,"3rd Floor, 86-90 Paul Street, London, EC2A 4NE",EC2A 4NE,London,,45200,False,True,mobile
+16950508,MOBILE TYRES LONDON 247 LTD,active,ltd,2026-01-08,"310 High Road, Wood Green, London, N22 8JR",N22 8JR,London,,22110; 45200,False,True,mobile
+16163981,MOBILE TYRES NATIONWIDE LTD,active,ltd,2025-01-06,"129 St. Johns Road, Slough, SL2 5HA",SL2 5HA,Slough,,45200,False,True,mobile
+12720945,MOBILE TYRES NEAR ME LIMITED,active,ltd,2020-07-05,"152 Rushgrove Avenue, London, NW9 6RE",NW9 6RE,London,,45200,False,True,mobile
+15161657,MOBILE TYRE SOLUTIONS LTD,active,ltd,2023-09-25,"Acorn House, Bower Street, Oldham, OL1 3PH",OL1 3PH,Oldham,,45320,False,True,mobile
+15628367,MOBILE TYRES ONDEMAND LTD,active,ltd,2024-04-09,"7 Brinkburn Grove, Banbury, OX16 3WX",OX16 3WX,Banbury,,45200,False,True,mobile
+15974806,MOBILE TYRE SPECIALISTS LIMITED,active,ltd,2024-09-24,"126 Wish Hill, Eastbourne, BN20 9HL",BN20 9HL,Eastbourne,,45200,False,True,mobile
+16623956,MOBILE TYRES PORTSMOUTH LIMITED,active,ltd,2025-08-03,"Suite 9 Pine Court Business Centre, 36 Gervis Road, Bournemouth, United Kingdom, BH1 3DH",BH1 3DH,Bournemouth,United Kingdom,45200,False,True,mobile
+SC863876,MOBILE TYRES RESCUE LTD,active,ltd,2025-09-23,"Flat 1.1 116 Maukinfauld Rd, Glasgow, G32 8TP",G32 8TP,Glasgow,,45200,False,True,mobile
+15950403,MOBILE TYRES SERVICE LTD,active,ltd,2024-09-11,"19 Waddon Close, Croydon, CR0 4JT",CR0 4JT,Croydon,,96090,False,True,mobile; fitting_service
+15766173,MOBILE TYRES SOLUTIONS 247 LTD,active,ltd,2024-06-06,"9 Virginia Way, Reading, RG30 3QJ",RG30 3QJ,Reading,,45200; 45320,False,True,mobile
+13257762,MOBILE TYRES SPECIALISTS CO LTD,active,ltd,2021-03-10,"162 Broad Street, Chesham, HP5 3ED",HP5 3ED,Chesham,,45200,False,True,mobile
+13548574,MOBILE TYRES SURREY LTD,active,ltd,2021-08-04,"41 Oldfields Road, Sutton, Surrey, SM1 2NB",SM1 2NB,Sutton,Surrey,45200,False,True,mobile
+15191066,MOBILE TYRES 247 LTD,active,ltd,2023-10-05,"310 High Road, Wood Green, London, N22 8JR",N22 8JR,London,,22110,False,True,mobile
+07420840,MOBILE TYRES 2 U LTD,active,ltd,2010-10-27,"Southside Farm White Hill, London Road, Wooburn Moor, High Wycombe, Buckinghamshire, HP10 0NN",HP10 0NN,High Wycombe,Buckinghamshire,45320,False,True,mobile
+01071945,CELTIC TYRE SERVICES (MAESTEG) LIMITED,active,ltd,1972-09-14,"C/O Micheldever Tyre Services Limited Micheldever Station, Andover Road, Winchester, SO21 3AP",SO21 3AP,Winchester,,99999,False,False,fitting_service
+NI625165,CENTRAL TYRE SERVICE LTD,active,ltd,2014-06-13,"18-20 Howard Street South, Belfast, BT7 1BA",BT7 1BA,Belfast,,45320,False,False,fitting_service
+16180942,CHADWELL TYRE & SERVICE LTD,active,ltd,2025-01-13,"3 Marlborough Close, Benfleet, Essex, SS7 4JA",SS7 4JA,Benfleet,Essex,45200,False,False,fitting_service
+16738786,CHALLENGER TYRE SERVICES LTD,active,ltd,2025-09-24,"Pineham House, Pineham, Dover, CT15 5HB",CT15 5HB,Dover,,45200,False,False,fitting_service
+07136205,CHELTENHAM TYRE SERVICES LIMITED,active,ltd,2010-01-26,"Treetops, Ross Road, Longhope, GL17 0NQ",GL17 0NQ,Longhope,,45200,False,False,fitting_service
+13488026,CHEQUERED TYRE SERVICE LIMITED,active,ltd,2021-07-01,"4th Floor Charles House, 108-110 Finchley Road, London, NW3 5JJ",NW3 5JJ,London,,45200,False,False,fitting_service
+SC515556,CHRIS SINCLAIR TYRE SERVICES LTD,active,ltd,2015-09-14,"Solhamar, Cunningsburgh, Shetland, ZE2 9HF",ZE2 9HF,Shetland,,45200,False,False,fitting_service
+01886381,CITY TYRE SERVICES (CARDIFF) LIMITED,active,ltd,1985-02-15,"476a Cowbridge Road East, Cardiff, CF5 1BL",CF5 1BL,Cardiff,,45200; 45310,False,False,fitting_service
+14376315,CLACTON TYRE & SERVICE CENTRE LTD,active,ltd,2022-09-26,"20 Harpers Way, Clacton-On-Sea, CO16 8BQ",CO16 8BQ,Clacton-On-Sea,,45200,False,False,fitting_service
+16130800,CLEVELAND TYRE SERVICES LTD,active,ltd,2024-12-11,"11 Quorn Close, Guisborough, Cleveland, TS14 7NA",TS14 7NA,Guisborough,Cleveland,45200,False,False,fitting_service
+04808077,COLIN'S TYRE SERVICES LIMITED,active,ltd,2003-06-23,"King Cross Garage, Burnley Road, Halifax, HX2 7JG",HX2 7JG,Halifax,,45310,False,False,fitting_service
+01514944,COLLIER ROW TYRE SERVICES LIMITED,active,ltd,1980-08-29,"19-20 Bourne Court Southend Road, Woodford Green, Essex, IG8 8HD",IG8 8HD,Woodford Green,Essex,45200; 45310,False,False,fitting_service
+SC149065,COLLINS TYRE SERVICES LIMITED,active,ltd,1994-02-15,"42 Beith Road, Johnstone, PA5 8YE",PA5 8YE,,,45200,False,False,fitting_service
+12192664,CONTACT TYRE AND SERVICES LTD,active,ltd,2019-09-06,"Unit 8 Bridge Street Mills, Union Street, Macclesfield, Cheshire, SK11 6QG",SK11 6QG,Macclesfield,Cheshire,45320,False,False,fitting_service
+12744497,COOPERS TYRE SERVICES LIMITED,active,ltd,2020-07-15,"Old Concrete, Garden Site, Grimsby, North East Lincs, DN31 3LS",DN31 3LS,Grimsby,North East Lincs,45200,False,False,fitting_service
+01193059,CORNWALL TYRE REPAIR SERVICE LTD,active,ltd,1974-12-09,"Redmoor Road, Kelly Bray, Callington, Cornwall, PL17 7LJ",PL17 7LJ,Callington,Cornwall,22110; 22190,False,False,fitting_service
+05884586,CORSHAM TYRE SERVICE LIMITED,active,ltd,2006-07-24,"The Grange, The Street, Yatton Keynell, Chippenham, Wiltshire, SN14 7BA",SN14 7BA,Chippenham,Wiltshire,45200,False,False,fitting_service
+16941848,COSTA TYRES SERVICES LTD,active,ltd,2026-01-05,"41 Blacklands Farm Way, Sherfield-On-Loddon, Hook, RG27 0GD",RG27 0GD,Hook,,45200,False,False,fitting_service
+04527499,COX'S TYRE & EXHAUST SERVICES LTD,active,ltd,2002-09-05,"161-3 Tat Bank Road, Oldbury, Warley, West Midlands, B69 4NH",B69 4NH,Warley,West Midlands,45200,False,False,fitting_service
+15316743,COYNE TYRE SERVICES LTD,active,ltd,2023-11-29,"39 Bridge Road, Crosby, Liverpool, L23 6SA",L23 6SA,Liverpool,,45320,False,False,fitting_service
+16868916,CROWN TYRES & SERVICES LTD,active,ltd,2025-11-21,"20 Crown Street, Peterborough, PE1 3HY",PE1 3HY,Peterborough,,45200,False,False,fitting_service
+01000021,DALCROSS TYRE SERVICES LIMITED,active,ltd,1971-01-18,"2a Topaz Street, Adamsdown, Cardiff, CF24 1PH",CF24 1PH,Cardiff,,47190,False,False,fitting_service
+SC150440,D & R TYRE SERVICES LIMITED,active,ltd,1994-04-25,"109 Carmichael Street, Glasgow, Lanarkshire, G51 2QU",G51 2QU,Lanarkshire,,43999,False,False,fitting_service
+07836267,DANNY BESHAW TYRE SERVICES LIMITED,active,ltd,2011-11-04,"New Hall New Hall Close, Dymchurch, Romney Marsh, Kent, TN29 0LE",TN29 0LE,Romney Marsh,Kent,45200,False,False,fitting_service
+13545498,DANS TYRE SERVICES LTD,active,ltd,2021-08-03,"2 Highfield Road, Ashbourne, DE6 1DX",DE6 1DX,Ashbourne,,45200; 45320,False,False,fitting_service
+07651375,DAVE HAGEN TYRE SERVICES LTD,active,ltd,2011-05-31,"Unit 3 Rowan House, Rowan Road Saddlebow, King''s Lynn, PE34 3AJ",PE34 3AJ,King''s Lynn,,45200,False,False,fitting_service
+04542776,DAWSON TYRE SERVICES LIMITED,active,ltd,2002-09-23,"Unit 34-35 Staunton Court Ledbury Road, Staunton, Gloucester, GL19 3QS",GL19 3QS,Gloucester,,82990,False,False,fitting_service
+05081542,DEAN TYRE AND EXHAUST SERVICES LIMITED,active,ltd,2004-03-23,"Unit B Bourton Industrial Park, Bourton-On-The-Water, Cheltenham, Gloucestershire, GL54 2HQ",GL54 2HQ,Cheltenham,Gloucestershire,45200; 45320,False,False,fitting_service
+11286083,DEFOE TYRES & SERVICES LTD,active,ltd,2018-04-03,"1a Defoe Road, Stoke Newington, London, N16 0EP",N16 0EP,Stoke Newington,London,45200,False,False,fitting_service
+03836089,DENMEAD TYRE SERVICES LIMITED,active,ltd,1999-09-03,"Elite House Star Road, Partridge Green, Horsham, RH13 8RA",RH13 8RA,Horsham,,47990,False,False,fitting_service
+11506303,DERBY TYRE & SERVICES LIMITED,active,ltd,2018-08-08,"Unit 1, 74-79 Pear Tree Road, Derby, DE23 6QA",DE23 6QA,Derby,,96090,False,False,fitting_service
+12872268,D.G.S TYRE AND GARAGE SERVICES LTD,active,ltd,2020-09-10,"87 Commercial Road, Pontardawe, Swansea, SA8 4SL",SA8 4SL,Swansea,,45200,False,False,fitting_service
+12938737,DIAMOND TYRE SERVICE LTD,active,ltd,2020-10-08,"Diamond Tyre Service Leestone Road, Sharston Industrial Area, Manchester, M22 4RB",M22 4RB,Manchester,,45200,False,False,fitting_service
+SC865525,DIAMOND TYRE SERVICE DERBY LIMITED,active,ltd,2025-10-07,"33 Kerr Drive, Glasgow, G40 2QS",G40 2QS,Glasgow,,45200,False,False,fitting_service
+16619576,DIDCOT TYRE SERVICES - DTS LTD,active,ltd,2025-07-31,"1 Park Road, Didcot, OX11 8QL",OX11 8QL,Didcot,,45200,False,False,fitting_service
+15134334,DIRECT TYRE SERVICES LTD,active,ltd,2023-09-12,"Bell Place, Bell Place, Wolverhampton, West Midlands, WV2 4LY",WV2 4LY,Wolverhampton,West Midlands,45320,False,False,fitting_service
+05847441,DIRECT TYRE SERVICES & MOT CENTRE LIMITED,active,ltd,2006-06-15,"Suite 1 Aireside House, Royd Ings Avenue, Keighley, West Yorkshire, BD21 4BZ",BD21 4BZ,Keighley,West Yorkshire,45310,False,False,fitting_service
+08622092,DORSET TYRE SERVICES LIMITED,active,ltd,2013-07-24,"4 Cedar Park, Cobham Road Ferndown Industrial Estate, Wimborne, Dorset, BH21 7SF",BH21 7SF,Wimborne,Dorset,45200,False,False,fitting_service
+11227511,DRAYTON TYRE SERVICES LTD,active,ltd,2018-02-27,"41 Cheshire Street, Market Drayton, Shropshire, TF9 1PH",TF9 1PH,Market Drayton,Shropshire,45200,False,False,fitting_service
+14671291,DUDLEY ROAD TYRE SERVICES LTD,active,ltd,2023-02-17,"141 Dudley Road East, Oldbury, B69 3DU",B69 3DU,Oldbury,,45320,False,False,fitting_service
+09276938,DYNES TYRE SERVICES LTD,active,ltd,2014-10-23,"391 Erith Road, Erith, Kent, DA8 3LT",DA8 3LT,Erith,Kent,45200,False,False,fitting_service
+10561842,EASIFIT TYRES AND SERVICE CENTRE LTD,active,ltd,2017-01-13,"24 Wavertree Court, Ellesmere Port, Cheshire, CH66 1RN",CH66 1RN,Ellesmere Port,Cheshire,45200,False,False,fitting_service
+00310506,EAST GRINSTEAD TYRE SERVICE LIMITED,active,ltd,1936-02-17,"East Grinstead Tyre Services, 213/217 London Road, East Grinstead, West Sussex, RH19 1HD",RH19 1HD,East Grinstead,West Sussex,45200; 45320,False,False,fitting_service
+10363054,"EAST LONDON TYRE, MOT AND ALIGNMENT SERVICES LTD",active,ltd,2016-09-07,"53 Grand Union Crescent, London, E8 4TR",E8 4TR,London,,45200,False,False,fitting_service
+06139524,EAST MIDLANDS TYRE SERVICES LTD,active,ltd,2007-03-06,"19 Cleburne Close Cleburne Close, Stanwick, Wellingborough, NN9 6TN",NN9 6TN,Wellingborough,,45200,False,False,fitting_service
+07086475,EAST PECKHAM M.O.T SERVICE & TYRE CENTRE LIMITED,active,ltd,2009-11-25,"Front Rhs, 104 Branbridges Road, East Peckham, Tonbridge, Kent, TN12 5HH",TN12 5HH,Tonbridge,Kent,45200,False,False,fitting_service
+01384440,EAST RIDING TYRE SERVICES LIMITED,active,ltd,1978-08-16,"PO BOX 83, Elsworth House, 94 Alfred Gelder Street, Hull, HU1 2AL",HU1 2AL,94 Alfred Gelder Street,Hull,,False,False,fitting_service
+16297396,ECONOMY TYRE SERVICES LTD,active,ltd,2025-03-06,"984 Christchurch Road, Bournemouth, BH7 6DW",BH7 6DW,Bournemouth,,45200,False,False,fitting_service
+11797719,E4 TYRES AND SERVICE LTD,active,ltd,2019-01-30,"105 Chingford Mount Road, London, E4 8LU",E4 8LU,London,,45320,False,False,fitting_service
+08281446,EG TYRE SERVICES LTD,active,ltd,2012-11-05,"31 Martin Drive, Stone, Dartford, DA2 6BF",DA2 6BF,Dartford,,45320,False,False,fitting_service
+NI602434,ELITE TYRE SERVICES (IRELAND) LTD,active,ltd,2010-03-10,"3 Grieve Park, Artigarvan, Strabane, BT82 0BW",BT82 0BW,Strabane,,45200,False,False,fitting_service
+09172459,ELLAND TYRE & EXHAUST SERVICES LTD,active,ltd,2014-08-12,"Heritage Exchange, South Lane, Elland, HX5 0HG",HX5 0HG,Elland,,45200,False,False,fitting_service
+00740187,ELMBRIDGE TYRE SERVICES LIMITED,active,ltd,1962-11-07,"C/O Micheldever Tyre Services Limited Micheldever Station, Andover Road, Winchester, SO21 3AP",SO21 3AP,Winchester,,99999,False,False,fitting_service
+16807519,EMLYN STREET TYRE SERVICES LIMITED,active,ltd,2025-10-24,"43 Emlyn Street, Barrow-In-Furness, LA14 1QS",LA14 1QS,Barrow-In-Furness,,45200,False,False,fitting_service
+10724727,EMSWORTH TYRE SERVICES LTD,active,ltd,2017-04-13,"Unit 8 Palmers Road Industrial Estate, Emsworth, PO10 7DH",PO10 7DH,Emsworth,,45400,False,False,fitting_service
+06692464,E12 TYRES & SERVICES LTD,active,ltd,2008-09-09,"2 Rectory Road, Manor Park, London, E12 6JA",E12 6JA,Manor Park,London,45200,False,False,fitting_service
+14955291,E T SERVICE & TYRES LIMITED,active,ltd,2023-06-23,"191a Forest Road, London, E17 6HE",E17 6HE,London,,45200,False,False,fitting_service
+05946619,EVANS TYRE SERVICES LIMITED,active,ltd,2006-09-26,"Chancery House, 30 St Johns Road, Woking, Surrey, GU21 7SA",GU21 7SA,Woking,Surrey,96090,True,False,truck_commercial; fitting_service
+10213689,EVERGREEN TYRE SERVICES LTD,active,ltd,2016-06-03,"Yard 3 Prospect Place, Skelmersdale, WN8 9QD",WN8 9QD,Skelmersdale,,33170,False,False,fitting_service
+15745616,EV TYRE SERVICES LIMITED,active,ltd,2024-05-28,"Flat 3 29 Bridgegate, Howden, Goole, DN14 7JG",DN14 7JG,Goole,,45200,False,False,fitting_service
+05509648,FAIRWAY TYRE & AUTO SERVICES LIMITED,active,ltd,2005-07-15,"Five Ways, 57-59 Hatfield Road, Potters Bar, Hertfordshire, EN6 1HS",EN6 1HS,Potters Bar,Hertfordshire,45200,False,False,fitting_service
+06914919,FAIRWAY TYRE & AUTO SERVICES RICKMANSWORTH LIMITED,active,ltd,2009-05-26,"3 Doolittle Yard Froghall Road, Ampthill, Bedford, MK45 2NW",MK45 2NW,Bedford,,45200,False,False,fitting_service
+07253753,FAIRWAY TYRE & AUTO SERVICES WATFORD LIMITED,active,ltd,2010-05-14,"Fawley House 2 Regatta Place, Marlow Road, Bourne End, Buckinghamshire, SL8 5TD",SL8 5TD,Bourne End,Buckinghamshire,45200,False,False,fitting_service
+SC563719,FALKIRK TYRE SERVICES LTD,active,ltd,2017-04-20,"20 Westergreens Avenue, Kirkintilloch, Glasgow, G66 4AQ",G66 4AQ,Glasgow,,45200,False,False,fitting_service
+09121986,FARM TYRE SERVICES LTD,active,ltd,2014-07-08,"10 Watermark Way Foxholes Business Park, Hertford, Hertfordshire, SG13 7TZ",SG13 7TZ,Hertford,Hertfordshire,45320,False,False,fitting_service
+15910112,FARM TYRE SERVICES (SE) LTD,active,ltd,2024-08-21,"10 Watermark Way, Foxholes Business Park, Hertford, SG13 7TZ",SG13 7TZ,Hertford,,45320,False,False,fitting_service
+16851247,FAST FIT TYRES AND SERVICES LTD,active,ltd,2025-11-12,"Rare Of 228-230 High Road, London, N22 8HH",N22 8HH,London,,45320,False,False,fitting_service
+16160724,FAST FIX TYRE SERVICE LTD,active,ltd,2025-01-02,"2 Callthorpe Close, Bolton, BL1 2JZ",BL1 2JZ,Bolton,,45310,False,False,fitting_service
+11102019,FA TYRES SERVICES LIMITED,active,ltd,2017-12-07,"Unit 1 College Road North, Aston Clinton, Aylesbury, HP22 5EZ",HP22 5EZ,Aylesbury,,45112; 45320,False,False,fitting_service
+16796705,FENGATE TYRES & SERVICES LTD,active,ltd,2025-10-20,"Aspect House, Fengate, Peterborough, PE1 5XG",PE1 5XG,Peterborough,,45200,False,False,fitting_service
+SC564350,FINNIE'S TYRE SERVICES LIMITED,active,ltd,2017-04-26,"17 Inaclete Road Stornoway, Isle Of Lewis, HS1 2RB",HS1 2RB,Isle Of Lewis,,45200,False,False,fitting_service
+NI695243,FINTONA TYRE SERVICE LTD,active,ltd,2023-03-08,"193 Tattyreagh Road Fintona, Omagh, Co Tyrone, BT78 2HS",BT78 2HS,Omagh,Co Tyrone,45200,False,False,fitting_service
+05648709,FIRST CALL TYRE SERVICES LIMITED,active,ltd,2005-12-08,"Ashford House, 95 Dixons Green Road, Dudley, West Midlands, DY2 7DJ",DY2 7DJ,Dudley,West Midlands,45200,False,False,fitting_service
+16672196,5 STAR TYRES AND SERVICES LIMITED,active,ltd,2025-08-26,"Unit 9/10 Factory Road, Blaydon, NE21 5SA",NE21 5SA,Blaydon,,45200,False,False,fitting_service
+LP008721,FLINTSTONE TYRE SERVICES,active,limited-partnership,2003-06-17,"116 Botley Road, Park Gate, Southampton, SO31 1BA",SO31 1BA,Southampton,,,False,False,fitting_service
+04704200,FLITWICK TYRE & BATTERY SERVICES LTD,active,ltd,2003-03-19,"Station Road, Flitwick, Bedfordshire, MK45 1JR",MK45 1JR,Bedfordshire,,82990,False,False,fitting_service
+SC499277,FORFAR TYRE SERVICES LTD,active,ltd,2015-03-02,"9 Whitehills Crescent, Forfar, Angus, DD8 3DZ",DD8 3DZ,Forfar,Angus,45200,False,False,fitting_service
+NI631436,FOSTERS TYRE SERVICES LIMITED,active,ltd,2015-05-21,"19 Mullaghglass Road, Lisburn, BT28 3SN",BT28 3SN,Lisburn,,45320,False,False,fitting_service
+NI676006,FOSTERS TYRE SERVICES (2021) LTD,active,ltd,2021-01-29,"19 Mullaghglass Road, Lisburn, BT28 3SN",BT28 3SN,Lisburn,,45320,False,False,fitting_service
+08528221,FURNESS TYRE SERVICES LTD,active,ltd,2013-05-14,"1 Middleton Avenue, Barrow In Furness, LA13 9HN",LA13 9HN,Barrow In Furness,,45320,False,False,fitting_service
+10867320,GABBY TYRES AND SERVICES LIMITED,active,ltd,2017-07-14,"490 West Green Road, London, N15 3DA",N15 3DA,London,,45320,False,False,fitting_service
+12369975,G&H TYRE SERVICES LTD,active,ltd,2019-12-18,"88 Springfield Road, Rowde, Wiltshire, SN10 2PD",SN10 2PD,Rowde,Wiltshire,45200,False,False,fitting_service
+02531072,G & S TYRE SERVICES LIMITED,active,ltd,1990-08-15,"Leytonstone House 3 Hanbury Drive, Leytonstone, London, E11 1GA",E11 1GA,London,,46900,False,False,fitting_service
+00322004,"GARAGE TYRE SERVICES,LIMITED",active,ltd,1936-12-17,"Cavvys Yard, 87 Fengate, Peterborough, Cambridgeshire, PE1 5BA",PE1 5BA,Peterborough,Cambridgeshire,45200,False,False,fitting_service
+10615249,GARSTANG TYRE SERVICES LIMITED,active,ltd,2017-02-13,"Clarke And Pulman Langley Place, Burscough Industrial Estate, Ormskirk, Lancashire, L40 8JS",L40 8JS,Ormskirk,Lancashire,45200; 45320,False,False,fitting_service
+SC857401,GB TYRES SERVICES LTD,active,ltd,2025-07-31,"61 St Karhrines Crescent, Edinburgh, EH16 6PX",EH16 6PX,Edinburgh,,45200,False,False,fitting_service
+01252371,GEORGE TYRE SERVICES LIMITED,active,ltd,1976-03-31,"118 Wantz Road, Maldon, Essex, CM9 5DE",CM9 5DE,Essex,,45310; 45320,False,False,fitting_service
+08680542,GERMAN TYRES AND SERVICES LTD,active,ltd,2013-09-06,"1a Avondale Street, Wakefield, WF2 8DP",WF2 8DP,Wakefield,,96090,False,False,fitting_service
+11143849,GET A GRIP TYRE & MECHANICAL SERVICES LIMITED,active,ltd,2018-01-10,"The Big Wheatyard, Unit 12 High Road, High Cross, Ware, SG11 1BE",SG11 1BE,Ware,,45200,False,False,fitting_service
+OC416171,G H TYRE SERVICES LLP,active,llp,2017-03-01,"31-35 Adam Street, Burnham-On-Sea, TA8 1PG",TA8 1PG,Burnham-On-Sea,,,False,False,fitting_service
+09620911,GILLINGHAM TYRE SERVICES LTD,active,ltd,2015-06-03,"20 High Street, Shaftesbury, Dorset, SP7 8JG",SP7 8JG,Shaftesbury,Dorset,45200,False,False,fitting_service
+01608659,GLEN TYRE SERVICES LIMITED,active,ltd,1982-01-19,"1386 London Road, Essex, SS9 2UJ",SS9 2UJ,Essex,,82990; 96090,False,False,fitting_service
+01025713,GLOSSOP TYRE AND BATTERY SERVICE LIMITED,active,ltd,1971-09-30,"Fir Tree Farm, Swettenham Heath, Congleton, Cheshire, CW12 2LW",CW12 2LW,Congleton,Cheshire,45200,False,False,fitting_service
+NI718157,GMD TYRE & SERVICE CENTRE LTD,active,ltd,2024-07-10,"29 Kevlin  Road, Omagh, Tyrone, BT78 1JR",BT78 1JR,Omagh,Tyrone,45112; 45200,False,False,fitting_service
+06884194,G M TYRE SERVICES LIMITED,active,ltd,2009-04-22,"Chandos House, School Lane, Buckingham, Buckinghamshire, MK18 1HD",MK18 1HD,Buckingham,Buckinghamshire,45200,False,False,fitting_service
+SC641031,G15 SERVICE AND TYRE CENTRE LIMITED,active,ltd,2019-09-09,"C/O Kpp Chartered Accountants Unit 3, Morris Park, 37 Rosyth Road, Glasgow, G5 0YE",G5 0YE,Glasgow,,45200,False,False,fitting_service
+08623802,GORSEINON TYRE & SERVICE CENTRE LTD,active,ltd,2013-07-25,"42 Glanymor Park Drive, Loughor, Swansea, SA4 6UQ",SA4 6UQ,Swansea,,33170,False,False,fitting_service
+16735079,GOSPORT TYRE SERVICES LIMITED,active,ltd,2025-09-22,"5 Chapel Square, Gosport, PO12 3BQ",PO12 3BQ,Gosport,,45200; 45320,False,False,fitting_service
+16532518,GRAYS TYRES & CAR SERVICES TEMPLE FORTUNE LTD,active,ltd,2025-06-20,"1013 Finchley Road, London, NW11 7ES",NW11 7ES,London,,45200,False,False,fitting_service
+16589508,GREAT BRIDGE TYRE SERVICE 1 LTD,active,ltd,2025-07-17,"Imperial Service Station 317 Oxford Street, Bilston, WV14 8AA",WV14 8AA,Bilston,,81299,False,False,fitting_service
+16415557,GREAT TYRES & SERVICE CENTRE LTD,active,ltd,2025-04-29,"594 Walsall Road, Great Wyrley, Walsall, Westmidlands, WS6 6AG",WS6 6AG,Walsall,Westmidlands,45200; 45320,False,False,fitting_service
+09068198,GREENAWAYS TYRE AND EXHAUST SERVICES LTD,active,ltd,2014-06-03,"Prospect House, 11 Western Road, Launceston, Cornwall, PL15 7AS",PL15 7AS,Launceston,Cornwall,45200; 45320,False,False,fitting_service
+NI609784,GREER'S TYRE SERVICES LTD,active,ltd,2011-11-03,"Unit 2 Station Rd Ind Estate, Station Rd, Magherafelt, Bt45 5ey, BT45 5EY",BT45 5EY,Magherafelt,Bt45 5ey,45310,False,False,fitting_service
+00518182,HADLEIGH TYRE SERVICES LIMITED,active,ltd,1953-04-01,"Blofield Business Centre Woodbastwick Road, Blofield, Norwich, NR13 4RR",NR13 4RR,Norwich,,45200,False,False,fitting_service
+08954885,HALKIN TYRE SERVICES LIMITED,active,ltd,2014-03-24,"130 Halkin Street, Leicester, LE4 6JW",LE4 6JW,Leicester,,45200,False,False,fitting_service
+10113484,H&H TYRE AND SERVICE CENTRE LTD,active,ltd,2016-04-08,"435 High Road, Ilford, Essex, IG1 1TR",IG1 1TR,Ilford,Essex,45200,False,False,fitting_service
+09621538,HANSONS TYRE SERVICES (BRIGG) LTD,active,ltd,2015-06-03,"Unit 1, Island Carr Industrial Estate,, Island Carr Industrial Estate,, Brigg,, Lincolnshire,, DN20 8PD",DN20 8PD,"Brigg,","Lincolnshire,",45200,False,False,fitting_service
+07805922,HARLESTON TYRE SERVICES LIMITED,active,ltd,2011-10-11,"3a-3c Fuller Road, Harleston, Norfolk, IP20 9EA",IP20 9EA,Harleston,Norfolk,45320,False,False,fitting_service
+15490884,HARROW 5 STAR TYRES & SERVICES LTD,active,ltd,2024-02-14,"2a Blawith Road, Harrow, HA1 1TN",HA1 1TN,Harrow,,45200,False,False,fitting_service
+00690399,HAWLEYS (TYRE SERVICES) LIMITED,active,ltd,1961-04-20,"Micheldever Station Andover Road, Winchester, Hampshire, SO21 3AP",SO21 3AP,Hampshire,,99999,False,False,fitting_service
+10752862,HAYCOCK TYRE SERVICES LIMITED,active,ltd,2017-05-03,"11 Fieldfare Lane, Norton, Stockton-On-Tees, TS20 1LJ",TS20 1LJ,Stockton-On-Tees,,45320,False,False,fitting_service
+16270570,HAYDOCK TYRE AND SERVICES LTD,active,ltd,2025-02-24,"99-101 Corporation Street, St. Helens, WA10 1SX",WA10 1SX,St. Helens,,45200,False,False,fitting_service
+10295880,HEASANDFORD TYRES AND SERVICES LIMITED,active,ltd,2016-07-26,"Unit 1e Balderstone Lane Nelson, Burnley, Lancashire, BB10 2TS",BB10 2TS,Burnley,Lancashire,45200,False,False,fitting_service
+13502110,HEATHROW TYRE SERVICES LTD,active,ltd,2021-07-08,"103 Coldharbour Lane, Hayes, UB3 3EF",UB3 3EF,Hayes,,45320,False,False,fitting_service
+00863508,HENDON TYRE SERVICE LIMITED,active,ltd,1965-11-08,"Building 1 St Cross Chambers, Upper Marsh Lane, Hoddesdon, Hertfordshire, EN11 8LQ",EN11 8LQ,Hoddesdon,Hertfordshire,45320,False,False,fitting_service
+01200045,HENRY'S TYRE AND AUTO SERVICES (CASTLEFORD) LIMITED,active,ltd,1975-02-12,"Unit D2 Speedwell Road, Whitwood Enterprise Park, Castleford, WF10 5PY",WF10 5PY,Castleford,,45320,False,False,fitting_service
+09636099,HERO TYRE SERVICE LTD,active,ltd,2015-06-12,"White House Farm Town Street, Shiptonthorpe, York, YO43 3PE",YO43 3PE,York,,45200,False,False,fitting_service
+11011986,HESTON TYRES AND SERVICES LTD,active,ltd,2017-10-13,"220 Great West Road, Hounslow, TW5 9AW",TW5 9AW,Hounslow,,45200,False,False,fitting_service
+SC663400,HG TYRE SERVICES LTD,active,ltd,2020-06-08,"Unit 2 Block 1 Chapelhall Industrial Estate, Chapelhall, Airdrie, ML6 8QH",ML6 8QH,Airdrie,,45112; 45200; 45320,False,False,fitting_service
+11632741,HH TYRES MOT & SERVICE LIMITED,active,ltd,2018-10-19,"1 Carshalton Road, Mitcham, CR4 4HN",CR4 4HN,Mitcham,,96090,False,False,fitting_service
+13041234,H H TYRES SERVICES LTD,active,ltd,2020-11-24,"Challenge House, Slz 1, 616 Mitcham Road, Croydon, CR0 3AA",CR0 3AA,Croydon,,96090,False,False,fitting_service
+SC683085,HILLINGTON TYRE SERVICES LTD,active,ltd,2020-12-08,"50 Nasmyth Road South, Hillington Park, Glasgow, G52 4RE",G52 4RE,Glasgow,,45310,False,False,fitting_service
+16078102,HILTON TYRE SERVICES LIMITED,active,ltd,2024-11-13,"Carter House, G2 Wyvern Court, Stanier Way, Derby, DE21 6BF",DE21 6BF,Derby,,45320,False,False,fitting_service
+01381722,HI-MILES TYRE SERVICE LIMITED,active,ltd,1978-08-02,"01381722 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",CF14 8LH,Cardiff,,5010,False,False,fitting_service
+03853744,HOLDERNESS TYRE SERVICES LIMITED,active,ltd,1999-10-05,"Burstwick Service Station, Ellifoot Lane, Burstwick, East Yorkshire, HU12 9EF",HU12 9EF,Burstwick,East Yorkshire,45320,False,False,fitting_service
+10862305,HOUNSLOW WEST TYRES & SERVICES LTD,active,ltd,2017-07-12,"275 Yard Bath Road, Hounslow, TW3 3DA",TW3 3DA,Hounslow,,45200,False,False,fitting_service
+01201071,HUDSONS BRAKE AND TYRE SERVICE LIMITED,active,ltd,1975-02-20,"The Howarth Armsby Suite Studio House, Delamare Road, Cheshunt, EN8 9SH",EN8 9SH,Cheshunt,,45310,False,False,fitting_service
+14379508,IB TYRES AND SERVICE LTD,active,ltd,2022-09-27,"26 Tennyson Rd, London, W7 1LN",W7 1LN,London,,45200,False,False,fitting_service
+04044346,INDUSTRIAL TYRE SERVICES LTD,active,ltd,2000-08-01,"33 Birch Road, Martock, Somerset, TA12 6DR",TA12 6DR,Somerset,,45320,False,False,fitting_service
+SC212622,INVERNESS TYRE SERVICES LTD.,active,ltd,2000-11-07,"R A Clement Associates, 5 Argyll Square, Oban, PA34 4AZ",PA34 4AZ,Oban,,45320,False,False,fitting_service
+14638397,IRLAM TYRES SERVICES LIMITED,active,ltd,2023-02-03,"Carlyle House, 78 Chorley New Road, Bolton, BL1 4BY",BL1 4BY,Bolton,,45320,False,False,fitting_service
+13755680,IRON TYRES WARRINGTON LTD,active,ltd,2021-11-19,"3 Tilley Street, Warrington, WA1 2PR",WA1 2PR,Warrington,,45200,False,False,general_tyre
+11107495,JAGUAR TYRE SERVICES LTD,active,ltd,2017-12-12,"Unit 1 Ex Bilston Community College, Bilston Road, Wolverhampton, WV2 2HT",WV2 2HT,Wolverhampton,,45310,False,False,fitting_service
+16887906,J & MACAULAYS TYRE SERVICES LTD,active,ltd,2025-12-03,"57 Fourth Avenue, Luton, LU3 3BT",LU3 3BT,Luton,,45200,False,False,fitting_service
+12934096,JASON'S TYRE SERVICES LTD,active,ltd,2020-10-07,"Unit 12 Crofty Industrial Estate, Crofty, Swansea, SA4 3RS",SA4 3RS,Swansea,,45200,False,False,fitting_service
+08251608,J.A. TYRE SERVICES LIMITED,active,ltd,2012-10-12,"106 Markland Hill Lane, Heaton, Bolton, Lancashire, BL1 5NZ",BL1 5NZ,Bolton,Lancashire,45200; 45320,False,False,fitting_service
+NI672723,J B TYRE SERVICES LIMITED,active,ltd,2020-09-18,"Flat 8 124 Concession Road, Crossmaglen, Newry, BT39 9JE",BT39 9JE,Crossmaglen,Newry,45320,False,False,fitting_service
+SC368841,JB TYRE SERVICES SCOTLAND LTD,active,ltd,2009-11-19,"Oakfield House, 378 Brandon Street, Motherwell, Lanarkshire, ML1 1XA",ML1 1XA,Motherwell,Lanarkshire,33120,False,False,fitting_service
+04548467,J.G. TYRE SERVICES LIMITED,active,ltd,2002-09-30,"Unit 5 Catkin Way, Bishop Auckland, DL14 9TF",DL14 9TF,Bishop Auckland,,46900,False,False,fitting_service
+16629383,JJ TYRES AND SERVICE CENTRE LTD,active,ltd,2025-08-05,"1 Albert Street, Fleetwood, FY7 6AH",FY7 6AH,Fleetwood,,45200,False,False,fitting_service
+07293883,JOHN DOLBEAR TYRE & AUTO SERVICES LIMITED,active,ltd,2010-06-23,"North Road Service Station, North Road, Cardiff, CF14 3AF",CF14 3AF,Cardiff,,45200,False,False,fitting_service
+16895189,JR TYRE SERVICES LTD,active,ltd,2025-12-07,"81 Walkern Road, Stevenage, SG1 3RB",SG1 3RB,Stevenage,,45200,False,False,fitting_service
+14434430,KALVIN TYRE SERVICES LIMITED,active,ltd,2022-10-21,"167 Turners Hill, Cheshunt, Waltham Cross, EN8 9BH",EN8 9BH,Waltham Cross,,45200,False,False,fitting_service
+15182451,KALVIN TYRES GARAGE SERVICE LTD,active,ltd,2023-10-02,"259 High Road, Broxbourne, Hertfordshire, EN10 6PZ",EN10 6PZ,Broxbourne,Hertfordshire,45200,False,False,fitting_service
+14107434,K&G TYRE SERVICES LTD,active,ltd,2022-05-14,"Rear Of 5-6 Lees Parade, Uxbridge Road, Uxbridge, UB10 0PQ",UB10 0PQ,Uxbridge,,45112; 45200; 45310; 45320,False,False,fitting_service
+05355762,KENMARE TYRE SERVICES LIMITED,active,ltd,2005-02-07,"Avondale, Parkgate, Frizington Road, Frizington, Cumbria, CA26 3QY",CA26 3QY,Frizington,Cumbria,45320,False,False,fitting_service
+NI614020,KEN MCCORKELL TYRE SERVICE LTD,active,ltd,2012-08-14,"Unit 3 Ccr Ind Est, Keans Hill Road Campsie, Londonderry, BT47 3YT",BT47 3YT,Londonderry,,45320,False,False,fitting_service
+01304027,KENNET TYRE SERVICES LIMITED,active,ltd,1977-03-22,"St Margaret's Garage, London Road, Marlborough, SN8 2AN",SN8 2AN,Marlborough,,45200; 45320,False,False,fitting_service
+08462368,KENTON TYRE SERVICES LTD,active,ltd,2013-03-26,"38 Kenton Park Parade, Kenton Road, Harrow, HA3 8DN",HA3 8DN,Harrow,,52219,False,False,fitting_service
+11908580,KENT TYRES AND SERVICES LIMITED,active,ltd,2019-03-27,"87-97 Upper Stone Street, Maidstone, ME15 6HE",ME15 6HE,Maidstone,,96090,False,False,fitting_service
+NI682842,KEVLIN TYRE AND SERVICE CENTRE LTD,active,ltd,2021-10-04,"29 Kevlin Road, Omagh, BT78 1JR",BT78 1JR,Omagh,,45112; 45200,False,False,fitting_service
+16288516,KHAN TYRES SERVICE LTD,active,ltd,2025-03-03,"77 Francis Road, Birmingham, B16 8SP",B16 8SP,Birmingham,,45200; 45320,False,False,fitting_service
+13360271,KILLBURN TYRES SERVICE LTD,active,ltd,2021-04-27,"Unit 6, 90 Loveridge Road, Killburn, London, NW6 2DS",NW6 2DS,London,,52103,False,False,fitting_service
+SC425068,KING EDWARD TYRE SERVICES LIMITED,active,ltd,2012-05-28,"The Garage, King Edward, Banff, Aberdeenshire, AB45 3NJ",AB45 3NJ,Banff,Aberdeenshire,45112; 45320,False,False,fitting_service
+01236198,KINGSTON TYRE SERVICES LIMITED,active,ltd,1975-12-03,"39 Cambridge Road, Kingston Upon Thames, Surrey, KT1 3NQ",KT1 3NQ,Surrey,,45310,False,False,fitting_service
+16597118,KINGSWOOD TYRE SERVICES LTD,active,ltd,2025-07-21,"292 Two Mile Hill Road, Bristol, BS15 1AT",BS15 1AT,Bristol,,45200,False,False,fitting_service
+16645104,KJR TYRE SERVICE LTD,active,ltd,2025-08-12,"33 Spenser Road, Ipswich, Suffolk, IP1 6HU",IP1 6HU,Ipswich,Suffolk,45200,False,False,fitting_service
+13369878,KK TYRE & HAULAGE SERVICES LTD,active,ltd,2021-04-30,"74 Oakdale Avenue, Peterborough, PE2 8TD",PE2 8TD,Peterborough,,45320; 49410,True,False,truck_commercial; fitting_service
+15526813,KK TYRES & AUTO SERVICE LIMITED,active,ltd,2024-02-27,"Unit 10 81 Arundel Road, Luton, Bedfordshire, LU4 8DY",LU4 8DY,Luton,Bedfordshire,45320,False,False,fitting_service
+04619861,KNARESBOROUGH TYRE SERVICES LIMITED,active,ltd,2002-12-17,"Crown Chambers, Princes Street, Harrogate, North Yorkshire, HG1 1NJ",HG1 1NJ,Harrogate,North Yorkshire,45310,False,False,fitting_service
+01622175,KNIGHTON TYRE SERVICE LIMITED,active,ltd,1982-03-15,"48 Watling Street, Leintwardine, Shropshire, SY7 0LL",SY7 0LL,Shropshire,,45320,False,False,fitting_service
+14059754,K-ON TYRES SERVICES LTD,active,ltd,2022-04-21,"Unit 34, The Bluebird Centre, Park Lane, Wolverhampton, WV10 9QQ",WV10 9QQ,Wolverhampton,,45200,False,False,fitting_service
+11091545,KWICK SERVICE TYRES LIMITED,active,ltd,2017-12-01,"7 Adrian Avenue, London, NW2 1LX",NW2 1LX,London,,45200,False,False,fitting_service
+SC100369,LEWIS TYRE SERVICE LIMITED,active,ltd,1986-08-01,"Marybank, Stornoway, Isle Of Lewis, HS2 0DF",HS2 0DF,Isle Of Lewis,,99999,False,False,fitting_service
+11619944,LINCOLN’S TYRE SERVICE (AJS) LIMITED,active,ltd,2018-10-12,"5 Yeomans Court, Ware Road, Hertford, SG13 7HJ",SG13 7HJ,Hertford,,45200,False,False,fitting_service
+16557602,LINWOOD TYRE SERVICES LTD,active,ltd,2025-07-02,"2-6 Linwood Road, Handsworth, Birmingham, West Midlands, B21 9HT",B21 9HT,Birmingham,West Midlands,45200; 45320,False,False,fitting_service
+SC564256,LOCAL TYRE SERVICES LIMITED,active,ltd,2017-04-25,"27 Maitland Street, Helensburgh, G84 7PD",G84 7PD,Helensburgh,,45200,False,False,fitting_service
+07442051,LONDON TYRE SERVICES LIMITED,active,ltd,2010-11-17,"Spectrum House, 2b Suttons Lane, Hornchurch, RM12 6RJ",RM12 6RJ,Hornchurch,,45200,False,False,fitting_service
+SC845073,LOSSIEMOUTH TYRE SERVICES LTD,active,ltd,2025-04-14,"Wards House, Wards Road, Elgin, Moray, IV30 1NL",IV30 1NL,Elgin,Moray,46180,False,False,fitting_service
+09354103,LOUTH TYRE SERVICES LIMITED,active,ltd,2014-12-15,"Unit 4 Elsham Park, Louth, Lincolnshire, LN11 0UZ",LN11 0UZ,Louth,Lincolnshire,45320,False,False,fitting_service
+04072933,LYDNEY TYRE & AUTO SERVICES LIMITED,active,ltd,2000-09-15,"9 The Marina, Harbour Road, Lydney, Gloucestershire, GL15 5ET",GL15 5ET,Lydney,Gloucestershire,45200,False,False,fitting_service
+04974740,MANCHESTER TYRE SERVICES LIMITED,active,ltd,2003-11-24,"108 Wilson Street, Openshaw, Manchester, M11 2AZ",M11 2AZ,Manchester,,45320,False,False,fitting_service
+11468606,MANCHESTER TYRES SERVICES LIMITED,active,ltd,2018-07-17,"Reedham House, 31 King Street West, Manchester, Greater Manchester, M3 2PJ",M3 2PJ,Manchester,Greater Manchester,45200,False,False,fitting_service
+04189412,M & S TYRES SERVICES LIMITED,active,ltd,2001-03-28,"Pontefract Road, Stourton, Leeds, LS10 1SW",LS10 1SW,Leeds,,45200; 45320,False,False,fitting_service
+16390819,M&T TYRE SERVICES LTD,active,ltd,2025-04-16,"36 Lichfield Street, Walsall, WS1 1TJ",WS1 1TJ,Walsall,,45320,False,False,fitting_service
+15969048,MANN TYRE SERVICES LTD,active,ltd,2024-09-20,"122 Stoneferry Road, Hull, HU8 8DA",HU8 8DA,Hull,,45200,False,False,fitting_service
+12675460,MANSFIELD ROAD TYRE SERVICES LTD,active,ltd,2020-06-16,"46 Cardinals Walk, Leicester, LE5 1LF",LE5 1LF,Leicester,,45320,False,False,fitting_service
+12522011,MARSH TYRE SERVICES LTD,active,ltd,2020-03-17,"125 Feltham Hill Road, Ashford, TW15 1HE",TW15 1HE,Ashford,,45200; 45320,False,False,fitting_service
+05580517,MARTINI TYRE SERVICES LIMITED,active,ltd,2005-10-03,"10 Rudd Gardens, Bentley Bridge Arc, Wolverhampton, WV10 0TL",WV10 0TL,Wolverhampton,,45320,False,False,fitting_service
+SC183842,MARTINS TYRE & AUTO SERVICES LTD.,active,ltd,1998-03-13,". High Street, Langholm, Dumfriesshire, DG13 0DJ",DG13 0DJ,Dumfriesshire,,45112; 45200; 47300,False,False,fitting_service
+16792720,MAYES TYRES SERVICES LIMITED,active,ltd,2025-10-17,"Mayes Tyres, Gerlyn, Llanybydder, SA40 9TX",SA40 9TX,Llanybydder,,45320,False,False,fitting_service
+SC644806,MCCONECHY'S TYRES SERVICES HOLDINGS LIMITED,active,ltd,2019-10-18,"C/O Harper Macleod Llp The Ca'D'Oro, 45 Gordon Street, Glasgow, G1 3PE",G1 3PE,Glasgow,,70100,False,False,fitting_service
+05427420,MERTHYR TYRES AND EXHAUST SERVICES LIMITED,active,ltd,2005-04-18,"42 Brecon Rise, Pant, Merthyr Tydfil, CF48 2BW",CF48 2BW,Merthyr Tydfil,,45200,False,False,fitting_service
+12649320,MICHAEL'S MOBILE TYRE SERVICES LTD,active,ltd,2020-06-05,"58 Fairfield Road, London, London, N18 2QJ",N18 2QJ,London,London,45200,False,True,mobile; fitting_service
+01817398,MICHELDEVER TYRE SERVICES LIMITED,active,ltd,1984-05-18,"Micheldever Station, Winchester, Hants, SO21 3AP",SO21 3AP,Hants,,45310; 45320,False,False,fitting_service
+09133875,MICK MAC TYRES & TRANSPORT SERVICES LTD,active,ltd,2014-07-16,"18c Downfield, Winterborne Stickland, Blandford Forum, Dorset, DT11 0NE",DT11 0NE,Blandford Forum,Dorset,99999,True,False,truck_commercial; fitting_service
+15996956,MJP TYRE SERVICES LTD,active,ltd,2024-10-03,"37 Stockwood Lane, Bristol, Somerset, BS14 8SL",BS14 8SL,Bristol,Somerset,45320,False,False,fitting_service
+11858378,MJ TYRE SERVICES LIMITED,active,ltd,2019-03-04,"Plot 23 Estate Road 1, Grimsby, N E Lincolnshire, DN31 2TB",DN31 2TB,Grimsby,N E Lincolnshire,45200; 45320,False,False,fitting_service
+16509980,MK TYRES AND SERVICES LTD,active,ltd,2025-06-10,"Flat 1 108 Brentwood Road, Brighton, BN1 7ES",BN1 7ES,Brighton,,45320,False,False,fitting_service
+NI009168,MODERN TYRE SERVICES (STRABANE) LIMITED,active,ltd,1972-11-29,"18 Clover Brae, Killyvilly, Enniskillen, Co Fermanagh, BT74 4AB",BT74 4AB,Enniskillen,Co Fermanagh,45320,False,False,fitting_service
+SC727353,MORAY TYRE SERVICES LIMITED,active,ltd,2022-03-24,"39 South Street, Elgin, Moray, IV30 1JZ",IV30 1JZ,Elgin,Moray,45200,False,False,fitting_service
+09007452,MOUNTPLEASANT TYRES AND SERVICES LTD,active,ltd,2014-04-23,"4 Mount Pleasant Cresent, London, N4 4HP",N4 4HP,London,,45200,False,False,fitting_service
+15579114,MOUNT TYRE SERVICES LIMITED,active,ltd,2024-03-20,"Unit 4 Power Station Road, Rugeley, WS15 2HS",WS15 2HS,Rugeley,,45320,False,False,fitting_service
+NI651535,MOURNE TYRE SERVICES LTD,active,ltd,2018-03-08,"73 Newcastle Road, Kilkeel, Newry, BT34 4NJ",BT34 4NJ,Newry,,45320,False,False,fitting_service
+16930695,MRR TYRES & SERVICES LIMITED,active,ltd,2025-12-24,"The Old Police Station, West Square, Maldon, Essex, CM9 5AL",CM9 5AL,Maldon,Essex,45200,False,False,fitting_service
+16930710,MTM MOBILE TYRE & RECOVERY SERVICES LTD,active,ltd,2025-12-24,"Flat 3 Clare House, 49 Uxbridge Road, London, W7 3PX",W7 3PX,London,,96090,False,True,mobile; fitting_service
+13648445,NATIONWIDE TYRE SERVICES LTD,active,ltd,2021-09-28,"77 Ampleforth Grove, Hull, East Riding Of Yorkshire, HU5 5EZ",HU5 5EZ,Hull,East Riding Of Yorkshire,45320,False,False,fitting_service
+SC841756,NEVIS TYRES AND VEHICLE SERVICES LTD,active,ltd,2025-03-18,"4 Sherwood Avenue, Bonnyrigg, EH19 3NN",EH19 3NN,Bonnyrigg,,45200,True,False,truck_commercial; fitting_service
+02170870,NICKS TYRE SERVICES LIMITED,active,ltd,1987-09-30,"Riverside House, 1/5 Como Street, Romford, Essex, RM7 7DN",RM7 7DN,Romford,Essex,45200; 47300,False,False,fitting_service
+07609086,NIL'S TYRE SERVICES LIMITED,active,ltd,2011-04-19,"48b Bank Top, Blackburn, BB2 1TB",BB2 1TB,Blackburn,,45320,False,False,fitting_service
+10656454,NORTH TYRES SERVICES LTD,active,ltd,2017-03-07,"25 Senwick Drive, Wellingborough, NN8 1RX",NN8 1RX,Wellingborough,,45200,False,False,fitting_service
+10413509,NORTH WEST TYRE SERVICES LTD,active,ltd,2016-10-06,"Unit 26 Roman Way Industrial Estate, Longridge Road, Preston, PR2 5BD",PR2 5BD,Preston,,45200,False,False,fitting_service
+NI711458,NUTTS CORNER TYRES & BREAKDOWN SERVICES LTD,active,ltd,2024-03-08,"42 Belfast Road, Nutts Corner, Crumlin, BT29 4TH",BT29 4TH,Crumlin,,45320,False,False,fitting_service
+12885426,ONE STOP TYRE SERVICES LTD,active,ltd,2020-09-17,"Unit 4 St. Marys Road, Sheffield, S2 4AW",S2 4AW,Sheffield,,45200,False,False,fitting_service
+SC153045,ON SITE TYRE SERVICES (SCOTLAND) LIMITED,active,ltd,1994-09-13,"159 Glasgow Road, Barrhead, Glasgow, G78 1DT",G78 1DT,Glasgow,,33170; 45200,False,False,fitting_service
+01522405,P & J TYRE SERVICES LIMITED,active,ltd,1980-10-15,"1210 London Road, Leigh-On-Sea, Essex, SS9 2UA",SS9 2UA,Essex,,47990,False,False,fitting_service
+12036624,P&L TYRES AND SERVICES LIMITED,active,ltd,2019-06-06,"Suite D, Astor House 282 Lichfield Road, Four Oaks, Sutton Coldfield, West Midlands, B74 2UG",B74 2UG,Sutton Coldfield,West Midlands,45310; 45320,False,False,fitting_service
+16926171,PARSA TYRES SERVICES LTD,active,ltd,2025-12-22,"14-16 Wadsworth Road, Perivale, Greenford, UB6 7JD",UB6 7JD,Greenford,,45112; 45320,False,False,fitting_service
+16868802,PEMBROKESHIRE TYRE SERVICES LTD,active,ltd,2025-11-21,"74 High Street, Fishguard, Pembrokeshire, SA65 9AU",SA65 9AU,Fishguard,Pembrokeshire,45200,False,False,fitting_service
+09283561,PERFORMANCE TYRE SERVICES LTD,active,ltd,2014-10-28,"No 615 London Road, Westcliff-On-Sea, Essex, SS0 9PE",SS0 9PE,Westcliff-On-Sea,Essex,47990,False,False,fitting_service
+03350407,PERSHORE TYRE SERVICES LIMITED,active,ltd,1997-04-10,"Unit 1 Lyttleton Road, Pershore, Worcestershire, WR10 2DF",WR10 2DF,Worcestershire,,45320,False,False,fitting_service
+04059645,PETERSFIELD EXHAUST & TYRE SERVICES LIMITED,active,ltd,2000-08-25,"Unit 3 Bedford Road, Petersfield, GU32 3LJ",GU32 3LJ,Petersfield,,45200,False,False,fitting_service
+16828085,PLATINUM TYRE SERVICES LTD,active,ltd,2025-11-03,"Office 9 Unit 2 Roseberry Court, Stokesley, Middlesbrough, TS9 5QT",TS9 5QT,Middlesbrough,,45320,False,False,fitting_service
+16035121,PL4 TYRES AND SERVICES LTD,active,ltd,2024-10-22,"Unit 1 23 Clare Place, Plymouth, PL4 0JW",PL4 0JW,Plymouth,,45200,False,False,fitting_service
+01082696,POOLE TYRE SERVICES (PROPERTY MANAGEMENT) LIMITED,active,ltd,1972-11-20,"142 Stanley Green Road, Poole, Dorset, BH15 3AH",BH15 3AH,Poole,Dorset,45200; 45320,False,False,fitting_service
+03834396,PORTSMOUTH EXHAUST & TYRE SERVICES LTD,active,ltd,1999-09-01,"Century House, Wargrave Road, Henley-On-Thames, Oxfordshire, RG9 2LT",RG9 2LT,Henley-On-Thames,Oxfordshire,45310,False,False,fitting_service
+16851117,PREMIER TYRE SERVICES (ROMFORD) LIMITED,active,ltd,2025-11-12,"26 Estuary Close, Barking, IG11 0XS",IG11 0XS,Barking,,45320,False,False,fitting_service
+08909968,PREMIER TYRE SERVICES (UK) LIMITED,active,ltd,2014-02-25,"507 Upper Brentwood Road, Gidea Park, Romford, Essex, RM2 6LD",RM2 6LD,Romford,Essex,38320,False,False,fitting_service
+SC804719,PREMIER TYRES (SERVICES) LTD,active,ltd,2024-03-27,"Block 4, Unit 1, Fullwood Industrial Estate, Burnbank Road, Hamilton, ML3 9AZ",ML3 9AZ,Hamilton,,45200,False,False,fitting_service
+06407584,PRESTEIGNE TYRE SERVICES LTD,active,ltd,2007-10-24,"Unit 2 Morgan Building, Presteigne Ind. Estate, Presteigne, Powys, LD8 2UF",LD8 2UF,Presteigne,Powys,45320,False,False,fitting_service
+16605712,PRICELESS TYRES AND CAR SERVICES LTD,active,private-limited-guarant-nsc,2025-07-24,"207-209 Twickenham Road, Isleworth, Middlesex, TW7 6AA",TW7 6AA,Isleworth,Middlesex,45200,False,False,fitting_service
+12544628,PROPLANT TYRE SERVICES LIMITED,active,ltd,2020-04-02,"Unit 6 Eastcroft Farm, Town Road, Cliffe, Kent, ME3 7RL",ME3 7RL,Cliffe,Kent,45200,False,False,fitting_service
+07423524,TYRE CENTRE LTD,active,ltd,2010-10-29,"102-104 Emily Street, Highgate, Birmingham, West Midlands, B12 0XJ",B12 0XJ,Birmingham,West Midlands,45200,False,False,fitting_service
+10291724,TYRE CENTRE DIRECT LTD,active,ltd,2016-07-22,"Suite D, Astor House 282 Lichfield Road, Four Oaks, Sutton Coldfield, West Midlands, B74 2UG",B74 2UG,Sutton Coldfield,West Midlands,45320,False,False,fitting_service
+NI659693,TYRE CENTRE GROUP LTD,active,ltd,2019-03-11,"Coa Road, Moneynoe Glebe, Enniskillen, Fermanagh, BT74 4EG",BT74 4EG,Enniskillen,Fermanagh,45200,False,False,fitting_service
+16126936,TYRE CENTRE LUTON LTD,active,ltd,2024-12-09,"223-225 Selbourne Road, Luton, LU4 8NP",LU4 8NP,Luton,,45200,False,False,fitting_service
+13680159,TYRE CENTRE PLUS LTD,active,ltd,2021-10-14,"Station Parade, Ickenham Road, Ruislip, HA4 7DL",HA4 7DL,Ruislip,,45200,False,False,fitting_service
+15819596,TYRECENTRE (HEREFORD) LTD,active,ltd,2024-07-04,"216 Straight Mile Road Rotherwas, Hereford, Herefordshire, HR2 6BQ",HR2 6BQ,Hereford,Herefordshire,45320,False,False,fitting_service
+16548682,AMU TYRE CENTRE LTD,active,ltd,2025-06-29,"178a Park View Road, Welling, DA16 1ST",DA16 1ST,Welling,,45320,False,False,fitting_service
+16005970,ARMLEY TYRE CENTRE LIMITED,active,ltd,2024-10-08,"91 Town Street, Armley, Leeds, LS12 3HD",LS12 3HD,Leeds,,45200,False,False,fitting_service
+14553460,ASHFORD ROAD TYRE CENTRE LTD,active,ltd,2022-12-21,"Unit 15, 51 Ashford Road, Canterbury, Kent, CT4 7HF",CT4 7HF,Canterbury,Kent,45200,False,False,fitting_service
+16745923,ASHTON TYRE CENTRE LTD,active,ltd,2025-09-26,"168 Mossley Road, Ashton-Under-Lyne, OL6 6NA",OL6 6NA,Ashton-Under-Lyne,,45200,False,False,fitting_service
+09338554,AUTOCAR CENTRE TYRES LIMITED,active,ltd,2014-12-03,"Liberty Works, Bollo Lane, London, W3 8QU",W3 8QU,London,,45320,False,False,fitting_service
+16958484,AUTO CENTRE TYRE LTD,active,ltd,2026-01-12,"Unit 3 Seawall Road, Cardiff, CF24 5TH",CF24 5TH,Cardiff,,45200,False,False,fitting_service
+02967738,AUTO PNEUMATIC TYRE & EXHAUST CENTRE LTD.,active,ltd,1994-09-14,"Steering Wheel Garage, Eastgate Street, Bury St Edmunds, Suffolk, IP33 1YQ",IP33 1YQ,Bury St Edmunds,Suffolk,45200; 45320,False,False,fitting_service
+04049758,AUTOSTOP TYRE & AUTOCARE CENTRE LIMITED,active,ltd,2000-08-09,"Main Avenue, Brackla Industrial Estate, Bridgend, Mid Glamorgan, CF31 2AZ",CF31 2AZ,Bridgend,Mid Glamorgan,45200,False,False,fitting_service
+02996482,AUTO TYRE CENTRE LIMITED,active,ltd,1994-11-30,"203 West Street, Fareham, PO16 0EN",PO16 0EN,Fareham,,45200,False,False,fitting_service
+15843849,AWSWORTH TYRE CENTRE LTD,active,ltd,2024-07-17,"64 Castle Boulevard, Nottingham, NG7 1FN",NG7 1FN,Nottingham,,45310,False,False,fitting_service
+09559897,AYLESFORD TYRE AND AUTO CENTRE LTD,active,ltd,2015-04-24,"Unit E Cottage Industrial Estate, Forstal Road, Aylesford, Kent, ME20 7AD",ME20 7AD,Aylesford,Kent,45200,False,False,fitting_service
+16756649,AYLESHAM TYRE CENTRE LTD,active,ltd,2025-10-01,"Unit 12 Tavis House Business Centre 3 Orbital Park, Sevington, Ashford, TN24 0YY",TN24 0YY,Ashford,,22110; 45200; 45310; 45320,False,False,fitting_service
+15748449,AYS AUTOS AND TYRE CENTRE LTD,active,ltd,2024-05-29,"Unit 3a Gordon Place, Reading, RG30 1LD",RG30 1LD,Reading,,45200,False,False,fitting_service
+05896125,B.A.B. TYRE & EXHAUST CENTRE LIMITED,active,ltd,2006-08-03,"81 Burton Road, Derby, Derbyshire, DE1 1TJ",DE1 1TJ,Derbyshire,,45310,False,False,fitting_service
+NI696269,BALLYCLARE TYRE CENTRE LTD,active,ltd,2023-04-13,"Unit 2 Dennisons Industrial Estate, Avondale Drive, Ballyclare, BT39 9EB",BT39 9EB,Ballyclare,,45320,False,False,fitting_service
+01578555,B + T TYRE & EXHAUST CENTRE LIMITED,active,ltd,1981-08-07,"First Floor, Woburn Court 2 Railton Road,, Woburn Road Industrial Estate, Kempston, Bedford, MK42 7PN",MK42 7PN,Bedford,,45200,False,False,fitting_service
+07952169,BARNSLEY TYRE CENTRE LTD,active,ltd,2012-02-16,"Central Garage West Street, Worsbrough Dale, Barnsley, South Yorkshire, S70 5PG",S70 5PG,Barnsley,South Yorkshire,45200,False,False,fitting_service
+06779001,BASINGSTOKE MOT & TYRE CENTRE - WADE ROAD - LIMITED,active,ltd,2008-12-23,"The Maltings, Rosemary Lane, Halstead, Essex, CO9 1HZ",CO9 1HZ,Halstead,Essex,45200,False,False,fitting_service
+15149822,BAWTRY TYRE & EXHAUST CENTRE LTD,active,ltd,2023-09-20,"1 Top Farm Court Top Street, Bawtry, Doncaster, DN10 6TF",DN10 6TF,Doncaster,,45200,False,False,fitting_service
+12111152,BEARWOOD TYRE CENTRE LTD,active,ltd,2019-07-18,"272 Bearwood Road, Smethwick, B66 4HT",B66 4HT,Smethwick,,33170,False,False,fitting_service
+08278493,BECCLES TYRE CENTRE LIMITED,active,ltd,2012-11-02,"Unit 9 Tilia Court, Worlingham, Beccles, Suffolk, NR34 7BF",NR34 7BF,Beccles,Suffolk,45320,False,False,fitting_service
+04729532,BELL TYRE CENTRE LIMITED,active,ltd,2003-04-10,"16-18 West Street, The Square, Rochford, Essex, SS4 1AJ",SS4 1AJ,Rochford,Essex,45320,False,False,fitting_service
+08434905,BENTLEY AUTO & TYRE CENTRE LTD,active,ltd,2013-03-07,"Unit 4c Plough Road Centre, Great Bentley, Colchester, Essex, CO7 8LG",CO7 8LG,Colchester,Essex,45112; 45200,False,False,fitting_service
+02634182,BESTFIT TYRE CENTRE LTD,active,ltd,1991-08-01,"60a Birley Moor Road, Sheffield, S12 4WD",S12 4WD,Sheffield,,45200,False,False,fitting_service
+16984000,BLACKBURN TYRES & MOT CENTRE LTD,active,ltd,2026-01-23,"Unit 1a, Dalton Court, Commercial Road, Darwen, Lancashire, BB3 0DG",BB3 0DG,Darwen,Lancashire,45200,False,False,fitting_service
+05765905,BLACK SWAN TYRE AND EXHAUST CENTRE LIMITED,active,ltd,2006-04-03,"First Floor Office Westerham Garage, 190 London Road, Westerham, Kent, TN16 2DJ",TN16 2DJ,Westerham,Kent,45200,False,False,fitting_service
+11030716,BLACKWELL MOT & TYRE CENTRE LIMITED,active,ltd,2017-10-25,"Unit 1 Whites Lane, Blackwell, Alfreton, DE55 5GX",DE55 5GX,Alfreton,,45200,False,False,fitting_service
+03791429,BRIDGNORTH TYRE CENTRE LTD,active,ltd,1999-06-17,"Micheldever Station, Winchester, Hampshire, SO21 3AP",SO21 3AP,Hampshire,,99999,False,False,fitting_service
+08115214,BRITANNIA TYRES & EXHAUST CENTRE LIMITED,active,ltd,2012-06-21,"C/O Fylde Tax Accountants, 155 Newton Drive, Blackpool, FY3 8LZ",FY3 8LZ,Blackpool,,45200,False,False,fitting_service
+SC389454,BROADCROFT TYRES AND EXHAUST CENTRE LTD,active,ltd,2010-11-24,"26 Broadcroft, Kirkintilloch, Glasgow, G66 1HP",G66 1HP,Glasgow,,45200,False,False,fitting_service
+13187826,BRONTE TYRES & MOT CENTRE LTD,active,ltd,2021-02-09,"Denholme Business Centre, Unit 20 Halifax Road, Denholme, Bradford, BD13 4EN",BD13 4EN,Bradford,,45200,False,False,fitting_service
+16229610,BRUNSWICK MOT AND TYRE CENTRE LTD,active,ltd,2025-02-04,"1b Brunswick Street, Darlington, DL1 1SP",DL1 1SP,Darlington,,45200,False,False,fitting_service
+16552004,BUDGET EXHAUST AND TYRE CENTRE LIMITED,active,ltd,2025-07-01,"Suite 1 Telford House, Warwick Road, Carlisle, CA1 2BT",CA1 2BT,Carlisle,,45200,False,False,fitting_service
+16173249,BULWELL TYRE CENTRE LTD,active,ltd,2025-01-09,"Unit 2a 303 Main Street, Nottingham, NG6 8ED",NG6 8ED,Nottingham,,45200; 45320,False,False,fitting_service
+09642060,BURTON TYRE CENTRE LIMITED,active,ltd,2015-06-16,"Unit 1 22 Borough Road, Burton-On-Trent, Staffordshire, DE14 2DA",DE14 2DA,Burton-On-Trent,Staffordshire,45200,False,False,fitting_service
+04552527,BURY TYRE CENTRE LIMITED,active,ltd,2002-10-03,"Micheldever Tyre Services Limited Micheldever Station, Andover Road, Winchester, Hampshire, SO21 3AP",SO21 3AP,Winchester,Hampshire,99999,False,False,fitting_service
+07716779,BURY VEHICLE REPAIR AND TYRE CENTRE LTD,active,ltd,2011-07-25,"50 Wash Lane, Bury, Lancashire, BL9 6AS",BL9 6AS,Bury,Lancashire,45200,True,False,truck_commercial; fitting_service
+SC340927,CADZOW TYRE CENTRE LTD.,active,ltd,2008-04-07,"91 Alexander Street, Airdrie, ML6 0BD",ML6 0BD,Airdrie,,45310,False,False,fitting_service
+12552662,CAISTER TYRE CENTRE LIMITED,active,ltd,2020-04-09,"124 Thorpe Road, Norwich, NR1 1RS",NR1 1RS,Norwich,,45320,False,False,fitting_service
+NI040686,CARRYDUFF TYRE CENTRE LIMITED,active,ltd,2001-04-26,"Emerson House 14b Ballynahinch Road, Carryduff, Belfast, BT8 8DN",BT8 8DN,Belfast,,82990,False,False,fitting_service
+10513191,CENTRE TYRES (TAKELEY) LTD,active,ltd,2016-12-06,"206 Turners Hill Cheshunt, Waltham Cross, EN8 9DE",EN8 9DE,Waltham Cross,,45320,False,False,fitting_service
+06001810,"CHALLENGE TYRE, EXHAUST & MOT CENTRE LIMITED",active,ltd,2006-11-17,"Holloway House Epsom Square, White Horse Business Park, Trowbridge, Wiltshire, BA14 0XG",BA14 0XG,Trowbridge,Wiltshire,45200,False,False,fitting_service
+05187381,CHAPEL STREET TYRE CENTRE LIMITED,active,ltd,2004-07-22,"Chapel Street Tyre Centre, Chapel Street Handsworth, Birmingham, West Midlands, B21 0PA",B21 0PA,Birmingham,West Midlands,45200,False,False,fitting_service
+05576335,CIRENCESTER TYRE & EXHAUST CENTRE LIMITED,active,ltd,2005-09-28,"62 Elliot Road, Love Lane Industrial Estate, Cirencester, Gloucestershire, GL7 1YS",GL7 1YS,Cirencester,Gloucestershire,45200,False,False,fitting_service
+16139689,CITY TYRES AND AUTO CENTRE LIMITED,active,ltd,2024-12-17,"Workshop Premises Prospect Mews, Prospect Street, Reading, Berkshire, RG1 7YJ",RG1 7YJ,Reading,Berkshire,45200,False,False,fitting_service
+NI674850,CLAUDY TYRE CENTRE LTD,active,ltd,2020-12-10,"527 Baranailt Road, Claudy, Londonderry, BT47 4EF",BT47 4EF,Londonderry,,45320,False,False,fitting_service
+SC679549,CLYDESIDE TYRE CENTRE LTD,active,ltd,2020-11-02,"Unit 31 New Albion Industrial Estate, Halley Street, Glasgow, G13 4DJ",G13 4DJ,Glasgow,,45200,False,False,fitting_service
+01635475,COATHAM TYRE CENTRE LIMITED,active,ltd,1982-05-14,"2 Communications Road, Greenham Business Park, Newbury, Berkshire, RG19 6AB",RG19 6AB,Newbury,Berkshire,49390,False,False,fitting_service
+03306517,COLCHESTER TYRE & EXHAUST CENTRE LIMITED,active,ltd,1997-01-23,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",IP3 0DL,Ipswich,Suffolk,45200,False,False,fitting_service
+05555769,COLCHESTER TYRE CENTRE (MOT) LIMITED,active,ltd,2005-09-07,"80 Compair Crescent, Ipswich, Suffolk, IP2 0EH",IP2 0EH,Ipswich,Suffolk,45200,False,False,fitting_service
+05909161,COLEMANS MOT & TYRE CENTRE LIMITED,active,ltd,2006-08-17,"190 Carter Lane East South Normanton, Alfreton, Derbyshire, DE55 2DZ",DE55 2DZ,Alfreton,Derbyshire,45112; 45200,False,False,fitting_service
+07623931,COLEMANS TYRE CENTRE HOLDINGS LIMITED,active,ltd,2011-05-05,"190 Carter Lane East South Normanton, Alfreton, Derbyshire, DE55 2DZ",DE55 2DZ,Alfreton,Derbyshire,70100,False,False,fitting_service
+04537927,COLLEGE TYRE & EXHAUST CENTRE LIMITED,active,ltd,2002-09-18,"Eldo House Kempson Way, Suffolk Business Park, Bury St Edmunds, Suffolk, IP32 7AR",IP32 7AR,Bury St Edmunds,Suffolk,45200,False,False,fitting_service
+09947182,COLWALL MOT & TYRE CENTRE LIMITED,active,ltd,2016-01-12,"6 Link Way, Howsell Road, Malvern, WR14 1UQ",WR14 1UQ,Malvern,,45200,False,False,fitting_service
+15440369,COWBRIDGE TYRE CENTRE LTD,active,ltd,2024-01-24,"Warehouse A/B, Stalling Down, Cowbridge, CF71 7DT",CF71 7DT,Cowbridge,,45200; 45320,False,False,fitting_service
+09152142,CROFT TYRES & AUTO CENTRE LIMITED,active,ltd,2014-07-29,"Unit 1 Mosedale Road, Croft Business Park, Bromborough, Wirral, Merseyside, CH62 3QZ",CH62 3QZ,Wirral,Merseyside,45200,False,False,fitting_service
+10665588,CROWN TYRE AND AUTO CENTRE LIMITED,active,ltd,2017-03-13,"The Business Park, Triangle Business Centre, Merthyr Tydfil, CF48 4TQ",CF48 4TQ,Merthyr Tydfil,,45200,False,False,fitting_service
+16555640,CROYDON TYRE CENTRE LTD,active,ltd,2025-07-02,"70 Windmill Road, Croydon, CR0 2XP",CR0 2XP,Croydon,,45200,False,False,fitting_service
+NI673471,CULLOVILLE TYRE CENTRE LIMITED,active,ltd,2020-10-16,"Unit 5 Culloville Business Park, Culloville, BT35 9FD",BT35 9FD,Culloville,,45200,False,False,fitting_service
+04840414,DAGENHAM TYRE CENTRE LTD.,active,ltd,2003-07-21,"1a C R Farm Estate Brentwood Road, Herongate, Brentwood, Essex, CM13 3LH",CM13 3LH,Brentwood,Essex,45200,False,False,fitting_service
+07062577,DARLINGTON TYRE & AUTO CENTRE LIMITED,active,ltd,2009-10-31,"Chapel Street Garage Chapel Street, Thornaby, Stockton-On-Tees, TS17 6BB",TS17 6BB,Stockton-On-Tees,,45200,False,False,fitting_service
+08436240,DAWLISH TYRE & AUTO CENTRE LTD,active,ltd,2013-03-08,"1 Charter House, Dawlish Business Park, Dawlish, Devon, EX7 0NH",EX7 0NH,Dawlish,Devon,45200,False,False,fitting_service
+13774532,DEEPCAR TYRE & AUTO CENTRE LTD,active,ltd,2021-11-30,"Unit 9 & 10 Station Road, Deepcar, Sheffield, S36 2UZ",S36 2UZ,Sheffield,,45320,False,False,fitting_service
+07569503,DEEPDALE TYRES & AUTO CENTRE LIMITED,active,ltd,2011-03-18,"93-95 Campbell Street, Preston, Lancashire, PR1 5LX",PR1 5LX,Preston,Lancashire,45200,False,False,fitting_service
+SC748040,DENNISTOUN TYRE CENTRE LTD,active,ltd,2022-10-21,"5 Craigievar Crescent, Glasgow, Lanarkshire, G33 5DN",G33 5DN,Glasgow,Lanarkshire,71129,False,False,fitting_service
+03571013,DENTON TYRE CENTRE LIMITED,active,ltd,1998-05-27,"C/O Micheldever Tyre Services Limited, Micheldever Station, Winchester, Hampshire, SO21 3AP",SO21 3AP,Winchester,Hampshire,99999,False,False,fitting_service
+10010149,DEWSBURY MOT & TYRE CENTRE LTD,active,ltd,2016-02-17,"1 Day Street, Ravensthorpe, Dewsbury, West Yorkshire, WF13 3LJ",WF13 3LJ,Dewsbury,West Yorkshire,45200,False,False,fitting_service
+11992316,DISCOUNT TYRE CENTRE LTD,active,ltd,2019-05-13,"197 Farnham Road, Slough, SL1 4XS",SL1 4XS,Slough,,33170; 45310; 45320,False,False,fitting_service
+NI694530,DISCOUNT TYRE CENTRE NW LTD,active,ltd,2023-02-14,"27 Circular Road, Londonderry, BT48 9QX",BT48 9QX,Londonderry,,45320,False,False,fitting_service
+16768316,DISCOUNT TYRE CENTRE (WORCESTER) LTD,active,ltd,2025-10-07,"Unit C1 The Old Foundry, Blockhouse Close, Worcester, Worcestershire, WR1 2BU",WR1 2BU,Worcester,Worcestershire,45200; 45320,False,False,fitting_service
+12376576,DISCOUNT TYRES & REPAIR CENTRE LTD,active,ltd,2019-12-23,"51 Abercromby Aveue, High Wycombe, HP12 3BB",HP12 3BB,High Wycombe,,45200,False,False,fitting_service
+15516552,EARBY TYRE CENTRE LTD,active,ltd,2024-02-23,"Industrial Estate, New Road, Earby, BB18 6UY",BB18 6UY,Earby,,45200,False,False,fitting_service
+14177985,EASTBOURNE TYRES AUTO CENTRE LIMITED,active,ltd,2022-06-16,"126 Wish Hill, Eastbourne, BN20 9HL",BN20 9HL,Eastbourne,,45200,False,False,fitting_service
+11609124,EMPRESS AUTO BODY REPAIR CENTRE & TYRES LTD,active,ltd,2018-10-08,"8 Lund Street, Manchester, Lancashire, M16 9NN",M16 9NN,Manchester,Lancashire,45200,False,False,fitting_service
+SC636506,ETNA TYRE CENTRE WISHAW LIMITED,active,ltd,2019-07-18,"1/7 Etna Street, Wishaw, Lanarkshire, ML2 7XA",ML2 7XA,Wishaw,Lanarkshire,45320,False,False,fitting_service
+14289068,EXETER MOTORCYCLE TYRE CENTRE LTD,active,ltd,2022-08-10,"1 Mill Street, Crediton, Devon, EX17 3AA",EX17 3AA,Crediton,Devon,45200,False,False,fitting_service
+16246576,EXPRESS TYRE CENTRE LTD,active,ltd,2025-02-12,"Express Hand Car Wash, Methley Road, Castleford, West Yorkshire, WF10 1PW",WF10 1PW,Castleford,West Yorkshire,45200,False,False,fitting_service
+07180586,FAIRVIEW BIKE MOT & TYRE CENTRE LIMITED,active,ltd,2010-03-06,"424 Margate Road, Westwood, Ramsgate, Kent, CT12 6SJ",CT12 6SJ,Ramsgate,Kent,45200,False,False,fitting_service
+16025228,FAREHAM MOT & TYRE CENTRE LTD,active,ltd,2024-10-17,"4d Fielder Drive, Fareham, PO14 1JE",PO14 1JE,Fareham,,45200,False,False,fitting_service
+07693881,FELTHAM TYRE AND AUTO CENTRES LIMITED,active,ltd,2011-07-05,"10 Orange Street, Haymarket, London, WC2H 7DQ",WC2H 7DQ,London,,82990,False,False,fitting_service
+16628631,F1 TYRES AND MOT CENTRE LTD,active,ltd,2025-08-05,"Unit 6 Victoria Way, Rawtenstall, Rossendale, BB4 7NY",BB4 7NY,Rossendale,,45200,False,False,fitting_service
+04503396,FORMULA FIRST TYRE-EXHAUST & AUTO CENTRE LIMITED,active,ltd,2002-08-05,"Winterstoke Road, Weston Super Mare, North Somerset, BS24 9AA",BS24 9AA,North Somerset,,45200,False,False,fitting_service
+05897871,FREEWAY EXHAUST AND TYRE CENTRE LIMITED,active,ltd,2006-08-07,"Pharmacy Chambers, High Street, Wadhurst, East Sussex, TN5 6AP",TN5 6AP,Wadhurst,East Sussex,45200,False,False,fitting_service
+07985314,FT TYRES & AUTO CENTRES LTD,active,ltd,2012-03-12,"47 London Road, Kirton, Boston, PE20 1JE",PE20 1JE,Boston,,45200,False,False,fitting_service
+01661253,G.J. TYRE AND EXHAUST CENTRES LIMITED,active,ltd,1982-09-01,"22 Prospect Place, Haverfordwest, SA61 2NF",SA61 2NF,Haverfordwest,,68209,False,False,fitting_service
+SC761198,GLASGOW TYRES & AUTO CENTRE LIMITED,active,ltd,2023-03-06,"1887 Maryhill Road, Glasgow, G20 0DE",G20 0DE,Glasgow,,45200; 45320,False,False,fitting_service
+SC571806,GORBALS TYRE CENTRE LIMITED,active,ltd,2017-07-21,"Unit 2, 61 Kilbirnie Street, Glasgow, G5 8JD",G5 8JD,Glasgow,,45200,False,False,fitting_service
+16887329,GRAVESEND TYRE CENTRE LTD,active,ltd,2025-12-02,"2/4 Pelham Road South, Gravesend, DA11 8QP",DA11 8QP,Gravesend,,45200; 45320,False,False,fitting_service
+13185917,GREAT HARWOOD TYRE CENTRE LTD,active,ltd,2021-02-08,"Unit 1c Heys Lane, Great Harwood, Blackburn, Lancashire, BB6 7UA",BB6 7UA,Blackburn,Lancashire,45200,False,False,fitting_service
+10114597,GREENFORD TYRE CENTRE LIMITED,active,ltd,2016-04-10,"Unit 1 Icg House, Station Approach, Greenford, UB6 0AL",UB6 0AL,Greenford,,45200,False,False,fitting_service
+16623639,GRIPSTONE TYRE CENTRE LIMITED,active,ltd,2025-08-02,"Unit 1 196 Ripple Road, Barking, IG11 7PR",IG11 7PR,Barking,,45200; 45310,False,False,fitting_service
+13746705,G T TYRES SERVICING & MOT CENTRE LIMITED,active,ltd,2021-11-16,"39-43 Bridge Street Swinton, Mexborough, S64 8AP",S64 8AP,Mexborough,,45200,False,False,fitting_service
+LP002887,HADDENHAM TYRE AND EXHAUST CENTRE,active,limited-partnership,1982-08-24,,,,,,False,False,fitting_service
+05351569,HALESWORTH TYRE & EXHAUST CENTRE LIMITED,active,ltd,2005-02-03,"22 Earsham Street, Bungay, Suffolk, NR35 1AG",NR35 1AG,Bungay,Suffolk,45200,False,False,fitting_service
+16949193,HALESWORTH TYRE CENTRE LIMITED,active,ltd,2026-01-07,"22 Earsham Street, Bungay, NR35 1AG",NR35 1AG,Bungay,,45200,False,False,fitting_service
+05334712,HALSTEAD TYRE & EXHAUST CENTRE LIMITED,active,ltd,2005-01-17,"Unit 2, Weavers Court,, Millbridge, Halstead, Essex, CO9 2JN",CO9 2JN,Essex,,45200; 45320; 77110,False,False,fitting_service
+NI610233,HANNAHSTOWN TYRE & AUTO CENTRE LTD,active,ltd,2011-12-05,"Unit 1 1 Hannahstown Hill, Hannahstown, Belfast, Co. Antrim, BT17 0LT",BT17 0LT,Belfast,Co. Antrim,45200; 45320; 46719,False,False,fitting_service
+15496223,HAVEN TYRE CENTRE LIMITED,active,ltd,2024-02-17,"Haven Tyre Centre, Moresby Road, Whitehaven, Cumbria, CA28 8TU",CA28 8TU,Whitehaven,Cumbria,45320,False,False,fitting_service
+04826836,HAVERFORDWEST TYRE & EXHAUST CENTRE LIMITED,active,ltd,2003-07-09,"Agriculture House, Winch Lane, Haverfordwest, Pembrokeshire, SA61 1RW",SA61 1RW,Pembrokeshire,,45310,False,False,fitting_service
+16851056,HAVERHILL TYRE CENTRE LTD,active,ltd,2025-11-12,"15 Gorse Green, Peterborough, PE1 3XB",PE1 3XB,Peterborough,,45200,False,False,fitting_service
+10465416,HEATH TYRES AUTO CENTRE LTD,active,ltd,2016-11-07,"130 Maes-Y-Coed Road, Cardiff, CF14 4HH",CF14 4HH,Cardiff,,45200,False,False,fitting_service
+10887047,HOLMFIELD TYRE CENTRE LIMITED,active,ltd,2017-07-27,"Unit 7, Halifax Autocars, Shay Lane, Halifax, HX3 6QU",HX3 6QU,Halifax,,45200,False,False,fitting_service
+13386644,HUDDERSFIELD EXHAUST CENTRE & TYRES LIMITED,active,ltd,2021-05-11,"Unit 11, Leeds Road, Mini Park, Huddersfield, HD1 6PA",HD1 6PA,Huddersfield,,45200,False,False,fitting_service
+13045335,IPSWICH TYRE & ALIGNMENT CENTRE LTD,active,ltd,2020-11-26,"8 Mayfly Close, Ipswich, IP8 3UE",IP8 3UE,Ipswich,,45200,False,False,fitting_service
+01943460,IPSWICH TYRE CENTRE LIMITED,active,ltd,1985-09-02,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",IP3 0DL,Ipswich,Suffolk,45200,False,False,fitting_service
+12822188,I-Q TYRE CENTRE LIMITED,active,ltd,2020-08-18,"7 Welland Road, Dogsthorpe, Peterborough, PE1 3SA",PE1 3SA,Peterborough,,45200,False,False,fitting_service
+04890083,JOHN MILES & SON TYRE & EXHAUST CENTRE LIMITED,active,ltd,2003-09-08,"24 High Street, Saffron Walden, Essex, CB10 1AX",CB10 1AX,Saffron Walden,Essex,45200,False,False,fitting_service
+08293825,JSK CLUTCH & TYRE CENTRE LTD,active,ltd,2012-11-14,"10 Cauldwell Walk, Bedford, MK42 9DT",MK42 9DT,Bedford,,45200,False,False,fitting_service
+14447849,KIDLINGTON TYRE & AUTO CENTRE LTD,active,ltd,2022-10-27,"- Langford Lane, Kidlington, Oxfordshire, OX5 1HT",OX5 1HT,Kidlington,Oxfordshire,45200,False,False,fitting_service
+14994753,KIDWELLY TYRE CENTRE LTD.,active,ltd,2023-07-11,"3-5 Banc Pendre, Kidwelly, SA17 4TA",SA17 4TA,Kidwelly,,45320,False,False,fitting_service
+13667962,KIRKBYGATE TYRE CENTRE LTD,active,ltd,2021-10-07,"64 Castle Boulevard, Nottingham, NG7 1FN",NG7 1FN,Nottingham,,45320,False,False,fitting_service
+06057630,LAINDON TYRE CENTRE LIMITED,active,ltd,2007-01-18,"Suite 8, Stonebridge House,, Hawkwell, Hockley, Essex, SS5 4JH",SS5 4JH,Essex,,82990,False,False,fitting_service
+SC268114,LANARK TYRE AND EXHAUST CENTRE LIMITED,active,ltd,2004-05-19,"The Mechanics Workshop, New Lanark, Lanark, ML11 9DB",ML11 9DB,Lanark,,45200,False,False,fitting_service
+11270974,LEADGATE TYRE CENTRE LIMITED,active,ltd,2018-03-22,"Unit 9b Lope Hill Road, Leadgate Industrial Estate, Consett, DH8 7RN",DH8 7RN,Consett,,45200,False,False,fitting_service
+08039616,LEICESTER BRAKE & TYRE CENTRE LTD,active,ltd,2012-04-20,"Unit 1 Freehold Street, Leicester, LE1 2LX",LE1 2LX,Leicester,,45200,False,False,fitting_service
+16915208,LEPSONS TYRE CENTRE LTD,active,ltd,2025-12-16,"1 Moorfield Road, Blakenhall, Wolverhampton, West Midlands, WV2 4QT",WV2 4QT,Wolverhampton,West Midlands,45200,False,False,fitting_service
+15129198,LESTA TYRES & AUTO CENTRE LTD,active,ltd,2023-09-11,"Unit 2 Maidstone Road, Leicester, LE2 0UB",LE2 0UB,Leicester,,45200,False,False,fitting_service
+16372575,LISA'S TYRES & AUTO CENTRE LIMITED,active,ltd,2025-04-08,"Unit 14 Enderby Road Industrial Estate, Whetstone, Leicester, LE8 6HZ",LE8 6HZ,Leicester,,45200,False,False,fitting_service
+03722764,LITTLEHAMPTON TYRE AND EXHAUST CENTRES LIMITED,active,ltd,1999-03-01,"St Martins Barn, St Martins Lane, Littlehampton, West Sussex, BN17 6BS",BN17 6BS,Littlehampton,West Sussex,45310,False,False,fitting_service
+13088730,LOCKWOOD TYRES & SERVICE CENTRE LTD,active,ltd,2020-12-17,"Lockwood Tyres & Service Centre, 178 Lockwood Road, Huddersfield, HD1 3QR",HD1 3QR,Huddersfield,,45200,False,False,fitting_service
+13306029,LOSTOCK TYRE CENTRE LTD,active,ltd,2021-03-31,"1049 Chorley New Road, Bolton, BL6 4LN",BL6 4LN,Bolton,,45320,False,False,fitting_service
+14637350,LOUTH TYRE CENTRE AND CAR WASH LTD,active,ltd,2023-02-03,"Car Wash Robinson's Unit, Belvoir Way, Louth, LN11 0LQ",LN11 0LQ,Louth,,81222,False,False,fitting_service
+03509827,LOWER AUDLEY TYRE CENTRE LIMITED,active,ltd,1998-02-13,"Lower Audley Tyre Centre Limited, Bennington Street, Blackburn, Lancashire, BB2 3HP",BB2 3HP,Blackburn,Lancashire,45200,False,False,fitting_service
+11474513,MANI TYRE CENTRE LTD,active,ltd,2018-07-20,"Unit 1 Cartwright Street, Wolverhampton, WV2 3BT",WV2 3BT,Wolverhampton,,45200; 45320,False,False,fitting_service
+05151151,MANNINGTREE TYRE & SERVICE CENTRE LIMITED,active,ltd,2004-06-11,"Unit 5 Causeway End, Station Road, Manningtree, Essex, CO11 2LH",CO11 2LH,Manningtree,Essex,45200,False,False,fitting_service
+16853438,MANSFIELD TYRE CENTRE LTD,active,ltd,2025-11-13,"19 Herbert Street, Mansfield, Nottinghamshire, NG18 5QF",NG18 5QF,Mansfield,Nottinghamshire,45200,False,False,fitting_service
+08299122,MARK 1 TYRE AND EXHAUST CENTRE LTD,active,ltd,2012-11-19,"10c - 10e Folgate Road, North Walsham, Norfolk, NR28 0AJ",NR28 0AJ,North Walsham,Norfolk,45200,False,False,fitting_service
+05923931,MATLOCK MOT TYRE & EXHAUST CENTRE LIMITED,active,ltd,2006-09-04,"18 Bakewell Road, Matlock, DE4 3AU",DE4 3AU,Matlock,,45200,False,False,fitting_service
+16833262,MELKSHAM CAR SALE AND TYRE CENTRE LTD,active,ltd,2025-11-05,"141 Victoria Road, Swindon, SN1 3BU",SN1 3BU,Swindon,,45112; 45200; 45320; 81299,False,False,fitting_service
+01563274,MELTON TYRE AND EXHAUST CENTRE LIMITED,active,ltd,1981-05-21,"Blofield Business Centre Woodbastwick Road, Blofield, Norwich, NR13 4RR",NR13 4RR,Norwich,,45200,False,False,fitting_service
+01898265,MERROW TYRE AND ALIGNMENT CENTRE LIMITED,active,ltd,1985-03-22,"Unit 1 & 2 Farnham Business Centre, Dogflud Way, Farnham, Surrey, GU9 7UP",GU9 7UP,Farnham,Surrey,45320; 96090,False,False,fitting_service
+08068347,MIDDLESBROUGH TYRE & AUTO CENTRE LIMITED,active,ltd,2012-05-14,"Middlesbrough Tyre & Auto Centre, Ormesby Road, Middlesbrough, Cleveland, TS3 0NB",TS3 0NB,Middlesbrough,Cleveland,45200,False,False,fitting_service
+12793109,MIDLAND TYRES SERVICE CENTRE LTD,active,ltd,2020-08-05,"Shakespeare Buildings, 26 Cradley Road, Cradley Heath, West Midlands, B64 6AG",B64 6AG,Cradley Heath,West Midlands,45200,False,False,fitting_service
+NI733352,MID ULSTER TYRE CENTRE LIMITED,active,ltd,2025-09-15,"Unit 1 21 Coleraine Road, Maghera, County Derry, BT46 5BN",BT46 5BN,Maghera,County Derry,45320,False,False,fitting_service
+04669680,MILDENHALL TYRE & AUTO CENTRE LTD,active,ltd,2003-02-18,"57 Field Road, Mildenhall, Suffolk, IP28 7AN",IP28 7AN,Suffolk,,33170,False,False,fitting_service
+16381070,MILLOM TYRE CENTRE LTD,active,ltd,2025-04-11,"5 Beck Brow, Bootle, Millom, LA19 5UJ",LA19 5UJ,Millom,,45200,False,False,fitting_service
+16326397,MITCHAM TYRES & MOT CENTRE LTD,active,ltd,2025-03-19,"126 Wandsworth High Street, London, SW18 4JP",SW18 4JP,London,,45200; 45320,False,False,fitting_service
+11912682,MOSTON TYRE CENTRE LTD,active,ltd,2019-03-29,"1-9 Gill Street, Manchester, M9 4HA",M9 4HA,Manchester,,45320,False,False,fitting_service
+11131444,MOTORSTART MOT AND TYRE CENTRE LTD,active,ltd,2018-01-03,"1 York St, York Street, Wigan, WN3 4BY",WN3 4BY,Wigan,,45112; 45200,False,False,fitting_service
+03689817,MOTTINGHAM NEW & USED TYRES CENTRE LTD,active,ltd,1998-12-29,"117 Dartford Road, Dartford, Kent, DA1 3EN",DA1 3EN,Kent,,45200,False,False,fitting_service
+15576052,MR EXHAUST & TYRE CENTRE LTD,active,ltd,2024-03-19,"Unit 8 Laceby Business Park, Laceby, Grimsby, North East Lincolnshire, DN37 7DP",DN37 7DP,Grimsby,North East Lincolnshire,45200,False,False,fitting_service
+04694002,NAILSWORTH TYRE CENTRE LIMITED,active,ltd,2003-03-12,"46 George Street, Nailsworth, Stroud, GL6 0AG",GL6 0AG,Stroud,,45320,False,False,fitting_service
+07988242,NEWBIGGIN TYRE CENTRE LIMITED,active,ltd,2012-03-13,"Swallow House, Parsons Road, Washington, Tyne And Wear, NE37 1EZ",NE37 1EZ,Washington,Tyne And Wear,45200,False,False,fitting_service
+NI018712,NORTH-WEST TYRE & BATTERY CENTRE LIMITED,active,ltd,1985-08-08,"177d Strand Road, Londonderry, Co.Londonderry, BT48 7PU",BT48 7PU,Co.Londonderry,,45320,False,False,fitting_service
+14699022,NORTHWOOD TYRE AND MOT CENTRE LTD,active,ltd,2023-03-01,"1a Kingsburys Lane, Ringwood, BH24 1EL",BH24 1EL,Ringwood,,45200,False,False,fitting_service
+10777836,OLDHAM TYRES & EXHAUSTS CENTRE LIMITED,active,ltd,2017-05-18,"182 Chamber Road, Oldham, OL8 4DJ",OL8 4DJ,Oldham,,45320,False,False,fitting_service
+12542978,1ST CALL TYRES & SERVICE CENTRE LTD,active,ltd,2020-04-01,"20-22 Wenlock Road, London, N1 7GU",N1 7GU,London,,45200,False,False,fitting_service
+16536104,1ST FIT TYRE CENTRE NEWPORT LTD,active,ltd,2025-06-23,"Unit 1 Mill Parade, Newport, NP20 2JR",NP20 2JR,Newport,,45200,False,False,fitting_service
+16744689,ONE STOP CAR WASH & TYRE CENTRE LTD,active,ltd,2025-09-26,"1c Orchard Road, Walsall, WS5 4UT",WS5 4UT,Walsall,,45200,False,False,fitting_service
+09870108,1 STOP TYRE & SERVICE CENTRE LTD,active,ltd,2015-11-12,"1 Stop Tyre & Service Centre Ltd, Albion Close, Worksop, Nottinghamshire, S80 1RA",S80 1RA,Worksop,Nottinghamshire,45200,False,False,fitting_service
+13070993,ONE STOP TYRE CENTRE LTD,active,ltd,2020-12-08,"22 Hayes Grove, Erdington, Birmingham, West Midlands, B24 0HR",B24 0HR,Birmingham,West Midlands,45320,False,False,fitting_service
+12754223,1ST STOP 4 TYRES AND AUTO CENTRE LIMITED,active,ltd,2020-07-19,"Danemcourt House, 109 Sutton Park Road, Kidderminster, Worcestershire, DY11 6JG",DY11 6JG,Kidderminster,Worcestershire,45320,False,False,fitting_service
+16639974,PADIHAM TYRES CENTRE LIMITED,active,ltd,2025-08-10,"Unit 31 Riverside Mill Lune Street, Padiham, Burnley, BB12 8DG",BB12 8DG,Burnley,,45200,False,False,fitting_service
+05814683,PAT LAVERY TYRE & EXHAUST CENTRE LIMITED,active,ltd,2006-05-12,"Pat Lavery Blackhills Road, Horden, Peterlee, SR8 4LG",SR8 4LG,Peterlee,,45200,False,False,fitting_service
+NI636718,PEARSE ROAD TYRE CENTRE (LETTERKENNY) LTD,active,ltd,2016-02-26,"189 Melmont Road, Strabane, Tyrone, BT82 9LA",BT82 9LA,Strabane,Tyrone,82990,False,False,fitting_service
+04208956,PELLON TYRES AND AUTO CENTRE LIMITED,active,ltd,2001-05-01,"Pellon Tyres And Auto Centre, Pellon Lane, Halifax, West Yorkshire, HX1 4PZ",HX1 4PZ,Halifax,West Yorkshire,45200,False,False,fitting_service
+15860518,PENNYGILLAM TYRE CENTRE LTD,active,ltd,2024-07-26,"Pennygillam Auto Centre, Unit 39a-B Pennygillam Way, Pennygillam Industrial Estate, Launceston, Cornwall, PL15 7ED",PL15 7ED,Launceston,Cornwall,45320,False,False,fitting_service
+06544561,PEWSEY TYRE AND AUTO CENTRE LIMITED,active,ltd,2008-03-26,"Unit 1 Hatfield Farm, Oare, Pewsey, Wiltshire, SN8 4JE",SN8 4JE,Pewsey,Wiltshire,45200,False,False,fitting_service
+16575159,PINNER TYRES & ALIGNMENT CENTRE LTD,active,ltd,2025-07-10,"166 Pinner Road, Harrow, Greater London, HA1 4JJ",HA1 4JJ,Greater London,,45200,False,False,fitting_service
+05034442,PIT STOP TYRE & EXHAUST CENTRE LIMITED,active,ltd,2004-02-04,"Pitstop Tyre & Exhaust Centre, Dolycoed Terrace, Ferndale, Mid Glamorgan, CF43 3BW",CF43 3BW,Ferndale,Mid Glamorgan,45200,False,False,fitting_service
+15936486,PITSTOP TYRE & SERVICE CENTRE LTD,active,ltd,2024-09-04,"133a Burbank Street, Hartlepool, TS24 7JW",TS24 7JW,Hartlepool,,45200,False,False,fitting_service
+07207202,PITSTOP TYRE CENTRE (HAYES) LIMITED,active,ltd,2010-03-30,"40 Lynwood Avenue, Slough, SL3 7BH",SL3 7BH,Slough,,96090,False,False,fitting_service
+05021308,PONTYPOOL TYRE & EXHAUST CENTRE LIMITED,active,ltd,2004-01-21,"Unit 16 North Pontypool Industrial Estate, Pontnewynydd, Pontypool, Gwent, NP4 6PB",NP4 6PB,Pontypool,Gwent,45200,False,False,fitting_service
+07817577,POOLE TYRE & MOT CENTRE LIMITED,active,ltd,2011-10-20,"Forest Links Road, Ferndown, Dorset, BH22 9PH",BH22 9PH,Ferndown,Dorset,45200,False,False,fitting_service
+10409903,PRESTIGE TYRE & AUTO CENTRE LIMITED,active,ltd,2016-10-04,"Unit 6 Bullrush Business Park, 624 Bradford Road, Batley, West Yorkshire, WF17 8HF",WF17 8HF,Batley,West Yorkshire,82990,False,False,fitting_service
+10113440,PSM TYRES & REPAIRS CENTRE LTD,active,ltd,2016-04-08,"Unit 1 Royds Mill, Dye House Lane, Brighouse, West Yorkshire, HD6 1LL",HD6 1LL,Brighouse,West Yorkshire,33190,False,False,fitting_service
+16480954,QP TYRES CENTRE LIMITED,active,ltd,2025-05-28,"712 London Road, Grays, RM20 3JT",RM20 3JT,Grays,,45200; 45320,False,False,fitting_service
+06535616,RADCLIFFE TYRE CENTRE LTD,active,ltd,2008-03-17,"164 Walkden Road, Worsley, Manchester, M28 7DP",M28 7DP,Manchester,,45200; 45320,False,False,fitting_service
+12801794,RAINHAM TYRES CENTRE LTD,active,ltd,2020-08-10,"136 Eastern Avenue, Ilford, Essex, IG4 5AG",IG4 5AG,Ilford,Essex,45200,False,False,fitting_service
+13650915,RAWDON TYRES & AUTO CENTRE LTD,active,ltd,2021-09-29,"Main Street, Fulletby, Horncastle, Lincolnshire, LN9 6JY",LN9 6JY,Horncastle,Lincolnshire,45320,False,False,fitting_service
+11615344,REDRUTH TYRE CENTRE LTD,active,ltd,2018-10-10,"Redruth Business Centre, School Lane, Redruth, TR15 2DU",TR15 2DU,Redruth,,45320,False,False,fitting_service
+01805384,REEVES TYRE CENTRE LIMITED,active,ltd,1984-04-03,"Spalding Road, Gosberton, Spalding, Lincs, PE11 4HL",PE11 4HL,Spalding,Lincs,45200,False,False,fitting_service
+13794327,REGENT TYRES & MOT CENTRE LIMITED,active,ltd,2021-12-10,"109 Coleman Road, Leicester, LE5 4LE",LE5 4LE,Leicester,,45200,False,False,fitting_service
+11674510,REVS TYRE AND AUTO CENTRE LTD,active,ltd,2018-11-13,"Unit 10d Vale Business Park, Llandow, Cowbridge, CF71 7PF",CF71 7PF,Cowbridge,,45200,False,False,fitting_service
+15622340,RISHI'S MOT CENTRE AND TYRE CHECK LTD,active,ltd,2024-04-06,"1a Thorngrove Road, London, E13 0SH",E13 0SH,London,,45200; 45320; 71200,False,False,fitting_service
+10014608,ROAD RUNNER TYRE CENTRE LIMITED,active,ltd,2016-02-19,"A H Accountancy Services, 61 Blagden Street, Sheffield, S2 5QS",S2 5QS,Sheffield,,45200,False,False,fitting_service
+05655700,ROADSTAR TYRES & EXHAUST CENTRES LIMITED,active,ltd,2005-12-15,"34-40 High Street, Wanstead, London, E11 2RJ",E11 2RJ,Wanstead,London,45200,False,False,fitting_service
+15626939,ROBIN HOOD TYRES & SERVICING CENTRE LIMITED,active,ltd,2024-04-08,"40 St. Peters Street, Nottingham, NG7 3FF",NG7 3FF,Nottingham,,45200,False,False,fitting_service
+09620804,ROCHE MOT & TYRE CENTRE LTD,active,ltd,2015-06-03,"14 & 15 Southernhay West, Exeter, EX1 1PL",EX1 1PL,Exeter,,45200,False,False,fitting_service
+16462305,ROTHERHAM TYRE CENTRE LTD,active,ltd,2025-05-20,"Rotherham Tyre Centre Unit 5, Greasbrough Road, Rotherham, S60 1RD",S60 1RD,Rotherham,,45200,False,False,fitting_service
+10000390,ROYSTON TYRES & EXHAUST CENTRE LIMITED,active,ltd,2016-02-11,"11 Ampthill Road, Shefford, Bedfordshire, SG17 5BE",SG17 5BE,Shefford,Bedfordshire,45200,False,False,fitting_service
+10914182,RUNCORN TYRE AND SERVICE CENTRE LIMITED,active,ltd,2017-08-14,"Unit 1 ,Puritan Buildings, Halton Road, Runcorn, WA7 5QP",WA7 5QP,Runcorn,,33170,False,False,fitting_service
+07705691,SAFEWAY TYRE & EXHAUST CENTRE LTD,active,ltd,2011-07-14,"Unit 12 Olympus Close, Whitehouse Road, Ipswich, Suffolk, IP1 5LJ",IP1 5LJ,Ipswich,Suffolk,45200,False,False,fitting_service
+06816408,SANDFORD TYRE EXHAUST CENTRE LIMITED,active,ltd,2009-02-11,"Sandford Tyres & Exhaust Ltd Bridgwater Road, Redhill, Bristol, North Somerset, BS40 5TG",BS40 5TG,Bristol,North Somerset,45200,False,False,fitting_service
+08791081,SANVEYGATE TYRE CENTRE LIMITED,active,ltd,2013-11-26,"Rawdon House, Rawdon Terrace, Ashby-De-La-Zouch, Leicestershire, LE65 2GN",LE65 2GN,Ashby-De-La-Zouch,Leicestershire,45200,False,False,fitting_service
+15615066,SA1 TYRE CENTRE LTD,active,ltd,2024-04-04,"16 Station Road, Port Talbot, SA13 1JB",SA13 1JB,Port Talbot,,45200,False,False,fitting_service
+15162830,SELECT MOT AND TYRE CENTRE LIMITED,active,ltd,2023-09-25,"Unit 2 Winifred Road, Neath, SA10 6HP",SA10 6HP,Neath,,45200,False,False,fitting_service
+10906492,7KINGS TYRES & AUTO CENTRE LTD,active,ltd,2017-08-09,"121 Francis Avenue, Ilford, IG1 1TT",IG1 1TT,Ilford,,96090,False,False,fitting_service
+10000277,SHEFFORD TYRES & EXHAUST CENTRE LIMITED,active,ltd,2016-02-11,"11 Ampthill Road, Shefford, Bedfordshire, SG17 5BE",SG17 5BE,Shefford,Bedfordshire,45200,False,False,fitting_service
+SC075703,SHETLAND EXHAUST & TYRE CENTRE LIMITED,active,ltd,1981-07-31,"12 Montfield Montfield, Lerwick, Shetland, ZE1 0QA",ZE1 0QA,Shetland,,68209,False,False,fitting_service
+SC865992,SHOTTS TYRE CENTRE LIMITED,active,ltd,2025-10-10,"191 Station Road, Shotts, ML7 4BA",ML7 4BA,Shotts,,45320,False,False,fitting_service
+16150244,SKY TYRE AND MOT CENTRE LIMITED,active,ltd,2024-12-23,"164 Hounslow Road, Feltham, TW14 0BW",TW14 0BW,Feltham,,45200; 45320,False,False,fitting_service
+08839666,SLOUGH TYRE CENTRE LTD,active,ltd,2014-01-10,"Stc, Petersfield Avenue, Slough, Berkshire, SL2 5DZ",SL2 5DZ,Slough,Berkshire,47190,False,False,fitting_service
+16107080,SMART TYRES CENTRE LIMITED,active,ltd,2024-11-28,"12 Millership Way, Ilkeston, Derbyshire, DE7 8DW",DE7 8DW,Ilkeston,Derbyshire,45200,False,False,fitting_service
+07531142,SMOOTH RIDE TYRE AND AUTO CENTRES LTD,active,ltd,2011-02-16,"12 York Place, Barry, Vale Of Glamorgan, CF62 7ED",CF62 7ED,Barry,Vale Of Glamorgan,45200,False,False,fitting_service
+15875244,SOUTH CROYDON TYRES & SERVICES CENTRE LTD,active,ltd,2024-08-03,"72a Selsdon Road, South Croydon, Croydon, CR2 6PF",CR2 6PF,Croydon,,45200; 45320; 96090,False,False,fitting_service
+06101534,SOUTH LONDON TYRE CENTRE LIMITED,active,ltd,2007-02-13,"22 Northwood Road, Thornton Heath, CR7 8HQ",CR7 8HQ,Thornton Heath,,45200,False,False,fitting_service
+13326287,SOUTH WALES TYRE CENTRE LTD,active,ltd,2021-04-09,"Unit 2 Premier Building Pantglas Farm Industrial Estate, Bedwas, Caerphilly, CF83 8YE",CF83 8YE,Caerphilly,,45320,False,False,fitting_service
+02773864,SOUTH YORKSHIRE TYRE CENTRE LIMITED,active,ltd,1992-12-15,"Birch Tree Lodge Park Drive, Sprotbrough, Doncaster, South Y, DN5 7LS",DN5 7LS,Doncaster,South Y,45200,False,False,fitting_service
+15756178,SPANNERS TYRES & ALIGNMENT CENTRE LTD,active,ltd,2024-06-02,"Unit 3 Leaside Nursery Sedge Green, Nazeing, Waltham Abbey, EN9 2PA",EN9 2PA,Waltham Abbey,,45200,False,False,fitting_service
+16109739,SPON END TYRES & SERVICE CENTRE LTD,active,ltd,2024-11-29,"Unit 11 The Arches Trading Estate, Spon End, Coventry, CV1 3JQ",CV1 3JQ,Coventry,,45200,False,False,fitting_service
+10715068,STAR TYRE CENTRE LIMITED,active,ltd,2017-04-07,"Star Tyre Centre Towyn Road, Towyn, Abergele, LL22 9HU",LL22 9HU,Abergele,,52290,False,False,fitting_service
+14209532,STATION ROAD TYRE CENTRE LTD,active,ltd,2022-07-01,"7-8 Station Road, Rowley Regis, B65 0JY",B65 0JY,Rowley Regis,,45200,False,False,fitting_service
+09449556,STATION TYRES & SERVICE CENTRE LIMITED,active,ltd,2015-02-19,"Rich Sidings, Lower Broadway, Didcot, Oxfordshire, OX11 8AG",OX11 8AG,Didcot,Oxfordshire,99999,False,False,fitting_service
+15773890,STOKE TYRE CENTRE LTD,active,ltd,2024-06-12,"Uttoxeter Road, Stoke Tyre Centre, Stoke On Trent, ST3 1PF",ST3 1PF,Stoke On Trent,,45200,False,False,fitting_service
+08497272,STONEHOUSE EXHAUST & TYRE CENTRE LIMITED,active,ltd,2013-04-22,"Office 5 Hallidays Mill London Road, Chalford, Stroud, GL6 8NR",GL6 8NR,Stroud,,45200,False,False,fitting_service
+13098741,STONE TYRES MOT AND SERVICE CENTRE LTD,active,ltd,2020-12-23,"8 Hill Street, St. Helens, WA10 2SS",WA10 2SS,St. Helens,,45200,False,False,fitting_service
+01805833,STOWMARKET EXHAUST & TYRE CENTRE LIMITED,active,ltd,1984-04-04,"Unit 3 Charles Ind/Est, Stowupland Road, Stowmarket, Suffolk, IP14 5AH",IP14 5AH,Stowmarket,Suffolk,45200,False,False,fitting_service
+16065720,SWANSEA TYRE CENTRE LTD,active,ltd,2024-11-07,"Unit 7 Sa1 Business Park, Langdon Road, Swansea, SA1 8DB",SA1 8DB,Swansea,,45310; 45320,False,False,fitting_service
+09080665,SWANSEA VALLEY EXHAUST AND TYRE CENTRE LIMITED,active,ltd,2014-06-11,"Gnoll Road Godrergraig, Ystalyfera, Swansea, SA9 2PA",SA9 2PA,Swansea,,45320,False,False,fitting_service
+15466725,TALBOT TYRE CENTRE LIMITED,active,ltd,2024-02-05,"291b Talbot Road, Stretford, Manchester, M32 0YA",M32 0YA,Manchester,,45200,False,False,fitting_service
+08998986,TAMAR TYRE CENTRE LIMITED,active,ltd,2014-04-15,"Valley View Garage, East Taphouse, Liskeard, Cornwall, PL14 4NJ",PL14 4NJ,Liskeard,Cornwall,45200,False,False,fitting_service
+10324006,TENBY TYRE CENTRE LIMITED,active,ltd,2016-08-10,"Barclays Bank Chambers, 18 High Street, Tenby, Pembrokeshire, SA70 7HD",SA70 7HD,Pembrokeshire,,45200,False,False,fitting_service
+SC797165,TEVIOT TYRES & MOT CENTRE LIMITED,active,ltd,2024-01-30,"Unit 10 Lochpark Industrial Estate, Hawick, TD9 9JA",TD9 9JA,Hawick,,45200,False,False,fitting_service
+06391893,THATCHAM TYRE & EXHAUST CENTRE LIMITED,active,ltd,2007-10-08,"Unit 23 Turnpike Industrial Estate, Newbury, Berkshire, RG14 2LR",RG14 2LR,Newbury,Berkshire,45200,False,False,fitting_service
+SC308479,THURSO TYRE CENTRE LTD,active,ltd,2006-09-12,"Wilson Street, Thurso, Caithness, KW14 8AQ",KW14 8AQ,Thurso,Caithness,45320,False,False,fitting_service
+16398812,TIGER TYRES CENTRE LIMITED,active,ltd,2025-04-22,"101 Fairfield Street, Manchester, M1 2AH",M1 2AH,Manchester,,45200,False,False,fitting_service
+11430502,TIPTON MOT AND TYRE CENTRE LTD,active,ltd,2018-06-25,"S R Autocentre, Sedgley Road West, Tipton, West Midlands, DY4 8AA",DY4 8AA,Tipton,West Midlands,96090,False,False,fitting_service
+10469939,TITHE FARM TYRE & SERVICE CENTRE LTD,active,ltd,2016-11-09,"214 Alexandra Avenue, Harrow, HA2 9BU",HA2 9BU,Harrow,,45200,False,False,fitting_service
+04144528,TOLLGATE TYRE & EXHAUST CENTRE LIMITED,active,ltd,2001-01-19,"37-41 Holywells Road, Ipswich, Suffolk, IP3 0DL",IP3 0DL,Ipswich,Suffolk,45200,False,False,fitting_service
+06886230,TOP GEAR TYRE AND EXHAUST CENTRE LTD,active,ltd,2009-04-23,"Unit 5 Midland Road Industrial Estate, Midland Road, Swadlincote, Derbyshire, DE11 0AN",DE11 0AN,Swadlincote,Derbyshire,33170,False,False,fitting_service
+06399242,TOP GEAR TYRE CENTRE LIMITED,active,ltd,2007-10-15,"116 Duke Street, Liverpool, Merseyside, L1 5JW",L1 5JW,Liverpool,Merseyside,45310,False,False,fitting_service
+12667724,TOP GEAR TYRE CENTRE HOLDINGS LIMITED,active,ltd,2020-06-12,"116 Duke Street, Liverpool, Merseyside, L1 5JW",L1 5JW,Liverpool,Merseyside,64209,False,False,fitting_service
+15826363,"TOP TREAD TYRE, EXHAUST & MOT CENTRE LTD",active,ltd,2024-07-08,"Unit 1&2 Britannia Industrial Park,, Dashwood Avenue, High Wycombe, Buckinghamshire, HP12 3ES",HP12 3ES,High Wycombe,Buckinghamshire,45200,False,False,fitting_service
+09215366,TOWNGATE TYRES AND SERVICE CENTRE LIMITED,active,ltd,2014-09-12,"Towngate Tyres And Service Centre Whitley Way, Northfields Industrial Estate, Market Deeping, Peterborough, PE6 8AR",PE6 8AR,Peterborough,,45200,False,False,fitting_service
+12601597,TREAD SAFE TYRE CENTRE LIMITED,active,ltd,2020-05-14,"Unit 5e Boardman Road, Swadlincote, DE11 9DL",DE11 9DL,Swadlincote,,45190; 45320,False,False,fitting_service
+13010654,TREADZ TYRES AND AUTOCARE CENTRE LIMITED,active,ltd,2020-11-11,"Unit 3a Heron Road, Rumney, Cardiff, CF3 3HL",CF3 3HL,Cardiff,,45200,False,False,fitting_service
+04768454,TRU-FIT TYRE AND AUTO CENTRE LIMITED,active,ltd,2003-05-18,"1 Derby Road, Eastwood, Nottingham, Nottinghamshire, NG16 3PA",NG16 3PA,Nottingham,Nottinghamshire,45200,False,False,fitting_service
+09325893,TRURO TYRE & WHEEL CENTRE LTD,active,ltd,2014-11-25,"14 & 15 Southernhay West, Exeter, EX1 1PL",EX1 1PL,Exeter,,45200,False,False,fitting_service
+04350835,TYNE TYRES AUTO CENTRE LIMITED,active,ltd,2002-01-10,"The Auto Centre, Tanners Bank, North Shields, Tyne & Wear, NE30 1JH",NE30 1JH,North Shields,Tyne & Wear,45200,False,False,fitting_service
+NI612612,THE TYRE & AUTO CENTRE LTD,active,ltd,2012-05-08,"1 Loughway Business Park, Greenbank Ind. Estate, Newry, County Down, BT34 2TH",BT34 2TH,Newry,County Down,45200,False,False,fitting_service
+05265257,TYRE AND BATTERY CENTRE LIMITED,active,ltd,2004-10-20,"Unit 2 Shepherd Road, Gloucester, Gloucestershire, GL2 5EL",GL2 5EL,Gloucester,Gloucestershire,45310,False,False,fitting_service
+04197194,THE TYRE & EXHAUST CENTRE LIMITED,active,ltd,2001-04-10,"58 Bridge Street, Pinner, Middlesex, HA5 3JF",HA5 3JF,Middlesex,,45200,False,False,fitting_service
+12416601,TYRE BASE AUTO CENTRE LTD,active,ltd,2020-01-21,"305-317 Wednesbury Road, Walsall, WS2 9QJ",WS2 9QJ,Walsall,,45200,False,False,fitting_service
+05249505,TYRED AND EXHAUSTED AUTO CENTRES LIMITED,active,ltd,2004-10-04,"260 - 270 Butterfield, Great Marlings, Luton, Bedfordshire, LU2 8DL",LU2 8DL,Luton,Bedfordshire,45200,False,False,fitting_service
+08234753,DISCOUNT TYRES STOP AND STEER CENTER LIMITED,active,ltd,2012-10-01,"Discount Tyres, Chalkwell Road, Sittingbourne, Kent, ME10 1BJ",ME10 1BJ,Sittingbourne,Kent,45200,False,False,fitting_service
+15709575,LEICESTER TYRES & TESTING CENTER LTD,active,ltd,2024-05-08,"Unit 11 Clarendon Business Park, Oakland Road, Leicester, LE2 6AP",LE2 6AP,Leicester,,45200,False,False,fitting_service
+15042441,LOUTH TYRE CENTER LTD,active,ltd,2023-08-01,"32 Reynolds Street, Cleethorpes, DN35 7TU",DN35 7TU,Cleethorpes,,45200,False,False,fitting_service
+14971355,PREMIER TYRE CENTER LTD,active,ltd,2023-06-30,"39 Olympus Close, Ipswich, IP1 5LJ",IP1 5LJ,Ipswich,,45200,False,False,fitting_service
+SC827007,SALTYRES TYRE CENTER LTD,active,ltd,2024-10-25,"Unit 4 239 Shawbridge Street, Glasgow, G43 1QN",G43 1QN,Glasgow,,45320,False,False,fitting_service
+12551552,SAMI TYRE & SERVICE CENTER LTD,active,ltd,2020-04-08,"204c Hampton Road West, Feltham, TW13 6BG",TW13 6BG,Feltham,,45200; 45320,False,False,fitting_service
+14833242,SA1 TYRE CENTER LIMITED,active,ltd,2023-04-27,"40 Jones Terrace, Swansea, SA1 6YN",SA1 6YN,Swansea,,45200; 45310; 45320; 96090,False,False,fitting_service
+15094199,SA TYRES & WHEEL ALIGNMENT CENTER LTD,active,ltd,2023-08-24,"Sa Tyres 1a, Farndon Road, Birmingham, B8 3HR",B8 3HR,Birmingham,,45200,False,False,fitting_service
+SC718435,BLANTYRE MOT CENTER LTD,active,ltd,2021-12-28,"211b Main Street, Bellshill, Lanarkshire, ML4 1AJ",ML4 1AJ,Bellshill,Lanarkshire,45200,False,False,fitting_service
+15290338,RETREADS LIMITED,active,ltd,2023-11-16,"61 Charlotte Street, St Pauls Square, Birmingham, West Midlands, B3 1PX",B3 1PX,Birmingham,West Midlands,22190; 22290,False,False,retread
+01164232,RETREADERS REQUIREMENTS LIMITED,active,ltd,1974-03-25,"2 Lake End Court, Taplow Road, Taplow, Maidenhead, Berkshire, SL6 0JQ",SL6 0JQ,Maidenhead,Berkshire,45320,False,False,retread
+03548928,RETREADING BUSINESS LIMITED,active,ltd,1998-04-20,"15 Blackthorn Close, Wistaston, Crewe, Cheshire, CW2 6PQ",CW2 6PQ,Crewe,Cheshire,58142,True,False,truck_commercial; retread
+01337431,CAVALIER RETREADS LIMITED,active,ltd,1977-11-04,"C/O Kpmg, Festival Way, Stoke On Trent, ST1 5TA",ST1 5TA,Stoke On Trent,,2513,False,False,retread
+08688477,CENTURION RETREADS LIMITED,active,ltd,2013-09-12,"Unit C Leyland Business Park Centurion Way, Farington, Leyland, PR25 3GR",PR25 3GR,Leyland,,45320,False,False,retread
+15820173,DWELL RETREAD LTD,active,ltd,2024-07-04,"12 Dorchester Road, Solihull, West Midlands, B91 1LS",B91 1LS,Solihull,West Midlands,68100; 68209,False,False,retread
+SC421580,GRANITE RETREADS LIMITED,active,ltd,2012-04-11,"25 Carmyle Avenue, Glasgow, G32 8HN",G32 8HN,Glasgow,,43290,False,False,retread
+14432302,GB TYRE RETREADING LIMITED,active,ltd,2022-10-20,"Milburn House Hexham Business Park, Burn Lane, Hexham, Northumberland, NE46 3RU",NE46 3RU,Hexham,Northumberland,22110,False,False,retread
+00993489,RED DRAGON RETREADING LIMITED,active,ltd,1970-11-04,"Unit 26 Sturmi Way, Village Farm Industrial Estate, Pyle, Mid Glamorgan, CF33 6BZ",CF33 6BZ,Pyle,Mid Glamorgan,22110,False,False,retread
+08421147,REMOULD LIMITED,active,ltd,2013-02-27,"145a Ashley Road, Hale, Altrincham, WA14 2UW",WA14 2UW,Altrincham,,32990,False,False,retread
+16763105,REMOULD PERFORMANCE LTD,active,ltd,2025-10-04,"11 The Blackthorns, Burgess Hill, RH15 8HW",RH15 8HW,Burgess Hill,,85510; 93199,False,False,retread
+00932731,BULLDOG REMOULDS LIMITED,active,ltd,1968-05-27,"Athena Drive, Tachbrook Park, Warwick, Warwickshire, CV34 6UX",CV34 6UX,Warwick,Warwickshire,22110,False,False,retread
+03032449,GLOBAL REMOULD SERVICES LIMITED,active,ltd,1995-03-13,"Booth Street Chambers, Booth Street, Ashton Under Lyne, OL6 7LQ",OL6 7LQ,Ashton Under Lyne,,45310,False,False,retread; fitting_service
+00816211,NORTH STAR REMOULDS LIMITED,active,ltd,1964-08-18,"5 Barnsley Road, Scissett, Nr Huddersfield, Yorks, HD8 9HW",HD8 9HW,Nr Huddersfield,Yorks,45320,False,False,retread
+03404615,SELECT REMOULDS LTD,active,ltd,1997-07-17,"Suite 8 Stonebridge House Main Road, Hawkwell, Hockley, Essex, SS5 4JH",SS5 4JH,Hockley,Essex,22110,False,False,retread
+00928436,KINGSHILL REMOULDING COMPANY LIMITED,active,ltd,1968-03-07,"Wiltshire House County Park Business Centre, Shrivenham Road, Swindon, Wiltshire, SN1 2NR",SN1 2NR,Swindon,Wiltshire,99999,False,False,retread
+00514164,NORTH HANTS TYRE AND REMOULDING COMPANY LIMITED,active,ltd,1952-12-12,"Henry John House, 2 Ivy Road, Aldershot, Hants, GU12 4TX",GU12 4TX,Aldershot,Hants,45310; 45320,False,False,retread
+01089351,KINGPIN TYRES LIMITED,active,ltd,1973-01-02,"Unit A9 Wem Industrial Estate, Soulton Road, Wem, Shropshire, SY4 5SD",SY4 5SD,Wem,Shropshire,22110,False,False,general_tyre
+01350593,BANDVULC TYRES LTD,active,ltd,1978-01-30,"Gillard Way, Lee Mill Industrial Estate, Ivybridge, Devon, PL21 9LN",PL21 9LN,Ivybridge,Devon,22110,False,False,general_tyre
+16746757,AM TYRE LTD,active,ltd,2025-09-27,"Brook House, Weybrook Road, Manchester, M19 2QD",M19 2QD,Manchester,,45200,False,False,general_tyre
+16014664,ANTHONY TYRER LIMITED,active,ltd,2024-10-13,"Unit 11 Old London Road, Wheatley, Oxford, OX33 1XW",OX33 1XW,Oxford,,66220,False,False,general_tyre
+16948037,ANTHONY TYRER HOLDINGS LIMITED,active,ltd,2026-01-07,"Unit 11 Old London Road, Wheatley, Oxford, OX33 1XW",OX33 1XW,Wheatley,Oxford,70100,False,False,general_tyre
+16285773,ANY TYRE SOLUTION LTD,active,ltd,2025-03-02,"51 Station Road, Marston Green, Birmingham, B37 7AB",B37 7AB,Birmingham,,45200,False,False,general_tyre
+SC833736,AOK TYRE & PLASTIC RECYCLING(ENVIRONMENTAL) LTD,active,ltd,2025-01-10,"90 Glencroft Road, Glasgow, G44 5RD",G44 5RD,Glasgow,,74901,False,False,general_tyre
+15879263,TYRE WHOLESALE AND RECYCLING LTD,active,ltd,2024-08-05,"Unit 3 Apex Trading Estate, Lower Eccleshill Road, Darwen, BB3 0RP",BB3 0RP,Darwen,,45310,False,False,wholesale
+15505590,TYRE WHOLESALE DIRECT LTD,active,ltd,2024-02-20,"Office 5 Load N Lock, Bernards Way, Yeovil, BA20 2FH",BA20 2FH,Yeovil,,45310,False,False,wholesale
+15572029,TYRE WHOLESALE MANCHESTER LTD,active,ltd,2024-03-17,"Unit G1, Weaste Lane, Salford, M5 5HD",M5 5HD,Salford,,45310,False,False,wholesale
+15807014,BANOZE TYRES WHOLESALE LTD,active,ltd,2024-06-27,"3 Downland Close, London, England, N20 9LB",N20 9LB,London,England,45310,False,False,wholesale
+10253925,CITI TYRES WHOLESALERS LTD,active,ltd,2016-06-28,"7 Welland Road, Peterborough, PE1 3SA",PE1 3SA,Peterborough,,45320,False,False,wholesale
+09795057,COSTA'S TYRES WHOLESALE LIMITED,active,ltd,2015-09-25,"Suite 4102 Charlotte House, Queens Dock Business Centre, 67-83 Norfolk Street, Liverpool, L1 0BG",L1 0BG,Liverpool,,45310,False,False,wholesale
+01509336,DISCOUNT WHOLESALE TYRES (HEMEL) LIMITED,active,ltd,1980-07-25,"7-8 Portmill Lane, Hitchin, Hertfordshire, SG5 1DJ",SG5 1DJ,Hitchin,Hertfordshire,45320,False,False,wholesale
+16381367,GLOBAL WHOLESALE TYRE LTD,active,ltd,2025-04-11,"Unit 02 3 Rabans Close, Rabans Lane Industrial Area, Aylesbury, HP19 8RS",HP19 8RS,Aylesbury,,45310; 45320,False,False,wholesale
+07399286,GROUP TYRE WHOLESALE LIMITED,active,ltd,2010-10-07,"Group House, Lester Road, Aylesbury, Buckinghamshire, HP20 1QN",HP20 1QN,Aylesbury,Buckinghamshire,45310,False,False,wholesale
+NI659262,GTL TYRE WHOLESALE LTD,active,ltd,2019-02-22,"26 Carrive Road, Silverbridge, Newry, BT35 9LJ",BT35 9LJ,Newry,,47990,False,False,wholesale
+16664592,GT MAX TYRES WHOLESALE LTD,active,ltd,2025-08-21,"2-10 Chaffinch Road, Bechenham, BR3 4LU",BR3 4LU,Bechenham,,45310; 45320,False,False,wholesale
+16351702,GT TYRES WHOLESALE LTD,active,ltd,2025-03-28,"C/O Cater Pearson Limited 373, High Street North, London, E12 6PG",E12 6PG,London,,45310; 45320,False,False,wholesale
+16118643,HK TYRES WHOLESALE LIMITED,active,ltd,2024-12-04,"42 Jubilee Street, Cardiff, CF11 6ST",CF11 6ST,Cardiff,,46900,False,False,wholesale
+14012709,KENT WHOLESALE TYRES LTD,active,ltd,2022-03-30,"120 Cavendish Place, Eastbourne, BN21 3TZ",BN21 3TZ,Eastbourne,,45320,False,False,wholesale
+16660918,KMS STOKE WHOLESALE TYRE LIMITED,active,ltd,2025-08-19,"55 Westgreen Avenue, Allenton, Derby, DE24 9AQ",DE24 9AQ,Derby,,22110,False,False,wholesale
+12101496,KMS WHOLESALE TYRES LIMITED,active,ltd,2019-07-12,"Unit 1 Coronation Street, Derby, DE23 8NW",DE23 8NW,Derby,,45310,False,False,wholesale
+04066994,MALVERN TYRES (WHOLESALE) LIMITED,active,ltd,2000-09-07,"Malvern House, Priory Road, Gloucester, GL1 2RQ",GL1 2RQ,Gloucester,,45310,False,False,wholesale
+16263010,MA WHOLESALE TYRE LIMITED,active,ltd,2025-02-19,"31 Duncan Street, Salford, M5 3SQ",M5 3SQ,Salford,,22110; 45310,False,False,wholesale
+07527141,TYRE RECLAIM LIMITED,active,ltd,2011-02-11,"90a  Broomfield Road Broomfield Road, Chelmsford, CM1 1SS",CM1 1SS,Chelmsford,,96090,False,False,general_tyre
+04364012,TYRE RECOVERY LIMITED,active,ltd,2002-01-31,"Compound 15, Tudhoe Industrial Estate, Spennymoor, Durham, DL16 6TL",DL16 6TL,Spennymoor,Durham,45320,False,False,general_tyre
+16134872,TYRE RECYCLING SERVICES (WALES) LTD,active,ltd,2024-12-13,"Unit S Hirwaun Industrial Estate, Hirwaun, Aberdare, CF44 9UP",CF44 9UP,Aberdare,,38320,False,False,fitting_service
+07508490,TYRE REIFEN ENGINEERING AND DEVELOPMENT LIMITED,active,ltd,2011-01-27,"The White House Warrington Road, Bartington, Northwich, Cheshire, CW8 4QU",CW8 4QU,Northwich,Cheshire,71200,False,False,general_tyre
+00921415,TYRE RENEWALS LIMITED,active,ltd,1967-11-06,"Torbay Road, Castle Cary, Somerset, BA7 7DT",BA7 7DT,Somerset,,22190,False,False,general_tyre
+05519095,TYRE REPAIR SPECIALISTS LIMITED,active,ltd,2005-07-26,"Fleet House, New Road, Lancaster, Lancashire, LA1 1EZ",LA1 1EZ,Lancashire,,22110,False,False,general_tyre
+SC712334,TYRE RESCUE LTD,active,ltd,2021-10-15,"40 Ballochney Street, Airdrie, ML6 0LN",ML6 0LN,Airdrie,,45200,False,False,general_tyre
+14803508,TYRE RESCUE 247 LTD,active,ltd,2023-04-14,"Watermills Road, Rowhurst Industrial Estate, Newcastle Under Lyme, Staffordshire, ST5 6FD",ST5 6FD,Newcastle Under Lyme,Staffordshire,45200,False,False,general_tyre
+10034207,TYRE RESOLVE LTD,active,ltd,2016-03-01,"24 Longley Road, Rainham, Gillingham, Kent, ME8 7RT",ME8 7RT,Gillingham,Kent,45320,False,False,general_tyre
+14266562,TYRE RESPONSE 24-7 LTD,active,ltd,2022-08-01,"Rowhurst Ind Est, Watermills Road, Newcastle Under Lyme, Staffordshire, ST5 6FD",ST5 6FD,Newcastle Under Lyme,Staffordshire,45200,False,False,general_tyre
+00980789,TYRE REVIVERS LIMITED,active,ltd,1970-05-29,"Blackbridge Farm, Cranford Road, Kettering, NN15 5JJ",NN15 5JJ,Kettering,,68209,False,False,general_tyre
+08033060,TYRE REVOLUTION LIMITED,active,ltd,2012-04-17,"5 Friarside, Witton Gilbert, Durham, DH7 6RY",DH7 6RY,Durham,,45200,False,False,general_tyre
+14810769,TYRE REX LTD,active,ltd,2023-04-18,"Wayside Wayside, Main Road, Betley, Cheshire, CW3 9AD",CW3 9AD,Betley,Cheshire,45200,False,False,general_tyre
+16329755,TYRE RIGHT LIMITED,active,ltd,2025-03-20,"55 The Crescent, Sherburn Village, Durham, DH6 1EJ",DH6 1EJ,Durham,,45200; 45320,False,False,general_tyre
+SC681142,TYRE RUNNER LTD,active,ltd,2020-11-17,"First Floor 4 Earls Court, Earls Gate Business Park, Grangemouth, FK3 8ZE",FK3 8ZE,Grangemouth,,58290,False,False,general_tyre
+10571413,TYRE SAFE LIMITED,active,ltd,2017-01-18,"167 Turners Hill, Cheshunt, Waltham Cross, EN8 9BH",EN8 9BH,Waltham Cross,,45310,False,False,general_tyre
+NI008504,TYRE SAFETY CENTRE (CO.TYRONE) LIMITED,active,ltd,1971-12-20,"2-4 Dungannon Road, Cookstown, Co Tyrone, BT80 8TL",BT80 8TL,Co Tyrone,,47990,False,False,fitting_service
+14805299,TYRE SALES ABINGDON LIMITED,active,ltd,2023-04-15,"2 Bignell Park Barns, Chesterton, Bicester, OX26 1TD",OX26 1TD,Bicester,,45320,False,False,general_tyre
+09064212,TYRE SALES AND SERVICES LTD,active,ltd,2014-05-30,"Head Office 202 58 Peregrine Road, Ilford, Essex, IG6 3SZ",IG6 3SZ,Ilford,Essex,45112; 45310; 45320,False,False,fitting_service
+12584733,TYRE SALES NW LTD,active,ltd,2020-05-04,"13 Thirlmere Road, Kendal, LA9 6LW",LA9 6LW,Kendal,,45310,False,False,general_tyre
+09473315,TYRE SHACK LIMITED,active,ltd,2015-03-05,"Midland House, 2 Poole Road, Bournemouth, BH2 5QY",BH2 5QY,Bournemouth,,45310,False,False,general_tyre
+15798956,ALL IN ONE STOP TIRES LIMITED,active,ltd,2024-06-24,"36 Cordrey Gardens, Coulsdon, CR5 2SP",CR5 2SP,Coulsdon,,45320,False,False,general_tyre
+07237299,ALL THE TIRED HORSES LIMITED,active,ltd,2010-04-28,"2nd Floor, Northumberland House, 303-306 High Holborn, London, WC1V 7JZ",WC1V 7JZ,London,,82990,False,False,general_tyre
+16223249,ALPINE TIRE RECYCLING LTD,active,ltd,2025-02-02,"1 Alton Gate, Westcroft, Milton Keynes, Buckinghamshire, MK4 4DG",MK4 4DG,Milton Keynes,Buckinghamshire,38210,False,False,general_tyre
+SC871333,ANIMAL CARE TIREE LIMITED,active,private-limited-guarant-nsc,2025-11-28,"Kanoa, Vaul, Isle Of Tiree, PA77 6TP",PA77 6TP,Isle Of Tiree,,75000,False,False,general_tyre
+15984835,ANY CAR TIRES & SERVICING LTD,active,ltd,2024-09-28,"19 Silver Gardens, Belton, Great Yarmouth, NR31 9PD",NR31 9PD,Great Yarmouth,,45200,False,False,general_tyre
+16267919,AUTO TIRES LTD,active,ltd,2025-02-21,"Flat 6 Snow Hill, London, EC1A 2AY",EC1A 2AY,London,,47990,False,False,general_tyre
+02060520,BRIDGESTONE AIRCRAFT TIRE (UK) LIMITED,active,ltd,1986-10-01,"Westgate One, Avia Park Staines Road, Bedfont, Middlesex, TW14 8RS",TW14 8RS,Bedfont,Middlesex,46900,False,False,general_tyre
+SC406705,CEANN TIRE CAPITAL LIMITED,active,ltd,2011-09-02,"8 Douglas Street, Hamilton, Lanarkshire, ML3 0BP",ML3 0BP,Hamilton,Lanarkshire,70221,False,False,general_tyre
+SC508047,COLL & TIREE ANIMAL CARE LTD,active,ltd,2015-06-10,"Sanderling, Balephetrish, Isle Of Tiree, PA77 6UY",PA77 6UY,Isle Of Tiree,,75000,False,False,general_tyre
+00150903,COOPER TIRE & RUBBER COMPANY EUROPE LIMITED,active,ltd,1918-07-04,"2920 Trident Court Solihull Parkway, Birmingham Business Park, Birmingham, B37 7YN",B37 7YN,Birmingham,,22110; 22190,False,False,general_tyre
+SC268711,DISCOVER TIREE,active,private-limited-guarant-nsc-limited-exemption,2004-06-03,"Units 1 And 2 Crossapol, Isle Of Tiree, PA77 6UP",PA77 6UP,Isle Of Tiree,,63990,False,False,general_tyre
+09994105,DOG TIRED PET BEDS LTD,active,ltd,2016-02-09,"Eshton Suite 2 Wynyard Business Park, Wynyard Avenue, Billingham, Cleveland, TS22 5TB",TS22 5TB,Billingham,Cleveland,47990,False,False,general_tyre
+10250800,DOG TIRED PRODUCTIONS LTD,active,ltd,2016-06-24,"Parker House, 44 Stafford Road, Wallington, Surrey, SM6 9AA",SM6 9AA,Wallington,Surrey,90010,False,False,general_tyre
+12936874,EASYFIT TIRE ESSEX LIMITED,active,ltd,2020-10-08,"104a Hythe Hill, Colchester, CO1 2NP",CO1 2NP,Colchester,,45200,False,False,general_tyre
+14856479,EMARK TIRE COMPANY LTD,active,ltd,2023-05-09,"Office 3932 321-323, High Road,, Chadwell Heath,, Essex, RM6 6AX",RM6 6AX,"Chadwell Heath,",Essex,47990,False,False,general_tyre
+16400160,ENCORES TIRE&WHEEL UK LTD,active,ltd,2025-04-22,"17 Woodcock Lane, Northfield, Birmingham, B31 1BA",B31 1BA,Birmingham,,45310; 46900,False,False,general_tyre
+11894202,EUROPEAN TIRE RECYCLING LTD,active,ltd,2019-03-20,"10 Fitzroy Square, London, W1T 5HP",W1T 5HP,London,,82990,False,False,general_tyre
+11409139,FROM TIREE LTD,active,ltd,2018-06-11,"Union House, 111 New Union Street, Coventry, CV1 2NT",CV1 2NT,Coventry,,14190; 32300; 47910,False,False,general_tyre
+15873364,"GANG XING TIRE TRADING CO., LTD",active,ltd,2024-08-03,"53 Whateleys Drive, Kenilworth, Warwickshire, CV8 2GY",CV8 2GY,Kenilworth,Warwickshire,22110; 46190,False,False,general_tyre
+16086904,GENCO TIRE LIMITED,active,ltd,2024-11-18,"13 Dryden Avenue, London, W7 1ES",W7 1ES,London,,45310,False,False,general_tyre
+12573058,GET KIDS TIRED LIMITED,active,ltd,2020-04-27,"C/O Parkes & Swan Ltd, The Officers Mess, Coldstream Road, Caterham, CR3 5QX",CR3 5QX,Caterham,,93290,False,False,general_tyre
+09029156,GITI TIRE HOLDINGS (UK) LIMITED,active,ltd,2014-05-08,"22 Cheshire Avenue, Cheshire Business Park, Lostock, Gralam, Northwich, Cheshire, CW9 7UA",CW9 7UA,Northwich,Cheshire,99999,False,False,general_tyre
+06798296,GITI TIRE (UK) LIMITED,active,ltd,2009-01-22,"22 Cheshire Avenue, Cheshire Business Park Lostock Gralam, Northwich, Cheshire, CW9 7UA",CW9 7UA,Northwich,Cheshire,46900,False,False,general_tyre
+NI694385,GLÓR UACHTAR TIRE,active,private-limited-guarant-nsc-limited-exemption,2023-02-09,"2 Castle Avenue, Castlewellan, BT31 9DX",BT31 9DX,Castlewellan,,85520,False,False,general_tyre
+15746045,GOOD TIRES LTD,active,ltd,2024-05-28,"317 Bradford Road, Batley, WF17 6HY",WF17 6HY,Batley,,45200; 96090,False,False,general_tyre
+09921259,"HEFEI WANLI TIRE CO., LTD",active,ltd,2015-12-17,"Chase Business Centre, 39-41 Chase Side, London, N14 5BP",N14 5BP,London,,99999,False,False,general_tyre
+12267221,HOMELAND TIRES LIMITED,active,ltd,2019-10-17,"No 4 Castle Court, Castlegate Way, Dudley, DY1 4RH",DY1 4RH,Dudley,,99999,False,False,general_tyre
+15860708,HS TIRE N REPAIR LIMITED,active,ltd,2024-07-26,"160 Dock Road, Tilbury, RM18 7BS",RM18 7BS,Tilbury,,45200,False,False,general_tyre
+15116604,INTERCONTINENTAL WHOLESALE TIRES LTD,active,ltd,2023-09-05,"36 Cordrey Gardens, Coulsdon, CR5 2SP",CR5 2SP,Coulsdon,,45310; 45320,False,False,wholesale
+13529830,"JOYALL (WEIHAI) TIRE CO., LTD",active,ltd,2021-07-26,"Chase Business Centre, 39-41 Chase Side, London, N14 5BP",N14 5BP,London,,22110; 45310; 45320; 46630,False,False,general_tyre
+12466070,J.PLANET TIRE UK LTD,active,ltd,2020-02-17,"277 - 279 Chiswick High Road, London, W4 4PU",W4 4PU,London,,45310,False,False,general_tyre
+07892738,KAL TIRE SOUTHERN AFRICAN HOLDINGS LIMITED,active,ltd,2011-12-28,"8 Bluebell Close, Clover Nook Industrial Park, Somercotes, Alfreton, Derbyshire, DE55 4RD",DE55 4RD,Alfreton,Derbyshire,70100,False,False,general_tyre
+01313711,KAL TIRE (UK) LIMITED,active,ltd,1977-05-13,"8 Bluebell Close, Clover Nook Industrial Park, Somercotes, Alfreton, Derbyshire, DE55 4RD",DE55 4RD,Alfreton,Derbyshire,09900,False,False,general_tyre
+16583844,LOUGHBOROUGH TIRES LIMITED,active,ltd,2025-07-15,"Unit 1e Cumberland Road, Loughborough, LE11 5DF",LE11 5DF,Loughborough,,45320,False,False,general_tyre
+FC034723,MAXAM TIRE INTERNATIONAL LIMITED,active,oversea-company,2017-07-01,"3806 Central Plaza 18 Harbour Road, Wanchai",,Wanchai,,,False,False,general_tyre
+09725607,MAXAM TIRE SOLUTIONS LIMITED,active,ltd,2015-08-10,"Ts2 Pinewood Business Park Coleshill Road, Solihull, West Midlands, B37 7HG",B37 7HG,West Midlands,,22110,False,False,general_tyre
+16034367,THE MOBILE TIRE FITTER LTD,active,ltd,2024-10-22,"20, Oakside Court, Fencepiece Road, Ilford, IG6 2PH",IG6 2PH,Ilford,,45200,False,True,mobile
+13084615,MOUNTION TRADING & TIRES REPAIRING UK LIMITED,active,ltd,2020-12-16,"Unit 1a Beckside Mill, Beckside Lane, Bradford, BD7 2JX",BD7 2JX,Bradford,,45200,False,False,general_tyre
+16369012,MTS TIRES LTD,active,ltd,2025-04-07,"58 Fairfield Road, London, N18 2QJ",N18 2QJ,London,,45200,False,False,general_tyre
+12112110,NEATH VALETING AUTO-REPAIR & TIRES LTD,active,ltd,2019-07-19,"22 Castle Square, Merthyr Tydfil, CF47 8NU",CF47 8NU,Merthyr Tydfil,,33170,False,False,general_tyre
+16979669,OK TIRES LIMITED,active,ltd,2026-01-21,"Rokit House Kingswood Business Park, Holyhead Road, Albrighton, Staffordshire, WV7 3AU",WV7 3AU,Albrighton,Staffordshire,45310,False,False,general_tyre
+11409142,ON TIREE LTD,active,ltd,2018-06-11,"Union House, 111 New Union Street, Coventry, CV1 2NT",CV1 2NT,Coventry,,01450; 14390; 47910,False,False,general_tyre
+NI689024,PERFORMANCE TIRES LTD,active,ltd,2022-06-15,"120 Granville Road, Dungannon, BT70 1NW",BT70 1NW,Dungannon,,45320,False,False,general_tyre
+16239090,RAPID TIRE SOLUTIONS LTD,active,ltd,2025-02-09,"15 Robin Hood Drive, Bushey, WD23 2BY",WD23 2BY,Bushey,,45200,False,False,general_tyre
+08848791,RODEO TIRE LTD,active,ltd,2014-01-16,"Msh4973, Rm B, 1/F., La Bldg 66 Corporation Road, Grangetown, Cardiff, Wales, CF11 7AW",CF11 7AW,"Cardiff, Wales",,74990,False,False,general_tyre
+10829863,"SAFEWAY TIRE MANUFACTURE CO., LTD.",active,ltd,2017-06-21,"37 Croydon Road, Beckenham, BR3 4AB",BR3 4AB,Beckenham,,99999,False,False,general_tyre
+16160959,SELFIE TIRE REPAIR TRADING LIMITED,active,ltd,2025-01-03,"115 London Road, Morden, SM4 5HP",SM4 5HP,Morden,,45310; 45320,False,False,general_tyre
+09766074,SETCO SOLID TIRE LTD.,active,ltd,2015-09-07,"Unit 13, Duddeston Mill Trading Estate Duddeston Mill Road, Saltley, Birmingham, B8 1AP",B8 1AP,Birmingham,,22110,False,False,general_tyre
+10351796,"SHANDONG WANSHINE TIRE CO., LTD",active,ltd,2016-08-31,"53 Whateleys Drive, Kenilworth, Warwickshire, CV8 2GY",CV8 2GY,Kenilworth,Warwickshire,99999,False,False,general_tyre
+10438790,"SHIFENG TIRE CO., LTD",active,ltd,2016-10-20,"10438790 - COMPANIES HOUSE DEFAULT ADDRESS, Cardiff, CF14 8LH",CF14 8LH,Cardiff,,74990,False,False,general_tyre
+10234800,SOUTH TIRE LTD,active,ltd,2016-06-16,"98 Darenth Road, London, N16 6ED",N16 6ED,London,,68100; 68209,False,False,general_tyre
+16006415,SPARTS TIRE LTD,active,ltd,2024-10-08,"17 Becket Avenue, Sheffield, S8 7HA",S8 7HA,Sheffield,,20170; 22110; 22190,False,False,general_tyre
+16555487,SPIDER TIRES LTD,active,ltd,2025-07-02,"43 Mewburn, Bretton, Peterborough, PE3 8SG",PE3 8SG,Peterborough,,45200; 45320; 81210; 81222,False,False,general_tyre
+12291689,SUMMIT TIRE COMPANY LTD,active,ltd,2019-10-31,"7 Copperfield Road, Coventry,, West Midlands, England,, CV2 4AQ",CV2 4AQ,"West Midlands, England,",,22110; 45320,False,False,general_tyre
+10291471,TIRE LIMITED,active,ltd,2016-07-22,"100 Great George Street, Preston, PR1 1TJ",PR1 1TJ,Preston,,45310,False,False,general_tyre
+16666536,TIREALS LIMITED,active,ltd,2025-08-21,"45 Feather Lane, Nuneaton, CV10 7GN",CV10 7GN,Nuneaton,,81299; 96020,False,False,general_tyre
+15979170,TIREAN LIMITED,active,ltd,2024-09-25,"78 Tachbrook Road, Feltham, TW14 9NX",TW14 9NX,Feltham,,64306,False,False,general_tyre
+09821436,TIREAN SERVICES LIMITED,active,ltd,2015-10-13,"34 Parkway, Houghton Regis, Dunstable, LU5 5PT",LU5 5PT,Dunstable,,43999,False,False,fitting_service
+16785051,TIREBU LTD,active,ltd,2025-10-14,"5 St. Lukes Road, Maidstone, ME14 5AR",ME14 5AR,Maidstone,,62020; 70229; 84130,False,False,general_tyre
+06846013,TIREBUCK RECRUITMENT LTD,active,ltd,2009-03-13,"1644b High Street Knowle, Solihull, West Midlands, B93 0NA",B93 0NA,Solihull,West Midlands,78109; 78200,False,False,general_tyre
+13021421,TIRED AND TESTED LTD,active,ltd,2020-11-15,"1st Floor 104 Oxford Street, Fitzrovia, London, W1D 1LP",W1D 1LP,Fitzrovia,London,86220; 90010; 90030,False,False,general_tyre
+12231749,TIRED ASS MUM LIMITED,active,ltd,2019-09-27,"16 Stratford Place London, Stratford Place, London, W1C 1BF",W1C 1BF,London,,47750; 47910; 62011,False,False,general_tyre
+15364108,TIRED EYE LTD,active,ltd,2023-12-20,"4th Floor Silverstream House, 45 Fitzroy Street, Fitzrovia, London, W1T 6EB",W1T 6EB,London,,62012; 62090; 90030,False,False,general_tyre
+10024158,TIRED EYES CONSULTANCY LIMITED,active,ltd,2016-02-24,"103 Melrose Drive, Wigan, Lancashire, WN3 6EG",WN3 6EG,Wigan,Lancashire,70229,False,False,general_tyre
+SC805884,TIRED GIRL APPAREL LTD,active,ltd,2024-04-05,"272 Bath Street, Glasgow, G2 4JR",G2 4JR,Glasgow,,13300; 13990; 47710,False,False,general_tyre
+14695293,TIRED HORSES THEATRE LTD,active,ltd,2023-02-28,"Joseph  Madders, 65 Berwick Road, Ellesmere Port, Cheshire, CH66 4PW",CH66 4PW,Ellesmere Port,Cheshire,90010; 90020; 90030,False,False,general_tyre
+11036569,TIRED INDUSTRIES LIMITED,active,ltd,2017-10-27,"Unit 3 Cedar Court, 1 Royal Oak Yard, London, SE1 3GA",SE1 3GA,London,,74100,False,False,general_tyre
+13497183,TIRED MOVEMENT CIC,active,private-limited-guarant-nsc,2021-07-06,"Antenna,, Beck Street, Nottingham, NG1 1EQ",NG1 1EQ,Nottingham,,82990,False,False,general_tyre
+14291711,TIRED MUMS COFFEE LIMITED,active,ltd,2022-08-12,"Suite 3b Rossett Business Village, Rossett, Wrexham, LL12 0AY",LL12 0AY,Wrexham,,47990,False,False,general_tyre
+16768097,TIREDUS LTD,active,ltd,2025-10-07,"20 Wenlock Road, London, N1 7GU",N1 7GU,London,,62012,False,False,general_tyre
+15525920,TIREE LIMITED,active,ltd,2024-02-27,"104 Kings Road, Gorleston, Great Yarmouth, NR31 7DJ",NR31 7DJ,Great Yarmouth,,43210,False,False,general_tyre
+SC307790,TIREE BLACK HOUSE LIMITED,active,ltd,2006-08-31,"6th Floor Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ",G1 3NQ,Glasgow,,56302,False,False,general_tyre
+SC789033,TIREE CAMPERVAN HIRE LTD,active,ltd,2023-11-13,"Machair House Machair House, Ruaig, Tiree, PA77 6TR",PA77 6TR,Tiree,,77110,True,False,truck_commercial
+SC665634,TIREE CAR HIRE LTD,active,ltd,2020-06-30,"Failte, Heanish, Isle Of Tiree, PA77 6UL",PA77 6UL,Isle Of Tiree,,77110,False,False,general_tyre
+SC802179,TIREE CHILLI GRILLZ LTD,active,ltd,2024-03-08,"Pierhead, Scarinish, Isle Of Tiree, PA77 6UH",PA77 6UH,Isle Of Tiree,,56103,False,False,general_tyre
+SC701866,TIREE COFFEE COMPANY LTD,active,ltd,2021-06-17,"Dunview, Scarinish, Isle Of Tiree, PA77 6UH",PA77 6UH,Isle Of Tiree,,10832,False,False,general_tyre
+16952357,TIRE ECOMMERCE LTD,active,ltd,2026-01-09,"2 Harebell Gardens, Houghton Regis, Dunstable, LU5 6RR",LU5 6RR,Dunstable,,47910,False,False,general_tyre
+SC157518,TIREE COMMUNITY BUSINESS LIMITED,active,private-limited-guarant-nsc,1995-04-20,"Island Centre, Crossapol, Isle Of Tiree, Argyll, PA77 6UP",PA77 6UP,Argyll,,82190,True,False,truck_commercial
+SC292902,TIREE COMMUNITY DEVELOPMENT TRUST,active,private-limited-guarant-nsc-limited-exemption,2005-11-08,"The Island Centre Units 1 And 2, The Island Centre, Crosapol, Isle Of Tiree, PA77 6UP",PA77 6UP,Crosapol,Isle Of Tiree,74909,False,False,general_tyre
+SC675841,TIREE COMMUNITY ENTERPRISE LIMITED,active,ltd,2020-09-29,"C/O TIREE COMMUNITY DEVELOPMENT TRUST, Units 1& 2 The Island Centre Isle Of Tiree, Scarinish, PA77 6UP",PA77 6UP,Scarinish,,46120; 68209,False,False,general_tyre
+SC800573,TIREE COMMUNITY GYM C.I.C.,active,private-limited-guarant-nsc,2024-02-26,"Kanoa, Vaul, Isle Of Tiree, PA77 6TP",PA77 6TP,Isle Of Tiree,,93130,False,False,general_tyre
+SC590008,TIREE COMMUNITY MARITIME ASSETS LIMITED,active,ltd,2018-02-27,"TIREE COMMUNITY DEVELOPMENT TRUST, Unite 1& 2 The Island Centre, Isle Of Tiree, Scarinish, PA77 6UP",PA77 6UP,Isle Of Tiree,Scarinish,68209,False,False,general_tyre
+SC316231,TIREE CONSULTING LIMITED,active,ltd,2007-02-09,"7 Foinaven Drive, Regents Park, Glasgow, G46 8JA",G46 8JA,Glasgow,,62020,False,False,general_tyre
+SC647129,TIREE CRAB COMPANY LTD,active,ltd,2019-11-14,"Ormer Cottage, Kirkapol, Isle Of Tiree, PA77 6TW",PA77 6TW,Kirkapol,Isle Of Tiree,03110,False,False,general_tyre
+SC363251,TIREE DESIGN 59 LTD,active,ltd,2009-07-29,"The Studio 3 Pentland Court, Bilston, Roslin, Midlothian, EH25 9TA",EH25 9TA,Roslin,Midlothian,43999,False,False,general_tyre
+SC729264,TIREE DOUGHNUT CO LTD.,active,ltd,2022-04-11,"6th Floor Gordon Chambers, 90 Mitchell Street, Glsgow, G1 3NQ",G1 3NQ,Glsgow,,96090,False,False,general_tyre
+SC674369,TIREE EQUESTRIAN CIC,active,private-limited-guarant-nsc,2020-09-15,"16 Moss Moss, Isle Of Tiree, Argyll, PA77 6XL",PA77 6XL,Isle Of Tiree,Argyll,85510,False,False,general_tyre
+SC658217,TIREE GARAGE LIMITED,active,ltd,2020-03-25,"Garradh Mor, Moss, Isle Of Tiree, PA77 6XL",PA77 6XL,Isle Of Tiree,,45200,False,False,general_tyre
+SC729254,TIREE HOLDINGS LTD.,active,ltd,2022-04-11,"6th Floor Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ",G1 3NQ,Glasgow,,96090,False,False,general_tyre
+SC209584,TIREE INVESTMENTS LIMITED,active,ltd,2000-08-01,"C/O Jack Brown & Company, 7 Ward Road, Dundee, DD1 1LP",DD1 1LP,Dundee,,68100; 68209,False,False,general_tyre
+SC835389,TIREE LETTINGS LTD,active,ltd,2025-01-27,"Delvine House, Murthly, Perth, PH1 4LD",PH1 4LD,Perth,,55209,False,False,general_tyre
+SC789432,TIREE MAKERY CIC,active,private-limited-guarant-nsc,2023-11-15,"Tiree Makery Unit 4, Ionaid Iomairt Thiriodh, Crossapol, Isle Of Tiree, PA77 6UP",PA77 6UP,Isle Of Tiree,,47781; 85520; 90030,False,False,general_tyre
+SC372683,TIREE MARITIME TRUST LIMITED,active,private-limited-guarant-nsc,2010-02-09,"The Noust, Scarinish, Isle Of Tiree, PA77 6UH",PA77 6UH,Isle Of Tiree,,91030; 93199,False,False,general_tyre
+SC422182,TIREE MUSIC FESTIVAL C.I.C.,active,private-limited-guarant-nsc,2012-04-18,"Tiree Business Centre, Crossapol, Isle Of Tiree, PA77 6UP",PA77 6UP,Crossapol,Isle Of Tiree,90010,False,False,general_tyre
+SC732774,TIREE PIZZA COMPANY LTD.,active,ltd,2022-05-18,"6th Floor Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ",G1 3NQ,Glasgow,,96090,False,False,general_tyre
+SC292914,TIREE RENEWABLE ENERGY COMPANY LIMITED,active,ltd,2005-11-08,"Units 1 & 2 The Island Centre, Crossapol, Isle Of Tiree, PA77 6UP",PA77 6UP,Isle Of Tiree,,35110,False,False,general_tyre
+SC238789,TIREE RURAL DEVELOPMENT LIMITED,active,private-limited-guarant-nsc,2002-10-28,"Tiree Rural Centre, Crossapol, Isle Of Tiree, PA77 6UP",PA77 6UP,Isle Of Tiree,,01629,False,False,general_tyre
+SC587787,TIREE SEA TOURS LIMITED,active,ltd,2018-02-05,"Failte, Heanish, Isle Of Tiree, PA77 6UL",PA77 6UL,Isle Of Tiree,,50100,False,False,general_tyre
+SC729253,TIREE TACO LTD.,active,ltd,2022-04-11,"6th Floor Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ",G1 3NQ,Glasgow,,96090,False,False,general_tyre
+SC763586,TIREE 25 LIMITED,active,ltd,2023-03-24,"19 Law Place, East Kilbride, Glasgow, G74 4QL",G74 4QL,Glasgow,,64209,False,False,general_tyre
+SC657791,TIREE WAVE CLASSIC COMMUNITY INTEREST COMPANY,active,private-limited-guarant-nsc,2020-03-18,"Burnside, Cornaig, Isle Of Tiree, Argyll, PA77 6XA",PA77 6XA,Isle Of Tiree,Argyll,93199,False,False,general_tyre
+SC421934,TIREE WHISKY COMPANY LIMITED,active,ltd,2012-04-16,"1a West Hynish, Isle Of Tiree, Argyll & Bute, PA77 6UF",PA77 6UF,Isle Of Tiree,Argyll & Bute,11010,False,False,general_tyre
+SC818066,TIREE WISHAW LIMITED,active,ltd,2024-07-31,"7-9 Tiree Crescent, Newmains, Wishaw, Lanarkshire, ML2 9HF",ML2 9HF,Wishaw,Lanarkshire,47190,False,False,general_tyre
+FC017547,TIREFIX,active,oversea-company,1993-09-21,"American National Bank Building, 1912 Capitol Avenue, Cheyenne, Wy 82001, Usa",,"Cheyenne, Wy 82001",Usa,,False,False,general_tyre
+16162667,TIREG CARGO & LOGISTICS LIMITED,active,ltd,2025-01-03,"Flat 55 Coatbridge House, Carnoustie Drive, London, N1 0DX",N1 0DX,London,,49320; 49390; 52290; 77110,False,False,general_tyre
+SC423017,TIREIL LIMITED,active,ltd,2012-04-30,"Hastings Legal, 15 The Square, Kelso, Roxboroughshire, TD5 7HH",TD5 7HH,Kelso,Roxboroughshire,74901,False,False,general_tyre
+16409955,TIREINON LTD,active,ltd,2025-04-25,"45 Ironstone Drive, Chapeltown, Sheffield, S35 3XZ",S35 3XZ,Sheffield,,56302,False,False,general_tyre
+SC843761,TIREITHIN GROUP (HOLDINGS) LTD,active,ltd,2025-04-02,"Westland House, 14 Inchyra Road, Grangemouth, FK3 9XB",FK3 9XB,Grangemouth,,64209,False,False,general_tyre
+05943270,TIREJECT LIMITED,active,ltd,2006-09-22,"74a Church Street, Burbage, Hinckley, LE10 2DE",LE10 2DE,Hinckley,,46420; 96090,False,False,general_tyre
+16090417,TIREJECT INTERNATIONAL LIMITED,active,ltd,2024-11-20,"74a Church Street, Burbage, Hinckley, LE10 2DE",LE10 2DE,Hinckley,,96090,False,False,general_tyre
+12061060,TIRELESS LTD,active,ltd,2019-06-20,"14 London Street, Andover, Hampshire, SP10 2PA",SP10 2PA,Andover,Hampshire,47990,False,False,general_tyre
+10110378,TIRELESS BULL LTD,active,ltd,2016-04-07,"130 Plashet Road, London, E13 0QS",E13 0QS,London,,62090; 63990,False,False,general_tyre
+13682106,TIRELESS TECHNICAL SERVICES LIMITED,active,ltd,2021-10-15,"The Cottage Town End Road, Radnage, High Wycombe, Buckinghamshire, HP14 4DY",HP14 4DY,High Wycombe,Buckinghamshire,71129,False,False,fitting_service
+13723893,TIRELIRE LTD,active,ltd,2021-11-04,"86-90 Paul Street, London, EC2A 4NE",EC2A 4NE,London,,41100; 64991,False,False,general_tyre
+16061189,TIRELLI LTD,active,ltd,2024-11-05,"1a Nigel Road, London, E7 8AW",E7 8AW,London,,99999,False,False,general_tyre
+03306387,TIRE MONITOR SYSTEM LIMITED,active,ltd,1997-01-23,"West Road House, 26a West Road, Buxton, Derbyshire, SK17 6HF",SK17 6HF,Derbyshire,,27900,False,False,general_tyre
+15592338,TIREM PARTNERS LTD,active,ltd,2024-03-25,"84 Southfields, Fareham, PO16 9FG",PO16 9FG,Fareham,,68209,False,False,general_tyre
+15670125,TIRERESCUE LTD,active,ltd,2024-04-22,"57 St. Andrews Road, Ilford, IG1 3PF",IG1 3PF,Ilford,,53202,False,False,general_tyre
+03001040,TIRES 4 LESS LIMITED,active,ltd,1994-12-13,"C/O Micheldever Tyre Services Limited, Micheldever Station, Winchester, Hampshire, SO21 3AP",SO21 3AP,Winchester,Hampshire,99999,False,False,general_tyre
+SC341754,TIRESIAN ENGINEERING LTD,active,ltd,2008-04-22,"4 West Craibstone Street, Bon-Accord Square, Aberdeen, AB11 6YL",AB11 6YL,Aberdeen,,47910,False,False,general_tyre
+08218725,TIRESIAS LIMITED,active,ltd,2012-09-18,"160 Kemp House City Road, London, EC1V 2NX",EC1V 2NX,London,,59111; 59112; 59120,False,False,general_tyre
+08712732,TIRESIAS CONSULTING LIMITED,active,ltd,2013-10-01,"2 Exeter Street, New Village Road, Cottingham, East Yorkshire, HU16 4LU",HU16 4LU,Cottingham,East Yorkshire,68209,False,False,general_tyre
+12947863,TIRESIAS SOLUTIONS LIMITED,active,ltd,2020-10-13,"42 Garrick Close, London, W5 1AS",W5 1AS,London,,70229,False,False,general_tyre
+16695813,TIRESIAS TRANSLATIONS LTD,active,ltd,2025-09-04,"29 Almond Road, London, N17 0PJ",N17 0PJ,London,,74300,False,False,general_tyre
+16269254,TIRES PITSTOP LTD,active,ltd,2025-02-21,"4 Woodland Avenue, Manchester, M18 7HF",M18 7HF,Manchester,,33170,False,False,general_tyre
+10255345,TIRETECTOR LTD,active,ltd,2016-06-28,"Ground Floor 1 Newlands Court, Attwood Road, Burntwood, Staffs, WS7 3GF",WS7 3GF,Burntwood,Staffs,29320,False,False,general_tyre
+16367926,TIRE TYRES LIMITED,active,ltd,2025-04-06,"16 Bowater Close, Sittingbourne, ME10 2FR",ME10 2FR,Sittingbourne,,22110,False,False,general_tyre
+SL022647,TIREX DEVELOPMENT LP,active,limited-partnership,2015-09-25,"12 South Bridge, Suite 1, Edinburgh, EH1 1DD",EH1 1DD,Edinburgh,,,False,False,general_tyre
+14576095,TIREX IMPORTS LTD,active,ltd,2023-01-06,"84 Lodge Road 84 Lodge Road, Southampton, Hampshire, SO14 6RG",SO14 6RG,Southampton,Hampshire,96090,False,False,general_tyre
+14649736,TOP TIRE LTD,active,ltd,2023-02-08,"68 Lazy Hill, Birmingham, B38 9PA",B38 9PA,Birmingham,,68209,False,False,general_tyre
+14426855,TOWN TIRES LTD,active,ltd,2022-10-18,"65-67 Southbury Road, Enfield, EN1 1PJ",EN1 1PJ,Enfield,,45200,False,False,general_tyre
+01553336,TROY TIRE & AUTO CENTRES LIMITED,active,ltd,1981-03-26,"6 North Lane, Roundhay, Leeds, LS8 2QJ",LS8 2QJ,Leeds,,68209,False,False,fitting_service
+16484842,TYREON TIRE COMPANY LIMITED,active,ltd,2025-05-30,"7 Copperfield Road, Coventry, West Midlands, England, CV2 4AQ",CV2 4AQ,"West Midlands, England",,45310; 45320; 45400; 46190,False,False,general_tyre
+13113068,WELLMAX TIRE CO LTD,active,ltd,2021-01-05,"69 Aberdeen Avenue, Cambridge, CB2 8DL",CB2 8DL,Cambridge,,99999,False,False,general_tyre
+16836729,WIRED AND TIRED SLEEP COACH LTD,active,ltd,2025-11-06,"C3 Apollo Court, Neptune Park, Plymouth, PL4 0SJ",PL4 0SJ,Plymouth,,70229,True,False,truck_commercial
+09828583,WORN TIRE LIMITED,active,ltd,2015-10-16,"Ye Olde Hundred, 69 Church Way, North Shields, NE29 0AE",NE29 0AE,North Shields,,46180,False,False,general_tyre
+07859982,WYKO TIRE TECHNOLOGY (UK) LTD,active,ltd,2011-11-24,"Storage Giant - Unit 10 Dudley Road, Gibbons Industrial Park, Kingswinford, West Midlands, DY6 8XF",DY6 8XF,Kingswinford,West Midlands,25730,False,False,general_tyre
+11916143,MARGUM  TYRES LTD,active,ltd,2019-03-30,"31 Pritchard Close, Swindon, Wiltshire, SN2 7TZ",SN2 7TZ,Swindon,Wiltshire,45200; 45320,False,False,general_tyre
+15921185,THE TYRE DEALERS LTD,active,ltd,2024-08-28,"Office Lg06, 1 Quality Court, Chancery Lane, London, WC2A 1HR",WC2A 1HR,London,,45310,False,False,general_tyre
+10748398,TYRE TRADERS DIRECT LTD,active,ltd,2017-05-02,"2 Clifton Moor Business Village, James Nicolson Link, York, North Yorkshire, YO30 4XG",YO30 4XG,York,North Yorkshire,45310,False,False,general_tyre
+16516955,TYRE TRADERS WALSALL LTD,active,ltd,2025-06-13,"5 Appledore Terrace, Walsall, West Midlands, WS5 3DU",WS5 3DU,Walsall,West Midlands,45200,False,False,general_tyre
+15608169,NCL TYRES TRADERS LTD,active,ltd,2024-04-02,"214 Ladykirk Road, Newcastle Upon Tyne, NE4 8AL",NE4 8AL,Newcastle Upon Tyne,,99999,False,False,general_tyre
+09291173,WESS TYRE TRADERS LIMITED,active,ltd,2014-11-03,"Richard House, Winckley Square, Preston, Lancashire, PR1 3HP",PR1 3HP,Preston,Lancashire,45310,False,False,general_tyre
+05843387,TYRE SPECIALISTS (BAKEWELL) LIMITED,active,ltd,2006-06-12,"85-87 Saltergate, Chesterfield, Derbyshire, S40 1JS",S40 1JS,Derbyshire,,45200,False,False,general_tyre
+01748762,ASHTON TYRE SPECIALISTS LIMITED,active,ltd,1983-08-30,"Unit 1 Adlington Industrial Estate, Adlington, Macclesfield, Cheshire, SK10 4NL",SK10 4NL,Macclesfield,Cheshire,45310,False,False,general_tyre
+02535892,ASSOCIATED TYRE SPECIALISTS (INVESTMENT) LIMITED,active,ltd,1990-08-31,"First Floor Aqueous Ii, Aston Cross Business Park, Rocky Lane, Birmingham, B6 5RQ",B6 5RQ,Birmingham,,64204,False,False,general_tyre
+01411016,CHASE TYRE SPECIALISTS LIMITED,active,ltd,1979-01-23,"1 Sgs Business Park, Oldbury Road, West Bromwich, West Midlands, B70 9DP",B70 9DP,West Bromwich,West Midlands,45200,False,False,general_tyre
+12042010,CITY TYRES SPECIALISTS NORWICH LTD,active,ltd,2019-06-10,"Unit 19 St Mary's Works, Duke Street, Norwich, Norfolk, NR3 1QA",NR3 1QA,Norwich,Norfolk,45200,False,False,general_tyre
+06942015,CUMBRIA TYRE SPECIALIST LIMITED,active,ltd,2009-06-23,"Unit 4 Peacock Road, Durranhill Industrial Estate, Carlisle, CA1 3UD",CA1 3UD,Carlisle,,45200,False,False,general_tyre
+01015154,GLAM VALE TYRE SPECIALISTS LIMITED,active,ltd,1971-06-22,"32 Rhodfa Mes, Broadlands, Bridgend, Mid Glamorgan, CF31 5BF",CF31 5BF,Bridgend,Mid Glamorgan,74990,False,False,general_tyre
+15657619,HEATHROW TYRES AND SPECIALIST LTD,active,ltd,2024-04-18,"Gleneagles Farm Gleneagles Close, Stanwell, Staines-Upon-Thames, TW19 7PD",TW19 7PD,Staines-Upon-Thames,,45112; 45200,False,False,general_tyre
+15307471,KC TYRE SPECIALISTS LTD,active,ltd,2023-11-24,"Unit 2 Beaconsfield Industrial Estate, Station Lane, Birtley, Durham, DH3 1DB",DH3 1DB,Birtley,Durham,45200,False,False,general_tyre
+12231414,KC WHEEL & TYRE SPECIALISTS LTD,active,ltd,2019-09-27,"Unit 2 Beaconsfield Ind Est, Station Lane, Birtley, DH3 1DB",DH3 1DB,Birtley,,43341,False,False,general_tyre
+09759593,MALCO TYRE SPECIALISTS LTD,active,ltd,2015-09-03,"Milburn House Hexham Business Park, Burn Lane, Hexham, Northumberland, NE46 3RU",NE46 3RU,Hexham,Northumberland,45320,False,False,general_tyre
+05159538,MOTORCYCLE TYRE SPECIALISTS LIMITED,active,ltd,2004-06-22,"9 Birkinstyle Lane, Shirland, Alfreton, Derbyshire, DE55 6BS",DE55 6BS,Alfreton,Derbyshire,45400,False,False,general_tyre
+06584815,PRESTON TYRE SPECIALISTS LIMITED,active,ltd,2008-05-06,"127 Fylde Road, Preston, Lancashire, PR1 2XP",PR1 2XP,Preston,Lancashire,45320,False,False,general_tyre
+15255404,SPECIALIST TYRE CONSULTING LIMITED,active,ltd,2023-11-02,"The Island House The Island, Midsomer Norton, Radstock, BA3 2DZ",BA3 2DZ,Radstock,,70229; 71122; 71129,False,False,general_tyre
+01023316,TADWORTH TYRE SPECIALISTS LIMITED,active,ltd,1971-09-07,"90 The Avenue, Tadworth, Surrey, KT20 5AA",KT20 5AA,Tadworth,Surrey,45310,False,False,general_tyre
+09794935,TRS TYRE SPECIALISTS LIMITED,active,ltd,2015-09-25,"Unit 8b Andover Down, Andover, Hampshire, SP11 6LJ",SP11 6LJ,Andover,Hampshire,45320,False,False,general_tyre
+SC846336,THE TYRE SPECIALIST LTD,active,ltd,2025-04-24,"103a Charleston Drive, Dundee, DD2 2HB",DD2 2HB,Dundee,,45200,False,False,general_tyre
+15338158,WIRRAL TYRE SPECIALISTS LTD,active,ltd,2023-12-09,"Unit H 10 Old Hall Road, Bromborough, Wirral, CH62 3NX",CH62 3NX,Wirral,,22110,False,False,general_tyre
+NI687588,COOKSTOWN TYRE DEPOT LIMITED,active,ltd,2022-04-21,"145 Moneymore Road, Cookstown, BT80 9UU",BT80 9UU,Cookstown,,45200; 45320,False,False,fitting_service
+NI699496,THE TYRE DEPOT DERRY LIMITED,active,ltd,2023-07-21,"24 Woodside Heights, Londonderry, BT47 2LQ",BT47 2LQ,Londonderry,,45320,False,False,fitting_service
+06282727,TYRE WAREHOUSE LTD,active,ltd,2007-06-18,"Unit 1b Warstock Road, Kings Heath, Birmingham, West Midlands, B14 4RT",B14 4RT,Birmingham,West Midlands,45200; 45320,False,False,wholesale
+SC586106,TYRE WAREHOUSE ABERDEEN LTD,active,ltd,2018-01-18,"Unit 1 Hareness Circle, Altens Industrial Estate, Aberdeen, AB12 3LY",AB12 3LY,Aberdeen,,45310,False,False,wholesale
+16896172,TYRE WAREHOUSE BIRMINGHAM LTD,active,ltd,2025-12-08,"Unit 1, Sparkhill Trading Estate, Evelyn Road, Birmingham, B11 3JJ",B11 3JJ,Birmingham,,45200,False,False,wholesale
+13571801,TYRE WAREHOUSE YORKSHIRE LTD,active,ltd,2021-08-18,"Wharf Forge, Wharf Street, Dewsbury, WF12 9AT",WF12 9AT,Dewsbury,,45200,False,False,wholesale
+16615646,CHESHUNT THE TYRES WAREHOUSE LTD,active,ltd,2025-07-30,"Factory Unit 4, Delamare Road, Cheshunt, Herts, EN8 9AP",EN8 9AP,Cheshunt,Herts,45200; 45310,False,False,wholesale
+08317619,DISCOUNT TYRE WAREHOUSE (HULL) LTD,active,ltd,2012-12-04,"72 Lairgate, Beverley, East Yorkshire, HU17 8EU",HU17 8EU,Beverley,East Yorkshire,45320,False,False,wholesale
+08075162,GERMAN TYRE WAREHOUSE LTD,active,ltd,2012-05-18,"26 Ida Road, Skegness, Lincolnshire, PE25 2AR",PE25 2AR,Skegness,Lincolnshire,45320,False,False,wholesale
+15257558,GRIMSBY TYRE WAREHOUSE LTD,active,ltd,2023-11-03,"Old Concrete Garden Site, Flour Sqaure, Grimsby, DN31 3LS",DN31 3LS,Grimsby,,45200,False,False,wholesale
+09133332,NEW TYRE WAREHOUSE LTD,active,ltd,2014-07-16,"Unit 5 Fordview Industrial Estate, New Road, Rainham, Essex, RM13 8ET",RM13 8ET,Rainham,Essex,45200,False,False,wholesale
+16044669,THE PART WORN TYRE WAREHOUSE LIMITED,active,ltd,2024-10-28,"46 Houghton Place, Bradford, West Yorkshire, BD1 3RG",BD1 3RG,Bradford,West Yorkshire,45320,False,False,wholesale
+14524954,THE TYRE HOUSE WAREHOUSE LTD,active,ltd,2022-12-06,"Unit 11 Park Street Industrial Estate, Foleshill, Coventry, West Midlands, CV6 5AT",CV6 5AT,Coventry,West Midlands,45200,False,False,wholesale
+03674621,THE TYRE WAREHOUSE BRACKLEY LIMITED,active,ltd,1998-11-26,"114 High Street, Cranfield, Bedfordshire, MK43 0DG",MK43 0DG,Cranfield,Bedfordshire,45200,False,False,wholesale
+11579954,THE TYRE WAREHOUSE (SW) LTD,active,ltd,2018-09-20,"Unit A1 Monument View Summerfield Avenue, Chelston Business Park, Wellington, Somerset, TA21 9ND",TA21 9ND,Wellington,Somerset,45320,False,False,wholesale
+10646212,YSA TYRE WAREHOUSE LTD,active,ltd,2017-03-01,"94 Pritchett Street, Aston, Birmingham, West Midlands, B6 4ES",B6 4ES,Birmingham,West Midlands,82990,False,False,wholesale
+05594070,N E TYRES & VAN HIRE LIMITED,active,ltd,2005-10-17,"15 North Street, Tywardreath, Par, Cornwall, PL24 2PW",PL24 2PW,Par,Cornwall,45200,True,False,truck_commercial
+16294212,UK TYRE VANS LIMITED,active,ltd,2025-03-05,"20 Owl Lane, Dewsbury, West Yorkshire, WF12 7RQ",WF12 7RQ,Dewsbury,West Yorkshire,45111; 45112,True,False,truck_commercial
+03359332,BLAINS TRAILERS & TYRES LTD,active,ltd,1997-04-24,"St Margarets Farm, Great Gaddesden, Hemel Hempstead, Hertfordshire, HP1 3BZ",HP1 3BZ,Hemel Hempstead,Hertfordshire,47190,True,False,truck_commercial
+12368589,"DIGBY TRAILERS, TOWBARS & TYRES LTD",active,ltd,2019-12-18,"Monometer House, Rectory Grove, Leigh On Sea, Essex, SS9 2HN",SS9 2HN,Leigh On Sea,Essex,45310; 82990,True,False,truck_commercial
+01146917,B. A. BUSH (TYRES) LIMITED,active,ltd,1973-11-22,"Bush Tyres Station Yard, Horncastle, Lincolnshire, LN9 5AQ",LN9 5AQ,Lincolnshire,,45310,True,False,truck_commercial
