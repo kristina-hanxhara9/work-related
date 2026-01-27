@@ -3,7 +3,9 @@
 UK Retailers Scraper - Combined SIC Codes with Name Filters
 ============================================================
 - All SIC codes combined
-- 3 separate outputs: TRUCK, TYRE, TIRE (by name filter)
+- Filter: name contains truck, tyre, or tire
+- Exclude: names containing "car" or "cars"
+- Deduplicated
 - Excludes Northern Ireland
 - Active companies only
 """
@@ -161,12 +163,14 @@ def format_company(company, matched_sic_codes):
 
 def main():
     print("=" * 70)
-    print("UK RETAILERS SCRAPER - COMBINED SIC CODES")
+    print("UK RETAILERS SCRAPER - COMBINED (TRUCK + TYRE + TIRE)")
     print("=" * 70)
     print("Source: Companies House API ONLY")
     print("Filter: ACTIVE companies only")
+    print("Filter: Name contains 'truck', 'tyre', or 'tire'")
+    print("Exclude: Names containing 'car' or 'cars'")
     print("Excludes: Northern Ireland")
-    print("Output: 3 sheets - TRUCK, TYRE, TIRE")
+    print("Output: 1 sheet - ALL COMBINED (deduplicated)")
     print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 70)
 
@@ -206,22 +210,50 @@ def main():
 
     # Process and filter by name
     print("\nFiltering by company name...")
+    print("  - Include: contains 'truck', 'tyre', or 'tire'")
+    print("  - Exclude: contains 'car' or 'cars'")
 
-    truck_companies = []
-    tyre_companies = []
-    tire_companies = []
+    combined_companies = {}
 
     for company_number, company in all_companies.items():
         name_lower = company.get('company_name', '').lower()
-        matched_sic = company.get('matched_sic_codes', [])
-        formatted = format_company(company, matched_sic)
 
-        if 'truck' in name_lower:
-            truck_companies.append(formatted)
-        if 'tyre' in name_lower:
-            tyre_companies.append(formatted)
-        if 'tire' in name_lower:
-            tire_companies.append(formatted)
+        # Check if name contains truck, tyre, or tire
+        has_keyword = 'truck' in name_lower or 'tyre' in name_lower or 'tire' in name_lower
+
+        # Exclude if contains car/cars (but not "card", "care", "carter", etc.)
+        # Check for "car " or "cars" or " car" or company name is just "car"
+        has_car = (
+            ' car ' in f' {name_lower} ' or
+            'cars' in name_lower or
+            name_lower.startswith('car ') or
+            name_lower.endswith(' car')
+        )
+
+        if has_keyword and not has_car:
+            matched_sic = company.get('matched_sic_codes', [])
+            formatted = format_company(company, matched_sic)
+
+            # Add which keywords matched
+            keywords_matched = []
+            if 'truck' in name_lower:
+                keywords_matched.append('truck')
+            if 'tyre' in name_lower:
+                keywords_matched.append('tyre')
+            if 'tire' in name_lower:
+                keywords_matched.append('tire')
+            formatted['keywords_matched'] = keywords_matched
+
+            # Dedupe by company number
+            if company_number not in combined_companies:
+                combined_companies[company_number] = formatted
+
+    final_list = list(combined_companies.values())
+
+    # Count by keyword
+    truck_count = sum(1 for c in final_list if 'truck' in c.get('keywords_matched', []))
+    tyre_count = sum(1 for c in final_list if 'tyre' in c.get('keywords_matched', []))
+    tire_count = sum(1 for c in final_list if 'tire' in c.get('keywords_matched', []))
 
     # Print summary
     print(f"\n{'=' * 70}")
@@ -231,85 +263,70 @@ def main():
     print(f"\nBy SIC code:")
     for code, count in sic_code_counts.items():
         print(f"  {code}: {count:,}")
-    print(f"\nFiltered by name:")
-    print(f"  TRUCK (name contains 'truck'): {len(truck_companies):,}")
-    print(f"  TYRE (name contains 'tyre'): {len(tyre_companies):,}")
-    print(f"  TIRE (name contains 'tire'): {len(tire_companies):,}")
+    print(f"\nAfter filtering (truck/tyre/tire, excluding cars):")
+    print(f"  TOTAL COMBINED (deduplicated): {len(final_list):,}")
+    print(f"\n  Contains 'truck': {truck_count:,}")
+    print(f"  Contains 'tyre': {tyre_count:,}")
+    print(f"  Contains 'tire': {tire_count:,}")
 
     # Save results
     output_data = {
         'metadata': {
             'generated_date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
             'source': 'Companies House API',
-            'filter': 'All SIC codes combined - ACTIVE - Excludes NI',
+            'filter': 'All SIC codes combined - ACTIVE - Excludes NI - Excludes cars',
+            'keywords': ['truck', 'tyre', 'tire'],
+            'excluded_keywords': ['car', 'cars'],
             'target_sic_codes': TARGET_SIC_CODES,
             'total_from_all_sic': len(all_companies),
             'companies_per_sic_code': sic_code_counts,
-            'truck_count': len(truck_companies),
-            'tyre_count': len(tyre_companies),
-            'tire_count': len(tire_companies),
+            'final_count': len(final_list),
+            'truck_count': truck_count,
+            'tyre_count': tyre_count,
+            'tire_count': tire_count,
         },
-        'truck_companies': truck_companies,
-        'tyre_companies': tyre_companies,
-        'tire_companies': tire_companies,
+        'companies': final_list,
     }
 
     # Save JSON
-    with open('UK_RETAILERS_TRUCK_TYRE_TIRE.json', 'w') as f:
+    with open('UK_RETAILERS_COMBINED.json', 'w') as f:
         json.dump(output_data, f, indent=2)
-    print(f"\nSaved: UK_RETAILERS_TRUCK_TYRE_TIRE.json")
+    print(f"\nSaved: UK_RETAILERS_COMBINED.json")
 
-    # Save CSVs - one for each filter
+    # Save CSV
     csv_fields = [
         'company_number', 'company_name', 'status', 'company_type',
         'date_of_creation', 'address', 'postcode', 'locality', 'region',
-        'sic_codes', 'sic_descriptions', 'matched_sic_codes'
+        'sic_codes', 'sic_descriptions', 'matched_sic_codes', 'keywords_matched'
     ]
 
-    def save_csv(companies, filename):
-        with open(filename, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=csv_fields, extrasaction='ignore')
-            writer.writeheader()
-            for company in companies:
-                row = company.copy()
-                row['sic_codes'] = '; '.join(row.get('sic_codes', [])) if row.get('sic_codes') else ''
-                row['sic_descriptions'] = '; '.join(row.get('sic_descriptions', [])) if row.get('sic_descriptions') else ''
-                row['matched_sic_codes'] = '; '.join(row.get('matched_sic_codes', [])) if row.get('matched_sic_codes') else ''
-                writer.writerow(row)
+    with open('UK_RETAILERS_COMBINED.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=csv_fields, extrasaction='ignore')
+        writer.writeheader()
+        for company in final_list:
+            row = company.copy()
+            row['sic_codes'] = '; '.join(row.get('sic_codes', [])) if row.get('sic_codes') else ''
+            row['sic_descriptions'] = '; '.join(row.get('sic_descriptions', [])) if row.get('sic_descriptions') else ''
+            row['matched_sic_codes'] = '; '.join(row.get('matched_sic_codes', [])) if row.get('matched_sic_codes') else ''
+            row['keywords_matched'] = '; '.join(row.get('keywords_matched', [])) if row.get('keywords_matched') else ''
+            writer.writerow(row)
+    print(f"Saved: UK_RETAILERS_COMBINED.csv ({len(final_list):,} companies)")
 
-    save_csv(truck_companies, 'UK_RETAILERS_TRUCK.csv')
-    save_csv(tyre_companies, 'UK_RETAILERS_TYRE.csv')
-    save_csv(tire_companies, 'UK_RETAILERS_TIRE.csv')
-    print(f"Saved: UK_RETAILERS_TRUCK.csv ({len(truck_companies):,} companies)")
-    print(f"Saved: UK_RETAILERS_TYRE.csv ({len(tyre_companies):,} companies)")
-    print(f"Saved: UK_RETAILERS_TIRE.csv ({len(tire_companies):,} companies)")
-
-    # Save Excel with 3 sheets
+    # Save Excel
     try:
         import pandas as pd
 
-        def prepare_df(companies_list):
-            df = pd.DataFrame(companies_list)
-            if not df.empty:
-                df['sic_codes'] = df['sic_codes'].apply(lambda x: '; '.join(x) if x else '')
-                df['sic_descriptions'] = df['sic_descriptions'].apply(lambda x: '; '.join(x) if x else '')
-                df['matched_sic_codes'] = df['matched_sic_codes'].apply(lambda x: '; '.join(x) if x else '')
-            return df
+        df = pd.DataFrame(final_list)
+        if not df.empty:
+            df['sic_codes'] = df['sic_codes'].apply(lambda x: '; '.join(x) if x else '')
+            df['sic_descriptions'] = df['sic_descriptions'].apply(lambda x: '; '.join(x) if x else '')
+            df['matched_sic_codes'] = df['matched_sic_codes'].apply(lambda x: '; '.join(x) if x else '')
+            df['keywords_matched'] = df['keywords_matched'].apply(lambda x: '; '.join(x) if x else '')
 
-        with pd.ExcelWriter('UK_RETAILERS_TRUCK_TYRE_TIRE.xlsx', engine='openpyxl') as writer:
-            # TRUCK sheet
-            if truck_companies:
-                prepare_df(truck_companies).to_excel(writer, sheet_name='TRUCK', index=False)
+        with pd.ExcelWriter('UK_RETAILERS_COMBINED.xlsx', engine='openpyxl') as writer:
+            df.to_excel(writer, sheet_name='ALL COMBINED', index=False)
 
-            # TYRE sheet
-            if tyre_companies:
-                prepare_df(tyre_companies).to_excel(writer, sheet_name='TYRE', index=False)
-
-            # TIRE sheet
-            if tire_companies:
-                prepare_df(tire_companies).to_excel(writer, sheet_name='TIRE', index=False)
-
-        print(f"Saved: UK_RETAILERS_TRUCK_TYRE_TIRE.xlsx (3 sheets)")
+        print(f"Saved: UK_RETAILERS_COMBINED.xlsx (1 sheet)")
 
     except ImportError:
         print("Note: pandas/openpyxl not available for Excel export")
@@ -318,8 +335,8 @@ def main():
     print("SCRAPING COMPLETE - ALL DATA FROM COMPANIES HOUSE API")
     print(f"{'=' * 70}")
 
-    return truck_companies, tyre_companies, tire_companies
+    return final_list
 
 
 if __name__ == "__main__":
-    truck, tyre, tire = main()
+    companies = main()
