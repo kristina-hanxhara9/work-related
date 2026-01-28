@@ -6,7 +6,7 @@ def similarity_score(a, b):
     """Calculate similarity ratio between two strings (0 to 1)"""
     return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
-def get_word_matches(search_name, text, threshold=0.6):
+def get_word_matches(search_name, text):
     """
     Check if any word in the text is similar to the search name.
     Returns the best similarity score found.
@@ -40,11 +40,15 @@ def get_word_matches(search_name, text, threshold=0.6):
 
     return best_score
 
-def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
+def check_names_in_excel(names_file, data_file, min_threshold=0.6, high_confidence_threshold=0.7):
     """
     Check names from a single-column Excel file against specific columns in a larger Excel file.
     Uses fuzzy matching to find similar names.
     Shows all matching rows with their GSNR values.
+
+    - Matches 60-70% are marked as LOW CONFIDENCE
+    - Matches 70%+ are marked as HIGH CONFIDENCE
+    - ALWAYS searches through ALL rows and columns (never stops early)
     """
 
     # Read the names file (single column)
@@ -52,7 +56,8 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
     names_df = pd.read_excel(names_file, header=None)
     names_to_check = names_df.iloc[:, 0].dropna().astype(str).str.strip().tolist()
     print(f"Found {len(names_to_check)} names to check")
-    print(f"Similarity threshold: {similarity_threshold * 100}%\n")
+    print(f"Minimum threshold: {min_threshold * 100}%")
+    print(f"High confidence threshold: {high_confidence_threshold * 100}%\n")
 
     # Read the large data file
     print(f"Reading data from: {data_file}")
@@ -76,22 +81,31 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
     # Store all results
     all_matches = []
 
-    # Check each name
+    # Check each name - ALWAYS search through EVERYTHING
     for name in names_to_check:
-        matches_found = False
+        name_matches = []  # Track all matches for this name
 
+        # Go through EVERY row
         for idx, row in data_df.iterrows():
+            # Check EVERY column
             for col in existing_columns:
                 cell_value = row.get(col, '')
-                score = get_word_matches(name, cell_value, similarity_threshold)
+                score = get_word_matches(name, cell_value)
 
-                if score >= similarity_threshold:
-                    matches_found = True
+                # Record ALL matches above minimum threshold
+                if score >= min_threshold:
+                    # Determine confidence level
+                    if score >= high_confidence_threshold:
+                        confidence = "HIGH"
+                    else:
+                        confidence = "LOW"
+
                     match_info = {
                         'Search Name': name,
                         'Found In Column': col,
                         'Matched Value': cell_value,
                         'Similarity %': f"{score * 100:.1f}%",
+                        'Confidence': confidence,
                         'GSNR': row.get('GSNR', 'N/A'),
                         'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
                         'COMMENT': row.get('COMMENT', 'N/A'),
@@ -100,10 +114,11 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
                         'NAME 2': row.get('NAME 2', 'N/A'),
                         'STATUS': row.get('STATUS', 'N/A')
                     }
+                    name_matches.append(match_info)
                     all_matches.append(match_info)
 
                     print(f"\n{'='*80}")
-                    print(f"MATCH FOUND for: '{name}'")
+                    print(f"MATCH FOUND for: '{name}' [{confidence} CONFIDENCE]")
                     print(f"Found in column: {col}")
                     print(f"Matched value:   {cell_value}")
                     print(f"Similarity:      {score * 100:.1f}%")
@@ -116,8 +131,13 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
                     print(f"NAME 2:        {row.get('NAME 2', 'N/A')}")
                     print(f"STATUS:        {row.get('STATUS', 'N/A')}")
 
-        if not matches_found:
+        # After checking ALL rows/columns for this name
+        if not name_matches:
             print(f"\nNo match found for: '{name}'")
+        else:
+            high_conf = len([m for m in name_matches if m['Confidence'] == 'HIGH'])
+            low_conf = len([m for m in name_matches if m['Confidence'] == 'LOW'])
+            print(f"\n--- '{name}': Found {len(name_matches)} total matches ({high_conf} high, {low_conf} low confidence) ---")
 
     # Create summary DataFrame
     if all_matches:
@@ -129,11 +149,17 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
         output_file = 'name_check_results.xlsx'
         results_df.to_excel(output_file, index=False)
 
+        # Count by confidence
+        high_count = len([m for m in all_matches if m['Confidence'] == 'HIGH'])
+        low_count = len([m for m in all_matches if m['Confidence'] == 'LOW'])
+
         print(f"\n\n{'='*100}")
         print(f"SUMMARY")
         print(f"{'='*100}")
         print(f"Total names checked: {len(names_to_check)}")
         print(f"Total matches found: {len(results_df)}")
+        print(f"  - HIGH confidence (70%+): {high_count}")
+        print(f"  - LOW confidence (60-70%): {low_count}")
         print(f"Results saved to: {output_file}")
     else:
         print(f"\n\nNo matches found for any of the {len(names_to_check)} names.")
@@ -145,14 +171,17 @@ if __name__ == "__main__":
     # Default file paths
     names_file = "Calculus-list.xlsx"  # Your single-column file with names to check
     data_file = "MDM.xlsx"             # Your large Excel file with all the columns
-    threshold = 0.6                    # 60% similarity threshold (adjust as needed)
+    min_threshold = 0.6                # 60% minimum threshold
+    high_threshold = 0.7               # 70%+ = high confidence
 
     # Allow command line arguments
     if len(sys.argv) >= 3:
         names_file = sys.argv[1]
         data_file = sys.argv[2]
     if len(sys.argv) >= 4:
-        threshold = float(sys.argv[3])
+        min_threshold = float(sys.argv[3])
+    if len(sys.argv) >= 5:
+        high_threshold = float(sys.argv[4])
 
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
@@ -161,7 +190,9 @@ if __name__ == "__main__":
 ║  Checking columns: RETAILERNAME, COMMENT, COMPANY,           ║
 ║                    NAME 1, NAME 2                            ║
 ║  Uses FUZZY MATCHING to find similar names                   ║
+║  60-70% = LOW confidence | 70%+ = HIGH confidence            ║
+║  Searches ALL rows and columns (never stops early)           ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
-    check_names_in_excel(names_file, data_file, threshold)
+    check_names_in_excel(names_file, data_file, min_threshold, high_threshold)
