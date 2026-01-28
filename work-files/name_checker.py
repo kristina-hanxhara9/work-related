@@ -1,17 +1,58 @@
 import pandas as pd
 import sys
+from difflib import SequenceMatcher
 
-def check_names_in_excel(names_file, data_file):
+def similarity_score(a, b):
+    """Calculate similarity ratio between two strings (0 to 1)"""
+    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
+
+def get_word_matches(search_name, text, threshold=0.6):
+    """
+    Check if any word in the text is similar to the search name.
+    Returns the best similarity score found.
+    """
+    if not text or not search_name:
+        return 0
+
+    text = str(text).lower()
+    search_name = str(search_name).lower().strip()
+
+    # Direct containment check (partial match)
+    if search_name in text:
+        return 1.0
+
+    # Check similarity with each word in the text
+    words = text.replace(',', ' ').replace('.', ' ').replace('-', ' ').split()
+    best_score = 0
+
+    for word in words:
+        word = word.strip()
+        if len(word) < 2:
+            continue
+        score = similarity_score(search_name, word)
+        if score > best_score:
+            best_score = score
+
+    # Also check similarity with the full text
+    full_score = similarity_score(search_name, text)
+    if full_score > best_score:
+        best_score = full_score
+
+    return best_score
+
+def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
     """
     Check names from a single-column Excel file against specific columns in a larger Excel file.
+    Uses fuzzy matching to find similar names.
     Shows all matching rows with their GSNR values.
     """
 
     # Read the names file (single column)
     print(f"Reading names from: {names_file}")
     names_df = pd.read_excel(names_file, header=None)
-    names_to_check = names_df.iloc[:, 0].dropna().astype(str).str.strip().str.lower().tolist()
-    print(f"Found {len(names_to_check)} names to check\n")
+    names_to_check = names_df.iloc[:, 0].dropna().astype(str).str.strip().tolist()
+    print(f"Found {len(names_to_check)} names to check")
+    print(f"Similarity threshold: {similarity_threshold * 100}%\n")
 
     # Read the large data file
     print(f"Reading data from: {data_file}")
@@ -39,20 +80,18 @@ def check_names_in_excel(names_file, data_file):
     for name in names_to_check:
         matches_found = False
 
-        for col in existing_columns:
-            # Convert column to string and lowercase for comparison
-            col_values = data_df[col].fillna('').astype(str).str.lower()
+        for idx, row in data_df.iterrows():
+            for col in existing_columns:
+                cell_value = row.get(col, '')
+                score = get_word_matches(name, cell_value, similarity_threshold)
 
-            # Find rows where the name appears (partial match)
-            mask = col_values.str.contains(name, case=False, na=False, regex=False)
-            matching_rows = data_df[mask]
-
-            if not matching_rows.empty:
-                matches_found = True
-                for idx, row in matching_rows.iterrows():
+                if score >= similarity_threshold:
+                    matches_found = True
                     match_info = {
                         'Search Name': name,
                         'Found In Column': col,
+                        'Matched Value': cell_value,
+                        'Similarity %': f"{score * 100:.1f}%",
                         'GSNR': row.get('GSNR', 'N/A'),
                         'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
                         'COMMENT': row.get('COMMENT', 'N/A'),
@@ -67,6 +106,8 @@ def check_names_in_excel(names_file, data_file):
                     print(f"\n{'='*80}")
                     print(f"MATCH FOUND for: '{name}'")
                     print(f"Found in column: {col}")
+                    print(f"Matched value:   {cell_value}")
+                    print(f"Similarity:      {score * 100:.1f}%")
                     print(f"-" * 40)
                     print(f"GSNR:          {row.get('GSNR', 'N/A')}")
                     print(f"RETAILERNAME:  {row.get('RETAILERNAME', 'N/A')}")
@@ -106,19 +147,23 @@ if __name__ == "__main__":
     # Default file paths - UPDATE THESE
     names_file = "names.xlsx"  # Your single-column file with names to check
     data_file = "data.xlsx"    # Your large Excel file with all the columns
+    threshold = 0.6            # 60% similarity threshold (adjust as needed)
 
     # Allow command line arguments
     if len(sys.argv) >= 3:
         names_file = sys.argv[1]
         data_file = sys.argv[2]
+    if len(sys.argv) >= 4:
+        threshold = float(sys.argv[3])
 
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
-║           NAME CHECKER - Excel Search Tool                   ║
+║      NAME CHECKER - Fuzzy Search Tool                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Checking columns: RETAILERNAME, COMMENT,                    ║
 ║                    COMPANYNAME 1, NAME 2                     ║
+║  Uses FUZZY MATCHING to find similar names                   ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
-    check_names_in_excel(names_file, data_file)
+    check_names_in_excel(names_file, data_file, threshold)
