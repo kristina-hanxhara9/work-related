@@ -60,7 +60,7 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
     print(f"Data file has {len(data_df)} rows\n")
 
     # Columns to search in
-    search_columns = ['RETAILERNAME', 'COMMENT', 'COMPANYNAME 1', 'NAME 2']
+    search_columns = ['RETAILERNAME', 'COMMENT', 'COMPANY', 'NAME 1', 'NAME 2']
 
     # Check which columns actually exist in the data
     existing_columns = [col for col in search_columns if col in data_df.columns]
@@ -95,11 +95,10 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
                         'GSNR': row.get('GSNR', 'N/A'),
                         'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
                         'COMMENT': row.get('COMMENT', 'N/A'),
-                        'COMPANYNAME 1': row.get('COMPANYNAME 1', 'N/A'),
+                        'COMPANY': row.get('COMPANY', 'N/A'),
+                        'NAME 1': row.get('NAME 1', 'N/A'),
                         'NAME 2': row.get('NAME 2', 'N/A'),
-                        'STATUS': row.get('STATUS', 'N/A'),
-                        'CITY': row.get('CITY', 'N/A'),
-                        'COUNTRY': row.get('COUNTRY', 'N/A')
+                        'STATUS': row.get('STATUS', 'N/A')
                     }
                     all_matches.append(match_info)
 
@@ -112,11 +111,10 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
                     print(f"GSNR:          {row.get('GSNR', 'N/A')}")
                     print(f"RETAILERNAME:  {row.get('RETAILERNAME', 'N/A')}")
                     print(f"COMMENT:       {row.get('COMMENT', 'N/A')}")
-                    print(f"COMPANYNAME 1: {row.get('COMPANYNAME 1', 'N/A')}")
+                    print(f"COMPANY:       {row.get('COMPANY', 'N/A')}")
+                    print(f"NAME 1:        {row.get('NAME 1', 'N/A')}")
                     print(f"NAME 2:        {row.get('NAME 2', 'N/A')}")
                     print(f"STATUS:        {row.get('STATUS', 'N/A')}")
-                    print(f"CITY:          {row.get('CITY', 'N/A')}")
-                    print(f"COUNTRY:       {row.get('COUNTRY', 'N/A')}")
 
         if not matches_found:
             print(f"\nNo match found for: '{name}'")
@@ -144,10 +142,10 @@ def check_names_in_excel(names_file, data_file, similarity_threshold=0.6):
 
 
 if __name__ == "__main__":
-    # Default file paths - UPDATE THESE
-    names_file = "names.xlsx"  # Your single-column file with names to check
-    data_file = "data.xlsx"    # Your large Excel file with all the columns
-    threshold = 0.6            # 60% similarity threshold (adjust as needed)
+    # Default file paths
+    names_file = "Calculus-list.xlsx"  # Your single-column file with names to check
+    data_file = "MDM.xlsx"             # Your large Excel file with all the columns
+    threshold = 0.6                    # 60% similarity threshold (adjust as needed)
 
     # Allow command line arguments
     if len(sys.argv) >= 3:
@@ -160,8 +158,8 @@ if __name__ == "__main__":
 ╔══════════════════════════════════════════════════════════════╗
 ║      NAME CHECKER - Fuzzy Search Tool                        ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Checking columns: RETAILERNAME, COMMENT,                    ║
-║                    COMPANYNAME 1, NAME 2                     ║
+║  Checking columns: RETAILERNAME, COMMENT, COMPANY,           ║
+║                    NAME 1, NAME 2                            ║
 ║  Uses FUZZY MATCHING to find similar names                   ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
