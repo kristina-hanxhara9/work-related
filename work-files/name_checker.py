@@ -11,48 +11,52 @@ except ImportError:
 def generate_search_variants(name):
     """
     Generate search variants from full name to shorter parts.
-    Example: "Ashton video + TV" -> ["ashton video + tv", "ashton video tv", "ashton video", "ashton tv", "ashton"]
+    Minimum 5 characters for any variant to avoid stupid matches like "Les"
     """
     name_lower = name.lower().strip()
-    variants = [name_lower]  # Full name first
+    variants = []
+
+    # Only add if long enough
+    if len(name_lower) >= 5:
+        variants.append(name_lower)
 
     # Clean version without special chars
     clean_name = name_lower.replace('+', ' ').replace('&', ' ').replace('-', ' ').replace(',', ' ')
-    clean_name = ' '.join(clean_name.split())  # Remove extra spaces
-    if clean_name != name_lower:
+    clean_name = ' '.join(clean_name.split())
+    if clean_name != name_lower and len(clean_name) >= 5:
         variants.append(clean_name)
 
     # Split into words
-    words = clean_name.split()
+    words = [w for w in clean_name.split() if len(w) >= 4]  # Only words with 4+ chars
 
     if len(words) >= 2:
-        # Try different combinations (longer first)
-        # First word + each other word
-        first_word = words[0]
-        for i in range(len(words) - 1, 0, -1):
-            combo = first_word + ' ' + words[i]
-            if combo not in variants:
-                variants.append(combo)
+        # First two words together
+        combo = ' '.join(words[:2])
+        if len(combo) >= 5 and combo not in variants:
+            variants.append(combo)
 
-        # First two words, first three words, etc.
-        for length in range(len(words) - 1, 1, -1):
-            combo = ' '.join(words[:length])
-            if combo not in variants:
-                variants.append(combo)
+        # First word + last word
+        combo = words[0] + ' ' + words[-1]
+        if len(combo) >= 5 and combo not in variants:
+            variants.append(combo)
 
-        # Just the first word (last resort)
-        if first_word not in variants and len(first_word) >= 3:
-            variants.append(first_word)
+    # Single word only if it's long enough (6+ chars)
+    if len(words) >= 1 and len(words[0]) >= 6:
+        if words[0] not in variants:
+            variants.append(words[0])
+
+    # If no variants, use original if it's at least 4 chars
+    if not variants and len(name_lower) >= 4:
+        variants.append(name_lower)
 
     return variants
 
-def check_names_in_excel(names_file, data_file, threshold=70):
+def check_names_in_excel(names_file, data_file, threshold=75):
     """
-    Check names using cascading search - full name first, then shorter variants.
-    Stops as soon as a match is found.
+    Check names using cascading search.
+    Requires minimum 5 character matches to avoid false positives.
     """
 
-    # Read files
     print(f"Reading names from: {names_file}")
     names_df = pd.read_excel(names_file, header=None)
     names_to_check = names_df.iloc[:, 0].dropna().astype(str).str.strip().tolist()
@@ -63,7 +67,6 @@ def check_names_in_excel(names_file, data_file, threshold=70):
     data_df = pd.read_excel(data_file)
     print(f"Data file has {len(data_df)} rows\n")
 
-    # Columns to search
     search_columns = ['RETAILERNAME', 'COMMENT', 'COMPANY', 'NAME 1', 'NAME 2']
     existing_columns = [col for col in search_columns if col in data_df.columns]
 
@@ -74,7 +77,6 @@ def check_names_in_excel(names_file, data_file, threshold=70):
     print(f"Searching in: {existing_columns}\n")
     print("=" * 100)
 
-    # Pre-process columns
     for col in existing_columns:
         data_df[f'_{col}_lower'] = data_df[col].fillna('').astype(str).str.lower().str.strip()
 
@@ -85,40 +87,39 @@ def check_names_in_excel(names_file, data_file, threshold=70):
         if (i + 1) % 5 == 0:
             print(f"Processing {i + 1}/{total_names}...")
 
-        # Generate search variants (full name first, then shorter)
         variants = generate_search_variants(name)
+
+        if not variants:
+            print(f"SKIPPED (too short): '{name}'")
+            continue
 
         found_match = False
         match_info = None
 
-        # Try each variant until we find a match
         for variant in variants:
             if found_match:
                 break
 
-            # Check ALL columns for this variant
             for col in existing_columns:
                 if found_match:
                     break
 
                 col_lower = f'_{col}_lower'
 
-                # Search in this column
                 for idx, row in data_df.iterrows():
                     cell_value = row.get(col_lower, '')
-                    if not cell_value:
+                    if not cell_value or len(cell_value) < 4:
                         continue
 
-                    # Calculate match score
                     score = 0
 
                     # Exact match
                     if variant == cell_value:
                         score = 100
-                    # Contains match
-                    elif variant in cell_value:
+                    # Contains - but only if variant is substantial part of cell
+                    elif variant in cell_value and len(variant) >= len(cell_value) * 0.5:
                         score = 95
-                    elif cell_value in variant:
+                    elif cell_value in variant and len(cell_value) >= len(variant) * 0.5:
                         score = 90
                     # Fuzzy match
                     elif USE_FUZZY:
@@ -152,7 +153,6 @@ def check_names_in_excel(names_file, data_file, threshold=70):
         else:
             print(f"NOT FOUND! '{name}'")
 
-    # Save results
     if all_matches:
         results_df = pd.DataFrame(all_matches)
         output_file = 'name_check_results.xlsx'
@@ -174,7 +174,7 @@ def check_names_in_excel(names_file, data_file, threshold=70):
 if __name__ == "__main__":
     names_file = "Calculus-list.xlsx"
     data_file = "MDM.xlsx"
-    threshold = 70
+    threshold = 75
 
     if len(sys.argv) >= 3:
         names_file = sys.argv[1]
@@ -184,11 +184,10 @@ if __name__ == "__main__":
 
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
-║      NAME CHECKER - Cascading Search                         ║
+║      NAME CHECKER - Smart Search                             ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Searches: Full name first -> then shorter variants          ║
 ║  Columns: RETAILERNAME, COMMENT, COMPANY, NAME 1, NAME 2     ║
-║  Stops when match found (prioritizes full name match)        ║
+║  Minimum 5 chars to match (no stupid short matches)          ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
