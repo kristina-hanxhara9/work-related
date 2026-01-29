@@ -8,10 +8,10 @@ except ImportError:
     print("WARNING: Install 'rapidfuzz' for better matching: python -m pip install rapidfuzz")
     USE_FUZZY = False
 
-def check_names_in_excel(names_file, data_file, threshold=50):
+def check_names_in_excel(names_file, data_file, threshold=70):
     """
     Check names from a single-column Excel file against specific columns in a larger Excel file.
-    Uses LOOSE fuzzy matching to find similar names in ALL specified columns.
+    Uses smart fuzzy matching - shows accurate confidence scores.
     """
 
     # Read the names file (single column)
@@ -19,59 +19,52 @@ def check_names_in_excel(names_file, data_file, threshold=50):
     names_df = pd.read_excel(names_file, header=None)
     names_to_check = names_df.iloc[:, 0].dropna().astype(str).str.strip().tolist()
     print(f"Found {len(names_to_check)} names to check")
-    print(f"Fuzzy threshold: {threshold}% (lower = more matches)\n")
+    print(f"Minimum similarity threshold: {threshold}%\n")
 
     # Read the large data file
     print(f"Reading data from: {data_file}")
     data_df = pd.read_excel(data_file)
     print(f"Data file has {len(data_df)} rows\n")
 
-    # Columns to search in - ALL of them
+    # Columns to search in
     search_columns = ['RETAILERNAME', 'COMMENT', 'COMPANY', 'NAME 1', 'NAME 2']
 
-    # Check which columns actually exist in the data
+    # Check which columns actually exist
     existing_columns = [col for col in search_columns if col in data_df.columns]
     missing_columns = [col for col in search_columns if col not in data_df.columns]
 
     if missing_columns:
-        print(f"Warning: These columns were not found: {missing_columns}")
+        print(f"Warning: Columns not found: {missing_columns}")
         print(f"Available columns: {list(data_df.columns)}\n")
 
-    print(f"Searching in columns: {existing_columns}\n")
+    print(f"Searching in: {existing_columns}\n")
     print("=" * 100)
 
-    # Store all results
+    # Store results
     all_matches = []
 
-    # Pre-process: create lowercase versions
+    # Pre-process columns
     print("Preparing data...")
     for col in existing_columns:
         data_df[f'_{col}_lower'] = data_df[col].fillna('').astype(str).str.lower().str.strip()
 
     total_names = len(names_to_check)
-    total_rows = len(data_df)
-
-    print(f"Checking {total_names} names against {total_rows} rows in {len(existing_columns)} columns...")
-    print("This may take a while for large files...\n")
 
     # Check each name
     for i, name in enumerate(names_to_check):
         if (i + 1) % 5 == 0:
-            print(f"Processing name {i + 1}/{total_names}...")
+            print(f"Processing {i + 1}/{total_names}...")
 
         name_lower = name.lower().strip()
         name_matches = []
 
-        # Split name into parts for partial matching
-        name_parts = name_lower.replace(',', ' ').replace('.', ' ').replace('-', ' ').split()
-
-        # Go through EVERY row in the data
+        # Check each row
         for idx, row in data_df.iterrows():
             best_score = 0
             best_col = None
             best_value = None
 
-            # Check EVERY column for this row
+            # Check each column
             for col in existing_columns:
                 col_lower = f'_{col}_lower'
                 cell_value = row.get(col_lower, '')
@@ -79,37 +72,29 @@ def check_names_in_excel(names_file, data_file, threshold=50):
                 if not cell_value or len(cell_value) < 2:
                     continue
 
-                # Method 1: Direct contains (any part of name in cell)
-                for part in name_parts:
-                    if len(part) >= 3 and part in cell_value:
+                # Calculate similarity score
+                if USE_FUZZY:
+                    # Use the best of different fuzzy methods
+                    score = max(
+                        fuzz.ratio(name_lower, cell_value),  # Exact similarity
+                        fuzz.token_sort_ratio(name_lower, cell_value),  # Word order doesn't matter
+                        fuzz.token_set_ratio(name_lower, cell_value)  # Handles extra words
+                    )
+                else:
+                    # Fallback: exact match only
+                    if name_lower == cell_value:
                         score = 100
-                        if score > best_score:
-                            best_score = score
-                            best_col = col
-                            best_value = row.get(col, '')
+                    elif name_lower in cell_value or cell_value in name_lower:
+                        score = 80
+                    else:
+                        score = 0
 
-                # Method 2: Cell contains search name
-                if name_lower in cell_value:
-                    score = 100
-                    if score > best_score:
-                        best_score = score
-                        best_col = col
-                        best_value = row.get(col, '')
+                if score > best_score:
+                    best_score = score
+                    best_col = col
+                    best_value = row.get(col, '')
 
-                # Method 3: Fuzzy matching (if available)
-                if USE_FUZZY and best_score < threshold:
-                    # Try multiple fuzzy methods and take the best
-                    score1 = fuzz.partial_ratio(name_lower, cell_value)
-                    score2 = fuzz.token_sort_ratio(name_lower, cell_value)
-                    score3 = fuzz.token_set_ratio(name_lower, cell_value)
-                    score = max(score1, score2, score3)
-
-                    if score > best_score:
-                        best_score = score
-                        best_col = col
-                        best_value = row.get(col, '')
-
-            # If this row has a match above threshold, record it
+            # Only record if above threshold
             if best_score >= threshold:
                 match_info = {
                     'Search Name': name,
@@ -126,16 +111,15 @@ def check_names_in_excel(names_file, data_file, threshold=50):
                 }
                 name_matches.append(match_info)
 
-        # Add matches to results
         all_matches.extend(name_matches)
 
-        # Print results for this name
+        # Print results
         if not name_matches:
             print(f"NOT FOUND! '{name}'")
         else:
             print(f"'{name}': {len(name_matches)} matches found")
 
-    # Save results to Excel
+    # Save to Excel
     if all_matches:
         results_df = pd.DataFrame(all_matches)
         output_file = 'name_check_results.xlsx'
@@ -144,11 +128,11 @@ def check_names_in_excel(names_file, data_file, threshold=50):
         print(f"\n{'='*100}")
         print(f"SUMMARY")
         print(f"{'='*100}")
-        print(f"Total names checked: {len(names_to_check)}")
-        print(f"Total matches found: {len(results_df)}")
+        print(f"Names checked: {len(names_to_check)}")
+        print(f"Matches found: {len(results_df)}")
         print(f"Results saved to: {output_file}")
     else:
-        print(f"\n\nNo matches found for any of the {len(names_to_check)} names.")
+        print(f"\n\nNo matches found.")
 
     return all_matches
 
@@ -156,7 +140,7 @@ def check_names_in_excel(names_file, data_file, threshold=50):
 if __name__ == "__main__":
     names_file = "Calculus-list.xlsx"
     data_file = "MDM.xlsx"
-    threshold = 50  # Lower threshold = more matches
+    threshold = 70  # 70% similarity required
 
     if len(sys.argv) >= 3:
         names_file = sys.argv[1]
@@ -169,7 +153,7 @@ if __name__ == "__main__":
 ║      NAME CHECKER - Fuzzy Search Tool                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Checking: RETAILERNAME, COMMENT, COMPANY, NAME 1, NAME 2    ║
-║  LOOSE fuzzy matching (finds similar/different spellings)    ║
+║  Shows accurate similarity scores                            ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
