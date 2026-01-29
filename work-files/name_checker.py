@@ -131,7 +131,7 @@ def check_names_in_excel(names_file, data_file, threshold=50):
 
         # Print results for this name
         if not name_matches:
-            print(f"No match: '{name}'")
+            print(f"NOT FOUND! '{name}'")
         else:
             print(f"'{name}': {len(name_matches)} matches found")
 
