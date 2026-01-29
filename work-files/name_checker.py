@@ -1,63 +1,18 @@
 import pandas as pd
 import sys
-from difflib import SequenceMatcher
 
-def similarity_score(a, b):
-    """Calculate similarity ratio between two strings (0 to 1)"""
-    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
-
-def get_word_matches(search_name, text):
-    """
-    Check if any word in the text is similar to the search name.
-    Returns the best similarity score found.
-    """
-    if not text or not search_name:
-        return 0
-
-    text = str(text).lower()
-    search_name = str(search_name).lower().strip()
-
-    # Direct containment check (partial match)
-    if search_name in text:
-        return 1.0
-
-    # Check similarity with each word in the text
-    words = text.replace(',', ' ').replace('.', ' ').replace('-', ' ').split()
-    best_score = 0
-
-    for word in words:
-        word = word.strip()
-        if len(word) < 2:
-            continue
-        score = similarity_score(search_name, word)
-        if score > best_score:
-            best_score = score
-
-    # Also check similarity with the full text
-    full_score = similarity_score(search_name, text)
-    if full_score > best_score:
-        best_score = full_score
-
-    return best_score
-
-def check_names_in_excel(names_file, data_file, min_threshold=0.6, high_confidence_threshold=0.7):
+def check_names_in_excel(names_file, data_file):
     """
     Check names from a single-column Excel file against specific columns in a larger Excel file.
-    Uses fuzzy matching to find similar names.
+    Uses FAST partial matching (contains).
     Shows all matching rows with their GSNR values.
-
-    - Matches 60-70% are marked as LOW CONFIDENCE
-    - Matches 70%+ are marked as HIGH CONFIDENCE
-    - ALWAYS searches through ALL rows and columns (never stops early)
     """
 
     # Read the names file (single column)
     print(f"Reading names from: {names_file}")
     names_df = pd.read_excel(names_file, header=None)
     names_to_check = names_df.iloc[:, 0].dropna().astype(str).str.strip().tolist()
-    print(f"Found {len(names_to_check)} names to check")
-    print(f"Minimum threshold: {min_threshold * 100}%")
-    print(f"High confidence threshold: {high_confidence_threshold * 100}%\n")
+    print(f"Found {len(names_to_check)} names to check\n")
 
     # Read the large data file
     print(f"Reading data from: {data_file}")
@@ -72,94 +27,69 @@ def check_names_in_excel(names_file, data_file, min_threshold=0.6, high_confiden
     missing_columns = [col for col in search_columns if col not in data_df.columns]
 
     if missing_columns:
-        print(f"Warning: These columns were not found in the data file: {missing_columns}")
+        print(f"Warning: These columns were not found: {missing_columns}")
         print(f"Available columns: {list(data_df.columns)}\n")
 
     print(f"Searching in columns: {existing_columns}\n")
     print("=" * 100)
 
+    # Prepare lowercase columns for fast searching
+    for col in existing_columns:
+        data_df[f'_{col}_lower'] = data_df[col].fillna('').astype(str).str.lower()
+
     # Store all results
     all_matches = []
 
-    # Check each name - ALWAYS search through EVERYTHING
+    # Check each name using FAST vectorized pandas operations
     for name in names_to_check:
-        name_matches = []  # Track all matches for this name
+        name_lower = name.lower().strip()
+        name_matches = []
 
-        # Go through EVERY row
-        for idx, row in data_df.iterrows():
-            # Check EVERY column
-            for col in existing_columns:
-                cell_value = row.get(col, '')
-                score = get_word_matches(name, cell_value)
+        for col in existing_columns:
+            col_lower = f'_{col}_lower'
 
-                # Record ALL matches above minimum threshold
-                if score >= min_threshold:
-                    # Determine confidence level
-                    if score >= high_confidence_threshold:
-                        confidence = "HIGH"
-                    else:
-                        confidence = "LOW"
+            # Fast partial match using pandas str.contains
+            mask = data_df[col_lower].str.contains(name_lower, case=False, na=False, regex=False)
+            matches = data_df[mask]
 
-                    match_info = {
-                        'Search Name': name,
-                        'Found In Column': col,
-                        'Matched Value': cell_value,
-                        'Similarity %': f"{score * 100:.1f}%",
-                        'Confidence': confidence,
-                        'GSNR': row.get('GSNR', 'N/A'),
-                        'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
-                        'COMMENT': row.get('COMMENT', 'N/A'),
-                        'COMPANY': row.get('COMPANY', 'N/A'),
-                        'NAME 1': row.get('NAME 1', 'N/A'),
-                        'NAME 2': row.get('NAME 2', 'N/A'),
-                        'STATUS': row.get('STATUS', 'N/A')
-                    }
-                    name_matches.append(match_info)
-                    all_matches.append(match_info)
+            for idx, row in matches.iterrows():
+                match_info = {
+                    'Search Name': name,
+                    'Found In Column': col,
+                    'Matched Value': row.get(col, ''),
+                    'GSNR': row.get('GSNR', 'N/A'),
+                    'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
+                    'COMMENT': row.get('COMMENT', 'N/A'),
+                    'COMPANY': row.get('COMPANY', 'N/A'),
+                    'NAME 1': row.get('NAME 1', 'N/A'),
+                    'NAME 2': row.get('NAME 2', 'N/A'),
+                    'STATUS': row.get('STATUS', 'N/A')
+                }
+                name_matches.append(match_info)
 
-                    print(f"\n{'='*80}")
-                    print(f"MATCH FOUND for: '{name}' [{confidence} CONFIDENCE]")
-                    print(f"Found in column: {col}")
-                    print(f"Matched value:   {cell_value}")
-                    print(f"Similarity:      {score * 100:.1f}%")
-                    print(f"-" * 40)
-                    print(f"GSNR:          {row.get('GSNR', 'N/A')}")
-                    print(f"RETAILERNAME:  {row.get('RETAILERNAME', 'N/A')}")
-                    print(f"COMMENT:       {row.get('COMMENT', 'N/A')}")
-                    print(f"COMPANY:       {row.get('COMPANY', 'N/A')}")
-                    print(f"NAME 1:        {row.get('NAME 1', 'N/A')}")
-                    print(f"NAME 2:        {row.get('NAME 2', 'N/A')}")
-                    print(f"STATUS:        {row.get('STATUS', 'N/A')}")
+        # Add matches to results
+        all_matches.extend(name_matches)
 
-        # After checking ALL rows/columns for this name
+        # Print results for this name
         if not name_matches:
-            print(f"\nNo match found for: '{name}'")
+            print(f"No match: '{name}'")
         else:
-            high_conf = len([m for m in name_matches if m['Confidence'] == 'HIGH'])
-            low_conf = len([m for m in name_matches if m['Confidence'] == 'LOW'])
-            print(f"\n--- '{name}': Found {len(name_matches)} total matches ({high_conf} high, {low_conf} low confidence) ---")
+            print(f"'{name}': {len(name_matches)} matches found")
+            for match in name_matches:
+                val = str(match['Matched Value'])[:40]
+                print(f"  -> GSNR: {match['GSNR']} | {match['Found In Column']}: {val}...")
 
-    # Create summary DataFrame
+    # Save results to Excel
     if all_matches:
         results_df = pd.DataFrame(all_matches)
-
-        # Keep ALL results including duplicates found in different columns
-
-        # Save results to Excel
         output_file = 'name_check_results.xlsx'
         results_df.to_excel(output_file, index=False)
 
-        # Count by confidence
-        high_count = len([m for m in all_matches if m['Confidence'] == 'HIGH'])
-        low_count = len([m for m in all_matches if m['Confidence'] == 'LOW'])
-
-        print(f"\n\n{'='*100}")
+        print(f"\n{'='*100}")
         print(f"SUMMARY")
         print(f"{'='*100}")
         print(f"Total names checked: {len(names_to_check)}")
         print(f"Total matches found: {len(results_df)}")
-        print(f"  - HIGH confidence (70%+): {high_count}")
-        print(f"  - LOW confidence (60-70%): {low_count}")
         print(f"Results saved to: {output_file}")
     else:
         print(f"\n\nNo matches found for any of the {len(names_to_check)} names.")
@@ -168,31 +98,19 @@ def check_names_in_excel(names_file, data_file, min_threshold=0.6, high_confiden
 
 
 if __name__ == "__main__":
-    # Default file paths
-    names_file = "Calculus-list.xlsx"  # Your single-column file with names to check
-    data_file = "MDM.xlsx"             # Your large Excel file with all the columns
-    min_threshold = 0.6                # 60% minimum threshold
-    high_threshold = 0.7               # 70%+ = high confidence
+    names_file = "Calculus-list.xlsx"
+    data_file = "MDM.xlsx"
 
-    # Allow command line arguments
     if len(sys.argv) >= 3:
         names_file = sys.argv[1]
         data_file = sys.argv[2]
-    if len(sys.argv) >= 4:
-        min_threshold = float(sys.argv[3])
-    if len(sys.argv) >= 5:
-        high_threshold = float(sys.argv[4])
 
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
-║      NAME CHECKER - Fuzzy Search Tool                        ║
+║      NAME CHECKER - Fast Search Tool                         ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Checking columns: RETAILERNAME, COMMENT, COMPANY,           ║
-║                    NAME 1, NAME 2                            ║
-║  Uses FUZZY MATCHING to find similar names                   ║
-║  60-70% = LOW confidence | 70%+ = HIGH confidence            ║
-║  Searches ALL rows and columns (never stops early)           ║
+║  Checking: RETAILERNAME, COMMENT, COMPANY, NAME 1, NAME 2    ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
-    check_names_in_excel(names_file, data_file, min_threshold, high_threshold)
+    check_names_in_excel(names_file, data_file)
