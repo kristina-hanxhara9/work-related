@@ -8,53 +8,10 @@ except ImportError:
     print("WARNING: Install 'rapidfuzz': python -m pip install rapidfuzz")
     USE_FUZZY = False
 
-def generate_search_variants(name):
+def check_names_in_excel(names_file, data_file, threshold=80):
     """
-    Generate search variants from full name to shorter parts.
-    Minimum 5 characters for any variant to avoid stupid matches like "Les"
-    """
-    name_lower = name.lower().strip()
-    variants = []
-
-    # Only add if long enough
-    if len(name_lower) >= 5:
-        variants.append(name_lower)
-
-    # Clean version without special chars
-    clean_name = name_lower.replace('+', ' ').replace('&', ' ').replace('-', ' ').replace(',', ' ')
-    clean_name = ' '.join(clean_name.split())
-    if clean_name != name_lower and len(clean_name) >= 5:
-        variants.append(clean_name)
-
-    # Split into words
-    words = [w for w in clean_name.split() if len(w) >= 4]  # Only words with 4+ chars
-
-    if len(words) >= 2:
-        # First two words together
-        combo = ' '.join(words[:2])
-        if len(combo) >= 5 and combo not in variants:
-            variants.append(combo)
-
-        # First word + last word
-        combo = words[0] + ' ' + words[-1]
-        if len(combo) >= 5 and combo not in variants:
-            variants.append(combo)
-
-    # Single word only if it's long enough (6+ chars)
-    if len(words) >= 1 and len(words[0]) >= 6:
-        if words[0] not in variants:
-            variants.append(words[0])
-
-    # If no variants, use original if it's at least 4 chars
-    if not variants and len(name_lower) >= 4:
-        variants.append(name_lower)
-
-    return variants
-
-def check_names_in_excel(names_file, data_file, threshold=75):
-    """
-    Check names using cascading search.
-    Requires minimum 5 character matches to avoid false positives.
+    Check names - searches for the FULL NAME only.
+    No breaking into parts. Strict matching.
     """
 
     print(f"Reading names from: {names_file}")
@@ -87,64 +44,65 @@ def check_names_in_excel(names_file, data_file, threshold=75):
         if (i + 1) % 5 == 0:
             print(f"Processing {i + 1}/{total_names}...")
 
-        variants = generate_search_variants(name)
+        name_lower = name.lower().strip()
 
-        if not variants:
-            print(f"SKIPPED (too short): '{name}'")
-            continue
+        # Clean the name (remove special chars)
+        clean_name = name_lower.replace('+', ' ').replace('&', ' ').replace('-', ' ').replace(',', ' ')
+        clean_name = ' '.join(clean_name.split())
 
         found_match = False
         match_info = None
+        best_score = 0
 
-        for variant in variants:
+        for col in existing_columns:
             if found_match:
                 break
 
-            for col in existing_columns:
-                if found_match:
-                    break
+            col_lower = f'_{col}_lower'
 
-                col_lower = f'_{col}_lower'
+            for idx, row in data_df.iterrows():
+                cell_value = row.get(col_lower, '')
+                if not cell_value:
+                    continue
 
-                for idx, row in data_df.iterrows():
-                    cell_value = row.get(col_lower, '')
-                    if not cell_value or len(cell_value) < 4:
-                        continue
+                score = 0
 
-                    score = 0
+                # Method 1: Exact match
+                if clean_name == cell_value:
+                    score = 100
 
-                    # Exact match
-                    if variant == cell_value:
-                        score = 100
-                    # Contains - but only if variant is substantial part of cell
-                    elif variant in cell_value and len(variant) >= len(cell_value) * 0.5:
-                        score = 95
-                    elif cell_value in variant and len(cell_value) >= len(variant) * 0.5:
-                        score = 90
-                    # Fuzzy match
-                    elif USE_FUZZY:
-                        score = max(
-                            fuzz.ratio(variant, cell_value),
-                            fuzz.token_sort_ratio(variant, cell_value),
-                            fuzz.token_set_ratio(variant, cell_value)
-                        )
+                # Method 2: Full name contained in cell (or vice versa)
+                elif clean_name in cell_value:
+                    # Score based on how much of cell is the name
+                    score = int(80 * len(clean_name) / len(cell_value))
+                elif cell_value in clean_name:
+                    score = int(80 * len(cell_value) / len(clean_name))
 
-                    if score >= threshold:
-                        found_match = True
-                        match_info = {
-                            'Search Name': name,
-                            'Matched Variant': variant,
-                            'Found In Column': col,
-                            'Matched Value': row.get(col, ''),
-                            'Similarity': f'{score}%',
-                            'GSNR': row.get('GSNR', 'N/A'),
-                            'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
-                            'COMMENT': row.get('COMMENT', 'N/A'),
-                            'COMPANY': row.get('COMPANY', 'N/A'),
-                            'NAME 1': row.get('NAME 1', 'N/A'),
-                            'NAME 2': row.get('NAME 2', 'N/A'),
-                            'STATUS': row.get('STATUS', 'N/A')
-                        }
+                # Method 3: Fuzzy match using ONLY ratio (strict character comparison)
+                elif USE_FUZZY:
+                    # Only use fuzz.ratio - it's the strictest
+                    score = fuzz.ratio(clean_name, cell_value)
+
+                # Only accept if score meets threshold AND is better than previous
+                if score >= threshold and score > best_score:
+                    best_score = score
+                    found_match = True
+                    match_info = {
+                        'Search Name': name,
+                        'Found In Column': col,
+                        'Matched Value': row.get(col, ''),
+                        'Similarity': f'{score}%',
+                        'GSNR': row.get('GSNR', 'N/A'),
+                        'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
+                        'COMMENT': row.get('COMMENT', 'N/A'),
+                        'COMPANY': row.get('COMPANY', 'N/A'),
+                        'NAME 1': row.get('NAME 1', 'N/A'),
+                        'NAME 2': row.get('NAME 2', 'N/A'),
+                        'STATUS': row.get('STATUS', 'N/A')
+                    }
+
+                    # If exact match, stop searching
+                    if score == 100:
                         break
 
         if found_match and match_info:
@@ -174,7 +132,7 @@ def check_names_in_excel(names_file, data_file, threshold=75):
 if __name__ == "__main__":
     names_file = "Calculus-list.xlsx"
     data_file = "MDM.xlsx"
-    threshold = 75
+    threshold = 80
 
     if len(sys.argv) >= 3:
         names_file = sys.argv[1]
@@ -184,10 +142,10 @@ if __name__ == "__main__":
 
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
-║      NAME CHECKER - Smart Search                             ║
+║      NAME CHECKER - Strict Full Name Search                  ║
 ╠══════════════════════════════════════════════════════════════╣
+║  Searches for FULL NAME only - no breaking into parts        ║
 ║  Columns: RETAILERNAME, COMMENT, COMPANY, NAME 1, NAME 2     ║
-║  Minimum 5 chars to match (no stupid short matches)          ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
