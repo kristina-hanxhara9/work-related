@@ -5,13 +5,13 @@ try:
     from rapidfuzz import fuzz
     USE_FUZZY = True
 except ImportError:
-    print("Note: Install 'rapidfuzz' for fuzzy matching: pip install rapidfuzz")
+    print("WARNING: Install 'rapidfuzz' for better matching: python -m pip install rapidfuzz")
     USE_FUZZY = False
 
-def check_names_in_excel(names_file, data_file, threshold=60):
+def check_names_in_excel(names_file, data_file, threshold=50):
     """
     Check names from a single-column Excel file against specific columns in a larger Excel file.
-    Uses fuzzy matching to find similar names in ALL specified columns.
+    Uses LOOSE fuzzy matching to find similar names in ALL specified columns.
     """
 
     # Read the names file (single column)
@@ -19,14 +19,14 @@ def check_names_in_excel(names_file, data_file, threshold=60):
     names_df = pd.read_excel(names_file, header=None)
     names_to_check = names_df.iloc[:, 0].dropna().astype(str).str.strip().tolist()
     print(f"Found {len(names_to_check)} names to check")
-    print(f"Fuzzy threshold: {threshold}%\n")
+    print(f"Fuzzy threshold: {threshold}% (lower = more matches)\n")
 
     # Read the large data file
     print(f"Reading data from: {data_file}")
     data_df = pd.read_excel(data_file)
     print(f"Data file has {len(data_df)} rows\n")
 
-    # Columns to search in
+    # Columns to search in - ALL of them
     search_columns = ['RETAILERNAME', 'COMMENT', 'COMPANY', 'NAME 1', 'NAME 2']
 
     # Check which columns actually exist in the data
@@ -43,81 +43,88 @@ def check_names_in_excel(names_file, data_file, threshold=60):
     # Store all results
     all_matches = []
 
-    # Create combined search text for each row (check all columns at once)
+    # Pre-process: create lowercase versions
     print("Preparing data...")
-
-    # Pre-process: create lowercase versions and combined text
     for col in existing_columns:
         data_df[f'_{col}_lower'] = data_df[col].fillna('').astype(str).str.lower().str.strip()
 
     total_names = len(names_to_check)
+    total_rows = len(data_df)
+
+    print(f"Checking {total_names} names against {total_rows} rows in {len(existing_columns)} columns...")
+    print("This may take a while for large files...\n")
 
     # Check each name
     for i, name in enumerate(names_to_check):
-        if (i + 1) % 10 == 0:
-            print(f"Processing {i + 1}/{total_names}...")
+        if (i + 1) % 5 == 0:
+            print(f"Processing name {i + 1}/{total_names}...")
 
         name_lower = name.lower().strip()
         name_matches = []
-        matched_gsnrs = set()  # Track which GSNRs we've already matched for this name
 
-        # Check each column
-        for col in existing_columns:
-            col_lower = f'_{col}_lower'
+        # Split name into parts for partial matching
+        name_parts = name_lower.replace(',', ' ').replace('.', ' ').replace('-', ' ').split()
 
-            # First: exact/contains match (fast)
-            mask = data_df[col_lower].str.contains(name_lower, case=False, na=False, regex=False)
-            exact_matches = data_df[mask]
+        # Go through EVERY row in the data
+        for idx, row in data_df.iterrows():
+            best_score = 0
+            best_col = None
+            best_value = None
 
-            for idx, row in exact_matches.iterrows():
-                gsnr = row.get('GSNR', 'N/A')
-                if gsnr not in matched_gsnrs:
-                    matched_gsnrs.add(gsnr)
-                    match_info = {
-                        'Search Name': name,
-                        'Found In Column': col,
-                        'Matched Value': row.get(col, ''),
-                        'Similarity': '100%',
-                        'GSNR': gsnr,
-                        'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
-                        'COMMENT': row.get('COMMENT', 'N/A'),
-                        'COMPANY': row.get('COMPANY', 'N/A'),
-                        'NAME 1': row.get('NAME 1', 'N/A'),
-                        'NAME 2': row.get('NAME 2', 'N/A'),
-                        'STATUS': row.get('STATUS', 'N/A')
-                    }
-                    name_matches.append(match_info)
+            # Check EVERY column for this row
+            for col in existing_columns:
+                col_lower = f'_{col}_lower'
+                cell_value = row.get(col_lower, '')
 
-            # Second: fuzzy match (only if rapidfuzz is available)
-            if USE_FUZZY:
-                non_matched = data_df[~data_df['GSNR'].isin(matched_gsnrs)]
+                if not cell_value or len(cell_value) < 2:
+                    continue
 
-                for idx, row in non_matched.iterrows():
-                    cell_value = row.get(col_lower, '')
-                    if not cell_value or len(cell_value) < 2:
-                        continue
+                # Method 1: Direct contains (any part of name in cell)
+                for part in name_parts:
+                    if len(part) >= 3 and part in cell_value:
+                        score = 100
+                        if score > best_score:
+                            best_score = score
+                            best_col = col
+                            best_value = row.get(col, '')
 
-                    # Quick fuzzy check
-                    score = fuzz.partial_ratio(name_lower, cell_value)
+                # Method 2: Cell contains search name
+                if name_lower in cell_value:
+                    score = 100
+                    if score > best_score:
+                        best_score = score
+                        best_col = col
+                        best_value = row.get(col, '')
 
-                    if score >= threshold:
-                        gsnr = row.get('GSNR', 'N/A')
-                        if gsnr not in matched_gsnrs:
-                            matched_gsnrs.add(gsnr)
-                            match_info = {
-                                'Search Name': name,
-                                'Found In Column': col,
-                                'Matched Value': row.get(col, ''),
-                                'Similarity': f'{score}%',
-                                'GSNR': gsnr,
-                                'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
-                                'COMMENT': row.get('COMMENT', 'N/A'),
-                                'COMPANY': row.get('COMPANY', 'N/A'),
-                                'NAME 1': row.get('NAME 1', 'N/A'),
-                                'NAME 2': row.get('NAME 2', 'N/A'),
-                                'STATUS': row.get('STATUS', 'N/A')
-                            }
-                            name_matches.append(match_info)
+                # Method 3: Fuzzy matching (if available)
+                if USE_FUZZY and best_score < threshold:
+                    # Try multiple fuzzy methods and take the best
+                    score1 = fuzz.partial_ratio(name_lower, cell_value)
+                    score2 = fuzz.token_sort_ratio(name_lower, cell_value)
+                    score3 = fuzz.token_set_ratio(name_lower, cell_value)
+                    score = max(score1, score2, score3)
+
+                    if score > best_score:
+                        best_score = score
+                        best_col = col
+                        best_value = row.get(col, '')
+
+            # If this row has a match above threshold, record it
+            if best_score >= threshold:
+                match_info = {
+                    'Search Name': name,
+                    'Found In Column': best_col,
+                    'Matched Value': best_value,
+                    'Similarity': f'{best_score}%',
+                    'GSNR': row.get('GSNR', 'N/A'),
+                    'RETAILERNAME': row.get('RETAILERNAME', 'N/A'),
+                    'COMMENT': row.get('COMMENT', 'N/A'),
+                    'COMPANY': row.get('COMPANY', 'N/A'),
+                    'NAME 1': row.get('NAME 1', 'N/A'),
+                    'NAME 2': row.get('NAME 2', 'N/A'),
+                    'STATUS': row.get('STATUS', 'N/A')
+                }
+                name_matches.append(match_info)
 
         # Add matches to results
         all_matches.extend(name_matches)
@@ -126,10 +133,7 @@ def check_names_in_excel(names_file, data_file, threshold=60):
         if not name_matches:
             print(f"No match: '{name}'")
         else:
-            print(f"'{name}': {len(name_matches)} matches")
-            for match in name_matches:
-                val = str(match['Matched Value'])[:35]
-                print(f"  -> GSNR: {match['GSNR']} | {match['Found In Column']}: {val}... ({match['Similarity']})")
+            print(f"'{name}': {len(name_matches)} matches found")
 
     # Save results to Excel
     if all_matches:
@@ -152,7 +156,7 @@ def check_names_in_excel(names_file, data_file, threshold=60):
 if __name__ == "__main__":
     names_file = "Calculus-list.xlsx"
     data_file = "MDM.xlsx"
-    threshold = 60
+    threshold = 50  # Lower threshold = more matches
 
     if len(sys.argv) >= 3:
         names_file = sys.argv[1]
@@ -165,7 +169,7 @@ if __name__ == "__main__":
 ║      NAME CHECKER - Fuzzy Search Tool                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Checking: RETAILERNAME, COMMENT, COMPANY, NAME 1, NAME 2    ║
-║  Fuzzy matching enabled (finds similar names)                ║
+║  LOOSE fuzzy matching (finds similar/different spellings)    ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
