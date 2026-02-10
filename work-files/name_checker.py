@@ -144,7 +144,7 @@ def check_names_in_excel(names_file, data_file, threshold=70):
 
     if all_matches:
         results_df = pd.DataFrame(all_matches)
-        output_file = 'name_check_results.xlsx'
+        output_file = 'MDM_Matches.xlsx'
         results_df.to_excel(output_file, index=False)
 
         print(f"\n{'='*100}")
