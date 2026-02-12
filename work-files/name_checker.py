@@ -45,6 +45,10 @@ def get_search_attempts(name):
         if first_word not in already_added and len(first_word) >= 3:
             attempts.append((f'First: {first_word}', first_word))
 
+    # Pad to 4 attempts if needed
+    while len(attempts) < 4:
+        attempts.append(('N/A', ''))
+
     return attempts[:4]
 
 
@@ -52,6 +56,9 @@ def search_in_data(search_term, data_df, existing_columns, threshold=60):
     """
     Search for a term in the data. Returns best match or None.
     """
+    if not search_term:
+        return None
+
     best_match = None
     best_score = 0
 
@@ -77,6 +84,7 @@ def search_in_data(search_term, data_df, existing_columns, threshold=60):
                         'col': col,
                         'value': row.get(col, ''),
                         'score': score,
+                        'gsnr': row.get('GSNR', 'N/A'),
                         'row': row
                     }
 
@@ -87,7 +95,9 @@ def search_in_data(search_term, data_df, existing_columns, threshold=60):
 
 def check_names_in_excel(names_file, data_file, threshold=60):
     """
-    Multi-attempt name matching with Not Found tracking.
+    Multi-attempt name matching.
+    - First pass: find matches (stop on first match)
+    - Not Found: deep search showing ALL 4 attempts
     """
 
     print(f"Reading names from: {names_file}")
@@ -115,31 +125,21 @@ def check_names_in_excel(names_file, data_file, threshold=60):
         data_df[f'_{col}_lower'] = data_df[col].fillna('').astype(str).str.lower().str.strip()
 
     all_matches = []
-    not_found = []
+    not_found_names = []
     total_names = len(names_to_check)
 
+    # FIRST PASS: Find matches (stop on first match)
+    print("FIRST PASS: Finding matches...")
     for i, name in enumerate(names_to_check):
-        if (i + 1) % 5 == 0:
+        if (i + 1) % 10 == 0:
             print(f"Processing {i + 1}/{total_names}...")
 
-        # Get search attempts for this name
         attempts = get_search_attempts(name)
-
-        if not attempts:
-            not_found.append({
-                'Original Name': name,
-                'Attempts Tried': 'Name too short',
-                'Reason': 'Could not generate search terms'
-            })
-            print(f"SKIPPED (too short): '{name}'")
-            continue
-
         found = False
-        attempts_tried = []
 
-        # Try each attempt
         for attempt_name, search_term in attempts:
-            attempts_tried.append(attempt_name)
+            if not search_term:
+                continue
 
             match = search_in_data(search_term, data_df, existing_columns, threshold)
 
@@ -161,16 +161,50 @@ def check_names_in_excel(names_file, data_file, threshold=60):
                     'NAME 2': row.get('NAME 2', 'N/A'),
                     'STATUS': row.get('STATUS', 'N/A')
                 })
-                print(f"FOUND: '{name}' -> {match['value'][:40]}... ({match['score']}%) [via {attempt_name}]")
                 break
 
         if not found:
-            not_found.append({
-                'Original Name': name,
-                'Attempts Tried': ', '.join(attempts_tried),
-                'Reason': 'No match found after all attempts'
-            })
-            print(f"NOT FOUND! '{name}' (tried: {', '.join(attempts_tried)})")
+            not_found_names.append(name)
+
+    print(f"\nFirst pass complete: {len(all_matches)} found, {len(not_found_names)} not found")
+
+    # SECOND PASS: Deep search for Not Found (ALL 4 attempts, don't stop)
+    print(f"\nSECOND PASS: Deep search for {len(not_found_names)} not found names...")
+    not_found_deep = []
+
+    for i, name in enumerate(not_found_names):
+        if (i + 1) % 10 == 0:
+            print(f"Deep searching {i + 1}/{len(not_found_names)}...")
+
+        attempts = get_search_attempts(name)
+
+        row_data = {'Original Name': name}
+
+        # Try ALL 4 attempts and record each result
+        for idx, (attempt_name, search_term) in enumerate(attempts, 1):
+            prefix = f'Attempt {idx}'
+
+            if not search_term:
+                row_data[f'{prefix} - Search Term'] = 'N/A'
+                row_data[f'{prefix} - Result'] = 'N/A'
+                row_data[f'{prefix} - Confidence'] = 'N/A'
+                row_data[f'{prefix} - GSNR'] = 'N/A'
+            else:
+                match = search_in_data(search_term, data_df, existing_columns, threshold)
+
+                row_data[f'{prefix} - Search Term'] = search_term
+
+                if match:
+                    row_data[f'{prefix} - Result'] = match['value']
+                    row_data[f'{prefix} - Confidence'] = f"{match['score']}%"
+                    row_data[f'{prefix} - GSNR'] = match['gsnr']
+                else:
+                    row_data[f'{prefix} - Result'] = 'No match'
+                    row_data[f'{prefix} - Confidence'] = '-'
+                    row_data[f'{prefix} - GSNR'] = '-'
+
+        not_found_deep.append(row_data)
+        print(f"Deep searched: '{name}'")
 
     # Save to Excel with two sheets
     output_file = 'MDM_Matches.xlsx'
@@ -178,20 +212,20 @@ def check_names_in_excel(names_file, data_file, threshold=60):
     with pd.ExcelWriter(output_file, engine='openpyxl') as writer:
         if all_matches:
             pd.DataFrame(all_matches).to_excel(writer, sheet_name='Matches', index=False)
-        if not_found:
-            pd.DataFrame(not_found).to_excel(writer, sheet_name='Not Found', index=False)
+        if not_found_deep:
+            pd.DataFrame(not_found_deep).to_excel(writer, sheet_name='Not Found - Deep Search', index=False)
 
     print(f"\n{'='*100}")
     print(f"SUMMARY")
     print(f"{'='*100}")
     print(f"Names checked: {len(names_to_check)}")
-    print(f"Matches found: {len(all_matches)}")
-    print(f"Not found: {len(not_found)}")
+    print(f"Matches found (first pass): {len(all_matches)}")
+    print(f"Not found (deep searched): {len(not_found_deep)}")
     print(f"\nResults saved to: {output_file}")
     print(f"  - Sheet 'Matches': {len(all_matches)} items")
-    print(f"  - Sheet 'Not Found': {len(not_found)} items")
+    print(f"  - Sheet 'Not Found - Deep Search': {len(not_found_deep)} items (all 4 attempts shown)")
 
-    return all_matches, not_found
+    return all_matches, not_found_deep
 
 
 if __name__ == "__main__":
@@ -207,11 +241,11 @@ if __name__ == "__main__":
 
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
-║      NAME CHECKER - Multi-Attempt Search                     ║
+║      NAME CHECKER - Multi-Attempt + Deep Search              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Up to 4 attempts per name (full name, longest words, etc)   ║
+║  First Pass: Find matches (stops on first match)             ║
+║  Not Found: Deep search ALL 4 attempts (shows all results)   ║
 ║  Columns: RETAILERNAME, COMMENT, COMPANY, NAME 1, NAME 2     ║
-║  Output: MDM_Matches.xlsx (Matches + Not Found sheets)       ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
